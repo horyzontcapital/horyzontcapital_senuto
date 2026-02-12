@@ -1,0 +1,54 @@
+{
+  "domain": "tadam-finanse.pl",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "tadam-finanse.pl",
+        "keywords_count": 33,
+        "visibility_percent": 100,
+        "statistics": {
+          "visibility": {
+            "current": 283.63,
+            "previous": 274.77,
+            "diff": 8.87,
+            "percent": 0.0322,
+            "history": null
+          },
+          "top3": {
+            "current": 12,
+            "previous": 11,
+            "diff": 1,
+            "percent": 0.0909,
+            "history": null
+          },
+          "top10": {
+            "current": 33,
+            "previous": 33,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 123,
+            "previous": 121,
+            "diff": 2,
+            "percent": 0.0165,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 100,
+            "previous": 100,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "tadam-finanse.pl",
+    "endpoint": "get_subdomains"
+  }
+}

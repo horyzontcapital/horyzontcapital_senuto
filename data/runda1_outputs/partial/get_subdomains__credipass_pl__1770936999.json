@@ -1,0 +1,96 @@
+{
+  "domain": "credipass.pl",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "credipass.pl",
+        "keywords_count": 370,
+        "visibility_percent": 100,
+        "statistics": {
+          "visibility": {
+            "current": 1180.06,
+            "previous": 1093,
+            "diff": 87.06,
+            "percent": 0.0797,
+            "history": null
+          },
+          "top3": {
+            "current": 89,
+            "previous": 87,
+            "diff": 2,
+            "percent": 0.023,
+            "history": null
+          },
+          "top10": {
+            "current": 370,
+            "previous": 360,
+            "diff": 10,
+            "percent": 0.0278,
+            "history": null
+          },
+          "top50": {
+            "current": 1107,
+            "previous": 1095,
+            "diff": 12,
+            "percent": 0.011,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 100,
+            "previous": 100,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "m-grm.credipass.pl",
+        "keywords_count": 0,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 2,
+            "previous": 2,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 2,
+    "domain": "credipass.pl",
+    "endpoint": "get_subdomains"
+  }
+}

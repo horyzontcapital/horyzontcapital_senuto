@@ -1,0 +1,61 @@
+{
+  "domain": "janosikdlafirm.pl",
+  "endpoint": "get_competitors",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "finiata.pl",
+        "is_main_domain": false,
+        "common_keywords": 5,
+        "statistics": {
+          "top3": {
+            "current": 1,
+            "previous": 1,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 11,
+            "previous": 10,
+            "diff": 1,
+            "percent": 0.1,
+            "history": null
+          },
+          "top50": {
+            "current": 27,
+            "previous": 25,
+            "diff": 2,
+            "percent": 0.08,
+            "history": null
+          },
+          "visibility": {
+            "current": 128.59,
+            "previous": 127.58,
+            "diff": 1.01,
+            "percent": 0.0079,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 180.45,
+            "previous": 180.45,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 170192,
+            "previous": 170634,
+            "diff": -442,
+            "percent": -0.0026,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "janosikdlafirm.pl",
+    "endpoint": "get_competitors"
+  }
+}

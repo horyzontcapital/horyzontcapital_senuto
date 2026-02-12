@@ -1,0 +1,23 @@
+{
+  "domain": "helikon.net.pl",
+  "endpoint": "suggest_domains",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "favourite": [],
+        "suggested": [
+          "helikon-tex.com",
+          "helikon.net.pl",
+          "helikoninvestment.pl",
+          "helikon.pl",
+          "helikon-tex.us"
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "helikon.net.pl",
+    "endpoint": "suggest_domains"
+  }
+}

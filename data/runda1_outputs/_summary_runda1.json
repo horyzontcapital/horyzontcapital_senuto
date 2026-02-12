@@ -1,0 +1,47 @@
+{
+  "completed_at": "2026-02-12T23:22:03Z",
+  "elapsed_min": 55.4,
+  "domains": 72,
+  "endpoints": {
+    "get_domain_statistics": {
+      "ok": 72,
+      "total": 72
+    },
+    "get_positions_data": {
+      "ok": 72,
+      "total": 72
+    },
+    "get_competitors": {
+      "ok": 72,
+      "total": 72
+    },
+    "get_urls": {
+      "ok": 72,
+      "total": 72
+    },
+    "get_url_sections": {
+      "ok": 72,
+      "total": 72
+    },
+    "get_positions_history_chart": {
+      "ok": 72,
+      "total": 72
+    },
+    "get_cannibalization_keywords": {
+      "ok": 72,
+      "total": 72
+    },
+    "get_subdomains": {
+      "ok": 72,
+      "total": 72
+    },
+    "get_characteristics_table": {
+      "ok": 72,
+      "total": 72
+    },
+    "suggest_domains": {
+      "ok": 72,
+      "total": 72
+    }
+  }
+}

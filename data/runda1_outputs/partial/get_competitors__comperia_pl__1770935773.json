@@ -1,0 +1,61 @@
+{
+  "domain": "comperia.pl",
+  "endpoint": "get_competitors",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "loando.pl",
+        "is_main_domain": false,
+        "common_keywords": 66,
+        "statistics": {
+          "top3": {
+            "current": 646,
+            "previous": 646,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 1806,
+            "previous": 1804,
+            "diff": 2,
+            "percent": 0.0011,
+            "history": null
+          },
+          "top50": {
+            "current": 4986,
+            "previous": 4985,
+            "diff": 1,
+            "percent": 0.0002,
+            "history": null
+          },
+          "visibility": {
+            "current": 86746.64,
+            "previous": 87255.24,
+            "diff": -508.6,
+            "percent": -0.0058,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 827725.73,
+            "previous": 827725.73,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 3556,
+            "previous": 3573,
+            "diff": -17,
+            "percent": -0.0048,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "comperia.pl",
+    "endpoint": "get_competitors"
+  }
+}

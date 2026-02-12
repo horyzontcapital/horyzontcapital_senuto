@@ -1,0 +1,74 @@
+{
+  "domain": "krk-partners.pl",
+  "endpoint": "get_domain_statistics",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "statistics": {
+          "top3": {
+            "recent_value": 11,
+            "older_value": 12,
+            "diff": -1,
+            "percent": -0.0833
+          },
+          "top10": {
+            "recent_value": 70,
+            "older_value": 70,
+            "diff": 0,
+            "percent": 0
+          },
+          "top50": {
+            "recent_value": 184,
+            "older_value": 182,
+            "diff": 2,
+            "percent": 0.011
+          },
+          "visibility": {
+            "recent_value": 279,
+            "older_value": 273,
+            "diff": 6,
+            "percent": 0.022
+          },
+          "domain_rank": {
+            "recent_value": 279599,
+            "older_value": 283016,
+            "diff": -3417,
+            "percent": -0.0121
+          },
+          "ads_equivalent": {
+            "recent_value": 2646.8,
+            "older_value": 2550.67,
+            "diff": 96.13,
+            "percent": 0.0377
+          },
+          "category": {
+            "name": "",
+            "statistics": {
+              "recent_value": 279599,
+              "older_value": 279599,
+              "diff": 0,
+              "percent": 0
+            }
+          },
+          "aio_keywords": {
+            "recent_value": 7,
+            "older_value": 7,
+            "diff": 0,
+            "percent": 0
+          },
+          "aio_visible_keywords": {
+            "recent_value": 28,
+            "older_value": 28,
+            "diff": 0,
+            "percent": 0
+          }
+        }
+      }
+    },
+    "status": 200,
+    "domain": "krk-partners.pl",
+    "endpoint": "get_domain_statistics"
+  }
+}

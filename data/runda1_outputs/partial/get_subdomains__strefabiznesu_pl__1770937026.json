@@ -1,0 +1,54 @@
+{
+  "domain": "strefabiznesu.pl",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "strefabiznesu.pl",
+        "keywords_count": 5986,
+        "visibility_percent": 100,
+        "statistics": {
+          "visibility": {
+            "current": 806202.56,
+            "previous": 126861.91,
+            "diff": 679340.64,
+            "percent": 5.355,
+            "history": null
+          },
+          "top3": {
+            "current": 872,
+            "previous": 898,
+            "diff": -26,
+            "percent": -0.029,
+            "history": null
+          },
+          "top10": {
+            "current": 5986,
+            "previous": 6102,
+            "diff": -116,
+            "percent": -0.019,
+            "history": null
+          },
+          "top50": {
+            "current": 83423,
+            "previous": 84252,
+            "diff": -829,
+            "percent": -0.0098,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 100,
+            "previous": 100,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "strefabiznesu.pl",
+    "endpoint": "get_subdomains"
+  }
+}

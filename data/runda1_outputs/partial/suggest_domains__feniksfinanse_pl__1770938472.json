@@ -1,0 +1,19 @@
+{
+  "domain": "feniksfinanse.pl",
+  "endpoint": "suggest_domains",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "favourite": [],
+        "suggested": [
+          "feniksfinanse.pl"
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "feniksfinanse.pl",
+    "endpoint": "suggest_domains"
+  }
+}

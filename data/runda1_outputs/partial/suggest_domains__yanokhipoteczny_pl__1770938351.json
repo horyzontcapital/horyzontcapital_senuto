@@ -1,0 +1,19 @@
+{
+  "domain": "yanokhipoteczny.pl",
+  "endpoint": "suggest_domains",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "favourite": [],
+        "suggested": [
+          "yanokhipoteczny.pl"
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "yanokhipoteczny.pl",
+    "endpoint": "suggest_domains"
+  }
+}

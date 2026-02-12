@@ -1,0 +1,1867 @@
+{
+  "domain": "businessinsider.com.pl",
+  "endpoint": "get_url_sections",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "url_section": "businessinsider.com.pl/gospodarka/",
+        "keywords_count": 10255,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 2792072.3,
+            "previous": 1874731.59,
+            "diff": 917340.71,
+            "percent": 0.4893,
+            "history": null
+          },
+          "top3": {
+            "current": 3486,
+            "previous": 3660,
+            "diff": -174,
+            "percent": -0.0475,
+            "history": null
+          },
+          "top10": {
+            "current": 10255,
+            "previous": 10660,
+            "diff": -405,
+            "percent": -0.038,
+            "history": null
+          },
+          "top50": {
+            "current": 40818,
+            "previous": 43505,
+            "diff": -2687,
+            "percent": -0.0618,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "businessinsider.com.pl/wiadomosci/",
+        "keywords_count": 19433,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 1215133.95,
+            "previous": 365201.35,
+            "diff": 849932.6,
+            "percent": 2.3273,
+            "history": null
+          },
+          "top3": {
+            "current": 5599,
+            "previous": 5463,
+            "diff": 136,
+            "percent": 0.0249,
+            "history": null
+          },
+          "top10": {
+            "current": 19433,
+            "previous": 18888,
+            "diff": 545,
+            "percent": 0.0289,
+            "history": null
+          },
+          "top50": {
+            "current": 75008,
+            "previous": 73286,
+            "diff": 1722,
+            "percent": 0.0235,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "businessinsider.com.pl/",
+        "keywords_count": 2526,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 909387.42,
+            "previous": 324671.61,
+            "diff": 584715.81,
+            "percent": 1.8009,
+            "history": null
+          },
+          "top3": {
+            "current": 561,
+            "previous": 572,
+            "diff": -11,
+            "percent": -0.0192,
+            "history": null
+          },
+          "top10": {
+            "current": 2526,
+            "previous": 2537,
+            "diff": -11,
+            "percent": -0.0043,
+            "history": null
+          },
+          "top50": {
+            "current": 10342,
+            "previous": 10186,
+            "diff": 156,
+            "percent": 0.0153,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "businessinsider.com.pl/finanse/",
+        "keywords_count": 4642,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 383156.01,
+            "previous": 132155.54,
+            "diff": 251000.47,
+            "percent": 1.8993,
+            "history": null
+          },
+          "top3": {
+            "current": 1308,
+            "previous": 1264,
+            "diff": 44,
+            "percent": 0.0348,
+            "history": null
+          },
+          "top10": {
+            "current": 4642,
+            "previous": 4514,
+            "diff": 128,
+            "percent": 0.0284,
+            "history": null
+          },
+          "top50": {
+            "current": 20499,
+            "previous": 20148,
+            "diff": 351,
+            "percent": 0.0174,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "businessinsider.com.pl/biznes/",
+        "keywords_count": 4473,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 270579.15,
+            "previous": 186775.05,
+            "diff": 83804.09,
+            "percent": 0.4487,
+            "history": null
+          },
+          "top3": {
+            "current": 1178,
+            "previous": 1169,
+            "diff": 9,
+            "percent": 0.0077,
+            "history": null
+          },
+          "top10": {
+            "current": 4473,
+            "previous": 4489,
+            "diff": -16,
+            "percent": -0.0036,
+            "history": null
+          },
+          "top50": {
+            "current": 20624,
+            "previous": 20195,
+            "diff": 429,
+            "percent": 0.0212,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "businessinsider.com.pl/firmy/",
+        "keywords_count": 2664,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 238747.3,
+            "previous": 47674.3,
+            "diff": 191073,
+            "percent": 4.0079,
+            "history": null
+          },
+          "top3": {
+            "current": 684,
+            "previous": 644,
+            "diff": 40,
+            "percent": 0.0621,
+            "history": null
+          },
+          "top10": {
+            "current": 2664,
+            "previous": 2553,
+            "diff": 111,
+            "percent": 0.0435,
+            "history": null
+          },
+          "top50": {
+            "current": 14262,
+            "previous": 13363,
+            "diff": 899,
+            "percent": 0.0673,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "businessinsider.com.pl/praca/",
+        "keywords_count": 3437,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 230710.9,
+            "previous": 78858.58,
+            "diff": 151852.32,
+            "percent": 1.9256,
+            "history": null
+          },
+          "top3": {
+            "current": 1030,
+            "previous": 1021,
+            "diff": 9,
+            "percent": 0.0088,
+            "history": null
+          },
+          "top10": {
+            "current": 3437,
+            "previous": 3385,
+            "diff": 52,
+            "percent": 0.0154,
+            "history": null
+          },
+          "top50": {
+            "current": 15750,
+            "previous": 15595,
+            "diff": 155,
+            "percent": 0.0099,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "businessinsider.com.pl/polityka/",
+        "keywords_count": 671,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 184292.71,
+            "previous": 66478.32,
+            "diff": 117814.39,
+            "percent": 1.7722,
+            "history": null
+          },
+          "top3": {
+            "current": 211,
+            "previous": 180,
+            "diff": 31,
+            "percent": 0.1722,
+            "history": null
+          },
+          "top10": {
+            "current": 671,
+            "previous": 628,
+            "diff": 43,
+            "percent": 0.0685,
+            "history": null
+          },
+          "top50": {
+            "current": 2601,
+            "previous": 2423,
+            "diff": 178,
+            "percent": 0.0735,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "businessinsider.com.pl/gielda/",
+        "keywords_count": 3402,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 159868.93,
+            "previous": 96019.03,
+            "diff": 63849.9,
+            "percent": 0.665,
+            "history": null
+          },
+          "top3": {
+            "current": 905,
+            "previous": 895,
+            "diff": 10,
+            "percent": 0.0112,
+            "history": null
+          },
+          "top10": {
+            "current": 3402,
+            "previous": 3430,
+            "diff": -28,
+            "percent": -0.0082,
+            "history": null
+          },
+          "top50": {
+            "current": 18962,
+            "previous": 18679,
+            "diff": 283,
+            "percent": 0.0152,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "businessinsider.com.pl/technologie/",
+        "keywords_count": 5905,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 151522.87,
+            "previous": 139524,
+            "diff": 11998.87,
+            "percent": 0.086,
+            "history": null
+          },
+          "top3": {
+            "current": 1374,
+            "previous": 1419,
+            "diff": -45,
+            "percent": -0.0317,
+            "history": null
+          },
+          "top10": {
+            "current": 5905,
+            "previous": 6081,
+            "diff": -176,
+            "percent": -0.0289,
+            "history": null
+          },
+          "top50": {
+            "current": 41460,
+            "previous": 42281,
+            "diff": -821,
+            "percent": -0.0194,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "businessinsider.com.pl/kryptowaluty/",
+        "keywords_count": 2685,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 142850.06,
+            "previous": 117967.04,
+            "diff": 24883.02,
+            "percent": 0.2109,
+            "history": null
+          },
+          "top3": {
+            "current": 1533,
+            "previous": 1505,
+            "diff": 28,
+            "percent": 0.0186,
+            "history": null
+          },
+          "top10": {
+            "current": 2685,
+            "previous": 2685,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 4927,
+            "previous": 5001,
+            "diff": -74,
+            "percent": -0.0148,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "businessinsider.com.pl/lifestyle/",
+        "keywords_count": 4694,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 107636.86,
+            "previous": 84767.97,
+            "diff": 22868.89,
+            "percent": 0.2698,
+            "history": null
+          },
+          "top3": {
+            "current": 1325,
+            "previous": 1349,
+            "diff": -24,
+            "percent": -0.0178,
+            "history": null
+          },
+          "top10": {
+            "current": 4694,
+            "previous": 4617,
+            "diff": 77,
+            "percent": 0.0167,
+            "history": null
+          },
+          "top50": {
+            "current": 27691,
+            "previous": 27277,
+            "diff": 414,
+            "percent": 0.0152,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "businessinsider.com.pl/poradnik-finansowy/",
+        "keywords_count": 9962,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 98864.92,
+            "previous": 94877.12,
+            "diff": 3987.79,
+            "percent": 0.042,
+            "history": null
+          },
+          "top3": {
+            "current": 3633,
+            "previous": 3639,
+            "diff": -6,
+            "percent": -0.0016,
+            "history": null
+          },
+          "top10": {
+            "current": 9962,
+            "previous": 10018,
+            "diff": -56,
+            "percent": -0.0056,
+            "history": null
+          },
+          "top50": {
+            "current": 41907,
+            "previous": 41993,
+            "diff": -86,
+            "percent": -0.002,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "businessinsider.com.pl/prawo/",
+        "keywords_count": 4349,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 96283.78,
+            "previous": 91429.97,
+            "diff": 4853.81,
+            "percent": 0.0531,
+            "history": null
+          },
+          "top3": {
+            "current": 1168,
+            "previous": 1173,
+            "diff": -5,
+            "percent": -0.0043,
+            "history": null
+          },
+          "top10": {
+            "current": 4349,
+            "previous": 4410,
+            "diff": -61,
+            "percent": -0.0138,
+            "history": null
+          },
+          "top50": {
+            "current": 27634,
+            "previous": 27283,
+            "diff": 351,
+            "percent": 0.0129,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "businessinsider.com.pl/nieruchomosci/",
+        "keywords_count": 1953,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 49760.25,
+            "previous": 38730.47,
+            "diff": 11029.78,
+            "percent": 0.2848,
+            "history": null
+          },
+          "top3": {
+            "current": 736,
+            "previous": 731,
+            "diff": 5,
+            "percent": 0.0068,
+            "history": null
+          },
+          "top10": {
+            "current": 1953,
+            "previous": 1959,
+            "diff": -6,
+            "percent": -0.0031,
+            "history": null
+          },
+          "top50": {
+            "current": 9005,
+            "previous": 9104,
+            "diff": -99,
+            "percent": -0.0109,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "businessinsider.com.pl/rozwoj-osobisty/",
+        "keywords_count": 2602,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 30101.23,
+            "previous": 28960.2,
+            "diff": 1141.03,
+            "percent": 0.0394,
+            "history": null
+          },
+          "top3": {
+            "current": 935,
+            "previous": 942,
+            "diff": -7,
+            "percent": -0.0074,
+            "history": null
+          },
+          "top10": {
+            "current": 2602,
+            "previous": 2644,
+            "diff": -42,
+            "percent": -0.0159,
+            "history": null
+          },
+          "top50": {
+            "current": 8943,
+            "previous": 8890,
+            "diff": 53,
+            "percent": 0.006,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "businessinsider.com.pl/twoje-pieniadze/",
+        "keywords_count": 1820,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 14704.2,
+            "previous": 14440.14,
+            "diff": 264.06,
+            "percent": 0.0183,
+            "history": null
+          },
+          "top3": {
+            "current": 417,
+            "previous": 421,
+            "diff": -4,
+            "percent": -0.0095,
+            "history": null
+          },
+          "top10": {
+            "current": 1820,
+            "previous": 1789,
+            "diff": 31,
+            "percent": 0.0173,
+            "history": null
+          },
+          "top50": {
+            "current": 11020,
+            "previous": 10952,
+            "diff": 68,
+            "percent": 0.0062,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "businessinsider.com.pl/wideo/",
+        "keywords_count": 675,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 10982.95,
+            "previous": 9396.79,
+            "diff": 1586.16,
+            "percent": 0.1688,
+            "history": null
+          },
+          "top3": {
+            "current": 216,
+            "previous": 219,
+            "diff": -3,
+            "percent": -0.0137,
+            "history": null
+          },
+          "top10": {
+            "current": 675,
+            "previous": 664,
+            "diff": 11,
+            "percent": 0.0166,
+            "history": null
+          },
+          "top50": {
+            "current": 3084,
+            "previous": 3118,
+            "diff": -34,
+            "percent": -0.0109,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "businessinsider.com.pl/sport/",
+        "keywords_count": 354,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 7962.4,
+            "previous": 5726.77,
+            "diff": 2235.63,
+            "percent": 0.3904,
+            "history": null
+          },
+          "top3": {
+            "current": 104,
+            "previous": 100,
+            "diff": 4,
+            "percent": 0.04,
+            "history": null
+          },
+          "top10": {
+            "current": 354,
+            "previous": 368,
+            "diff": -14,
+            "percent": -0.038,
+            "history": null
+          },
+          "top50": {
+            "current": 1652,
+            "previous": 1843,
+            "diff": -191,
+            "percent": -0.1036,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "businessinsider.com.pl/media/",
+        "keywords_count": 146,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 1947.83,
+            "previous": 1650.21,
+            "diff": 297.61,
+            "percent": 0.1804,
+            "history": null
+          },
+          "top3": {
+            "current": 38,
+            "previous": 40,
+            "diff": -2,
+            "percent": -0.05,
+            "history": null
+          },
+          "top10": {
+            "current": 146,
+            "previous": 140,
+            "diff": 6,
+            "percent": 0.0429,
+            "history": null
+          },
+          "top50": {
+            "current": 575,
+            "previous": 546,
+            "diff": 29,
+            "percent": 0.0531,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "businessinsider.com.pl/autorzy/",
+        "keywords_count": 34,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 1309.89,
+            "previous": 789.15,
+            "diff": 520.74,
+            "percent": 0.6599,
+            "history": null
+          },
+          "top3": {
+            "current": 12,
+            "previous": 13,
+            "diff": -1,
+            "percent": -0.0769,
+            "history": null
+          },
+          "top10": {
+            "current": 34,
+            "previous": 32,
+            "diff": 2,
+            "percent": 0.0625,
+            "history": null
+          },
+          "top50": {
+            "current": 129,
+            "previous": 127,
+            "diff": 2,
+            "percent": 0.0157,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "businessinsider.com.pl/trojpodzial-wladzy-w-polsce-wyjasniamy-na-czym-polega/",
+        "keywords_count": 43,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 1305.44,
+            "previous": 1188.86,
+            "diff": 116.59,
+            "percent": 0.0981,
+            "history": null
+          },
+          "top3": {
+            "current": 25,
+            "previous": 25,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 43,
+            "previous": 43,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 101,
+            "previous": 104,
+            "diff": -3,
+            "percent": -0.0288,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "businessinsider.com.pl/motoryzacja/",
+        "keywords_count": 144,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 958.24,
+            "previous": 889.12,
+            "diff": 69.13,
+            "percent": 0.0777,
+            "history": null
+          },
+          "top3": {
+            "current": 48,
+            "previous": 53,
+            "diff": -5,
+            "percent": -0.0943,
+            "history": null
+          },
+          "top10": {
+            "current": 144,
+            "previous": 144,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 866,
+            "previous": 895,
+            "diff": -29,
+            "percent": -0.0324,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "businessinsider.com.pl/fixly-polski-startup-ktory-znajdzie-dla-ciebie-fachowca/",
+        "keywords_count": 2,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 739.55,
+            "previous": 511.9,
+            "diff": 227.65,
+            "percent": 0.4447,
+            "history": null
+          },
+          "top3": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 2,
+            "previous": 3,
+            "diff": -1,
+            "percent": -0.3333,
+            "history": null
+          },
+          "top50": {
+            "current": 4,
+            "previous": 4,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "businessinsider.com.pl/karta-wedkarska-zasady-wydawania-karty-i-koszty/",
+        "keywords_count": 23,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 568.64,
+            "previous": 400.98,
+            "diff": 167.66,
+            "percent": 0.4181,
+            "history": null
+          },
+          "top3": {
+            "current": 8,
+            "previous": 8,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 23,
+            "previous": 21,
+            "diff": 2,
+            "percent": 0.0952,
+            "history": null
+          },
+          "top50": {
+            "current": 138,
+            "previous": 134,
+            "diff": 4,
+            "percent": 0.0299,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "businessinsider.com.pl/fit-out-czym-jest-naprawde-i-jak-ten-proces-rozpoczac/",
+        "keywords_count": 10,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 544.38,
+            "previous": 540.88,
+            "diff": 3.5,
+            "percent": 0.0065,
+            "history": null
+          },
+          "top3": {
+            "current": 7,
+            "previous": 7,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 10,
+            "previous": 10,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 13,
+            "previous": 13,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "businessinsider.com.pl/jeff-bezos-zalozyciel-amazona-co-robi-rano-najbogatszy-czlowiek-swiata/",
+        "keywords_count": 18,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 526.58,
+            "previous": 180.7,
+            "diff": 345.88,
+            "percent": 1.9141,
+            "history": null
+          },
+          "top3": {
+            "current": 11,
+            "previous": 11,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 18,
+            "previous": 16,
+            "diff": 2,
+            "percent": 0.125,
+            "history": null
+          },
+          "top50": {
+            "current": 19,
+            "previous": 17,
+            "diff": 2,
+            "percent": 0.1176,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "businessinsider.com.pl/international/",
+        "keywords_count": 29,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 269.06,
+            "previous": 184.23,
+            "diff": 84.84,
+            "percent": 0.4605,
+            "history": null
+          },
+          "top3": {
+            "current": 6,
+            "previous": 4,
+            "diff": 2,
+            "percent": 0.5,
+            "history": null
+          },
+          "top10": {
+            "current": 29,
+            "previous": 25,
+            "diff": 4,
+            "percent": 0.16,
+            "history": null
+          },
+          "top50": {
+            "current": 68,
+            "previous": 69,
+            "diff": -1,
+            "percent": -0.0145,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "businessinsider.com.pl/dlaczego-ptaki-lataja-w-kluczu/",
+        "keywords_count": 11,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 215.13,
+            "previous": 211.18,
+            "diff": 3.95,
+            "percent": 0.0187,
+            "history": null
+          },
+          "top3": {
+            "current": 6,
+            "previous": 5,
+            "diff": 1,
+            "percent": 0.2,
+            "history": null
+          },
+          "top10": {
+            "current": 11,
+            "previous": 11,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 19,
+            "previous": 19,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "businessinsider.com.pl/zielone-swiatki-czy-mozna-odebrac-dzien-wolny-za-zielone-swiatki/",
+        "keywords_count": 13,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 162.27,
+            "previous": 131.32,
+            "diff": 30.95,
+            "percent": 0.2357,
+            "history": null
+          },
+          "top3": {
+            "current": 5,
+            "previous": 5,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 13,
+            "previous": 14,
+            "diff": -1,
+            "percent": -0.0714,
+            "history": null
+          },
+          "top50": {
+            "current": 25,
+            "previous": 24,
+            "diff": 1,
+            "percent": 0.0417,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "businessinsider.com.pl/zaswiadczenie-o-niekaralnosci-zasady-jak-uzyskac-dokument/",
+        "keywords_count": 2,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 108.61,
+            "previous": 46.31,
+            "diff": 62.3,
+            "percent": 1.3453,
+            "history": null
+          },
+          "top3": {
+            "current": 1,
+            "previous": 0,
+            "diff": 1,
+            "percent": 1,
+            "history": null
+          },
+          "top10": {
+            "current": 2,
+            "previous": 3,
+            "diff": -1,
+            "percent": -0.3333,
+            "history": null
+          },
+          "top50": {
+            "current": 22,
+            "previous": 22,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "businessinsider.com.pl/notariusz-czym-jest-instytucja-notariusza-i-jakie-ma-mozliwosci/",
+        "keywords_count": 11,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 106.37,
+            "previous": 78.81,
+            "diff": 27.56,
+            "percent": 0.3497,
+            "history": null
+          },
+          "top3": {
+            "current": 3,
+            "previous": 1,
+            "diff": 2,
+            "percent": 2,
+            "history": null
+          },
+          "top10": {
+            "current": 11,
+            "previous": 11,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 24,
+            "previous": 25,
+            "diff": -1,
+            "percent": -0.04,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "businessinsider.com.pl/panele-fotowoltaiczne-pozostana-po-nich-miliony-ton-toksycznych-smieci/",
+        "keywords_count": 20,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 95.34,
+            "previous": 93.52,
+            "diff": 1.82,
+            "percent": 0.0195,
+            "history": null
+          },
+          "top3": {
+            "current": 9,
+            "previous": 9,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 20,
+            "previous": 19,
+            "diff": 1,
+            "percent": 0.0526,
+            "history": null
+          },
+          "top50": {
+            "current": 27,
+            "previous": 27,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "businessinsider.com.pl/pierwsza-recesja-w-polsce-od-trzydziestu-lat-ale-moglo-byc-gorzej/",
+        "keywords_count": 3,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 76.92,
+            "previous": 42.72,
+            "diff": 34.2,
+            "percent": 0.8006,
+            "history": null
+          },
+          "top3": {
+            "current": 2,
+            "previous": 2,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 3,
+            "previous": 2,
+            "diff": 1,
+            "percent": 0.5,
+            "history": null
+          },
+          "top50": {
+            "current": 5,
+            "previous": 4,
+            "diff": 1,
+            "percent": 0.25,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "businessinsider.com.pl/wyciekly-zdjecia-rzecznika-putina-z-imprezy-uwage-zwraca-luksusowy-gadzet/",
+        "keywords_count": 3,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 57.32,
+            "previous": 35.66,
+            "diff": 21.66,
+            "percent": 0.6074,
+            "history": null
+          },
+          "top3": {
+            "current": 2,
+            "previous": 2,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 3,
+            "previous": 3,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 6,
+            "previous": 5,
+            "diff": 1,
+            "percent": 0.2,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "businessinsider.com.pl/poznaj-edujpl-nowa-platforme-do-dystrybucji-kursow-online/",
+        "keywords_count": 3,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 54.79,
+            "previous": 53.7,
+            "diff": 1.1,
+            "percent": 0.0203,
+            "history": null
+          },
+          "top3": {
+            "current": 2,
+            "previous": 1,
+            "diff": 1,
+            "percent": 1,
+            "history": null
+          },
+          "top10": {
+            "current": 3,
+            "previous": 3,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 3,
+            "previous": 3,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "businessinsider.com.pl/ile-zarabiaja-funkcjonariusze-sluzby-ochrony-panstwa/",
+        "keywords_count": 9,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 46.31,
+            "previous": 46.31,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 2,
+            "previous": 2,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 9,
+            "previous": 9,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 13,
+            "previous": 13,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "businessinsider.com.pl/archiwum/",
+        "keywords_count": 4,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 45.41,
+            "previous": 45.41,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 4,
+            "previous": 4,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 137,
+            "previous": 137,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "businessinsider.com.pl/te-nawyki-utrzymuja-w-biedzie-ekspertka-finansowa-wyjasnia-jak-sie-ich-pozbyc/",
+        "keywords_count": 3,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 43.57,
+            "previous": 42.72,
+            "diff": 0.85,
+            "percent": 0.0199,
+            "history": null
+          },
+          "top3": {
+            "current": 2,
+            "previous": 2,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 3,
+            "previous": 2,
+            "diff": 1,
+            "percent": 0.5,
+            "history": null
+          },
+          "top50": {
+            "current": 4,
+            "previous": 3,
+            "diff": 1,
+            "percent": 0.3333,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "businessinsider.com.pl/jeffrey-long-o-zyciu-po-smierci-dowody-sa-przytlaczajace/",
+        "keywords_count": 9,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 42.37,
+            "previous": 40.99,
+            "diff": 1.38,
+            "percent": 0.0337,
+            "history": null
+          },
+          "top3": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 9,
+            "previous": 9,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 28,
+            "previous": 28,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "businessinsider.com.pl/ostatnie-slowa-przed-smiercia-17-slynnych-osob/",
+        "keywords_count": 5,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 37.28,
+            "previous": 37.28,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 3,
+            "previous": 3,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 5,
+            "previous": 5,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 11,
+            "previous": 12,
+            "diff": -1,
+            "percent": -0.0833,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "businessinsider.com.pl/zrodla/",
+        "keywords_count": 3,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 35.66,
+            "previous": 34.58,
+            "diff": 1.08,
+            "percent": 0.0312,
+            "history": null
+          },
+          "top3": {
+            "current": 1,
+            "previous": 0,
+            "diff": 1,
+            "percent": 1,
+            "history": null
+          },
+          "top10": {
+            "current": 3,
+            "previous": 2,
+            "diff": 1,
+            "percent": 0.5,
+            "history": null
+          },
+          "top50": {
+            "current": 12,
+            "previous": 8,
+            "diff": 4,
+            "percent": 0.5,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "businessinsider.com.pl/dzieki-bigfix-wszystkie-urzadzenia-firmowe-obsluzysz-szybciej-i-bezpieczniej-od/",
+        "keywords_count": 1,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 32.04,
+            "previous": 32.04,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 1,
+            "previous": 1,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 1,
+            "previous": 1,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 2,
+            "previous": 2,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "businessinsider.com.pl/najdrozszy-chleb-swiata-powstaje-w-hiszpanii-kosztuje-1480-euro/",
+        "keywords_count": 2,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 32.04,
+            "previous": 32.04,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 2,
+            "previous": 2,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 2,
+            "previous": 2,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 4,
+            "previous": 4,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "businessinsider.com.pl/dedoles-to-dowod-na-to-ze-kazda-firma-moze-byc-przyjazna-dla-srodowiska/",
+        "keywords_count": 9,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 31.43,
+            "previous": 31.39,
+            "diff": 0.04,
+            "percent": 0.0013,
+            "history": null
+          },
+          "top3": {
+            "current": 1,
+            "previous": 1,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 9,
+            "previous": 10,
+            "diff": -1,
+            "percent": -0.1,
+            "history": null
+          },
+          "top50": {
+            "current": 10,
+            "previous": 11,
+            "diff": -1,
+            "percent": -0.0909,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "businessinsider.com.pl/od-tego-zaczynal-jerzy-starak-dzis-bogatszy-jest-tylko-jeden-polak/",
+        "keywords_count": 8,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 29.56,
+            "previous": 22.08,
+            "diff": 7.48,
+            "percent": 0.3388,
+            "history": null
+          },
+          "top3": {
+            "current": 2,
+            "previous": 2,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 8,
+            "previous": 8,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 14,
+            "previous": 13,
+            "diff": 1,
+            "percent": 0.0769,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "businessinsider.com.pl/zaczynal-w-fabryce-termometrow-dzis-polskie-bombki-podbijaja-swiat/",
+        "keywords_count": 6,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 25.68,
+            "previous": 19.22,
+            "diff": 6.47,
+            "percent": 0.3361,
+            "history": null
+          },
+          "top3": {
+            "current": 1,
+            "previous": 0,
+            "diff": 1,
+            "percent": 1,
+            "history": null
+          },
+          "top10": {
+            "current": 6,
+            "previous": 5,
+            "diff": 1,
+            "percent": 0.2,
+            "history": null
+          },
+          "top50": {
+            "current": 14,
+            "previous": 11,
+            "diff": 3,
+            "percent": 0.2727,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "businessinsider.com.pl/leczenie-chorego-psa-slono-kosztuje-w-miesiac-wydalam-4-tys-zl/",
+        "keywords_count": 8,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 25.64,
+            "previous": 22.4,
+            "diff": 3.25,
+            "percent": 0.1446,
+            "history": null
+          },
+          "top3": {
+            "current": 2,
+            "previous": 2,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 8,
+            "previous": 9,
+            "diff": -1,
+            "percent": -0.1111,
+            "history": null
+          },
+          "top50": {
+            "current": 43,
+            "previous": 42,
+            "diff": 1,
+            "percent": 0.0238,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "businessinsider.com.pl/meetsales-centrum-sterowania-sprzedaza-online-w-b2b/",
+        "keywords_count": 1,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 24.92,
+            "previous": 24.92,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 1,
+            "previous": 1,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 1,
+            "previous": 1,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 2,
+            "previous": 2,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "businessinsider.com.pl/latajace-taksowki-w-dubaju-poznalismy-szczegoly-i-date-uruchomienia/",
+        "keywords_count": 4,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 24.42,
+            "previous": 24.42,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 3,
+            "previous": 3,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 4,
+            "previous": 4,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 6,
+            "previous": 7,
+            "diff": -1,
+            "percent": -0.1429,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "businessinsider.com.pl/quiz-czy-pamietasz-slodycze-z-prl-u-sprawdz-swoja-wiedze/",
+        "keywords_count": 2,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 19.44,
+            "previous": 19.44,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 2,
+            "previous": 2,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 65,
+            "previous": 65,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "businessinsider.com.pl/omega-przyszlosc-jest-w-naszych-rekach/",
+        "keywords_count": 1,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 19.27,
+            "previous": 19.27,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 1,
+            "previous": 1,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 1,
+            "previous": 1,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 1,
+            "previous": 1,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "businessinsider.com.pl/getin-noble-bank-wysoka-jakosc-obslugi-niezaleznie-od-okolicznosci/",
+        "keywords_count": 2,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 18.51,
+            "previous": 18.51,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 1,
+            "previous": 1,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 2,
+            "previous": 2,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 14,
+            "previous": 14,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 53,
+    "domain": "businessinsider.com.pl",
+    "endpoint": "get_url_sections"
+  }
+}

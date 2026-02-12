@@ -1,0 +1,61 @@
+{
+  "domain": "feniksfinanse.pl",
+  "endpoint": "get_competitors",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "feniks.aliorbank.pl",
+        "is_main_domain": false,
+        "common_keywords": 3,
+        "statistics": {
+          "top3": {
+            "current": 14,
+            "previous": 14,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 15,
+            "previous": 14,
+            "diff": 1,
+            "percent": 0.0714,
+            "history": null
+          },
+          "top50": {
+            "current": 16,
+            "previous": 15,
+            "diff": 1,
+            "percent": 0.0667,
+            "history": null
+          },
+          "visibility": {
+            "current": 2923.63,
+            "previous": 1347.43,
+            "diff": 1576.2,
+            "percent": 1.1698,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 9662.11,
+            "previous": 9662.11,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "feniksfinanse.pl",
+    "endpoint": "get_competitors"
+  }
+}

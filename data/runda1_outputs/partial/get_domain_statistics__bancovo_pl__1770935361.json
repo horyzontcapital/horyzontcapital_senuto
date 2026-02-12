@@ -1,0 +1,74 @@
+{
+  "domain": "bancovo.pl",
+  "endpoint": "get_domain_statistics",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "statistics": {
+          "top3": {
+            "recent_value": 133,
+            "older_value": 137,
+            "diff": -4,
+            "percent": -0.0292
+          },
+          "top10": {
+            "recent_value": 482,
+            "older_value": 486,
+            "diff": -4,
+            "percent": -0.0082
+          },
+          "top50": {
+            "recent_value": 3331,
+            "older_value": 3330,
+            "diff": 1,
+            "percent": 0.0003
+          },
+          "visibility": {
+            "recent_value": 2979,
+            "older_value": 3046,
+            "diff": -67,
+            "percent": -0.022
+          },
+          "domain_rank": {
+            "recent_value": 61191,
+            "older_value": 60225,
+            "diff": 966,
+            "percent": 0.016
+          },
+          "ads_equivalent": {
+            "recent_value": 7534.01,
+            "older_value": 7987.65,
+            "diff": -453.64,
+            "percent": -0.0568
+          },
+          "category": {
+            "name": "",
+            "statistics": {
+              "recent_value": 61191,
+              "older_value": 61191,
+              "diff": 0,
+              "percent": 0
+            }
+          },
+          "aio_keywords": {
+            "recent_value": 1647,
+            "older_value": 1647,
+            "diff": 0,
+            "percent": 0
+          },
+          "aio_visible_keywords": {
+            "recent_value": 512,
+            "older_value": 512,
+            "diff": 0,
+            "percent": 0
+          }
+        }
+      }
+    },
+    "status": 200,
+    "domain": "bancovo.pl",
+    "endpoint": "get_domain_statistics"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "domain": "czerwona-skarbonka.pl",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "czerwona-skarbonka.pl",
+        "keywords_count": 3764,
+        "visibility_percent": 100,
+        "statistics": {
+          "visibility": {
+            "current": 61544.84,
+            "previous": 50329.92,
+            "diff": 11214.93,
+            "percent": 0.2228,
+            "history": null
+          },
+          "top3": {
+            "current": 924,
+            "previous": 919,
+            "diff": 5,
+            "percent": 0.0054,
+            "history": null
+          },
+          "top10": {
+            "current": 3764,
+            "previous": 3856,
+            "diff": -92,
+            "percent": -0.0239,
+            "history": null
+          },
+          "top50": {
+            "current": 17803,
+            "previous": 18066,
+            "diff": -263,
+            "percent": -0.0146,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 100,
+            "previous": 100,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "czerwona-skarbonka.pl",
+    "endpoint": "get_subdomains"
+  }
+}

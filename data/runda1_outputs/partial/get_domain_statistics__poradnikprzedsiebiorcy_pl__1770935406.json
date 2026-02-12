@@ -1,0 +1,74 @@
+{
+  "domain": "poradnikprzedsiebiorcy.pl",
+  "endpoint": "get_domain_statistics",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "statistics": {
+          "top3": {
+            "recent_value": 96735,
+            "older_value": 96734,
+            "diff": 1,
+            "percent": 0
+          },
+          "top10": {
+            "recent_value": 185415,
+            "older_value": 185487,
+            "diff": -72,
+            "percent": -0.0004
+          },
+          "top50": {
+            "recent_value": 354291,
+            "older_value": 354727,
+            "diff": -436,
+            "percent": -0.0012
+          },
+          "visibility": {
+            "recent_value": 2801825,
+            "older_value": 2794849,
+            "diff": 6976,
+            "percent": 0.0025
+          },
+          "domain_rank": {
+            "recent_value": 134,
+            "older_value": 133,
+            "diff": 1,
+            "percent": 0.0075
+          },
+          "ads_equivalent": {
+            "recent_value": 5155635.48,
+            "older_value": 5161386.19,
+            "diff": -5750.71,
+            "percent": -0.0011
+          },
+          "category": {
+            "name": "",
+            "statistics": {
+              "recent_value": 134,
+              "older_value": 134,
+              "diff": 0,
+              "percent": 0
+            }
+          },
+          "aio_keywords": {
+            "recent_value": 198814,
+            "older_value": 198814,
+            "diff": 0,
+            "percent": 0
+          },
+          "aio_visible_keywords": {
+            "recent_value": 129099,
+            "older_value": 129099,
+            "diff": 0,
+            "percent": 0
+          }
+        }
+      }
+    },
+    "status": 200,
+    "domain": "poradnikprzedsiebiorcy.pl",
+    "endpoint": "get_domain_statistics"
+  }
+}

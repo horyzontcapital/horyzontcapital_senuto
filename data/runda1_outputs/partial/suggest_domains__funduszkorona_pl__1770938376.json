@@ -1,0 +1,19 @@
+{
+  "domain": "funduszkorona.pl",
+  "endpoint": "suggest_domains",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "favourite": [],
+        "suggested": [
+          "funduszkorona.pl"
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "funduszkorona.pl",
+    "endpoint": "suggest_domains"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "domain": "smartney.pl",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "smartney.pl",
+        "keywords_count": 1350,
+        "visibility_percent": 99.99,
+        "statistics": {
+          "visibility": {
+            "current": 81530.02,
+            "previous": 76074.55,
+            "diff": 5455.48,
+            "percent": 0.0717,
+            "history": null
+          },
+          "top3": {
+            "current": 563,
+            "previous": 603,
+            "diff": -40,
+            "percent": -0.0663,
+            "history": null
+          },
+          "top10": {
+            "current": 1350,
+            "previous": 1417,
+            "diff": -67,
+            "percent": -0.0473,
+            "history": null
+          },
+          "top50": {
+            "current": 7232,
+            "previous": 7187,
+            "diff": 45,
+            "percent": 0.0063,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 99.99,
+            "previous": 99.99,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "api.smartney.pl",
+        "keywords_count": 8,
+        "visibility_percent": 0.01,
+        "statistics": {
+          "visibility": {
+            "current": 9.98,
+            "previous": 9.05,
+            "diff": 0.93,
+            "percent": 0.1028,
+            "history": null
+          },
+          "top3": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 8,
+            "previous": 7,
+            "diff": 1,
+            "percent": 0.1429,
+            "history": null
+          },
+          "top50": {
+            "current": 22,
+            "previous": 22,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 0.01,
+            "previous": 0.01,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 2,
+    "domain": "smartney.pl",
+    "endpoint": "get_subdomains"
+  }
+}

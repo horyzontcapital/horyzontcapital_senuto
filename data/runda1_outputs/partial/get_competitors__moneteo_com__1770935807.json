@@ -1,0 +1,2462 @@
+{
+  "domain": "moneteo.com",
+  "endpoint": "get_competitors",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "moneteo.com",
+        "is_main_domain": true,
+        "common_keywords": null,
+        "statistics": {
+          "top3": {
+            "current": 2971,
+            "previous": 2942,
+            "diff": 29,
+            "percent": 0.0099,
+            "history": null
+          },
+          "top10": {
+            "current": 13360,
+            "previous": 13312,
+            "diff": 48,
+            "percent": 0.0036,
+            "history": null
+          },
+          "top50": {
+            "current": 44122,
+            "previous": 44162,
+            "diff": -40,
+            "percent": -0.0009,
+            "history": null
+          },
+          "visibility": {
+            "current": 168203.22,
+            "previous": 165320.49,
+            "diff": 2882.73,
+            "percent": 0.0174,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 1212151.64,
+            "previous": 1212151.64,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 1925,
+            "previous": 1953,
+            "diff": -28,
+            "percent": -0.0143,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "direct.money.pl",
+        "is_main_domain": false,
+        "common_keywords": 9621,
+        "statistics": {
+          "top3": {
+            "current": 6673,
+            "previous": 6683,
+            "diff": -10,
+            "percent": -0.0015,
+            "history": null
+          },
+          "top10": {
+            "current": 25743,
+            "previous": 25749,
+            "diff": -6,
+            "percent": -0.0002,
+            "history": null
+          },
+          "top50": {
+            "current": 74194,
+            "previous": 74274,
+            "diff": -80,
+            "percent": -0.0011,
+            "history": null
+          },
+          "visibility": {
+            "current": 386557.3,
+            "previous": 388740.92,
+            "diff": -2183.62,
+            "percent": -0.0056,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 2715716.63,
+            "previous": 2715716.63,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "pkobp.pl",
+        "is_main_domain": false,
+        "common_keywords": 9047,
+        "statistics": {
+          "top3": {
+            "current": 15360,
+            "previous": 15376,
+            "diff": -16,
+            "percent": -0.001,
+            "history": null
+          },
+          "top10": {
+            "current": 30915,
+            "previous": 30912,
+            "diff": 3,
+            "percent": 0.0001,
+            "history": null
+          },
+          "top50": {
+            "current": 119241,
+            "previous": 118826,
+            "diff": 415,
+            "percent": 0.0035,
+            "history": null
+          },
+          "visibility": {
+            "current": 4577721.59,
+            "previous": 4526739.01,
+            "diff": 50982.58,
+            "percent": 0.0113,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 13162974.61,
+            "previous": 13162974.61,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 73,
+            "previous": 73,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "mbank.pl",
+        "is_main_domain": false,
+        "common_keywords": 7153,
+        "statistics": {
+          "top3": {
+            "current": 9726,
+            "previous": 9734,
+            "diff": -8,
+            "percent": -0.0008,
+            "history": null
+          },
+          "top10": {
+            "current": 21167,
+            "previous": 21168,
+            "diff": -1,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 106359,
+            "previous": 106278,
+            "diff": 81,
+            "percent": 0.0008,
+            "history": null
+          },
+          "visibility": {
+            "current": 1210130.63,
+            "previous": 1211989.02,
+            "diff": -1858.39,
+            "percent": -0.0015,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 11739886.83,
+            "previous": 11739886.83,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 215,
+            "previous": 212,
+            "diff": 3,
+            "percent": 0.0142,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "santander.pl",
+        "is_main_domain": false,
+        "common_keywords": 6971,
+        "statistics": {
+          "top3": {
+            "current": 8651,
+            "previous": 8652,
+            "diff": -1,
+            "percent": -0.0001,
+            "history": null
+          },
+          "top10": {
+            "current": 20274,
+            "previous": 20301,
+            "diff": -27,
+            "percent": -0.0013,
+            "history": null
+          },
+          "top50": {
+            "current": 106289,
+            "previous": 106094,
+            "diff": 195,
+            "percent": 0.0018,
+            "history": null
+          },
+          "visibility": {
+            "current": 1679662.93,
+            "previous": 1676536.81,
+            "diff": 3126.12,
+            "percent": 0.0019,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 7892851.98,
+            "previous": 7892851.98,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 225,
+            "previous": 227,
+            "diff": -2,
+            "percent": -0.0088,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "totalmoney.pl",
+        "is_main_domain": false,
+        "common_keywords": 6467,
+        "statistics": {
+          "top3": {
+            "current": 4407,
+            "previous": 4394,
+            "diff": 13,
+            "percent": 0.003,
+            "history": null
+          },
+          "top10": {
+            "current": 16254,
+            "previous": 16256,
+            "diff": -2,
+            "percent": -0.0001,
+            "history": null
+          },
+          "top50": {
+            "current": 61764,
+            "previous": 61781,
+            "diff": -17,
+            "percent": -0.0003,
+            "history": null
+          },
+          "visibility": {
+            "current": 283365.44,
+            "previous": 272618.64,
+            "diff": 10746.8,
+            "percent": 0.0394,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 2171382.75,
+            "previous": 2171382.75,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 1166,
+            "previous": 1201,
+            "diff": -35,
+            "percent": -0.0291,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "ing.pl",
+        "is_main_domain": false,
+        "common_keywords": 6334,
+        "statistics": {
+          "top3": {
+            "current": 7418,
+            "previous": 7392,
+            "diff": 26,
+            "percent": 0.0035,
+            "history": null
+          },
+          "top10": {
+            "current": 18964,
+            "previous": 18981,
+            "diff": -17,
+            "percent": -0.0009,
+            "history": null
+          },
+          "top50": {
+            "current": 88239,
+            "previous": 88133,
+            "diff": 106,
+            "percent": 0.0012,
+            "history": null
+          },
+          "visibility": {
+            "current": 1759645.35,
+            "previous": 1750139.74,
+            "diff": 9505.61,
+            "percent": 0.0054,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 7676674.96,
+            "previous": 7676674.96,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 211,
+            "previous": 207,
+            "diff": 4,
+            "percent": 0.0193,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "pekao.com.pl",
+        "is_main_domain": false,
+        "common_keywords": 5930,
+        "statistics": {
+          "top3": {
+            "current": 8573,
+            "previous": 8584,
+            "diff": -11,
+            "percent": -0.0013,
+            "history": null
+          },
+          "top10": {
+            "current": 19203,
+            "previous": 19165,
+            "diff": 38,
+            "percent": 0.002,
+            "history": null
+          },
+          "top50": {
+            "current": 101645,
+            "previous": 101463,
+            "diff": 182,
+            "percent": 0.0018,
+            "history": null
+          },
+          "visibility": {
+            "current": 1722217.3,
+            "previous": 1713778.92,
+            "diff": 8438.38,
+            "percent": 0.0049,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 6500081.67,
+            "previous": 6500081.67,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 220,
+            "previous": 220,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "kontomaniak.pl",
+        "is_main_domain": false,
+        "common_keywords": 5564,
+        "statistics": {
+          "top3": {
+            "current": 1798,
+            "previous": 1796,
+            "diff": 2,
+            "percent": 0.0011,
+            "history": null
+          },
+          "top10": {
+            "current": 7619,
+            "previous": 7611,
+            "diff": 8,
+            "percent": 0.0011,
+            "history": null
+          },
+          "top50": {
+            "current": 30232,
+            "previous": 30160,
+            "diff": 72,
+            "percent": 0.0024,
+            "history": null
+          },
+          "visibility": {
+            "current": 71996.6,
+            "previous": 72063.58,
+            "diff": -66.98,
+            "percent": -0.0009,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 385121.34,
+            "previous": 385121.34,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 4204,
+            "previous": 4206,
+            "diff": -2,
+            "percent": -0.0005,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "wise.com",
+        "is_main_domain": false,
+        "common_keywords": 4759,
+        "statistics": {
+          "top3": {
+            "current": 18249,
+            "previous": 18244,
+            "diff": 5,
+            "percent": 0.0003,
+            "history": null
+          },
+          "top10": {
+            "current": 33946,
+            "previous": 33923,
+            "diff": 23,
+            "percent": 0.0007,
+            "history": null
+          },
+          "top50": {
+            "current": 69357,
+            "previous": 69395,
+            "diff": -38,
+            "percent": -0.0005,
+            "history": null
+          },
+          "visibility": {
+            "current": 2840820.47,
+            "previous": 2892380.14,
+            "diff": -51559.67,
+            "percent": -0.0178,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 5493326.32,
+            "previous": 5493326.32,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 123,
+            "previous": 119,
+            "diff": 4,
+            "percent": 0.0336,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "aliorbank.pl",
+        "is_main_domain": false,
+        "common_keywords": 4759,
+        "statistics": {
+          "top3": {
+            "current": 4969,
+            "previous": 4981,
+            "diff": -12,
+            "percent": -0.0024,
+            "history": null
+          },
+          "top10": {
+            "current": 12114,
+            "previous": 12111,
+            "diff": 3,
+            "percent": 0.0002,
+            "history": null
+          },
+          "top50": {
+            "current": 75966,
+            "previous": 75840,
+            "diff": 126,
+            "percent": 0.0017,
+            "history": null
+          },
+          "visibility": {
+            "current": 628743.96,
+            "previous": 628721.3,
+            "diff": 22.66,
+            "percent": 0,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 2755059.03,
+            "previous": 2755059.03,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 182,
+            "previous": 174,
+            "diff": 8,
+            "percent": 0.046,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "bnpparibas.pl",
+        "is_main_domain": false,
+        "common_keywords": 4074,
+        "statistics": {
+          "top3": {
+            "current": 5221,
+            "previous": 5215,
+            "diff": 6,
+            "percent": 0.0012,
+            "history": null
+          },
+          "top10": {
+            "current": 12382,
+            "previous": 12382,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 56524,
+            "previous": 56456,
+            "diff": 68,
+            "percent": 0.0012,
+            "history": null
+          },
+          "visibility": {
+            "current": 1171143.89,
+            "previous": 1172680.58,
+            "diff": -1536.69,
+            "percent": -0.0013,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 8412679.87,
+            "previous": 8412679.87,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 250,
+            "previous": 250,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "finhack.pl",
+        "is_main_domain": false,
+        "common_keywords": 4062,
+        "statistics": {
+          "top3": {
+            "current": 1078,
+            "previous": 1085,
+            "diff": -7,
+            "percent": -0.0065,
+            "history": null
+          },
+          "top10": {
+            "current": 5261,
+            "previous": 5242,
+            "diff": 19,
+            "percent": 0.0036,
+            "history": null
+          },
+          "top50": {
+            "current": 22733,
+            "previous": 22640,
+            "diff": 93,
+            "percent": 0.0041,
+            "history": null
+          },
+          "visibility": {
+            "current": 40777.65,
+            "previous": 39562.86,
+            "diff": 1214.79,
+            "percent": 0.0307,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 249405.69,
+            "previous": 249405.69,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 6932,
+            "previous": 7148,
+            "diff": -216,
+            "percent": -0.0302,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "bankmillennium.pl",
+        "is_main_domain": false,
+        "common_keywords": 3935,
+        "statistics": {
+          "top3": {
+            "current": 4259,
+            "previous": 4264,
+            "diff": -5,
+            "percent": -0.0012,
+            "history": null
+          },
+          "top10": {
+            "current": 10186,
+            "previous": 10184,
+            "diff": 2,
+            "percent": 0.0002,
+            "history": null
+          },
+          "top50": {
+            "current": 66185,
+            "previous": 66251,
+            "diff": -66,
+            "percent": -0.001,
+            "history": null
+          },
+          "visibility": {
+            "current": 1277724.02,
+            "previous": 1276347.01,
+            "diff": 1377.01,
+            "percent": 0.0011,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 6180514.11,
+            "previous": 6180514.11,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 275,
+            "previous": 280,
+            "diff": -5,
+            "percent": -0.0179,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "credit-agricole.pl",
+        "is_main_domain": false,
+        "common_keywords": 3685,
+        "statistics": {
+          "top3": {
+            "current": 3906,
+            "previous": 3915,
+            "diff": -9,
+            "percent": -0.0023,
+            "history": null
+          },
+          "top10": {
+            "current": 11576,
+            "previous": 11574,
+            "diff": 2,
+            "percent": 0.0002,
+            "history": null
+          },
+          "top50": {
+            "current": 49461,
+            "previous": 49442,
+            "diff": 19,
+            "percent": 0.0004,
+            "history": null
+          },
+          "visibility": {
+            "current": 655675.15,
+            "previous": 656715.83,
+            "diff": -1040.68,
+            "percent": -0.0016,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 3812948.25,
+            "previous": 3812948.25,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 454,
+            "previous": 449,
+            "diff": 5,
+            "percent": 0.0111,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "velobank.pl",
+        "is_main_domain": false,
+        "common_keywords": 2941,
+        "statistics": {
+          "top3": {
+            "current": 1966,
+            "previous": 1956,
+            "diff": 10,
+            "percent": 0.0051,
+            "history": null
+          },
+          "top10": {
+            "current": 7139,
+            "previous": 7157,
+            "diff": -18,
+            "percent": -0.0025,
+            "history": null
+          },
+          "top50": {
+            "current": 42121,
+            "previous": 42209,
+            "diff": -88,
+            "percent": -0.0021,
+            "history": null
+          },
+          "visibility": {
+            "current": 254482.69,
+            "previous": 250254.28,
+            "diff": 4228.41,
+            "percent": 0.0169,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 2627783.16,
+            "previous": 2627783.16,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 1198,
+            "previous": 1218,
+            "diff": -20,
+            "percent": -0.0164,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "marciniwuc.com",
+        "is_main_domain": false,
+        "common_keywords": 2906,
+        "statistics": {
+          "top3": {
+            "current": 2308,
+            "previous": 2300,
+            "diff": 8,
+            "percent": 0.0035,
+            "history": null
+          },
+          "top10": {
+            "current": 6160,
+            "previous": 6162,
+            "diff": -2,
+            "percent": -0.0003,
+            "history": null
+          },
+          "top50": {
+            "current": 27118,
+            "previous": 27148,
+            "diff": -30,
+            "percent": -0.0011,
+            "history": null
+          },
+          "visibility": {
+            "current": 140323.84,
+            "previous": 131495.25,
+            "diff": 8828.59,
+            "percent": 0.0671,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 433672.33,
+            "previous": 433672.33,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 2268,
+            "previous": 2433,
+            "diff": -165,
+            "percent": -0.0678,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "bankobranie.pl",
+        "is_main_domain": false,
+        "common_keywords": 2698,
+        "statistics": {
+          "top3": {
+            "current": 709,
+            "previous": 706,
+            "diff": 3,
+            "percent": 0.0042,
+            "history": null
+          },
+          "top10": {
+            "current": 2981,
+            "previous": 2965,
+            "diff": 16,
+            "percent": 0.0054,
+            "history": null
+          },
+          "top50": {
+            "current": 14149,
+            "previous": 14144,
+            "diff": 5,
+            "percent": 0.0004,
+            "history": null
+          },
+          "visibility": {
+            "current": 56102.29,
+            "previous": 56505.16,
+            "diff": -402.87,
+            "percent": -0.0071,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 314068.86,
+            "previous": 314068.86,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 5220,
+            "previous": 5205,
+            "diff": 15,
+            "percent": 0.0029,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "santanderconsumer.pl",
+        "is_main_domain": false,
+        "common_keywords": 2370,
+        "statistics": {
+          "top3": {
+            "current": 2775,
+            "previous": 2773,
+            "diff": 2,
+            "percent": 0.0007,
+            "history": null
+          },
+          "top10": {
+            "current": 8518,
+            "previous": 8541,
+            "diff": -23,
+            "percent": -0.0027,
+            "history": null
+          },
+          "top50": {
+            "current": 35471,
+            "previous": 35383,
+            "diff": 88,
+            "percent": 0.0025,
+            "history": null
+          },
+          "visibility": {
+            "current": 423637.38,
+            "previous": 418547.06,
+            "diff": 5090.32,
+            "percent": 0.0122,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 2764998.28,
+            "previous": 2764998.28,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 812,
+            "previous": 823,
+            "diff": -11,
+            "percent": -0.0134,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "zgarnijpremie.pl",
+        "is_main_domain": false,
+        "common_keywords": 2342,
+        "statistics": {
+          "top3": {
+            "current": 269,
+            "previous": 267,
+            "diff": 2,
+            "percent": 0.0075,
+            "history": null
+          },
+          "top10": {
+            "current": 2401,
+            "previous": 2385,
+            "diff": 16,
+            "percent": 0.0067,
+            "history": null
+          },
+          "top50": {
+            "current": 15476,
+            "previous": 15426,
+            "diff": 50,
+            "percent": 0.0032,
+            "history": null
+          },
+          "visibility": {
+            "current": 14916.89,
+            "previous": 15476.61,
+            "diff": -559.72,
+            "percent": -0.0362,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 37420.59,
+            "previous": 37420.59,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 16378,
+            "previous": 15985,
+            "diff": 393,
+            "percent": 0.0246,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "zamknijkonto.pl",
+        "is_main_domain": false,
+        "common_keywords": 2178,
+        "statistics": {
+          "top3": {
+            "current": 1293,
+            "previous": 1293,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 3625,
+            "previous": 3608,
+            "diff": 17,
+            "percent": 0.0047,
+            "history": null
+          },
+          "top50": {
+            "current": 11727,
+            "previous": 11702,
+            "diff": 25,
+            "percent": 0.0021,
+            "history": null
+          },
+          "visibility": {
+            "current": 32527.58,
+            "previous": 32046.23,
+            "diff": 481.35,
+            "percent": 0.015,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 140837.72,
+            "previous": 140837.72,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 8483,
+            "previous": 8627,
+            "diff": -144,
+            "percent": -0.0167,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "cashless.pl",
+        "is_main_domain": false,
+        "common_keywords": 2042,
+        "statistics": {
+          "top3": {
+            "current": 874,
+            "previous": 874,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 5761,
+            "previous": 5723,
+            "diff": 38,
+            "percent": 0.0066,
+            "history": null
+          },
+          "top50": {
+            "current": 27581,
+            "previous": 27470,
+            "diff": 111,
+            "percent": 0.004,
+            "history": null
+          },
+          "visibility": {
+            "current": 1072857.51,
+            "previous": 1075146.62,
+            "diff": -2289.11,
+            "percent": -0.0021,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 4059827.79,
+            "previous": 4059827.79,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 361,
+            "previous": 366,
+            "diff": -5,
+            "percent": -0.0137,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "bankoweabc.pl",
+        "is_main_domain": false,
+        "common_keywords": 1844,
+        "statistics": {
+          "top3": {
+            "current": 269,
+            "previous": 273,
+            "diff": -4,
+            "percent": -0.0147,
+            "history": null
+          },
+          "top10": {
+            "current": 2379,
+            "previous": 2371,
+            "diff": 8,
+            "percent": 0.0034,
+            "history": null
+          },
+          "top50": {
+            "current": 11712,
+            "previous": 11660,
+            "diff": 52,
+            "percent": 0.0045,
+            "history": null
+          },
+          "visibility": {
+            "current": 19678.9,
+            "previous": 19570.41,
+            "diff": 108.49,
+            "percent": 0.0055,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 225271.85,
+            "previous": 225271.85,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 13142,
+            "previous": 13211,
+            "diff": -69,
+            "percent": -0.0052,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "bankomania.pkobp.pl",
+        "is_main_domain": false,
+        "common_keywords": 1827,
+        "statistics": {
+          "top3": {
+            "current": 1324,
+            "previous": 1323,
+            "diff": 1,
+            "percent": 0.0008,
+            "history": null
+          },
+          "top10": {
+            "current": 6654,
+            "previous": 6654,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 19865,
+            "previous": 19831,
+            "diff": 34,
+            "percent": 0.0017,
+            "history": null
+          },
+          "visibility": {
+            "current": 54977.99,
+            "previous": 55073.49,
+            "diff": -95.5,
+            "percent": -0.0017,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 101961.05,
+            "previous": 101961.05,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "jakdorobic.pl",
+        "is_main_domain": false,
+        "common_keywords": 1808,
+        "statistics": {
+          "top3": {
+            "current": 563,
+            "previous": 565,
+            "diff": -2,
+            "percent": -0.0035,
+            "history": null
+          },
+          "top10": {
+            "current": 3382,
+            "previous": 3382,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 17018,
+            "previous": 17023,
+            "diff": -5,
+            "percent": -0.0003,
+            "history": null
+          },
+          "visibility": {
+            "current": 38898.04,
+            "previous": 35243.31,
+            "diff": 3654.73,
+            "percent": 0.1037,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 380571.36,
+            "previous": 380571.36,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 7239,
+            "previous": 7915,
+            "diff": -676,
+            "percent": -0.0854,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "tanie-konto.pl",
+        "is_main_domain": false,
+        "common_keywords": 1656,
+        "statistics": {
+          "top3": {
+            "current": 275,
+            "previous": 278,
+            "diff": -3,
+            "percent": -0.0108,
+            "history": null
+          },
+          "top10": {
+            "current": 1634,
+            "previous": 1645,
+            "diff": -11,
+            "percent": -0.0067,
+            "history": null
+          },
+          "top50": {
+            "current": 7427,
+            "previous": 7411,
+            "diff": 16,
+            "percent": 0.0022,
+            "history": null
+          },
+          "visibility": {
+            "current": 9071.07,
+            "previous": 9249.62,
+            "diff": -178.55,
+            "percent": -0.0193,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 57826.81,
+            "previous": 57826.81,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 24389,
+            "previous": 24064,
+            "diff": 325,
+            "percent": 0.0135,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "subiektywnieofinansach.pl",
+        "is_main_domain": false,
+        "common_keywords": 1619,
+        "statistics": {
+          "top3": {
+            "current": 1090,
+            "previous": 1080,
+            "diff": 10,
+            "percent": 0.0093,
+            "history": null
+          },
+          "top10": {
+            "current": 6272,
+            "previous": 6246,
+            "diff": 26,
+            "percent": 0.0042,
+            "history": null
+          },
+          "top50": {
+            "current": 48401,
+            "previous": 48127,
+            "diff": 274,
+            "percent": 0.0057,
+            "history": null
+          },
+          "visibility": {
+            "current": 76724.43,
+            "previous": 34079.22,
+            "diff": 42645.21,
+            "percent": 1.2514,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 47734.82,
+            "previous": 47734.82,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 3992,
+            "previous": 8156,
+            "diff": -4164,
+            "percent": -0.5105,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "spolecznosc.ing.pl",
+        "is_main_domain": false,
+        "common_keywords": 1527,
+        "statistics": {
+          "top3": {
+            "current": 1513,
+            "previous": 1520,
+            "diff": -7,
+            "percent": -0.0046,
+            "history": null
+          },
+          "top10": {
+            "current": 4273,
+            "previous": 4277,
+            "diff": -4,
+            "percent": -0.0009,
+            "history": null
+          },
+          "top50": {
+            "current": 13234,
+            "previous": 13214,
+            "diff": 20,
+            "percent": 0.0015,
+            "history": null
+          },
+          "visibility": {
+            "current": 27863.56,
+            "previous": 27719.54,
+            "diff": 144.02,
+            "percent": 0.0052,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 19318.14,
+            "previous": 19318.14,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "lendi.pl",
+        "is_main_domain": false,
+        "common_keywords": 1486,
+        "statistics": {
+          "top3": {
+            "current": 3271,
+            "previous": 3294,
+            "diff": -23,
+            "percent": -0.007,
+            "history": null
+          },
+          "top10": {
+            "current": 8509,
+            "previous": 8540,
+            "diff": -31,
+            "percent": -0.0036,
+            "history": null
+          },
+          "top50": {
+            "current": 23738,
+            "previous": 23849,
+            "diff": -111,
+            "percent": -0.0047,
+            "history": null
+          },
+          "visibility": {
+            "current": 139455.62,
+            "previous": 142374.02,
+            "diff": -2918.4,
+            "percent": -0.0205,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 436175.8,
+            "previous": 436175.8,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 2284,
+            "previous": 2234,
+            "diff": 50,
+            "percent": 0.0224,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "mambiznes.pl",
+        "is_main_domain": false,
+        "common_keywords": 1445,
+        "statistics": {
+          "top3": {
+            "current": 639,
+            "previous": 636,
+            "diff": 3,
+            "percent": 0.0047,
+            "history": null
+          },
+          "top10": {
+            "current": 3665,
+            "previous": 3660,
+            "diff": 5,
+            "percent": 0.0014,
+            "history": null
+          },
+          "top50": {
+            "current": 19793,
+            "previous": 19820,
+            "diff": -27,
+            "percent": -0.0014,
+            "history": null
+          },
+          "visibility": {
+            "current": 35417.3,
+            "previous": 35235.64,
+            "diff": 181.66,
+            "percent": 0.0052,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 92915.14,
+            "previous": 92915.14,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 7848,
+            "previous": 7917,
+            "diff": -69,
+            "percent": -0.0087,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "helpfind.pl",
+        "is_main_domain": false,
+        "common_keywords": 1432,
+        "statistics": {
+          "top3": {
+            "current": 1097,
+            "previous": 1100,
+            "diff": -3,
+            "percent": -0.0027,
+            "history": null
+          },
+          "top10": {
+            "current": 8360,
+            "previous": 8336,
+            "diff": 24,
+            "percent": 0.0029,
+            "history": null
+          },
+          "top50": {
+            "current": 39667,
+            "previous": 39359,
+            "diff": 308,
+            "percent": 0.0078,
+            "history": null
+          },
+          "visibility": {
+            "current": 72808.93,
+            "previous": 71883.72,
+            "diff": 925.21,
+            "percent": 0.0129,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 766393.53,
+            "previous": 766393.53,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 4166,
+            "previous": 4213,
+            "diff": -47,
+            "percent": -0.0112,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "bank.pl",
+        "is_main_domain": false,
+        "common_keywords": 1419,
+        "statistics": {
+          "top3": {
+            "current": 1777,
+            "previous": 1778,
+            "diff": -1,
+            "percent": -0.0006,
+            "history": null
+          },
+          "top10": {
+            "current": 11419,
+            "previous": 11378,
+            "diff": 41,
+            "percent": 0.0036,
+            "history": null
+          },
+          "top50": {
+            "current": 71042,
+            "previous": 71016,
+            "diff": 26,
+            "percent": 0.0004,
+            "history": null
+          },
+          "visibility": {
+            "current": 178118.46,
+            "previous": 175436.27,
+            "diff": 2682.19,
+            "percent": 0.0153,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 598008.14,
+            "previous": 598008.14,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 1792,
+            "previous": 1814,
+            "diff": -22,
+            "percent": -0.0121,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "gov.pl",
+        "is_main_domain": false,
+        "common_keywords": 1417,
+        "statistics": {
+          "top3": {
+            "current": 48,
+            "previous": 48,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 1610,
+            "previous": 1670,
+            "diff": -60,
+            "percent": -0.0359,
+            "history": null
+          },
+          "top50": {
+            "current": 72401,
+            "previous": 74601,
+            "diff": -2200,
+            "percent": -0.0295,
+            "history": null
+          },
+          "visibility": {
+            "current": 0.49,
+            "previous": 0.49,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 1459411,
+            "previous": 1459763,
+            "diff": -352,
+            "percent": -0.0002,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "akredo.pl",
+        "is_main_domain": false,
+        "common_keywords": 1360,
+        "statistics": {
+          "top3": {
+            "current": 226,
+            "previous": 219,
+            "diff": 7,
+            "percent": 0.032,
+            "history": null
+          },
+          "top10": {
+            "current": 1846,
+            "previous": 1833,
+            "diff": 13,
+            "percent": 0.0071,
+            "history": null
+          },
+          "top50": {
+            "current": 14466,
+            "previous": 14396,
+            "diff": 70,
+            "percent": 0.0049,
+            "history": null
+          },
+          "visibility": {
+            "current": 20731.36,
+            "previous": 19391.42,
+            "diff": 1339.94,
+            "percent": 0.0691,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 179391.68,
+            "previous": 179391.68,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 12586,
+            "previous": 13309,
+            "diff": -723,
+            "percent": -0.0543,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "czerwona-skarbonka.pl",
+        "is_main_domain": false,
+        "common_keywords": 1306,
+        "statistics": {
+          "top3": {
+            "current": 886,
+            "previous": 894,
+            "diff": -8,
+            "percent": -0.0089,
+            "history": null
+          },
+          "top10": {
+            "current": 3743,
+            "previous": 3739,
+            "diff": 4,
+            "percent": 0.0011,
+            "history": null
+          },
+          "top50": {
+            "current": 17568,
+            "previous": 17590,
+            "diff": -22,
+            "percent": -0.0013,
+            "history": null
+          },
+          "visibility": {
+            "current": 50180.24,
+            "previous": 50097.76,
+            "diff": 82.48,
+            "percent": 0.0016,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 359856.49,
+            "previous": 359856.49,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 5751,
+            "previous": 5771,
+            "diff": -20,
+            "percent": -0.0035,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "forum-kredytowe.pl",
+        "is_main_domain": false,
+        "common_keywords": 1304,
+        "statistics": {
+          "top3": {
+            "current": 3172,
+            "previous": 3172,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 6693,
+            "previous": 6687,
+            "diff": 6,
+            "percent": 0.0009,
+            "history": null
+          },
+          "top50": {
+            "current": 19366,
+            "previous": 19338,
+            "diff": 28,
+            "percent": 0.0014,
+            "history": null
+          },
+          "visibility": {
+            "current": 79906.75,
+            "previous": 79922.18,
+            "diff": -15.43,
+            "percent": -0.0002,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 564713.01,
+            "previous": 564713.01,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 3834,
+            "previous": 3856,
+            "diff": -22,
+            "percent": -0.0057,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "analizy.pl",
+        "is_main_domain": false,
+        "common_keywords": 1303,
+        "statistics": {
+          "top3": {
+            "current": 3977,
+            "previous": 3971,
+            "diff": 6,
+            "percent": 0.0015,
+            "history": null
+          },
+          "top10": {
+            "current": 8585,
+            "previous": 8571,
+            "diff": 14,
+            "percent": 0.0016,
+            "history": null
+          },
+          "top50": {
+            "current": 21478,
+            "previous": 21507,
+            "diff": -29,
+            "percent": -0.0013,
+            "history": null
+          },
+          "visibility": {
+            "current": 189670.52,
+            "previous": 180434.23,
+            "diff": 9236.29,
+            "percent": 0.0512,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 924847.96,
+            "previous": 924847.96,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 1696,
+            "previous": 1772,
+            "diff": -76,
+            "percent": -0.0429,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "kasastefczyka.pl",
+        "is_main_domain": false,
+        "common_keywords": 1296,
+        "statistics": {
+          "top3": {
+            "current": 2212,
+            "previous": 2214,
+            "diff": -2,
+            "percent": -0.0009,
+            "history": null
+          },
+          "top10": {
+            "current": 6131,
+            "previous": 6129,
+            "diff": 2,
+            "percent": 0.0003,
+            "history": null
+          },
+          "top50": {
+            "current": 16270,
+            "previous": 16263,
+            "diff": 7,
+            "percent": 0.0004,
+            "history": null
+          },
+          "visibility": {
+            "current": 149658.11,
+            "previous": 156641.76,
+            "diff": -6983.65,
+            "percent": -0.0446,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 1218467.61,
+            "previous": 1218467.61,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 1929,
+            "previous": 1820,
+            "diff": 109,
+            "percent": 0.0599,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "iko.pkobp.pl",
+        "is_main_domain": false,
+        "common_keywords": 1277,
+        "statistics": {
+          "top3": {
+            "current": 1108,
+            "previous": 1115,
+            "diff": -7,
+            "percent": -0.0063,
+            "history": null
+          },
+          "top10": {
+            "current": 2681,
+            "previous": 2680,
+            "diff": 1,
+            "percent": 0.0004,
+            "history": null
+          },
+          "top50": {
+            "current": 5785,
+            "previous": 5803,
+            "diff": -18,
+            "percent": -0.0031,
+            "history": null
+          },
+          "visibility": {
+            "current": 52956.99,
+            "previous": 53171.7,
+            "diff": -214.71,
+            "percent": -0.004,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 126903.8,
+            "previous": 126903.8,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "polakoszczedza.pl",
+        "is_main_domain": false,
+        "common_keywords": 1263,
+        "statistics": {
+          "top3": {
+            "current": 211,
+            "previous": 215,
+            "diff": -4,
+            "percent": -0.0186,
+            "history": null
+          },
+          "top10": {
+            "current": 1156,
+            "previous": 1165,
+            "diff": -9,
+            "percent": -0.0077,
+            "history": null
+          },
+          "top50": {
+            "current": 5386,
+            "previous": 5384,
+            "diff": 2,
+            "percent": 0.0004,
+            "history": null
+          },
+          "visibility": {
+            "current": 15203.43,
+            "previous": 14940.33,
+            "diff": 263.1,
+            "percent": 0.0176,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 99822.47,
+            "previous": 99822.47,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 16173,
+            "previous": 16460,
+            "diff": -287,
+            "percent": -0.0174,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "zarabiajnabankach.pl",
+        "is_main_domain": false,
+        "common_keywords": 1235,
+        "statistics": {
+          "top3": {
+            "current": 234,
+            "previous": 234,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 1194,
+            "previous": 1191,
+            "diff": 3,
+            "percent": 0.0025,
+            "history": null
+          },
+          "top50": {
+            "current": 8993,
+            "previous": 8928,
+            "diff": 65,
+            "percent": 0.0073,
+            "history": null
+          },
+          "visibility": {
+            "current": 10855.82,
+            "previous": 10920.98,
+            "diff": -65.16,
+            "percent": -0.006,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 59669.51,
+            "previous": 59669.51,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 21200,
+            "previous": 21132,
+            "diff": 68,
+            "percent": 0.0032,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "smart-money.pl",
+        "is_main_domain": false,
+        "common_keywords": 1155,
+        "statistics": {
+          "top3": {
+            "current": 171,
+            "previous": 168,
+            "diff": 3,
+            "percent": 0.0179,
+            "history": null
+          },
+          "top10": {
+            "current": 1808,
+            "previous": 1800,
+            "diff": 8,
+            "percent": 0.0044,
+            "history": null
+          },
+          "top50": {
+            "current": 8165,
+            "previous": 8150,
+            "diff": 15,
+            "percent": 0.0018,
+            "history": null
+          },
+          "visibility": {
+            "current": 14296.46,
+            "previous": 13746.59,
+            "diff": 549.87,
+            "percent": 0.04,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 113814.28,
+            "previous": 113814.28,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 17023,
+            "previous": 17543,
+            "diff": -520,
+            "percent": -0.0296,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "e-kursy-walut.pl",
+        "is_main_domain": false,
+        "common_keywords": 1122,
+        "statistics": {
+          "top3": {
+            "current": 816,
+            "previous": 817,
+            "diff": -1,
+            "percent": -0.0012,
+            "history": null
+          },
+          "top10": {
+            "current": 4831,
+            "previous": 4844,
+            "diff": -13,
+            "percent": -0.0027,
+            "history": null
+          },
+          "top50": {
+            "current": 19186,
+            "previous": 19156,
+            "diff": 30,
+            "percent": 0.0016,
+            "history": null
+          },
+          "visibility": {
+            "current": 329464.33,
+            "previous": 369421.64,
+            "diff": -39957.31,
+            "percent": -0.1082,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 1582390.94,
+            "previous": 1582390.94,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 1022,
+            "previous": 928,
+            "diff": 94,
+            "percent": 0.1013,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "monito.com",
+        "is_main_domain": false,
+        "common_keywords": 1110,
+        "statistics": {
+          "top3": {
+            "current": 1737,
+            "previous": 1739,
+            "diff": -2,
+            "percent": -0.0012,
+            "history": null
+          },
+          "top10": {
+            "current": 5509,
+            "previous": 5514,
+            "diff": -5,
+            "percent": -0.0009,
+            "history": null
+          },
+          "top50": {
+            "current": 24194,
+            "previous": 24186,
+            "diff": 8,
+            "percent": 0.0003,
+            "history": null
+          },
+          "visibility": {
+            "current": 93845.94,
+            "previous": 90731.66,
+            "diff": 3114.28,
+            "percent": 0.0343,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 39891.6,
+            "previous": 39891.6,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 3328,
+            "previous": 3444,
+            "diff": -116,
+            "percent": -0.0337,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "revolut.com",
+        "is_main_domain": false,
+        "common_keywords": 1074,
+        "statistics": {
+          "top3": {
+            "current": 6603,
+            "previous": 6615,
+            "diff": -12,
+            "percent": -0.0018,
+            "history": null
+          },
+          "top10": {
+            "current": 14109,
+            "previous": 14123,
+            "diff": -14,
+            "percent": -0.001,
+            "history": null
+          },
+          "top50": {
+            "current": 22947,
+            "previous": 22960,
+            "diff": -13,
+            "percent": -0.0006,
+            "history": null
+          },
+          "visibility": {
+            "current": 861344.52,
+            "previous": 783489.28,
+            "diff": 77855.24,
+            "percent": 0.0994,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 2576897.75,
+            "previous": 2576897.75,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 424,
+            "previous": 460,
+            "diff": -36,
+            "percent": -0.0783,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "jakoszczedzacpieniadze.pl",
+        "is_main_domain": false,
+        "common_keywords": 1063,
+        "statistics": {
+          "top3": {
+            "current": 531,
+            "previous": 532,
+            "diff": -1,
+            "percent": -0.0019,
+            "history": null
+          },
+          "top10": {
+            "current": 2320,
+            "previous": 2328,
+            "diff": -8,
+            "percent": -0.0034,
+            "history": null
+          },
+          "top50": {
+            "current": 12047,
+            "previous": 12046,
+            "diff": 1,
+            "percent": 0.0001,
+            "history": null
+          },
+          "visibility": {
+            "current": 34823.72,
+            "previous": 38134.8,
+            "diff": -3311.08,
+            "percent": -0.0868,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 85236.61,
+            "previous": 85236.61,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 7965,
+            "previous": 7413,
+            "diff": 552,
+            "percent": 0.0745,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "blik.com",
+        "is_main_domain": false,
+        "common_keywords": 1034,
+        "statistics": {
+          "top3": {
+            "current": 927,
+            "previous": 925,
+            "diff": 2,
+            "percent": 0.0022,
+            "history": null
+          },
+          "top10": {
+            "current": 2102,
+            "previous": 2109,
+            "diff": -7,
+            "percent": -0.0033,
+            "history": null
+          },
+          "top50": {
+            "current": 13075,
+            "previous": 13035,
+            "diff": 40,
+            "percent": 0.0031,
+            "history": null
+          },
+          "visibility": {
+            "current": 57623.32,
+            "previous": 58929.63,
+            "diff": -1306.31,
+            "percent": -0.0222,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 131896.95,
+            "previous": 131896.95,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 5094,
+            "previous": 5016,
+            "diff": 78,
+            "percent": 0.0156,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "fintek.pl",
+        "is_main_domain": false,
+        "common_keywords": 996,
+        "statistics": {
+          "top3": {
+            "current": 883,
+            "previous": 873,
+            "diff": 10,
+            "percent": 0.0115,
+            "history": null
+          },
+          "top10": {
+            "current": 2992,
+            "previous": 2968,
+            "diff": 24,
+            "percent": 0.0081,
+            "history": null
+          },
+          "top50": {
+            "current": 13889,
+            "previous": 13910,
+            "diff": -21,
+            "percent": -0.0015,
+            "history": null
+          },
+          "visibility": {
+            "current": 41301.91,
+            "previous": 44687.55,
+            "diff": -3385.64,
+            "percent": -0.0758,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 310339.55,
+            "previous": 310339.55,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 6844,
+            "previous": 6386,
+            "diff": 458,
+            "percent": 0.0717,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "provident.pl",
+        "is_main_domain": false,
+        "common_keywords": 961,
+        "statistics": {
+          "top3": {
+            "current": 1756,
+            "previous": 1753,
+            "diff": 3,
+            "percent": 0.0017,
+            "history": null
+          },
+          "top10": {
+            "current": 4759,
+            "previous": 4755,
+            "diff": 4,
+            "percent": 0.0008,
+            "history": null
+          },
+          "top50": {
+            "current": 14391,
+            "previous": 14418,
+            "diff": -27,
+            "percent": -0.0019,
+            "history": null
+          },
+          "visibility": {
+            "current": 234642.94,
+            "previous": 213522.06,
+            "diff": 21120.88,
+            "percent": 0.0989,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 3999653.22,
+            "previous": 3999653.22,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 1377,
+            "previous": 1512,
+            "diff": -135,
+            "percent": -0.0893,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "citibank.pl",
+        "is_main_domain": false,
+        "common_keywords": 956,
+        "statistics": {
+          "top3": {
+            "current": 1524,
+            "previous": 1525,
+            "diff": -1,
+            "percent": -0.0007,
+            "history": null
+          },
+          "top10": {
+            "current": 3080,
+            "previous": 3084,
+            "diff": -4,
+            "percent": -0.0013,
+            "history": null
+          },
+          "top50": {
+            "current": 19766,
+            "previous": 19821,
+            "diff": -55,
+            "percent": -0.0028,
+            "history": null
+          },
+          "visibility": {
+            "current": 283940.41,
+            "previous": 283614.95,
+            "diff": 325.46,
+            "percent": 0.0011,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 2575845.49,
+            "previous": 2575845.49,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 1157,
+            "previous": 1157,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 50,
+    "domain": "moneteo.com",
+    "endpoint": "get_competitors"
+  }
+}
