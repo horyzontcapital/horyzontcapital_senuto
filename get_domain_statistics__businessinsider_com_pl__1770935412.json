@@ -1,0 +1,74 @@
+{
+  "domain": "businessinsider.com.pl",
+  "endpoint": "get_domain_statistics",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "statistics": {
+          "top3": {
+            "recent_value": 25585,
+            "older_value": 25569,
+            "diff": 16,
+            "percent": 0.0006
+          },
+          "top10": {
+            "recent_value": 83856,
+            "older_value": 83897,
+            "diff": -41,
+            "percent": -0.0005
+          },
+          "top50": {
+            "recent_value": 388045,
+            "older_value": 387920,
+            "diff": 125,
+            "percent": 0.0003
+          },
+          "visibility": {
+            "recent_value": 5160888,
+            "older_value": 4784787,
+            "diff": 376101,
+            "percent": 0.0786
+          },
+          "domain_rank": {
+            "recent_value": 72,
+            "older_value": 76,
+            "diff": -4,
+            "percent": -0.0526
+          },
+          "ads_equivalent": {
+            "recent_value": 32849738.74,
+            "older_value": 31669299.93,
+            "diff": 1180438.81,
+            "percent": 0.0373
+          },
+          "category": {
+            "name": "",
+            "statistics": {
+              "recent_value": 72,
+              "older_value": 72,
+              "diff": 0,
+              "percent": 0
+            }
+          },
+          "aio_keywords": {
+            "recent_value": 174711,
+            "older_value": 174711,
+            "diff": 0,
+            "percent": 0
+          },
+          "aio_visible_keywords": {
+            "recent_value": 50273,
+            "older_value": 50273,
+            "diff": 0,
+            "percent": 0
+          }
+        }
+      }
+    },
+    "status": 200,
+    "domain": "businessinsider.com.pl",
+    "endpoint": "get_domain_statistics"
+  }
+}

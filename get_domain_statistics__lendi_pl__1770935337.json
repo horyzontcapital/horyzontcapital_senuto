@@ -1,0 +1,74 @@
+{
+  "domain": "lendi.pl",
+  "endpoint": "get_domain_statistics",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "statistics": {
+          "top3": {
+            "recent_value": 3271,
+            "older_value": 3294,
+            "diff": -23,
+            "percent": -0.007
+          },
+          "top10": {
+            "recent_value": 8509,
+            "older_value": 8540,
+            "diff": -31,
+            "percent": -0.0036
+          },
+          "top50": {
+            "recent_value": 23738,
+            "older_value": 23849,
+            "diff": -111,
+            "percent": -0.0047
+          },
+          "visibility": {
+            "recent_value": 139456,
+            "older_value": 142374,
+            "diff": -2918,
+            "percent": -0.0205
+          },
+          "domain_rank": {
+            "recent_value": 2412,
+            "older_value": 2360,
+            "diff": 52,
+            "percent": 0.022
+          },
+          "ads_equivalent": {
+            "recent_value": 436175.8,
+            "older_value": 436718.25,
+            "diff": -542.45,
+            "percent": -0.0012
+          },
+          "category": {
+            "name": "",
+            "statistics": {
+              "recent_value": 2412,
+              "older_value": 2412,
+              "diff": 0,
+              "percent": 0
+            }
+          },
+          "aio_keywords": {
+            "recent_value": 5691,
+            "older_value": 5691,
+            "diff": 0,
+            "percent": 0
+          },
+          "aio_visible_keywords": {
+            "recent_value": 9922,
+            "older_value": 9922,
+            "diff": 0,
+            "percent": 0
+          }
+        }
+      }
+    },
+    "status": 200,
+    "domain": "lendi.pl",
+    "endpoint": "get_domain_statistics"
+  }
+}

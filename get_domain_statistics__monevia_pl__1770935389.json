@@ -1,0 +1,74 @@
+{
+  "domain": "monevia.pl",
+  "endpoint": "get_domain_statistics",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "statistics": {
+          "top3": {
+            "recent_value": 83,
+            "older_value": 82,
+            "diff": 1,
+            "percent": 0.0122
+          },
+          "top10": {
+            "recent_value": 227,
+            "older_value": 228,
+            "diff": -1,
+            "percent": -0.0044
+          },
+          "top50": {
+            "recent_value": 1074,
+            "older_value": 1082,
+            "diff": -8,
+            "percent": -0.0074
+          },
+          "visibility": {
+            "recent_value": 1805,
+            "older_value": 1826,
+            "diff": -21,
+            "percent": -0.0115
+          },
+          "domain_rank": {
+            "recent_value": 87577,
+            "older_value": 87003,
+            "diff": 574,
+            "percent": 0.0066
+          },
+          "ads_equivalent": {
+            "recent_value": 10628.57,
+            "older_value": 10505.64,
+            "diff": 122.93,
+            "percent": 0.0117
+          },
+          "category": {
+            "name": "",
+            "statistics": {
+              "recent_value": 87577,
+              "older_value": 87577,
+              "diff": 0,
+              "percent": 0
+            }
+          },
+          "aio_keywords": {
+            "recent_value": 402,
+            "older_value": 402,
+            "diff": 0,
+            "percent": 0
+          },
+          "aio_visible_keywords": {
+            "recent_value": 284,
+            "older_value": 284,
+            "diff": 0,
+            "percent": 0
+          }
+        }
+      }
+    },
+    "status": 200,
+    "domain": "monevia.pl",
+    "endpoint": "get_domain_statistics"
+  }
+}

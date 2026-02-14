@@ -1,0 +1,74 @@
+{
+  "domain": "feniksfinanse.pl",
+  "endpoint": "get_domain_statistics",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "statistics": {
+          "top3": {
+            "recent_value": 5,
+            "older_value": 5,
+            "diff": 0,
+            "percent": 0
+          },
+          "top10": {
+            "recent_value": 9,
+            "older_value": 9,
+            "diff": 0,
+            "percent": 0
+          },
+          "top50": {
+            "recent_value": 86,
+            "older_value": 83,
+            "diff": 3,
+            "percent": 0.0361
+          },
+          "visibility": {
+            "recent_value": 72,
+            "older_value": 72,
+            "diff": 0,
+            "percent": 0
+          },
+          "domain_rank": {
+            "recent_value": 537278,
+            "older_value": 537695,
+            "diff": -417,
+            "percent": -0.0008
+          },
+          "ads_equivalent": {
+            "recent_value": 3.66,
+            "older_value": 3.66,
+            "diff": 0,
+            "percent": 0
+          },
+          "category": {
+            "name": "",
+            "statistics": {
+              "recent_value": 537276,
+              "older_value": 537276,
+              "diff": 0,
+              "percent": 0
+            }
+          },
+          "aio_keywords": {
+            "recent_value": 36,
+            "older_value": 36,
+            "diff": 0,
+            "percent": 0
+          },
+          "aio_visible_keywords": {
+            "recent_value": 5,
+            "older_value": 5,
+            "diff": 0,
+            "percent": 0
+          }
+        }
+      }
+    },
+    "status": 200,
+    "domain": "feniksfinanse.pl",
+    "endpoint": "get_domain_statistics"
+  }
+}

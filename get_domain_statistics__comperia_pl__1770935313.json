@@ -1,0 +1,74 @@
+{
+  "domain": "comperia.pl",
+  "endpoint": "get_domain_statistics",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "statistics": {
+          "top3": {
+            "recent_value": 1331,
+            "older_value": 1334,
+            "diff": -3,
+            "percent": -0.0022
+          },
+          "top10": {
+            "recent_value": 6339,
+            "older_value": 6343,
+            "diff": -4,
+            "percent": -0.0006
+          },
+          "top50": {
+            "recent_value": 26394,
+            "older_value": 26369,
+            "diff": 25,
+            "percent": 0.0009
+          },
+          "visibility": {
+            "recent_value": 38159,
+            "older_value": 38576,
+            "diff": -417,
+            "percent": -0.0108
+          },
+          "domain_rank": {
+            "recent_value": 7785,
+            "older_value": 7720,
+            "diff": 65,
+            "percent": 0.0084
+          },
+          "ads_equivalent": {
+            "recent_value": 96677.76,
+            "older_value": 104973.36,
+            "diff": -8295.6,
+            "percent": -0.079
+          },
+          "category": {
+            "name": "",
+            "statistics": {
+              "recent_value": 7785,
+              "older_value": 7785,
+              "diff": 0,
+              "percent": 0
+            }
+          },
+          "aio_keywords": {
+            "recent_value": 14144,
+            "older_value": 14144,
+            "diff": 0,
+            "percent": 0
+          },
+          "aio_visible_keywords": {
+            "recent_value": 5126,
+            "older_value": 5126,
+            "diff": 0,
+            "percent": 0
+          }
+        }
+      }
+    },
+    "status": 200,
+    "domain": "comperia.pl",
+    "endpoint": "get_domain_statistics"
+  }
+}

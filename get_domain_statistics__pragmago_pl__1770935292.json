@@ -1,0 +1,74 @@
+{
+  "domain": "pragmago.pl",
+  "endpoint": "get_domain_statistics",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "statistics": {
+          "top3": {
+            "recent_value": 2349,
+            "older_value": 2357,
+            "diff": -8,
+            "percent": -0.0034
+          },
+          "top10": {
+            "recent_value": 8397,
+            "older_value": 8362,
+            "diff": 35,
+            "percent": 0.0042
+          },
+          "top50": {
+            "recent_value": 19408,
+            "older_value": 19422,
+            "diff": -14,
+            "percent": -0.0007
+          },
+          "visibility": {
+            "recent_value": 115810,
+            "older_value": 105953,
+            "diff": 9857,
+            "percent": 0.093
+          },
+          "domain_rank": {
+            "recent_value": 2839,
+            "older_value": 3074,
+            "diff": -235,
+            "percent": -0.0764
+          },
+          "ads_equivalent": {
+            "recent_value": 353404.76,
+            "older_value": 316413.04,
+            "diff": 36991.72,
+            "percent": 0.1169
+          },
+          "category": {
+            "name": "",
+            "statistics": {
+              "recent_value": 2839,
+              "older_value": 2839,
+              "diff": 0,
+              "percent": 0
+            }
+          },
+          "aio_keywords": {
+            "recent_value": 6850,
+            "older_value": 6850,
+            "diff": 0,
+            "percent": 0
+          },
+          "aio_visible_keywords": {
+            "recent_value": 4510,
+            "older_value": 4510,
+            "diff": 0,
+            "percent": 0
+          }
+        }
+      }
+    },
+    "status": 200,
+    "domain": "pragmago.pl",
+    "endpoint": "get_domain_statistics"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "domain": "bankierkredyty.eu",
+  "endpoint": "get_domain_statistics",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "statistics": {
+          "top3": {
+            "recent_value": 4,
+            "older_value": 4,
+            "diff": 0,
+            "percent": 0
+          },
+          "top10": {
+            "recent_value": 16,
+            "older_value": 17,
+            "diff": -1,
+            "percent": -0.0588
+          },
+          "top50": {
+            "recent_value": 56,
+            "older_value": 56,
+            "diff": 0,
+            "percent": 0
+          },
+          "visibility": {
+            "recent_value": 29,
+            "older_value": 30,
+            "diff": -1,
+            "percent": -0.0333
+          },
+          "domain_rank": {
+            "recent_value": 774193,
+            "older_value": 771142,
+            "diff": 3051,
+            "percent": 0.004
+          },
+          "ads_equivalent": {
+            "recent_value": 430.64,
+            "older_value": 452.05,
+            "diff": -21.41,
+            "percent": -0.0474
+          },
+          "category": {
+            "name": "",
+            "statistics": {
+              "recent_value": 774193,
+              "older_value": 774193,
+              "diff": 0,
+              "percent": 0
+            }
+          },
+          "aio_keywords": {
+            "recent_value": 2,
+            "older_value": 2,
+            "diff": 0,
+            "percent": 0
+          },
+          "aio_visible_keywords": {
+            "recent_value": 21,
+            "older_value": 21,
+            "diff": 0,
+            "percent": 0
+          }
+        }
+      }
+    },
+    "status": 200,
+    "domain": "bankierkredyty.eu",
+    "endpoint": "get_domain_statistics"
+  }
+}

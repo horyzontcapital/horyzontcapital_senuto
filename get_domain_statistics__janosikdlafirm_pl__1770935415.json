@@ -1,0 +1,74 @@
+{
+  "domain": "janosikdlafirm.pl",
+  "endpoint": "get_domain_statistics",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "statistics": {
+          "top3": {
+            "recent_value": 5,
+            "older_value": 5,
+            "diff": 0,
+            "percent": 0
+          },
+          "top10": {
+            "recent_value": 10,
+            "older_value": 11,
+            "diff": -1,
+            "percent": -0.0909
+          },
+          "top50": {
+            "recent_value": 61,
+            "older_value": 61,
+            "diff": 0,
+            "percent": 0
+          },
+          "visibility": {
+            "recent_value": 179,
+            "older_value": 192,
+            "diff": -13,
+            "percent": -0.0677
+          },
+          "domain_rank": {
+            "recent_value": 351849,
+            "older_value": 339991,
+            "diff": 11858,
+            "percent": 0.0349
+          },
+          "ads_equivalent": {
+            "recent_value": 2809.69,
+            "older_value": 2827.63,
+            "diff": -17.94,
+            "percent": -0.0063
+          },
+          "category": {
+            "name": "",
+            "statistics": {
+              "recent_value": 351849,
+              "older_value": 351849,
+              "diff": 0,
+              "percent": 0
+            }
+          },
+          "aio_keywords": {
+            "recent_value": 4,
+            "older_value": 4,
+            "diff": 0,
+            "percent": 0
+          },
+          "aio_visible_keywords": {
+            "recent_value": 17,
+            "older_value": 17,
+            "diff": 0,
+            "percent": 0
+          }
+        }
+      }
+    },
+    "status": 200,
+    "domain": "janosikdlafirm.pl",
+    "endpoint": "get_domain_statistics"
+  }
+}
