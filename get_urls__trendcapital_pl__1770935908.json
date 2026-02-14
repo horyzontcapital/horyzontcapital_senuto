@@ -1,0 +1,47 @@
+{
+  "domain": "trendcapital.pl",
+  "endpoint": "get_urls",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "url": "trendcapital.pl/",
+        "keywords_count": 3,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 32.69,
+            "previous": 32.69,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 1,
+            "previous": 1,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 3,
+            "previous": 3,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 8,
+            "previous": 11,
+            "diff": -3,
+            "percent": -0.2727,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "trendcapital.pl",
+    "endpoint": "get_urls"
+  }
+}

@@ -1,0 +1,894 @@
+{
+  "domain": "horyzontcapital.com",
+  "endpoint": "get_competitors",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "horyzontcapital.com",
+        "is_main_domain": true,
+        "common_keywords": null,
+        "statistics": {
+          "top3": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 13,
+            "previous": 12,
+            "diff": 1,
+            "percent": 0.0833,
+            "history": null
+          },
+          "top50": {
+            "current": 102,
+            "previous": 96,
+            "diff": 6,
+            "percent": 0.0625,
+            "history": null
+          },
+          "visibility": {
+            "current": 31.37,
+            "previous": 20.82,
+            "diff": 10.55,
+            "percent": 0.5067,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 267.89,
+            "previous": 267.89,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 604633,
+            "previous": 691948,
+            "diff": -87315,
+            "percent": -0.1262,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "pod-zastaw.org",
+        "is_main_domain": false,
+        "common_keywords": 13,
+        "statistics": {
+          "top3": {
+            "current": 10,
+            "previous": 11,
+            "diff": -1,
+            "percent": -0.0909,
+            "history": null
+          },
+          "top10": {
+            "current": 34,
+            "previous": 33,
+            "diff": 1,
+            "percent": 0.0303,
+            "history": null
+          },
+          "top50": {
+            "current": 82,
+            "previous": 82,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 300.56,
+            "previous": 316.91,
+            "diff": -16.35,
+            "percent": -0.0516,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 3574.87,
+            "previous": 3574.87,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 226306,
+            "previous": 220158,
+            "diff": 6148,
+            "percent": 0.0279,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "krk-partners.pl",
+        "is_main_domain": false,
+        "common_keywords": 12,
+        "statistics": {
+          "top3": {
+            "current": 11,
+            "previous": 12,
+            "diff": -1,
+            "percent": -0.0833,
+            "history": null
+          },
+          "top10": {
+            "current": 70,
+            "previous": 70,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 184,
+            "previous": 182,
+            "diff": 2,
+            "percent": 0.011,
+            "history": null
+          },
+          "visibility": {
+            "current": 278.66,
+            "previous": 272.99,
+            "diff": 5.67,
+            "percent": 0.0208,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 2646.8,
+            "previous": 2646.8,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 235039,
+            "previous": 237837,
+            "diff": -2798,
+            "percent": -0.0118,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "pozyczkihipoteczne.eu",
+        "is_main_domain": false,
+        "common_keywords": 12,
+        "statistics": {
+          "top3": {
+            "current": 27,
+            "previous": 26,
+            "diff": 1,
+            "percent": 0.0385,
+            "history": null
+          },
+          "top10": {
+            "current": 73,
+            "previous": 74,
+            "diff": -1,
+            "percent": -0.0135,
+            "history": null
+          },
+          "top50": {
+            "current": 239,
+            "previous": 235,
+            "diff": 4,
+            "percent": 0.017,
+            "history": null
+          },
+          "visibility": {
+            "current": 1250.4,
+            "previous": 1217.19,
+            "diff": 33.21,
+            "percent": 0.0273,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 11776.33,
+            "previous": 11776.33,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 99121,
+            "previous": 100915,
+            "diff": -1794,
+            "percent": -0.0178,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "smartvest.pl",
+        "is_main_domain": false,
+        "common_keywords": 11,
+        "statistics": {
+          "top3": {
+            "current": 11,
+            "previous": 11,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 36,
+            "previous": 36,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 132,
+            "previous": 132,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 229.59,
+            "previous": 239.04,
+            "diff": -9.45,
+            "percent": -0.0395,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 1655.28,
+            "previous": 1655.28,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 259291,
+            "previous": 254601,
+            "diff": 4690,
+            "percent": 0.0184,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "gotowka-podzastaw.letnet.pl",
+        "is_main_domain": false,
+        "common_keywords": 9,
+        "statistics": {
+          "top3": {
+            "current": 8,
+            "previous": 7,
+            "diff": 1,
+            "percent": 0.1429,
+            "history": null
+          },
+          "top10": {
+            "current": 48,
+            "previous": 46,
+            "diff": 2,
+            "percent": 0.0435,
+            "history": null
+          },
+          "top50": {
+            "current": 163,
+            "previous": 161,
+            "diff": 2,
+            "percent": 0.0124,
+            "history": null
+          },
+          "visibility": {
+            "current": 182.09,
+            "previous": 171.04,
+            "diff": 11.05,
+            "percent": 0.0646,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 2016.69,
+            "previous": 2016.69,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "tadam-finanse.pl",
+        "is_main_domain": false,
+        "common_keywords": 8,
+        "statistics": {
+          "top3": {
+            "current": 12,
+            "previous": 12,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 32,
+            "previous": 32,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 118,
+            "previous": 116,
+            "diff": 2,
+            "percent": 0.0172,
+            "history": null
+          },
+          "visibility": {
+            "current": 283.13,
+            "previous": 274.12,
+            "diff": 9.01,
+            "percent": 0.0329,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 2445.29,
+            "previous": 2445.29,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 233115,
+            "previous": 237479,
+            "diff": -4364,
+            "percent": -0.0184,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "inwestum.com.pl",
+        "is_main_domain": false,
+        "common_keywords": 5,
+        "statistics": {
+          "top3": {
+            "current": 1,
+            "previous": 1,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 11,
+            "previous": 12,
+            "diff": -1,
+            "percent": -0.0833,
+            "history": null
+          },
+          "top50": {
+            "current": 44,
+            "previous": 44,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 30.8,
+            "previous": 33.32,
+            "diff": -2.52,
+            "percent": -0.0756,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 383.27,
+            "previous": 383.27,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 607487,
+            "previous": 590410,
+            "diff": 17077,
+            "percent": 0.0289,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "newpoint-finance.pl",
+        "is_main_domain": false,
+        "common_keywords": 5,
+        "statistics": {
+          "top3": {
+            "current": 2,
+            "previous": 2,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 13,
+            "previous": 13,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 68,
+            "previous": 69,
+            "diff": -1,
+            "percent": -0.0145,
+            "history": null
+          },
+          "visibility": {
+            "current": 59.22,
+            "previous": 59.22,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 351.91,
+            "previous": 351.91,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 476739,
+            "previous": 476908,
+            "diff": -169,
+            "percent": -0.0004,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "bankowybroker.pl",
+        "is_main_domain": false,
+        "common_keywords": 4,
+        "statistics": {
+          "top3": {
+            "current": 1,
+            "previous": 1,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 12,
+            "previous": 12,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 74,
+            "previous": 72,
+            "diff": 2,
+            "percent": 0.0278,
+            "history": null
+          },
+          "visibility": {
+            "current": 18.52,
+            "previous": 18.52,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 146.44,
+            "previous": 146.44,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 715754,
+            "previous": 716320,
+            "diff": -566,
+            "percent": -0.0008,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "businessfunds.pl",
+        "is_main_domain": false,
+        "common_keywords": 4,
+        "statistics": {
+          "top3": {
+            "current": 1,
+            "previous": 1,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 7,
+            "previous": 6,
+            "diff": 1,
+            "percent": 0.1667,
+            "history": null
+          },
+          "top50": {
+            "current": 99,
+            "previous": 100,
+            "diff": -1,
+            "percent": -0.01,
+            "history": null
+          },
+          "visibility": {
+            "current": 35.52,
+            "previous": 59.72,
+            "diff": -24.2,
+            "percent": -0.4052,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 357.03,
+            "previous": 357.03,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 577530,
+            "previous": 475310,
+            "diff": 102220,
+            "percent": 0.2151,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "pragroup.pl",
+        "is_main_domain": false,
+        "common_keywords": 4,
+        "statistics": {
+          "top3": {
+            "current": 46,
+            "previous": 46,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 79,
+            "previous": 79,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 203,
+            "previous": 197,
+            "diff": 6,
+            "percent": 0.0305,
+            "history": null
+          },
+          "visibility": {
+            "current": 5075.9,
+            "previous": 5075.9,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 88481.7,
+            "previous": 88481.7,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 35422,
+            "previous": 35483,
+            "diff": -61,
+            "percent": -0.0017,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "serwaczakowie.pl",
+        "is_main_domain": false,
+        "common_keywords": 4,
+        "statistics": {
+          "top3": {
+            "current": 4,
+            "previous": 4,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 33,
+            "previous": 33,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 113,
+            "previous": 114,
+            "diff": -1,
+            "percent": -0.0088,
+            "history": null
+          },
+          "visibility": {
+            "current": 93.15,
+            "previous": 93.69,
+            "diff": -0.54,
+            "percent": -0.0058,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 348.97,
+            "previous": 348.97,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 394480,
+            "previous": 393868,
+            "diff": 612,
+            "percent": 0.0016,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "ftfund.pl",
+        "is_main_domain": false,
+        "common_keywords": 3,
+        "statistics": {
+          "top3": {
+            "current": 5,
+            "previous": 5,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 19,
+            "previous": 19,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 86,
+            "previous": 86,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 66.7,
+            "previous": 41.39,
+            "diff": 25.31,
+            "percent": 0.6115,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 616.09,
+            "previous": 616.09,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 453326,
+            "previous": 545453,
+            "diff": -92127,
+            "percent": -0.1689,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "info.krd.pl",
+        "is_main_domain": false,
+        "common_keywords": 3,
+        "statistics": {
+          "top3": {
+            "current": 23,
+            "previous": 24,
+            "diff": -1,
+            "percent": -0.0417,
+            "history": null
+          },
+          "top10": {
+            "current": 83,
+            "previous": 80,
+            "diff": 3,
+            "percent": 0.0375,
+            "history": null
+          },
+          "top50": {
+            "current": 245,
+            "previous": 247,
+            "diff": -2,
+            "percent": -0.0081,
+            "history": null
+          },
+          "visibility": {
+            "current": 272.67,
+            "previous": 265.75,
+            "diff": 6.92,
+            "percent": 0.026,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 476.22,
+            "previous": 476.22,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "masiota.com",
+        "is_main_domain": false,
+        "common_keywords": 3,
+        "statistics": {
+          "top3": {
+            "current": 12,
+            "previous": 12,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 26,
+            "previous": 26,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 60,
+            "previous": 60,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 182.48,
+            "previous": 183.93,
+            "diff": -1.45,
+            "percent": -0.0079,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 233.74,
+            "previous": 233.74,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 289745,
+            "previous": 288968,
+            "diff": 777,
+            "percent": 0.0027,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "novalend.pl",
+        "is_main_domain": false,
+        "common_keywords": 3,
+        "statistics": {
+          "top3": {
+            "current": 17,
+            "previous": 17,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 77,
+            "previous": 78,
+            "diff": -1,
+            "percent": -0.0128,
+            "history": null
+          },
+          "top50": {
+            "current": 242,
+            "previous": 246,
+            "diff": -4,
+            "percent": -0.0163,
+            "history": null
+          },
+          "visibility": {
+            "current": 318.78,
+            "previous": 317.28,
+            "diff": 1.5,
+            "percent": 0.0047,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 4668.58,
+            "previous": 4668.58,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 219331,
+            "previous": 220029,
+            "diff": -698,
+            "percent": -0.0032,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "podzastaw.biz",
+        "is_main_domain": false,
+        "common_keywords": 3,
+        "statistics": {
+          "top3": {
+            "current": 1,
+            "previous": 1,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 17,
+            "previous": 19,
+            "diff": -2,
+            "percent": -0.1053,
+            "history": null
+          },
+          "top50": {
+            "current": 33,
+            "previous": 39,
+            "diff": -6,
+            "percent": -0.1538,
+            "history": null
+          },
+          "visibility": {
+            "current": 32.43,
+            "previous": 42.44,
+            "diff": -10.01,
+            "percent": -0.2359,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 338,
+            "previous": 338,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 595131,
+            "previous": 539983,
+            "diff": 55148,
+            "percent": 0.1021,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 18,
+    "domain": "horyzontcapital.com",
+    "endpoint": "get_competitors"
+  }
+}

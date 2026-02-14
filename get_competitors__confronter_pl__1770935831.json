@@ -1,0 +1,453 @@
+{
+  "domain": "confronter.pl",
+  "endpoint": "get_competitors",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "confronter.pl",
+        "is_main_domain": true,
+        "common_keywords": null,
+        "statistics": {
+          "top3": {
+            "current": 8,
+            "previous": 8,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 16,
+            "previous": 16,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 584,
+            "previous": 587,
+            "diff": -3,
+            "percent": -0.0051,
+            "history": null
+          },
+          "visibility": {
+            "current": 80.61,
+            "previous": 80.61,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 140.41,
+            "previous": 140.41,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 419171,
+            "previous": 419545,
+            "diff": -374,
+            "percent": -0.0009,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "mojaporownywarka.pl",
+        "is_main_domain": false,
+        "common_keywords": 52,
+        "statistics": {
+          "top3": {
+            "current": 64,
+            "previous": 64,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 293,
+            "previous": 292,
+            "diff": 1,
+            "percent": 0.0034,
+            "history": null
+          },
+          "top50": {
+            "current": 998,
+            "previous": 992,
+            "diff": 6,
+            "percent": 0.006,
+            "history": null
+          },
+          "visibility": {
+            "current": 755.77,
+            "previous": 795.18,
+            "diff": -39.41,
+            "percent": -0.0496,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 2667.76,
+            "previous": 2667.76,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 135240,
+            "previous": 131428,
+            "diff": 3812,
+            "percent": 0.029,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "porownajabonamenty.pl",
+        "is_main_domain": false,
+        "common_keywords": 31,
+        "statistics": {
+          "top3": {
+            "current": 18,
+            "previous": 18,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 192,
+            "previous": 196,
+            "diff": -4,
+            "percent": -0.0204,
+            "history": null
+          },
+          "top50": {
+            "current": 1045,
+            "previous": 1048,
+            "diff": -3,
+            "percent": -0.0029,
+            "history": null
+          },
+          "visibility": {
+            "current": 468.97,
+            "previous": 623.09,
+            "diff": -154.12,
+            "percent": -0.2473,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 3601.64,
+            "previous": 3601.64,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 178108,
+            "previous": 151692,
+            "diff": 26416,
+            "percent": 0.1741,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "maszwybor.ure.gov.pl",
+        "is_main_domain": false,
+        "common_keywords": 29,
+        "statistics": {
+          "top3": {
+            "current": 131,
+            "previous": 132,
+            "diff": -1,
+            "percent": -0.0076,
+            "history": null
+          },
+          "top10": {
+            "current": 286,
+            "previous": 287,
+            "diff": -1,
+            "percent": -0.0035,
+            "history": null
+          },
+          "top50": {
+            "current": 708,
+            "previous": 691,
+            "diff": 17,
+            "percent": 0.0246,
+            "history": null
+          },
+          "visibility": {
+            "current": 1890.23,
+            "previous": 1945.56,
+            "diff": -55.33,
+            "percent": -0.0284,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 67561.78,
+            "previous": 67561.78,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "porownywarkagsm.pl",
+        "is_main_domain": false,
+        "common_keywords": 19,
+        "statistics": {
+          "top3": {
+            "current": 1,
+            "previous": 1,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 111,
+            "previous": 112,
+            "diff": -1,
+            "percent": -0.0089,
+            "history": null
+          },
+          "top50": {
+            "current": 1367,
+            "previous": 1365,
+            "diff": 2,
+            "percent": 0.0015,
+            "history": null
+          },
+          "visibility": {
+            "current": 182.46,
+            "previous": 176.59,
+            "diff": 5.87,
+            "percent": 0.0332,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 398.64,
+            "previous": 398.64,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 289765,
+            "previous": 294891,
+            "diff": -5126,
+            "percent": -0.0174,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "mtmenergygroup.pl",
+        "is_main_domain": false,
+        "common_keywords": 17,
+        "statistics": {
+          "top3": {
+            "current": 3,
+            "previous": 3,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 45,
+            "previous": 45,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 208,
+            "previous": 209,
+            "diff": -1,
+            "percent": -0.0048,
+            "history": null
+          },
+          "visibility": {
+            "current": 101.53,
+            "previous": 106.02,
+            "diff": -4.49,
+            "percent": -0.0424,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 202.82,
+            "previous": 202.82,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 380104,
+            "previous": 373231,
+            "diff": 6873,
+            "percent": 0.0184,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "ogarniamprad.pl",
+        "is_main_domain": false,
+        "common_keywords": 15,
+        "statistics": {
+          "top3": {
+            "current": 24,
+            "previous": 23,
+            "diff": 1,
+            "percent": 0.0435,
+            "history": null
+          },
+          "top10": {
+            "current": 151,
+            "previous": 152,
+            "diff": -1,
+            "percent": -0.0066,
+            "history": null
+          },
+          "top50": {
+            "current": 615,
+            "previous": 614,
+            "diff": 1,
+            "percent": 0.0016,
+            "history": null
+          },
+          "visibility": {
+            "current": 499.26,
+            "previous": 497.43,
+            "diff": 1.83,
+            "percent": 0.0037,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 165.17,
+            "previous": 165.17,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 171975,
+            "previous": 172531,
+            "diff": -556,
+            "percent": -0.0032,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "porownywarkatelewizji.pl",
+        "is_main_domain": false,
+        "common_keywords": 14,
+        "statistics": {
+          "top3": {
+            "current": 148,
+            "previous": 152,
+            "diff": -4,
+            "percent": -0.0263,
+            "history": null
+          },
+          "top10": {
+            "current": 616,
+            "previous": 613,
+            "diff": 3,
+            "percent": 0.0049,
+            "history": null
+          },
+          "top50": {
+            "current": 1764,
+            "previous": 1762,
+            "diff": 2,
+            "percent": 0.0011,
+            "history": null
+          },
+          "visibility": {
+            "current": 7614.93,
+            "previous": 7738.28,
+            "diff": -123.35,
+            "percent": -0.0159,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 13717.48,
+            "previous": 13717.48,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 27847,
+            "previous": 27566,
+            "diff": 281,
+            "percent": 0.0102,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "zatrzymajlicznik.pl",
+        "is_main_domain": false,
+        "common_keywords": 14,
+        "statistics": {
+          "top3": {
+            "current": 3,
+            "previous": 2,
+            "diff": 1,
+            "percent": 0.5,
+            "history": null
+          },
+          "top10": {
+            "current": 23,
+            "previous": 23,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 276,
+            "previous": 273,
+            "diff": 3,
+            "percent": 0.011,
+            "history": null
+          },
+          "visibility": {
+            "current": 122.06,
+            "previous": 62.09,
+            "diff": 59.97,
+            "percent": 0.9659,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 104,
+            "previous": 104,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 349987,
+            "previous": 466988,
+            "diff": -117001,
+            "percent": -0.2505,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 9,
+    "domain": "confronter.pl",
+    "endpoint": "get_competitors"
+  }
+}

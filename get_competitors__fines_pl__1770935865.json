@@ -1,0 +1,110 @@
+{
+  "domain": "fines.pl",
+  "endpoint": "get_competitors",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "blogkredytowy.pl",
+        "is_main_domain": false,
+        "common_keywords": 30,
+        "statistics": {
+          "top3": {
+            "current": 89,
+            "previous": 91,
+            "diff": -2,
+            "percent": -0.022,
+            "history": null
+          },
+          "top10": {
+            "current": 322,
+            "previous": 331,
+            "diff": -9,
+            "percent": -0.0272,
+            "history": null
+          },
+          "top50": {
+            "current": 2627,
+            "previous": 2711,
+            "diff": -84,
+            "percent": -0.031,
+            "history": null
+          },
+          "visibility": {
+            "current": 662.06,
+            "previous": 695.11,
+            "diff": -33.05,
+            "percent": -0.0475,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 725.86,
+            "previous": 725.86,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 146208,
+            "previous": 142261,
+            "diff": 3947,
+            "percent": 0.0277,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "konsument.krd.pl",
+        "is_main_domain": false,
+        "common_keywords": 18,
+        "statistics": {
+          "top3": {
+            "current": 104,
+            "previous": 104,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 187,
+            "previous": 189,
+            "diff": -2,
+            "percent": -0.0106,
+            "history": null
+          },
+          "top50": {
+            "current": 875,
+            "previous": 896,
+            "diff": -21,
+            "percent": -0.0234,
+            "history": null
+          },
+          "visibility": {
+            "current": 11168.38,
+            "previous": 11253.01,
+            "diff": -84.63,
+            "percent": -0.0075,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 25698,
+            "previous": 25698,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 2,
+    "domain": "fines.pl",
+    "endpoint": "get_competitors"
+  }
+}
