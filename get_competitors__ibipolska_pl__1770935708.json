@@ -1,0 +1,110 @@
+{
+  "domain": "ibipolska.pl",
+  "endpoint": "get_competitors",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "ibipolska.pl",
+        "is_main_domain": true,
+        "common_keywords": null,
+        "statistics": {
+          "top3": {
+            "current": 3,
+            "previous": 3,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 3,
+            "previous": 3,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 12,
+            "previous": 12,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 398.72,
+            "previous": 398.72,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 194475,
+            "previous": 194732,
+            "diff": -257,
+            "percent": -0.0013,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "mottonestates.com",
+        "is_main_domain": false,
+        "common_keywords": 3,
+        "statistics": {
+          "top3": {
+            "current": 6,
+            "previous": 6,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 6,
+            "previous": 6,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 11,
+            "previous": 10,
+            "diff": 1,
+            "percent": 0.1,
+            "history": null
+          },
+          "visibility": {
+            "current": 74.65,
+            "previous": 74.65,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 73.08,
+            "previous": 73.08,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 433886,
+            "previous": 434192,
+            "diff": -306,
+            "percent": -0.0007,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 2,
+    "domain": "ibipolska.pl",
+    "endpoint": "get_competitors"
+  }
+}

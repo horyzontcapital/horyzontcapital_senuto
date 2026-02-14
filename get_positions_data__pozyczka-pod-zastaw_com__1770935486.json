@@ -1,0 +1,267 @@
+{
+  "domain": "pozyczka-pod-zastaw.com",
+  "endpoint": "get_positions_data",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "keyword_id": 12116017,
+        "kid": "13347cc79abfe5eaf581e15e478fd1fd",
+        "domain": "pozyczka-pod-zastaw.com",
+        "keyword": "pożyczka pod zastaw auta do 15 lat",
+        "words_count": 7,
+        "statistics": {
+          "position": {
+            "current": 22,
+            "previous": 22,
+            "diff": 0,
+            "changes": {
+              "wins": 0,
+              "losses": 0,
+              "no_changes": 1
+            },
+            "history": {
+              "2026-01-18": {
+                "position": 22,
+                "has_serp": true
+              },
+              "2026-02-06": {
+                "position": 22,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "pozyczka-pod-zastaw.com/pozyczka-pod-zastaw-samochodu/",
+            "previous": "pozyczka-pod-zastaw.com/pozyczka-pod-zastaw-samochodu/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 1.41
+          },
+          "searches": {
+            "current": 50
+          },
+          "trends": {
+            "history": [
+              40,
+              50,
+              50,
+              50,
+              50,
+              40,
+              90,
+              40,
+              70,
+              50,
+              50,
+              40
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 23
+          },
+          "snippets": {
+            "current": []
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 9410327,
+        "kid": "cf1e82b4260339c4e4944dd7a6db9720",
+        "domain": "pozyczka-pod-zastaw.com",
+        "keyword": "uczciwe pożyczki pod zastaw mieszkania",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 38,
+            "previous": 36,
+            "diff": 2,
+            "changes": {
+              "wins": 2,
+              "losses": 4,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-19": {
+                "position": 27,
+                "has_serp": true
+              },
+              "2025-12-26": {
+                "position": 34,
+                "has_serp": true
+              },
+              "2026-01-04": {
+                "position": 37,
+                "has_serp": true
+              },
+              "2026-01-11": {
+                "position": 34,
+                "has_serp": true
+              },
+              "2026-01-22": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-01": {
+                "position": 36,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 38,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "pozyczka-pod-zastaw.com/pozyczka-pod-zastaw-domu/",
+            "previous": "pozyczka-pod-zastaw.com/pozyczka-pod-zastaw-domu/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 1.71
+          },
+          "searches": {
+            "current": 90
+          },
+          "trends": {
+            "history": [
+              90,
+              30,
+              50,
+              50,
+              140,
+              90,
+              70,
+              70,
+              110,
+              110,
+              140,
+              70
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 27
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 1609125,
+        "kid": "228aae8e20f061c8141f8a5417373264",
+        "domain": "pozyczka-pod-zastaw.com",
+        "keyword": "pożyczki pod zastaw gruntów rolnych",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 33,
+            "previous": 33,
+            "diff": 0,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-28": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-12": {
+                "position": 33,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "pozyczka-pod-zastaw.com/pozyczka-pod-zastaw-dla-rolnikow/",
+            "previous": "pozyczka-pod-zastaw.com/pozyczka-pod-zastaw-dla-rolnikow/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 8.48
+          },
+          "searches": {
+            "current": 70
+          },
+          "trends": {
+            "history": [
+              90,
+              40,
+              40,
+              40,
+              50,
+              20,
+              30,
+              110,
+              70,
+              50,
+              170,
+              110
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 29
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      }
+    ],
+    "total": 3,
+    "domain": "pozyczka-pod-zastaw.com",
+    "endpoint": "get_positions_data"
+  }
+}

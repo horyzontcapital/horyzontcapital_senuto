@@ -1,0 +1,91 @@
+{
+  "domain": "funduszkorona.pl",
+  "endpoint": "get_positions_data",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "keyword_id": 10071027,
+        "kid": "de1547a44ade3d704827c74cc208d086",
+        "domain": "funduszkorona.pl",
+        "keyword": "pożyczka korona",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 1,
+            "previous": 1,
+            "diff": 0,
+            "changes": {
+              "wins": 0,
+              "losses": 0,
+              "no_changes": 1
+            },
+            "history": {
+              "2026-01-17": {
+                "position": 1,
+                "has_serp": true
+              },
+              "2026-02-05": {
+                "position": 1,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 7.12,
+            "previous": 7.12,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "funduszkorona.pl/",
+            "previous": "funduszkorona.pl/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 4.31
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              10,
+              40,
+              50,
+              40,
+              40,
+              30,
+              20,
+              10,
+              10,
+              10,
+              10,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 36
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "funduszkorona.pl",
+    "endpoint": "get_positions_data"
+  }
+}

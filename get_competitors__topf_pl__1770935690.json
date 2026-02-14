@@ -1,0 +1,355 @@
+{
+  "domain": "topf.pl",
+  "endpoint": "get_competitors",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "topf.pl",
+        "is_main_domain": true,
+        "common_keywords": null,
+        "statistics": {
+          "top3": {
+            "current": 9,
+            "previous": 9,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 16,
+            "previous": 16,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 43,
+            "previous": 44,
+            "diff": -1,
+            "percent": -0.0227,
+            "history": null
+          },
+          "visibility": {
+            "current": 257.87,
+            "previous": 257.87,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 3785.95,
+            "previous": 3785.95,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 244797,
+            "previous": 245127,
+            "diff": -330,
+            "percent": -0.0013,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "fluxo.com.pl",
+        "is_main_domain": false,
+        "common_keywords": 15,
+        "statistics": {
+          "top3": {
+            "current": 17,
+            "previous": 17,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 33,
+            "previous": 33,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 139,
+            "previous": 135,
+            "diff": 4,
+            "percent": 0.0296,
+            "history": null
+          },
+          "visibility": {
+            "current": 196.71,
+            "previous": 196.71,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 2501.12,
+            "previous": 2501.12,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 279782,
+            "previous": 280174,
+            "diff": -392,
+            "percent": -0.0014,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "grupafinansowa.com",
+        "is_main_domain": false,
+        "common_keywords": 6,
+        "statistics": {
+          "top3": {
+            "current": 7,
+            "previous": 7,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 30,
+            "previous": 30,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 101,
+            "previous": 100,
+            "diff": 1,
+            "percent": 0.01,
+            "history": null
+          },
+          "visibility": {
+            "current": 109.06,
+            "previous": 109.06,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 672.33,
+            "previous": 672.33,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 368218,
+            "previous": 368551,
+            "diff": -333,
+            "percent": -0.0009,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "krk-partners.pl",
+        "is_main_domain": false,
+        "common_keywords": 5,
+        "statistics": {
+          "top3": {
+            "current": 11,
+            "previous": 12,
+            "diff": -1,
+            "percent": -0.0833,
+            "history": null
+          },
+          "top10": {
+            "current": 70,
+            "previous": 70,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 184,
+            "previous": 182,
+            "diff": 2,
+            "percent": 0.011,
+            "history": null
+          },
+          "visibility": {
+            "current": 278.66,
+            "previous": 272.99,
+            "diff": 5.67,
+            "percent": 0.0208,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 2646.8,
+            "previous": 2646.8,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 235039,
+            "previous": 237837,
+            "diff": -2798,
+            "percent": -0.0118,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "simplefinance.pl",
+        "is_main_domain": false,
+        "common_keywords": 5,
+        "statistics": {
+          "top3": {
+            "current": 12,
+            "previous": 12,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 27,
+            "previous": 29,
+            "diff": -2,
+            "percent": -0.069,
+            "history": null
+          },
+          "top50": {
+            "current": 140,
+            "previous": 142,
+            "diff": -2,
+            "percent": -0.0141,
+            "history": null
+          },
+          "visibility": {
+            "current": 158.84,
+            "previous": 163.05,
+            "diff": -4.21,
+            "percent": -0.0258,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 384.97,
+            "previous": 384.97,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 310070,
+            "previous": 307056,
+            "diff": 3014,
+            "percent": 0.0098,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "bankierkredyty.eu",
+        "is_main_domain": false,
+        "common_keywords": 4,
+        "statistics": {
+          "top3": {
+            "current": 4,
+            "previous": 4,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 16,
+            "previous": 17,
+            "diff": -1,
+            "percent": -0.0588,
+            "history": null
+          },
+          "top50": {
+            "current": 56,
+            "previous": 56,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 29.07,
+            "previous": 29.53,
+            "diff": -0.46,
+            "percent": -0.0156,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 430.64,
+            "previous": 430.64,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 619558,
+            "previous": 617283,
+            "diff": 2275,
+            "percent": 0.0037,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "kredytydlafirm.biz",
+        "is_main_domain": false,
+        "common_keywords": 3,
+        "statistics": {
+          "top3": {
+            "current": 2,
+            "previous": 2,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 16,
+            "previous": 16,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 62,
+            "previous": 61,
+            "diff": 1,
+            "percent": 0.0164,
+            "history": null
+          },
+          "visibility": {
+            "current": 44.64,
+            "previous": 44.64,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 449.87,
+            "previous": 449.87,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 530083,
+            "previous": 530541,
+            "diff": -458,
+            "percent": -0.0009,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 7,
+    "domain": "topf.pl",
+    "endpoint": "get_competitors"
+  }
+}

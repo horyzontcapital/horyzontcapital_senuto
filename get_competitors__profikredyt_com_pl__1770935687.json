@@ -1,0 +1,110 @@
+{
+  "domain": "profikredyt.com.pl",
+  "endpoint": "get_competitors",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "profikredyt.com.pl",
+        "is_main_domain": true,
+        "common_keywords": null,
+        "statistics": {
+          "top3": {
+            "current": 1,
+            "previous": 1,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 6,
+            "previous": 7,
+            "diff": -1,
+            "percent": -0.1429,
+            "history": null
+          },
+          "top50": {
+            "current": 51,
+            "previous": 50,
+            "diff": 1,
+            "percent": 0.02,
+            "history": null
+          },
+          "visibility": {
+            "current": 16.89,
+            "previous": 17.61,
+            "diff": -0.72,
+            "percent": -0.0409,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 48.97,
+            "previous": 48.97,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 742396,
+            "previous": 736981,
+            "diff": 5415,
+            "percent": 0.0073,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "pozyczki-gotowkowe.com.pl",
+        "is_main_domain": false,
+        "common_keywords": 4,
+        "statistics": {
+          "top3": {
+            "current": 6,
+            "previous": 6,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 43,
+            "previous": 43,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 178,
+            "previous": 175,
+            "diff": 3,
+            "percent": 0.0171,
+            "history": null
+          },
+          "visibility": {
+            "current": 57.35,
+            "previous": 57.35,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 349.25,
+            "previous": 349.25,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 481894,
+            "previous": 482076,
+            "diff": -182,
+            "percent": -0.0004,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 2,
+    "domain": "profikredyt.com.pl",
+    "endpoint": "get_competitors"
+  }
+}
