@@ -1,0 +1,47 @@
+{
+  "domain": "janvest.pl",
+  "endpoint": "get_url_sections",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "url_section": "janvest.pl/",
+        "keywords_count": 12,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 161.53,
+            "previous": 147.29,
+            "diff": 14.24,
+            "percent": 0.0967,
+            "history": null
+          },
+          "top3": {
+            "current": 9,
+            "previous": 8,
+            "diff": 1,
+            "percent": 0.125,
+            "history": null
+          },
+          "top10": {
+            "current": 12,
+            "previous": 11,
+            "diff": 1,
+            "percent": 0.0909,
+            "history": null
+          },
+          "top50": {
+            "current": 14,
+            "previous": 13,
+            "diff": 1,
+            "percent": 0.0769,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "janvest.pl",
+    "endpoint": "get_url_sections"
+  }
+}
