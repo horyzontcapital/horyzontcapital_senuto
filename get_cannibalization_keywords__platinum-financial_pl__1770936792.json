@@ -1,0 +1,78 @@
+{
+  "domain": "platinum-financial.pl",
+  "endpoint": "get_cannibalization_keywords",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "keyword": "platinum kredyty",
+        "keyword_id": 10208427,
+        "kid": "e133763f27476cf4d0c59517c4cd1bde",
+        "domain": "platinum-financial.pl",
+        "words_count": 2,
+        "brand": "",
+        "statistics": {
+          "position": {
+            "current": 2,
+            "previous": 2,
+            "diff": 0,
+            "changes": {
+              "wins": 0,
+              "losses": 0,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-28": 2,
+              "2026-02-10": 2
+            }
+          },
+          "visibility": {
+            "current": 1.75,
+            "previous": 1.75,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 10
+          },
+          "difficulty": {
+            "current": 32
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10
+            ],
+            "peak": []
+          },
+          "url": {
+            "current": "platinum-financial.pl/nasi-ludzie/",
+            "previous": "platinum-financial.pl/dla-klienta/"
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "platinum-financial.pl",
+    "endpoint": "get_cannibalization_keywords"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "domain": "mldomfinansowy.pl",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "mldomfinansowy.pl",
+        "keywords_count": 11,
+        "visibility_percent": 100,
+        "statistics": {
+          "visibility": {
+            "current": 53.21,
+            "previous": 51.32,
+            "diff": 1.89,
+            "percent": 0.0368,
+            "history": null
+          },
+          "top3": {
+            "current": 6,
+            "previous": 6,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 11,
+            "previous": 11,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 18,
+            "previous": 18,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 100,
+            "previous": 99.99,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "mldomfinansowy.pl",
+    "endpoint": "get_subdomains"
+  }
+}

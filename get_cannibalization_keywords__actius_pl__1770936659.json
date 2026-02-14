@@ -1,0 +1,83 @@
+{
+  "domain": "actius.pl",
+  "endpoint": "get_cannibalization_keywords",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "keyword": "conectum opinie",
+        "keyword_id": 5688898,
+        "kid": "7b9f5cb55052a7c6e3695c90545d065a",
+        "domain": "actius.pl",
+        "words_count": 2,
+        "brand": "conectum",
+        "statistics": {
+          "position": {
+            "current": 37,
+            "previous": 44,
+            "diff": -7,
+            "changes": {
+              "wins": 3,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-16": 33,
+              "2025-12-23": 32,
+              "2026-01-14": 33,
+              "2026-01-25": 29,
+              "2026-01-27": 44,
+              "2026-02-05": 37
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "cpc": {
+            "current": 2.38
+          },
+          "searches": {
+            "current": 70
+          },
+          "difficulty": {
+            "current": 25
+          },
+          "trends": {
+            "history": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "peak": []
+          },
+          "url": {
+            "current": "actius.pl/tag/conectum-opinie/",
+            "previous": "actius.pl/tag/conectum-forum/"
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "people_also_ask"
+            ]
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "actius.pl",
+    "endpoint": "get_cannibalization_keywords"
+  }
+}

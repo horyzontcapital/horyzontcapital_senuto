@@ -1,0 +1,286 @@
+{
+  "domain": "wealthon.com",
+  "endpoint": "get_cannibalization_keywords",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "keyword": "food truck jakie jedzenie",
+        "keyword_id": 10850101,
+        "kid": "efc96c3f4f8744dd63395fad2eaa33fe",
+        "domain": "wealthon.com",
+        "words_count": 4,
+        "brand": "",
+        "statistics": {
+          "position": {
+            "current": 30,
+            "previous": 46,
+            "diff": -16,
+            "changes": {
+              "wins": 1,
+              "losses": 0,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-18": 46,
+              "2026-02-06": 30
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 30
+          },
+          "difficulty": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              20,
+              30,
+              20,
+              30,
+              50,
+              50,
+              50,
+              40,
+              30,
+              20,
+              10,
+              20
+            ],
+            "peak": []
+          },
+          "url": {
+            "current": "wealthon.com/blog/5-najczestszych-bledow-w-prowadzeniu-food-trucka/",
+            "previous": "wealthon.com/blog/food-truck-gdzie-mozna-stanac/"
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          }
+        }
+      },
+      {
+        "keyword": "wirtualna karta kredytowa pożyczka",
+        "keyword_id": 12644676,
+        "kid": "424338508c9d1526ad1e4abca0d9caea",
+        "domain": "wealthon.com",
+        "words_count": 4,
+        "brand": "",
+        "statistics": {
+          "position": {
+            "current": 18,
+            "previous": 12,
+            "diff": 6,
+            "changes": {
+              "wins": 0,
+              "losses": 0,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-02-07": 18
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "cpc": {
+            "current": 1.61
+          },
+          "searches": {
+            "current": 30
+          },
+          "difficulty": {
+            "current": 26
+          },
+          "trends": {
+            "history": [
+              20,
+              10,
+              20,
+              20,
+              0,
+              0,
+              0,
+              0,
+              20,
+              110,
+              110,
+              70
+            ],
+            "peak": [
+              true,
+              true
+            ]
+          },
+          "url": {
+            "current": "wealthon.com/finansowanie/karta-z-limitem-kredytowym/",
+            "previous": "wealthon.com/blog/wirtualna-karta-kredytowa-co-to-jest-i-jak-dziala/"
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs"
+            ]
+          }
+        }
+      },
+      {
+        "keyword": "czy po kursie kosmetycznym można otworzyć salon",
+        "keyword_id": 14055428,
+        "kid": "c021a45957bac17233ba58dbd2c6211e",
+        "domain": "wealthon.com",
+        "words_count": 7,
+        "brand": "",
+        "statistics": {
+          "position": {
+            "current": 46,
+            "previous": 40,
+            "diff": 6,
+            "changes": {
+              "wins": 2,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-21": 50,
+              "2026-01-04": 46,
+              "2026-01-21": 40,
+              "2026-02-11": 46
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 50
+          },
+          "difficulty": {
+            "current": 15
+          },
+          "trends": {
+            "history": [
+              70,
+              50,
+              50,
+              20,
+              70,
+              40,
+              40,
+              40,
+              50,
+              50,
+              40,
+              30
+            ],
+            "peak": []
+          },
+          "url": {
+            "current": "wealthon.com/blog/maly-salon-kosmetyczny-w-domu-poradnik-dla-poczatkujacych/",
+            "previous": "wealthon.com/blog/dochodowy-salon-kosmetyczny-jak-stworzyc/"
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          }
+        }
+      },
+      {
+        "keyword": "jak prowadzić salon kosmetyczny",
+        "keyword_id": 14628461,
+        "kid": "f3eb9fe177e601c847ae4a23b7319e17",
+        "domain": "wealthon.com",
+        "words_count": 4,
+        "brand": "",
+        "statistics": {
+          "position": {
+            "current": 16,
+            "previous": 11,
+            "diff": 5,
+            "changes": {
+              "wins": 2,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-21": 17,
+              "2026-01-04": 14,
+              "2026-01-21": 11,
+              "2026-02-11": 16
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 20
+          },
+          "difficulty": {
+            "current": 40
+          },
+          "trends": {
+            "history": [
+              20,
+              20,
+              20,
+              20,
+              10,
+              10,
+              20,
+              20,
+              10,
+              10,
+              20,
+              20
+            ],
+            "peak": []
+          },
+          "url": {
+            "current": "wealthon.com/blog/dochodowy-salon-kosmetyczny-jak-stworzyc/",
+            "previous": "wealthon.com/blog/maly-salon-kosmetyczny-w-domu-poradnik-dla-poczatkujacych/"
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          }
+        }
+      }
+    ],
+    "total": 4,
+    "domain": "wealthon.com",
+    "endpoint": "get_cannibalization_keywords"
+  }
+}

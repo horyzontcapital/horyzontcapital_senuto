@@ -1,0 +1,54 @@
+{
+  "domain": "yanokhipoteczny.pl",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "yanokhipoteczny.pl",
+        "keywords_count": 123,
+        "visibility_percent": 100,
+        "statistics": {
+          "visibility": {
+            "current": 1000.73,
+            "previous": 987.84,
+            "diff": 12.89,
+            "percent": 0.013,
+            "history": null
+          },
+          "top3": {
+            "current": 55,
+            "previous": 55,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 123,
+            "previous": 124,
+            "diff": -1,
+            "percent": -0.0081,
+            "history": null
+          },
+          "top50": {
+            "current": 520,
+            "previous": 523,
+            "diff": -3,
+            "percent": -0.0057,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 100,
+            "previous": 100,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "yanokhipoteczny.pl",
+    "endpoint": "get_subdomains"
+  }
+}

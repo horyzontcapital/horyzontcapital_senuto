@@ -1,0 +1,54 @@
+{
+  "domain": "smeo.pl",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "smeo.pl",
+        "keywords_count": 615,
+        "visibility_percent": 100,
+        "statistics": {
+          "visibility": {
+            "current": 5883.69,
+            "previous": 5712.31,
+            "diff": 171.38,
+            "percent": 0.03,
+            "history": null
+          },
+          "top3": {
+            "current": 249,
+            "previous": 247,
+            "diff": 2,
+            "percent": 0.0081,
+            "history": null
+          },
+          "top10": {
+            "current": 615,
+            "previous": 616,
+            "diff": -1,
+            "percent": -0.0016,
+            "history": null
+          },
+          "top50": {
+            "current": 3100,
+            "previous": 3178,
+            "diff": -78,
+            "percent": -0.0245,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 100,
+            "previous": 100,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "smeo.pl",
+    "endpoint": "get_subdomains"
+  }
+}

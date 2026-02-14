@@ -1,0 +1,222 @@
+{
+  "domain": "pragmago.pl",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "pragmago.pl",
+        "keywords_count": 8588,
+        "visibility_percent": 97.64,
+        "statistics": {
+          "visibility": {
+            "current": 115996.53,
+            "previous": 103844.45,
+            "diff": 12152.08,
+            "percent": 0.117,
+            "history": null
+          },
+          "top3": {
+            "current": 2411,
+            "previous": 2394,
+            "diff": 17,
+            "percent": 0.0071,
+            "history": null
+          },
+          "top10": {
+            "current": 8588,
+            "previous": 8594,
+            "diff": -6,
+            "percent": -0.0007,
+            "history": null
+          },
+          "top50": {
+            "current": 19964,
+            "previous": 19967,
+            "diff": -3,
+            "percent": -0.0002,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 97.64,
+            "previous": 97.38,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "app.pragmago.pl",
+        "keywords_count": 6,
+        "visibility_percent": 2.3,
+        "statistics": {
+          "visibility": {
+            "current": 2453.36,
+            "previous": 2453.36,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 5,
+            "previous": 5,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 6,
+            "previous": 6,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 10,
+            "previous": 10,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 2.3,
+            "previous": 2.07,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "partner.pragmago.pl",
+        "keywords_count": 4,
+        "visibility_percent": 0.17,
+        "statistics": {
+          "visibility": {
+            "current": 207.64,
+            "previous": 205.49,
+            "diff": 2.16,
+            "percent": 0.0105,
+            "history": null
+          },
+          "top3": {
+            "current": 2,
+            "previous": 2,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 4,
+            "previous": 3,
+            "diff": 1,
+            "percent": 0.3333,
+            "history": null
+          },
+          "top50": {
+            "current": 5,
+            "previous": 4,
+            "diff": 1,
+            "percent": 0.25,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 0.17,
+            "previous": 0.19,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "inwestor.pragmago.pl",
+        "keywords_count": 29,
+        "visibility_percent": 0.12,
+        "statistics": {
+          "visibility": {
+            "current": 143.43,
+            "previous": 131.49,
+            "diff": 11.94,
+            "percent": 0.0908,
+            "history": null
+          },
+          "top3": {
+            "current": 9,
+            "previous": 10,
+            "diff": -1,
+            "percent": -0.1,
+            "history": null
+          },
+          "top10": {
+            "current": 29,
+            "previous": 27,
+            "diff": 2,
+            "percent": 0.0741,
+            "history": null
+          },
+          "top50": {
+            "current": 98,
+            "previous": 98,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 0.12,
+            "previous": 0.12,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "cdn.pragmago.pl",
+        "keywords_count": 0,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 28,
+            "previous": 32,
+            "diff": -4,
+            "percent": -0.125,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 5,
+    "domain": "pragmago.pl",
+    "endpoint": "get_subdomains"
+  }
+}

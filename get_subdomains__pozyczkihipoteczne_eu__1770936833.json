@@ -1,0 +1,54 @@
+{
+  "domain": "pozyczkihipoteczne.eu",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "pozyczkihipoteczne.eu",
+        "keywords_count": 72,
+        "visibility_percent": 100,
+        "statistics": {
+          "visibility": {
+            "current": 1298.36,
+            "previous": 1250.55,
+            "diff": 47.8,
+            "percent": 0.0382,
+            "history": null
+          },
+          "top3": {
+            "current": 29,
+            "previous": 27,
+            "diff": 2,
+            "percent": 0.0741,
+            "history": null
+          },
+          "top10": {
+            "current": 72,
+            "previous": 74,
+            "diff": -2,
+            "percent": -0.027,
+            "history": null
+          },
+          "top50": {
+            "current": 241,
+            "previous": 245,
+            "diff": -4,
+            "percent": -0.0163,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 100,
+            "previous": 100,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "pozyczkihipoteczne.eu",
+    "endpoint": "get_subdomains"
+  }
+}

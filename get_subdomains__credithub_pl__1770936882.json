@@ -1,0 +1,54 @@
+{
+  "domain": "credithub.pl",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "credithub.pl",
+        "keywords_count": 35,
+        "visibility_percent": 100,
+        "statistics": {
+          "visibility": {
+            "current": 92.25,
+            "previous": 73.69,
+            "diff": 18.55,
+            "percent": 0.2519,
+            "history": null
+          },
+          "top3": {
+            "current": 3,
+            "previous": 3,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 35,
+            "previous": 31,
+            "diff": 4,
+            "percent": 0.129,
+            "history": null
+          },
+          "top50": {
+            "current": 410,
+            "previous": 389,
+            "diff": 21,
+            "percent": 0.054,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 100,
+            "previous": 100,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "credithub.pl",
+    "endpoint": "get_subdomains"
+  }
+}

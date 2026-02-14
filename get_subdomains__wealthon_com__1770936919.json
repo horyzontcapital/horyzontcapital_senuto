@@ -1,0 +1,180 @@
+{
+  "domain": "wealthon.com",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "wealthon.com",
+        "keywords_count": 397,
+        "visibility_percent": 96.43,
+        "statistics": {
+          "visibility": {
+            "current": 2610.62,
+            "previous": 2603.74,
+            "diff": 6.87,
+            "percent": 0.0026,
+            "history": null
+          },
+          "top3": {
+            "current": 75,
+            "previous": 77,
+            "diff": -2,
+            "percent": -0.026,
+            "history": null
+          },
+          "top10": {
+            "current": 397,
+            "previous": 395,
+            "diff": 2,
+            "percent": 0.0051,
+            "history": null
+          },
+          "top50": {
+            "current": 1522,
+            "previous": 1472,
+            "diff": 50,
+            "percent": 0.034,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 96.43,
+            "previous": 96.63,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "pomoc.wealthon.com",
+        "keywords_count": 3,
+        "visibility_percent": 3.42,
+        "statistics": {
+          "visibility": {
+            "current": 92.64,
+            "previous": 90.77,
+            "diff": 1.86,
+            "percent": 0.0206,
+            "history": null
+          },
+          "top3": {
+            "current": 2,
+            "previous": 2,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 3,
+            "previous": 3,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 17,
+            "previous": 16,
+            "diff": 1,
+            "percent": 0.0625,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 3.42,
+            "previous": 3.37,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "sklep.wealthon.com",
+        "keywords_count": 1,
+        "visibility_percent": 0.15,
+        "statistics": {
+          "visibility": {
+            "current": 4,
+            "previous": 0,
+            "diff": 4,
+            "percent": 1,
+            "history": null
+          },
+          "top3": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 1,
+            "previous": 0,
+            "diff": 1,
+            "percent": 1,
+            "history": null
+          },
+          "top50": {
+            "current": 6,
+            "previous": 6,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 0.15,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "aplikacja.wealthon.com",
+        "keywords_count": 0,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 7,
+            "previous": 5,
+            "diff": 2,
+            "percent": 0.4,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 4,
+    "domain": "wealthon.com",
+    "endpoint": "get_subdomains"
+  }
+}
