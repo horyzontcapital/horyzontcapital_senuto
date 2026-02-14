@@ -1,0 +1,172 @@
+{
+  "domain": "alphacredit.pl",
+  "endpoint": "get_history_keywords_losses",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "keyword_id": 17007537,
+        "kid": "cbfd7fbac74a9a3d5f466b44f0e9c6d0",
+        "domain": "alphacredit.pl",
+        "keyword": "creditto pl opinie",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 39,
+            "previous": 24,
+            "diff": 15,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-17": {
+                "position": 24,
+                "has_serp": true
+              },
+              "2026-02-06": {
+                "position": 39,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "alphacredit.pl/",
+            "previous": "alphacredit.pl/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 90
+          },
+          "trends": {
+            "history": [
+              0,
+              0,
+              0,
+              390,
+              480,
+              90,
+              30,
+              10,
+              0,
+              0,
+              0,
+              0
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 0
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "spell"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 10548566,
+        "kid": "e8ebdfdf12fbb16a4b4e20947817d02e",
+        "domain": "alphacredit.pl",
+        "keyword": "finansowanie typu mezzanine",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 24,
+            "previous": 20,
+            "diff": 4,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-28": {
+                "position": 20,
+                "has_serp": true
+              },
+              "2026-02-10": {
+                "position": 24,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "alphacredit.pl/czym-jest-i-do-czego-sluzy-finansowanie-mezzanine/",
+            "previous": "alphacredit.pl/czym-jest-i-do-czego-sluzy-finansowanie-mezzanine/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 20
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      }
+    ],
+    "total": 2,
+    "domain": "alphacredit.pl",
+    "endpoint": "get_history_keywords_losses"
+  }
+}

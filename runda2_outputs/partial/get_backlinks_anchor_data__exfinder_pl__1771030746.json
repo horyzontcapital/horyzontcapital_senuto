@@ -1,0 +1,68 @@
+{
+  "domain": "exfinder.pl",
+  "endpoint": "get_backlinks_anchor_data",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "link_domain": "exfinder.pl",
+        "is_main_domain": true,
+        "anchor": "",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.4
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.4
+      },
+      {
+        "link_domain": "exfinder.pl",
+        "is_main_domain": true,
+        "anchor": "https://exfinder.pl/dla-agentow",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.2
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.2
+      },
+      {
+        "link_domain": "exfinder.pl",
+        "is_main_domain": true,
+        "anchor": "www.exfinder.pl",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.2
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.2
+      },
+      {
+        "link_domain": "exfinder.pl",
+        "is_main_domain": true,
+        "anchor": "https://exfinder.pl/dla-klientow",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.2
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.2
+      }
+    ],
+    "total": 4,
+    "domain": "exfinder.pl",
+    "endpoint": "get_backlinks_anchor_data"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "domain": "fluxo.com.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "fluxo.com.pl": [
+          {
+            "text": "FLUXO",
+            "size": 1,
+            "percent": 1
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "fluxo.com.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

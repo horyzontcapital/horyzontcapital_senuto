@@ -1,0 +1,74 @@
+{
+  "domain": "rankomat.pl",
+  "endpoint": "get_domain_statistics",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "statistics": {
+          "top3": {
+            "recent_value": 30017,
+            "older_value": 30017,
+            "diff": 0,
+            "percent": 0
+          },
+          "top10": {
+            "recent_value": 88203,
+            "older_value": 88203,
+            "diff": 0,
+            "percent": 0
+          },
+          "top50": {
+            "recent_value": 217075,
+            "older_value": 217075,
+            "diff": 0,
+            "percent": 0
+          },
+          "visibility": {
+            "recent_value": 1567375,
+            "older_value": 1562261,
+            "diff": 5114,
+            "percent": 0.0033
+          },
+          "domain_rank": {
+            "recent_value": 246,
+            "older_value": 246,
+            "diff": 0,
+            "percent": 0
+          },
+          "ads_equivalent": {
+            "recent_value": 8679861.08,
+            "older_value": 8605267.1,
+            "diff": 74593.98,
+            "percent": 0.0087
+          },
+          "category": {
+            "name": "",
+            "statistics": {
+              "recent_value": 246,
+              "older_value": 246,
+              "diff": 0,
+              "percent": 0
+            }
+          },
+          "aio_keywords": {
+            "recent_value": 115128,
+            "older_value": 115128,
+            "diff": 0,
+            "percent": 0
+          },
+          "aio_visible_keywords": {
+            "recent_value": 85219,
+            "older_value": 85219,
+            "diff": 0,
+            "percent": 0
+          }
+        }
+      }
+    },
+    "status": 200,
+    "domain": "rankomat.pl",
+    "endpoint": "get_domain_statistics"
+  }
+}

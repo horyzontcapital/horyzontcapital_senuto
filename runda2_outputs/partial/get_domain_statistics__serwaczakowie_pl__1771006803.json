@@ -1,0 +1,74 @@
+{
+  "domain": "serwaczakowie.pl",
+  "endpoint": "get_domain_statistics",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "statistics": {
+          "top3": {
+            "recent_value": 4,
+            "older_value": 4,
+            "diff": 0,
+            "percent": 0
+          },
+          "top10": {
+            "recent_value": 33,
+            "older_value": 33,
+            "diff": 0,
+            "percent": 0
+          },
+          "top50": {
+            "recent_value": 113,
+            "older_value": 113,
+            "diff": 0,
+            "percent": 0
+          },
+          "visibility": {
+            "recent_value": 93,
+            "older_value": 93,
+            "diff": 0,
+            "percent": 0
+          },
+          "domain_rank": {
+            "recent_value": 480809,
+            "older_value": 480785,
+            "diff": 24,
+            "percent": 0
+          },
+          "ads_equivalent": {
+            "recent_value": 348.97,
+            "older_value": 348.97,
+            "diff": 0,
+            "percent": 0
+          },
+          "category": {
+            "name": "",
+            "statistics": {
+              "recent_value": 480809,
+              "older_value": 480809,
+              "diff": 0,
+              "percent": 0
+            }
+          },
+          "aio_keywords": {
+            "recent_value": 6,
+            "older_value": 6,
+            "diff": 0,
+            "percent": 0
+          },
+          "aio_visible_keywords": {
+            "recent_value": 15,
+            "older_value": 15,
+            "diff": 0,
+            "percent": 0
+          }
+        }
+      }
+    },
+    "status": 200,
+    "domain": "serwaczakowie.pl",
+    "endpoint": "get_domain_statistics"
+  }
+}

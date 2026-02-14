@@ -1,0 +1,54 @@
+{
+  "domain": "open.pl",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "open.pl",
+        "keywords_count": 373,
+        "visibility_percent": 100,
+        "statistics": {
+          "visibility": {
+            "current": 3120.87,
+            "previous": 2491.75,
+            "diff": 629.12,
+            "percent": 0.2525,
+            "history": null
+          },
+          "top3": {
+            "current": 98,
+            "previous": 99,
+            "diff": -1,
+            "percent": -0.0101,
+            "history": null
+          },
+          "top10": {
+            "current": 373,
+            "previous": 370,
+            "diff": 3,
+            "percent": 0.0081,
+            "history": null
+          },
+          "top50": {
+            "current": 1287,
+            "previous": 1256,
+            "diff": 31,
+            "percent": 0.0247,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 100,
+            "previous": 100,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "open.pl",
+    "endpoint": "get_subdomains"
+  }
+}

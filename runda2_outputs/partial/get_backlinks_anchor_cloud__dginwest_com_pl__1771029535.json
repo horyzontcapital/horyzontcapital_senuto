@@ -1,0 +1,67 @@
+{
+  "domain": "dginwest.com.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "dginwest.com.pl": [
+          {
+            "text": "dginwest.com.pl",
+            "size": 42,
+            "percent": 0.23863636363636365
+          },
+          {
+            "text": "www.dginwest.com.pl",
+            "size": 27,
+            "percent": 0.1534090909090909
+          },
+          {
+            "text": "",
+            "size": 17,
+            "percent": 0.09659090909090909
+          },
+          {
+            "text": "DG-INWEST",
+            "size": 6,
+            "percent": 0.03409090909090909
+          },
+          {
+            "text": "https://www.dginwest.com.pl/",
+            "size": 5,
+            "percent": 0.028409090909090908
+          },
+          {
+            "text": "leasing samochodu",
+            "size": 4,
+            "percent": 0.022727272727272728
+          },
+          {
+            "text": "DG-Inwest",
+            "size": 3,
+            "percent": 0.017045454545454544
+          },
+          {
+            "text": "Kalkulator leasingu",
+            "size": 3,
+            "percent": 0.017045454545454544
+          },
+          {
+            "text": "kalkulator leasingu",
+            "size": 3,
+            "percent": 0.017045454545454544
+          },
+          {
+            "text": "DG-Invest",
+            "size": 3,
+            "percent": 0.017045454545454544
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "dginwest.com.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

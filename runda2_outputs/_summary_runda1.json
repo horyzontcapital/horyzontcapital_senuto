@@ -1,0 +1,83 @@
+{
+  "completed_at": "2026-02-14T01:06:46Z",
+  "elapsed_min": 410.9,
+  "domains": 106,
+  "endpoints": {
+    "get_domain_statistics": {
+      "ok": 104,
+      "total": 106
+    },
+    "get_positions_data": {
+      "ok": 104,
+      "total": 106
+    },
+    "get_competitors": {
+      "ok": 104,
+      "total": 106
+    },
+    "get_urls": {
+      "ok": 104,
+      "total": 106
+    },
+    "get_url_sections": {
+      "ok": 104,
+      "total": 106
+    },
+    "get_positions_history_chart": {
+      "ok": 104,
+      "total": 106
+    },
+    "get_cannibalization_keywords": {
+      "ok": 104,
+      "total": 106
+    },
+    "get_subdomains": {
+      "ok": 104,
+      "total": 106
+    },
+    "get_characteristics_table": {
+      "ok": 104,
+      "total": 106
+    },
+    "suggest_domains": {
+      "ok": 106,
+      "total": 106
+    },
+    "get_positions_wins": {
+      "ok": 104,
+      "total": 106
+    },
+    "get_history_keywords_wins": {
+      "ok": 104,
+      "total": 106
+    },
+    "get_history_keywords_losses": {
+      "ok": 104,
+      "total": 106
+    },
+    "get_direct_answers": {
+      "ok": 104,
+      "total": 106
+    },
+    "get_backlinks_referring_domains": {
+      "ok": 104,
+      "total": 106
+    },
+    "get_backlinks_tlds": {
+      "ok": 94,
+      "total": 106
+    },
+    "get_backlinks_anchor_cloud": {
+      "ok": 103,
+      "total": 106
+    },
+    "get_backlinks_anchor_data": {
+      "ok": 98,
+      "total": 106
+    },
+    "get_competitors_analysis": {
+      "ok": 103,
+      "total": 106
+    }
+  }
+}

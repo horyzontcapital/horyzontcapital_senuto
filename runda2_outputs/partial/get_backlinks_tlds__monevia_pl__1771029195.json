@@ -1,0 +1,68 @@
+{
+  "domain": "monevia.pl",
+  "endpoint": "get_backlinks_tlds",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "tld": "pl",
+          "count": 162,
+          "percent": 0.8709677419354839
+        },
+        {
+          "tld": "com",
+          "count": 10,
+          "percent": 0.053763440860215055
+        },
+        {
+          "tld": "net",
+          "count": 4,
+          "percent": 0.021505376344086023
+        },
+        {
+          "tld": "info",
+          "count": 3,
+          "percent": 0.016129032258064516
+        },
+        {
+          "tld": "club",
+          "count": 2,
+          "percent": 0.010752688172043012
+        },
+        {
+          "tld": "in",
+          "count": 2,
+          "percent": 0.010752688172043012
+        },
+        {
+          "tld": "org",
+          "count": 1,
+          "percent": 0.005376344086021506
+        },
+        {
+          "tld": "io",
+          "count": 1,
+          "percent": 0.005376344086021506
+        },
+        {
+          "tld": "eu",
+          "count": 1,
+          "percent": 0.005376344086021506
+        }
+      ],
+      "pagination": {
+        "page_count": 1,
+        "current_page": 1,
+        "has_next_page": false,
+        "has_prev_page": false,
+        "count": 9,
+        "limit": 10
+      }
+    },
+    "status": 200,
+    "domain": "monevia.pl",
+    "endpoint": "get_backlinks_tlds"
+  }
+}

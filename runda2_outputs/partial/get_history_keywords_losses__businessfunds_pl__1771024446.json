@@ -1,0 +1,1410 @@
+{
+  "domain": "businessfunds.pl",
+  "endpoint": "get_history_keywords_losses",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "keyword_id": 7770247,
+        "kid": "aa2a3cb55a7dad5bebbbb270a0e68a1c",
+        "domain": "businessfunds.pl",
+        "keyword": "osoby prywatne ktore udzielaja pozyczek",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 40,
+            "previous": 32,
+            "diff": 8,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-16": {
+                "position": 32,
+                "has_serp": true
+              },
+              "2026-02-03": {
+                "position": 40,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "businessfunds.pl/pozyczki-prywatne-dla-firm/",
+            "previous": "businessfunds.pl/pozyczki-prywatne-dla-firm/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 1.39
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              40,
+              10,
+              10,
+              10,
+              10,
+              20,
+              20,
+              40,
+              10,
+              10,
+              20,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 41
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 2478982,
+        "kid": "3545f23cbdab2b378ad0765eb2933655",
+        "domain": "businessfunds.pl",
+        "keyword": "kto udzieli pożyczki prywatnej",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 32,
+            "previous": 28,
+            "diff": 4,
+            "changes": {
+              "wins": 0,
+              "losses": 0,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-02-05": {
+                "position": 32,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "businessfunds.pl/pozyczki-prywatne-dla-firm/",
+            "previous": "businessfunds.pl/pozyczki-prywatne-dla-firm/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 6.33
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              20,
+              10,
+              30,
+              20,
+              10,
+              20,
+              20,
+              10,
+              20,
+              30,
+              40,
+              20
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 44
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 5315171,
+        "kid": "73557aaaa743585a19817cb93a302e5a",
+        "domain": "businessfunds.pl",
+        "keyword": "pożyczka pod zastaw mieszkania własnościowego",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 22,
+            "previous": 21,
+            "diff": 1,
+            "changes": {
+              "wins": 1,
+              "losses": 1,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-16": {
+                "position": 22,
+                "has_serp": true
+              },
+              "2025-12-30": {
+                "position": 21,
+                "has_serp": true
+              },
+              "2026-01-14": {
+                "position": 21,
+                "has_serp": true
+              },
+              "2026-02-01": {
+                "position": 22,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "businessfunds.pl/pozyczki-pod-zastaw-nieruchomosci/",
+            "previous": "businessfunds.pl/pozyczki-pod-zastaw-nieruchomosci/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 14.75
+          },
+          "searches": {
+            "current": 70
+          },
+          "trends": {
+            "history": [
+              70,
+              40,
+              50,
+              70,
+              70,
+              110,
+              90,
+              50,
+              50,
+              50,
+              90,
+              50
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 52
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 3348718,
+        "kid": "4811ff27544e7fd2e3fdfa534e98582b",
+        "domain": "businessfunds.pl",
+        "keyword": "pożyczki pozabankowe długoterminowe",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 19,
+            "previous": 13,
+            "diff": 6,
+            "changes": {
+              "wins": 2,
+              "losses": 3,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-19": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-26": {
+                "position": 17,
+                "has_serp": true
+              },
+              "2026-01-02": {
+                "position": 12,
+                "has_serp": true
+              },
+              "2026-01-19": {
+                "position": 14,
+                "has_serp": true
+              },
+              "2026-01-29": {
+                "position": 13,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 19,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "businessfunds.pl/pozyczki-pozabankowe-dlugoterminowe/",
+            "previous": "businessfunds.pl/pozyczki-pozabankowe-dlugoterminowe/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 7.9
+          },
+          "searches": {
+            "current": 50
+          },
+          "trends": {
+            "history": [
+              70,
+              90,
+              70,
+              40,
+              30,
+              40,
+              20,
+              30,
+              20,
+              20,
+              70,
+              50
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 58
+          },
+          "snippets": {
+            "current": []
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 7104079,
+        "kid": "9b2c2ad202344c380809de6af1b4b80a",
+        "domain": "businessfunds.pl",
+        "keyword": "osoby prywatne udzielające pożyczki",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 28,
+            "previous": 19,
+            "diff": 9,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-26": {
+                "position": 19,
+                "has_serp": true
+              },
+              "2026-02-07": {
+                "position": 28,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "businessfunds.pl/pozyczki-prywatne-dla-firm/",
+            "previous": "businessfunds.pl/pozyczki-prywatne-dla-firm/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 3.6
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              10,
+              50,
+              40,
+              20,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 43
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 7040745,
+        "kid": "99c370e0275418b3dfa5dd9fb2634e10",
+        "domain": "businessfunds.pl",
+        "keyword": "pożyczki hipoteczne pod zastaw nieruchomości",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 42,
+            "previous": 37,
+            "diff": 5,
+            "changes": {
+              "wins": 0,
+              "losses": 3,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-20": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-03": {
+                "position": 36,
+                "has_serp": true
+              },
+              "2026-01-20": {
+                "position": 37,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 42,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "businessfunds.pl/pozyczki-pod-zastaw-nieruchomosci/",
+            "previous": "businessfunds.pl/pozyczki-pod-zastaw-nieruchomosci/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 9.64
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              20,
+              10,
+              20,
+              20,
+              30,
+              40,
+              10,
+              20,
+              10,
+              20
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 51
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 442345,
+        "kid": "0977fef3fa6be08abda8ebbb6692071a",
+        "domain": "businessfunds.pl",
+        "keyword": "pożyczki prywatne dla firm",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 26,
+            "previous": 18,
+            "diff": 8,
+            "changes": {
+              "wins": 0,
+              "losses": 2,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-23": {
+                "position": 15,
+                "has_serp": true
+              },
+              "2026-01-06": {
+                "position": 15,
+                "has_serp": true
+              },
+              "2026-01-22": {
+                "position": 18,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 26,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "businessfunds.pl/pozyczki-pozabankowe-dlugoterminowe/",
+            "previous": "businessfunds.pl/pozyczki-prywatne-dla-firm/",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 13.36
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              30,
+              20,
+              10,
+              20,
+              10,
+              10,
+              10,
+              10,
+              30,
+              10,
+              10,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 47
+          },
+          "snippets": {
+            "current": []
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 9945228,
+        "kid": "db3b7f820eb45fc1cff07b7fdf456fa9",
+        "domain": "businessfunds.pl",
+        "keyword": "prywatne pożyczki długoterminowe",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 17,
+            "previous": 11,
+            "diff": 6,
+            "changes": {
+              "wins": 1,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-19": {
+                "position": 12,
+                "has_serp": true
+              },
+              "2026-01-02": {
+                "position": 10,
+                "has_serp": true
+              },
+              "2026-01-19": {
+                "position": 11,
+                "has_serp": true
+              },
+              "2026-02-07": {
+                "position": 17,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "businessfunds.pl/pozyczki-pozabankowe-dlugoterminowe/",
+            "previous": "businessfunds.pl/pozyczki-pozabankowe-dlugoterminowe/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 3.92
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              70,
+              40,
+              30,
+              20,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              30,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 52
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 9168474,
+        "kid": "c9a585190889ffdcfdd1081eb991fcb8",
+        "domain": "businessfunds.pl",
+        "keyword": "open finance katowice",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 25,
+            "previous": 17,
+            "diff": 8,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-17": {
+                "position": 17,
+                "has_serp": true
+              },
+              "2026-02-04": {
+                "position": 25,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "businessfunds.pl/o-nas/",
+            "previous": "businessfunds.pl/o-nas/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 50
+          },
+          "trends": {
+            "history": [
+              70,
+              40,
+              30,
+              20,
+              90,
+              70,
+              40,
+              40,
+              30,
+              70,
+              30,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 40
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "website",
+            "main_intent": "navigational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 1891688,
+        "kid": "289ce11d7f937a21d847f0d0dc3f1a2d",
+        "domain": "businessfunds.pl",
+        "keyword": "kredyty dla firm bez bik",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 21,
+            "previous": 19,
+            "diff": 2,
+            "changes": {
+              "wins": 1,
+              "losses": 4,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-21": {
+                "position": 34,
+                "has_serp": true
+              },
+              "2025-12-28": {
+                "position": 38,
+                "has_serp": true
+              },
+              "2026-01-05": {
+                "position": 18,
+                "has_serp": true
+              },
+              "2026-01-12": {
+                "position": 19,
+                "has_serp": true
+              },
+              "2026-02-01": {
+                "position": 20,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 21,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "businessfunds.pl/kredyt-dla-firm-bez-bik/",
+            "previous": "businessfunds.pl/kredyt-dla-firm-bez-bik/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 7.99
+          },
+          "searches": {
+            "current": 390
+          },
+          "trends": {
+            "history": [
+              390,
+              390,
+              480,
+              320,
+              390,
+              390,
+              480,
+              390,
+              260,
+              260,
+              260,
+              320
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 52
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 7195381,
+        "kid": "9d3b3e2c273575c06545bdc651929a30",
+        "domain": "businessfunds.pl",
+        "keyword": "pożyczki bez bik online dlugoterminowe",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 36,
+            "previous": 34,
+            "diff": 2,
+            "changes": {
+              "wins": 1,
+              "losses": 2,
+              "no_changes": 3
+            },
+            "history": {
+              "2025-12-21": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-26": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-02": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-09": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-20": {
+                "position": 37,
+                "has_serp": true
+              },
+              "2026-01-30": {
+                "position": 34,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 36,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "businessfunds.pl/kredyt-dla-firm-bez-bik/",
+            "previous": "businessfunds.pl/kredyt-dla-firm-bez-bik/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 11.6
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              10,
+              10,
+              20,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 52
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask",
+              "spell"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 7219484,
+        "kid": "9dc5743460f9d3006745168b45b0dc86",
+        "domain": "businessfunds.pl",
+        "keyword": "uczciwe pożyczki od osób prywatnych",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 27,
+            "previous": 24,
+            "diff": 3,
+            "changes": {
+              "wins": 1,
+              "losses": 2,
+              "no_changes": 2
+            },
+            "history": {
+              "2025-12-21": {
+                "position": 19,
+                "has_serp": true
+              },
+              "2025-12-28": {
+                "position": 17,
+                "has_serp": true
+              },
+              "2026-01-06": {
+                "position": 17,
+                "has_serp": true
+              },
+              "2026-01-13": {
+                "position": 17,
+                "has_serp": true
+              },
+              "2026-01-25": {
+                "position": 24,
+                "has_serp": true
+              },
+              "2026-02-04": {
+                "position": 27,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "businessfunds.pl/pozyczki-prywatne-dla-firm/",
+            "previous": "businessfunds.pl/pozyczki-prywatne-dla-firm/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 2.96
+          },
+          "searches": {
+            "current": 880
+          },
+          "trends": {
+            "history": [
+              1600,
+              1300,
+              1300,
+              1000,
+              1000,
+              880,
+              590,
+              480,
+              390,
+              480,
+              480,
+              390
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 38
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 3392457,
+        "kid": "490451014d83b5aaeff473f5379d73b3",
+        "domain": "businessfunds.pl",
+        "keyword": "bezpieczne inwestowanie z pewnym zyskiem",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 47,
+            "previous": 43,
+            "diff": 4,
+            "changes": {
+              "wins": 2,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-22": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-29": {
+                "position": 45,
+                "has_serp": true
+              },
+              "2026-01-07": {
+                "position": 44,
+                "has_serp": true
+              },
+              "2026-01-24": {
+                "position": 43,
+                "has_serp": true
+              },
+              "2026-02-03": {
+                "position": 47,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "businessfunds.pl/w-co-bezpiecznie-zainwestowac/",
+            "previous": "businessfunds.pl/w-co-bezpiecznie-zainwestowac/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 6.83
+          },
+          "searches": {
+            "current": 880
+          },
+          "trends": {
+            "history": [
+              1000,
+              1000,
+              1000,
+              880,
+              880,
+              720,
+              720,
+              880,
+              720,
+              880,
+              880,
+              880
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 43
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 4783745,
+        "kid": "6786f48364dc01a37139c6b61a606464",
+        "domain": "businessfunds.pl",
+        "keyword": "pożyczka hipoteczna pozabankowa",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 14,
+            "previous": 10,
+            "diff": 4,
+            "changes": {
+              "wins": 0,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-29": {
+                "position": 9,
+                "has_serp": true
+              },
+              "2026-01-14": {
+                "position": 10,
+                "has_serp": true
+              },
+              "2026-02-01": {
+                "position": 14,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0.77,
+            "diff": -0.77,
+            "percent": -1,
+            "history": null
+          },
+          "url": {
+            "current": "businessfunds.pl/pozyczka-hipoteczna-dla-firm/",
+            "previous": "businessfunds.pl/pozyczka-hipoteczna-dla-firm/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 13.96
+          },
+          "searches": {
+            "current": 50
+          },
+          "trends": {
+            "history": [
+              50,
+              50,
+              30,
+              40,
+              50,
+              70,
+              50,
+              50,
+              50,
+              70,
+              40,
+              40
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 27
+          },
+          "snippets": {
+            "current": []
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 6232691,
+        "kid": "87b0a1fc8e5d1ab35510a93180bb5bfb",
+        "domain": "businessfunds.pl",
+        "keyword": "pożyczki pod zastaw nieruchomości pozabankowe",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 9,
+            "previous": 7,
+            "diff": 2,
+            "changes": {
+              "wins": 1,
+              "losses": 2,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-21": {
+                "position": 7,
+                "has_serp": true
+              },
+              "2025-12-26": {
+                "position": 7,
+                "has_serp": true
+              },
+              "2026-01-02": {
+                "position": 4,
+                "has_serp": true
+              },
+              "2026-01-20": {
+                "position": 7,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 9,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 3.78,
+            "previous": 9.06,
+            "diff": -5.28,
+            "percent": -0.5828,
+            "history": null
+          },
+          "url": {
+            "current": "businessfunds.pl/pozyczki-pod-zastaw-nieruchomosci/",
+            "previous": "businessfunds.pl/pozyczki-pod-zastaw-nieruchomosci/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 15.61
+          },
+          "searches": {
+            "current": 320
+          },
+          "trends": {
+            "history": [
+              390,
+              390,
+              320,
+              320,
+              260,
+              320,
+              390,
+              320,
+              210,
+              170,
+              210,
+              320
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 35
+          },
+          "snippets": {
+            "current": [
+              "map"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 9707,
+        "kid": "0034c5c87edada55f2ed0fc18d8b040b",
+        "domain": "businessfunds.pl",
+        "keyword": "bezpieczne pożyczki pod zastaw nieruchomości",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 2,
+            "previous": 1,
+            "diff": 1,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 3
+            },
+            "history": {
+              "2026-01-05": {
+                "position": 1,
+                "has_serp": true
+              },
+              "2026-01-12": {
+                "position": 1,
+                "has_serp": true
+              },
+              "2026-01-22": {
+                "position": 1,
+                "has_serp": true
+              },
+              "2026-02-01": {
+                "position": 1,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 2,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 24.53,
+            "previous": 49.84,
+            "diff": -25.31,
+            "percent": -0.5078,
+            "history": null
+          },
+          "url": {
+            "current": "businessfunds.pl/pozyczki-pod-zastaw-nieruchomosci/",
+            "previous": "businessfunds.pl/pozyczki-pod-zastaw-nieruchomosci/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 25.26
+          },
+          "searches": {
+            "current": 140
+          },
+          "trends": {
+            "history": [
+              170,
+              170,
+              90,
+              110,
+              110,
+              170,
+              170,
+              140,
+              70,
+              110,
+              110,
+              110
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 51
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      }
+    ],
+    "total": 16,
+    "domain": "businessfunds.pl",
+    "endpoint": "get_history_keywords_losses"
+  }
+}

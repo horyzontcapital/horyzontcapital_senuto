@@ -1,0 +1,526 @@
+{
+  "domain": "serwaczakowie.pl",
+  "endpoint": "get_positions_wins",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "keyword_id": 6506500,
+        "kid": "8dc92c4136529e74c428e955b9db33cc",
+        "domain": "serwaczakowie.pl",
+        "keyword": "pożyczki dla firm z sektora pozabankowego",
+        "words_count": 6,
+        "statistics": {
+          "position": {
+            "current": 9,
+            "previous": 13,
+            "diff": -4,
+            "changes": {
+              "wins": 1,
+              "losses": 1,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-18": {
+                "position": 8,
+                "has_serp": true
+              },
+              "2026-01-01": {
+                "position": 8,
+                "has_serp": true
+              },
+              "2026-01-20": {
+                "position": 13,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 9,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0.36,
+            "previous": 0,
+            "diff": 0.36,
+            "percent": 1,
+            "history": null
+          },
+          "url": {
+            "current": "serwaczakowie.pl/pozyczki-pozabankowe-dla-firm/",
+            "previous": "serwaczakowie.pl/pozyczki-pozabankowe-dla-firm/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 7.29
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              20,
+              10,
+              20,
+              10,
+              10,
+              10,
+              40,
+              30,
+              20,
+              10,
+              20,
+              30
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 35
+          },
+          "snippets": {
+            "current": []
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 9649316,
+        "kid": "d485ca5ba7cbf84e1eba38209e65d224",
+        "domain": "serwaczakowie.pl",
+        "keyword": "udzielę pożyczki z własnego kapitału",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 11,
+            "previous": 51,
+            "diff": -40,
+            "changes": {
+              "wins": 2,
+              "losses": 2,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-19": {
+                "position": 7,
+                "has_serp": true
+              },
+              "2025-12-27": {
+                "position": 8,
+                "has_serp": true
+              },
+              "2026-01-05": {
+                "position": 7,
+                "has_serp": true
+              },
+              "2026-01-12": {
+                "position": 7,
+                "has_serp": true
+              },
+              "2026-01-22": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 11,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "serwaczakowie.pl/pozyczka-pod-zastaw-nieruchomosci/",
+            "previous": "",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 2.94
+          },
+          "searches": {
+            "current": 210
+          },
+          "trends": {
+            "history": [
+              210,
+              210,
+              140,
+              70,
+              50,
+              30,
+              50,
+              390,
+              320,
+              320,
+              320,
+              210
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 33
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "buy",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 9979337,
+        "kid": "dbffdc29140473e054ad2512d7f51484",
+        "domain": "serwaczakowie.pl",
+        "keyword": "kredyt pod zastaw działki budowlanej",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 15,
+            "previous": 16,
+            "diff": -1,
+            "changes": {
+              "wins": 1,
+              "losses": 0,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-18": {
+                "position": 16,
+                "has_serp": true
+              },
+              "2026-02-06": {
+                "position": 15,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "serwaczakowie.pl/kredyt-pod-zastaw-dzialki/",
+            "previous": "serwaczakowie.pl/kredyt-pod-zastaw-dzialki/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 8.13
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              30,
+              30,
+              30,
+              10,
+              10,
+              20,
+              10,
+              10,
+              20,
+              30,
+              20,
+              30
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 33
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 10133839,
+        "kid": "df82a7d9cfb87db9c2024f834eb7817e",
+        "domain": "serwaczakowie.pl",
+        "keyword": "pożyczki pod zastaw poznań",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 49,
+            "previous": 51,
+            "diff": -2,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-18": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-07": {
+                "position": 49,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "serwaczakowie.pl/pozyczki-prywatne-poznan/",
+            "previous": "",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              20,
+              20,
+              20,
+              30,
+              30,
+              20,
+              20,
+              20,
+              20,
+              10,
+              20,
+              20
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 20
+          },
+          "snippets": {
+            "current": [
+              "map",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "local",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 12484581,
+        "kid": "340d6b0d563cda72516e8e3388bba168",
+        "domain": "serwaczakowie.pl",
+        "keyword": "pozyczki oddluzeniowe bez bik",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 20,
+            "previous": 49,
+            "diff": -29,
+            "changes": {
+              "wins": 1,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-20": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-03": {
+                "position": 19,
+                "has_serp": true
+              },
+              "2026-01-21": {
+                "position": 49,
+                "has_serp": true
+              },
+              "2026-02-10": {
+                "position": 20,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "serwaczakowie.pl/pozyczki-pod-hipoteke-dla-zadluzonych/",
+            "previous": "serwaczakowie.pl/pozyczki-pod-hipoteke-dla-zadluzonych/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 5.83
+          },
+          "searches": {
+            "current": 30
+          },
+          "trends": {
+            "history": [
+              20,
+              30,
+              20,
+              30,
+              30,
+              50,
+              30,
+              20,
+              40,
+              20,
+              20,
+              20
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 38
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 12809145,
+        "kid": "51031c2398fbaa7411b0e9150e6d2ab5",
+        "domain": "serwaczakowie.pl",
+        "keyword": "pożyczki prywatne w domu",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 23,
+            "previous": 51,
+            "diff": -28,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 2
+            },
+            "history": {
+              "2025-12-20": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-03": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-21": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-10": {
+                "position": 23,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "serwaczakowie.pl/",
+            "previous": "",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 0.35
+          },
+          "searches": {
+            "current": 70
+          },
+          "trends": {
+            "history": [
+              70,
+              90,
+              90,
+              70,
+              90,
+              50,
+              70,
+              90,
+              90,
+              90,
+              70,
+              50
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 36
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      }
+    ],
+    "total": 6,
+    "domain": "serwaczakowie.pl",
+    "endpoint": "get_positions_wins"
+  }
+}

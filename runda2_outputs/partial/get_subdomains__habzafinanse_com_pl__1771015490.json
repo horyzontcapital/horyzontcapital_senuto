@@ -1,0 +1,54 @@
+{
+  "domain": "habzafinanse.com.pl",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "habzafinanse.com.pl",
+        "keywords_count": 1428,
+        "visibility_percent": 100,
+        "statistics": {
+          "visibility": {
+            "current": 6245.87,
+            "previous": 6004.04,
+            "diff": 241.83,
+            "percent": 0.0403,
+            "history": null
+          },
+          "top3": {
+            "current": 310,
+            "previous": 309,
+            "diff": 1,
+            "percent": 0.0032,
+            "history": null
+          },
+          "top10": {
+            "current": 1428,
+            "previous": 1429,
+            "diff": -1,
+            "percent": -0.0007,
+            "history": null
+          },
+          "top50": {
+            "current": 6501,
+            "previous": 6521,
+            "diff": -20,
+            "percent": -0.0031,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 100,
+            "previous": 100,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "habzafinanse.com.pl",
+    "endpoint": "get_subdomains"
+  }
+}

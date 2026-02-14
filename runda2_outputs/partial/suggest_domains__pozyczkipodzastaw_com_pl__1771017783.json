@@ -1,0 +1,20 @@
+{
+  "domain": "pozyczkipodzastaw.com.pl",
+  "endpoint": "suggest_domains",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "favourite": [],
+        "suggested": [
+          "pozyczkipodzastaw.com.pl",
+          "pozyczkipodzastaw.szczecin.pl"
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "pozyczkipodzastaw.com.pl",
+    "endpoint": "suggest_domains"
+  }
+}

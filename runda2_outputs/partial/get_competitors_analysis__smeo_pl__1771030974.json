@@ -1,0 +1,188 @@
+{
+  "domain": "smeo.pl",
+  "endpoint": "get_competitors_analysis",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "keyword": "pozabankowe instytucje finansowe przedsiębiorczość",
+          "cpc": 0,
+          "searches": 50,
+          "trends": [
+            90,
+            70,
+            90,
+            50,
+            70,
+            40,
+            70,
+            20,
+            30,
+            30,
+            30,
+            50
+          ],
+          "difficulty": 24,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 21,
+            "url": "horyzontcapital.com/blog/czym-rozni-sie-finansowanie-pozabankowe-od-kredytu-bankowego"
+          },
+          "horyzontcapital.com_pos": 21,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/czym-rozni-sie-finansowanie-pozabankowe-od-kredytu-bankowego",
+          "smeo.pl": {
+            "pos": 25,
+            "url": "smeo.pl/blog/baza-wiedzy-o-faktoringu/pozabankowe-pozyczki-i-finansowanie-dla-firm/"
+          },
+          "smeo.pl_pos": 25,
+          "smeo.pl_url": "smeo.pl/blog/baza-wiedzy-o-faktoringu/pozabankowe-pozyczki-i-finansowanie-dla-firm/"
+        },
+        {
+          "keyword": "pozabankowe instytucje finansowe",
+          "cpc": 0.11,
+          "searches": 50,
+          "trends": [
+            50,
+            50,
+            140,
+            90,
+            110,
+            70,
+            40,
+            20,
+            20,
+            20,
+            20,
+            50
+          ],
+          "difficulty": 30,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 22,
+            "url": "horyzontcapital.com/blog/czym-rozni-sie-finansowanie-pozabankowe-od-kredytu-bankowego"
+          },
+          "horyzontcapital.com_pos": 22,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/czym-rozni-sie-finansowanie-pozabankowe-od-kredytu-bankowego",
+          "smeo.pl": {
+            "pos": 31,
+            "url": "smeo.pl/blog/baza-wiedzy-o-faktoringu/pozabankowe-pozyczki-i-finansowanie-dla-firm/"
+          },
+          "smeo.pl_pos": 31,
+          "smeo.pl_url": "smeo.pl/blog/baza-wiedzy-o-faktoringu/pozabankowe-pozyczki-i-finansowanie-dla-firm/"
+        },
+        {
+          "keyword": "finansowanie pozabankowe",
+          "cpc": 13.65,
+          "searches": 40,
+          "trends": [
+            20,
+            30,
+            30,
+            30,
+            10,
+            10,
+            10,
+            10,
+            10,
+            20,
+            30,
+            20
+          ],
+          "difficulty": 38,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 22,
+            "url": "horyzontcapital.com/blog/czym-rozni-sie-finansowanie-pozabankowe-od-kredytu-bankowego"
+          },
+          "horyzontcapital.com_pos": 22,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/czym-rozni-sie-finansowanie-pozabankowe-od-kredytu-bankowego",
+          "smeo.pl": {
+            "pos": 12,
+            "url": "smeo.pl/blog/baza-wiedzy-o-faktoringu/pozabankowe-pozyczki-i-finansowanie-dla-firm/"
+          },
+          "smeo.pl_pos": 12,
+          "smeo.pl_url": "smeo.pl/blog/baza-wiedzy-o-faktoringu/pozabankowe-pozyczki-i-finansowanie-dla-firm/"
+        },
+        {
+          "keyword": "pozyczki dla zadluzonych firm bez zdolnosci kredytowej",
+          "cpc": 9.25,
+          "searches": 20,
+          "trends": [
+            30,
+            10,
+            20,
+            30,
+            40,
+            40,
+            30,
+            20,
+            10,
+            20,
+            30,
+            20
+          ],
+          "difficulty": 46,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 24,
+            "url": "horyzontcapital.com/oferta/pozyczka-dla-firm-bez-zdolnosci-kredytowej"
+          },
+          "horyzontcapital.com_pos": 24,
+          "horyzontcapital.com_url": "horyzontcapital.com/oferta/pozyczka-dla-firm-bez-zdolnosci-kredytowej",
+          "smeo.pl": {
+            "pos": 17,
+            "url": "smeo.pl/blog/baza-wiedzy-o-faktoringu/pozabankowe-pozyczki-i-finansowanie-dla-firm/"
+          },
+          "smeo.pl_pos": 17,
+          "smeo.pl_url": "smeo.pl/blog/baza-wiedzy-o-faktoringu/pozabankowe-pozyczki-i-finansowanie-dla-firm/"
+        },
+        {
+          "keyword": "szybkie finansowanie dla firm",
+          "cpc": 5.23,
+          "searches": 10,
+          "trends": [
+            30,
+            20,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            20,
+            10,
+            20,
+            20
+          ],
+          "difficulty": 50,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 36,
+            "url": "horyzontcapital.com/oferta/pozyczka-dla-firm"
+          },
+          "horyzontcapital.com_pos": 36,
+          "horyzontcapital.com_url": "horyzontcapital.com/oferta/pozyczka-dla-firm",
+          "smeo.pl": {
+            "pos": 18,
+            "url": "smeo.pl/produkty/pozyczka-ratalna/"
+          },
+          "smeo.pl_pos": 18,
+          "smeo.pl_url": "smeo.pl/produkty/pozyczka-ratalna/"
+        }
+      ],
+      "pagination": {
+        "page_count": 1,
+        "current_page": 1,
+        "has_next_page": false,
+        "has_prev_page": false,
+        "count": 5,
+        "limit": 100
+      }
+    },
+    "status": 200,
+    "domain": "smeo.pl",
+    "endpoint": "get_competitors_analysis"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "domain": "kredytomat.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "kredytomat.pl": [
+          {
+            "text": "https://ekipauserfirst.pl/wp-content/uploads/2023/08/kr-1.svg",
+            "size": 29,
+            "percent": 0.7073170731707317
+          },
+          {
+            "text": "Kredyt hipoteczny - ranking i kalkulator - porównaj oferty",
+            "size": 5,
+            "percent": 0.12195121951219512
+          },
+          {
+            "text": "https://kredytomat.pl/",
+            "size": 4,
+            "percent": 0.0975609756097561
+          },
+          {
+            "text": "Visit the site",
+            "size": 1,
+            "percent": 0.024390243902439025
+          },
+          {
+            "text": "kalkulator &#8211; kredyt hipoteczny",
+            "size": 1,
+            "percent": 0.024390243902439025
+          },
+          {
+            "text": "Ranking kredytów gotówkowych",
+            "size": 1,
+            "percent": 0.024390243902439025
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "kredytomat.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

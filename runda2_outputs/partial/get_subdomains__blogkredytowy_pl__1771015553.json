@@ -1,0 +1,54 @@
+{
+  "domain": "blogkredytowy.pl",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "blogkredytowy.pl",
+        "keywords_count": 429,
+        "visibility_percent": 100,
+        "statistics": {
+          "visibility": {
+            "current": 1800.95,
+            "previous": 680.04,
+            "diff": 1120.92,
+            "percent": 1.6483,
+            "history": null
+          },
+          "top3": {
+            "current": 123,
+            "previous": 95,
+            "diff": 28,
+            "percent": 0.2947,
+            "history": null
+          },
+          "top10": {
+            "current": 429,
+            "previous": 340,
+            "diff": 89,
+            "percent": 0.2618,
+            "history": null
+          },
+          "top50": {
+            "current": 3404,
+            "previous": 2771,
+            "diff": 633,
+            "percent": 0.2284,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 100,
+            "previous": 100,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "blogkredytowy.pl",
+    "endpoint": "get_subdomains"
+  }
+}

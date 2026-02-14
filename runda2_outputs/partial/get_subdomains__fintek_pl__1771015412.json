@@ -1,0 +1,138 @@
+{
+  "domain": "fintek.pl",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "fintek.pl",
+        "keywords_count": 3090,
+        "visibility_percent": 99.99,
+        "statistics": {
+          "visibility": {
+            "current": 41428.86,
+            "previous": 35334.01,
+            "diff": 6094.85,
+            "percent": 0.1725,
+            "history": null
+          },
+          "top3": {
+            "current": 906,
+            "previous": 845,
+            "diff": 61,
+            "percent": 0.0722,
+            "history": null
+          },
+          "top10": {
+            "current": 3090,
+            "previous": 2910,
+            "diff": 180,
+            "percent": 0.0619,
+            "history": null
+          },
+          "top50": {
+            "current": 14389,
+            "previous": 14238,
+            "diff": 151,
+            "percent": 0.0106,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 99.99,
+            "previous": 99.99,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "static.fintek.pl",
+        "keywords_count": 5,
+        "visibility_percent": 0.01,
+        "statistics": {
+          "visibility": {
+            "current": 3.63,
+            "previous": 3.63,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 5,
+            "previous": 5,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 63,
+            "previous": 63,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 0.01,
+            "previous": 0.01,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "cms.fintek.pl",
+        "keywords_count": 0,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 3,
+            "previous": 1,
+            "diff": 2,
+            "percent": 2,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 3,
+    "domain": "fintek.pl",
+    "endpoint": "get_subdomains"
+  }
+}

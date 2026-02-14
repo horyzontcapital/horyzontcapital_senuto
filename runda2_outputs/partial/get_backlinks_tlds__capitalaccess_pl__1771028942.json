@@ -1,0 +1,48 @@
+{
+  "domain": "capitalaccess.pl",
+  "endpoint": "get_backlinks_tlds",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "tld": "biz",
+          "count": 17,
+          "percent": 0.4473684210526316
+        },
+        {
+          "tld": "br",
+          "count": 10,
+          "percent": 0.2631578947368421
+        },
+        {
+          "tld": "pl",
+          "count": 9,
+          "percent": 0.23684210526315788
+        },
+        {
+          "tld": "net",
+          "count": 1,
+          "percent": 0.02631578947368421
+        },
+        {
+          "tld": "eu",
+          "count": 1,
+          "percent": 0.02631578947368421
+        }
+      ],
+      "pagination": {
+        "page_count": 1,
+        "current_page": 1,
+        "has_next_page": false,
+        "has_prev_page": false,
+        "count": 5,
+        "limit": 10
+      }
+    },
+    "status": 200,
+    "domain": "capitalaccess.pl",
+    "endpoint": "get_backlinks_tlds"
+  }
+}

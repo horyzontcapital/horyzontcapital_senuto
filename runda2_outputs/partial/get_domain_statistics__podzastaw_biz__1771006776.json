@@ -1,0 +1,74 @@
+{
+  "domain": "podzastaw.biz",
+  "endpoint": "get_domain_statistics",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "statistics": {
+          "top3": {
+            "recent_value": 1,
+            "older_value": 1,
+            "diff": 0,
+            "percent": 0
+          },
+          "top10": {
+            "recent_value": 17,
+            "older_value": 17,
+            "diff": 0,
+            "percent": 0
+          },
+          "top50": {
+            "recent_value": 33,
+            "older_value": 33,
+            "diff": 0,
+            "percent": 0
+          },
+          "visibility": {
+            "recent_value": 32,
+            "older_value": 32,
+            "diff": 0,
+            "percent": 0
+          },
+          "domain_rank": {
+            "recent_value": 741881,
+            "older_value": 741848,
+            "diff": 33,
+            "percent": 0
+          },
+          "ads_equivalent": {
+            "recent_value": 338,
+            "older_value": 338,
+            "diff": 0,
+            "percent": 0
+          },
+          "category": {
+            "name": "",
+            "statistics": {
+              "recent_value": 741882,
+              "older_value": 741882,
+              "diff": 0,
+              "percent": 0
+            }
+          },
+          "aio_keywords": {
+            "recent_value": 2,
+            "older_value": 2,
+            "diff": 0,
+            "percent": 0
+          },
+          "aio_visible_keywords": {
+            "recent_value": 15,
+            "older_value": 15,
+            "diff": 0,
+            "percent": 0
+          }
+        }
+      }
+    },
+    "status": 200,
+    "domain": "podzastaw.biz",
+    "endpoint": "get_domain_statistics"
+  }
+}

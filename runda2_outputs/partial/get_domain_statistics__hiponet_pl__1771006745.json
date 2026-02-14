@@ -1,0 +1,74 @@
+{
+  "domain": "hiponet.pl",
+  "endpoint": "get_domain_statistics",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "statistics": {
+          "top3": {
+            "recent_value": 65,
+            "older_value": 65,
+            "diff": 0,
+            "percent": 0
+          },
+          "top10": {
+            "recent_value": 205,
+            "older_value": 205,
+            "diff": 0,
+            "percent": 0
+          },
+          "top50": {
+            "recent_value": 1576,
+            "older_value": 1576,
+            "diff": 0,
+            "percent": 0
+          },
+          "visibility": {
+            "recent_value": 1317,
+            "older_value": 1317,
+            "diff": 0,
+            "percent": 0
+          },
+          "domain_rank": {
+            "recent_value": 108563,
+            "older_value": 108566,
+            "diff": -3,
+            "percent": 0
+          },
+          "ads_equivalent": {
+            "recent_value": 1604.46,
+            "older_value": 1604.46,
+            "diff": 0,
+            "percent": 0
+          },
+          "category": {
+            "name": "",
+            "statistics": {
+              "recent_value": 108563,
+              "older_value": 108563,
+              "diff": 0,
+              "percent": 0
+            }
+          },
+          "aio_keywords": {
+            "recent_value": 82,
+            "older_value": 82,
+            "diff": 0,
+            "percent": 0
+          },
+          "aio_visible_keywords": {
+            "recent_value": 98,
+            "older_value": 98,
+            "diff": 0,
+            "percent": 0
+          }
+        }
+      }
+    },
+    "status": 200,
+    "domain": "hiponet.pl",
+    "endpoint": "get_domain_statistics"
+  }
+}

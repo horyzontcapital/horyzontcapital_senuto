@@ -1,0 +1,54 @@
+{
+  "domain": "fines.pl",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "fines.pl",
+        "keywords_count": 1526,
+        "visibility_percent": 100,
+        "statistics": {
+          "visibility": {
+            "current": 53762.81,
+            "previous": 48254.17,
+            "diff": 5508.63,
+            "percent": 0.1142,
+            "history": null
+          },
+          "top3": {
+            "current": 311,
+            "previous": 300,
+            "diff": 11,
+            "percent": 0.0367,
+            "history": null
+          },
+          "top10": {
+            "current": 1526,
+            "previous": 1521,
+            "diff": 5,
+            "percent": 0.0033,
+            "history": null
+          },
+          "top50": {
+            "current": 5374,
+            "previous": 5408,
+            "diff": -34,
+            "percent": -0.0063,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 100,
+            "previous": 100,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "fines.pl",
+    "endpoint": "get_subdomains"
+  }
+}

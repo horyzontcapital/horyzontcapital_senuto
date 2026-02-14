@@ -1,0 +1,38 @@
+{
+  "domain": "topf.pl",
+  "endpoint": "get_backlinks_tlds",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "tld": "pl",
+          "count": 6,
+          "percent": 0.5454545454545454
+        },
+        {
+          "tld": "org",
+          "count": 3,
+          "percent": 0.2727272727272727
+        },
+        {
+          "tld": "com",
+          "count": 2,
+          "percent": 0.18181818181818182
+        }
+      ],
+      "pagination": {
+        "page_count": 1,
+        "current_page": 1,
+        "has_next_page": false,
+        "has_prev_page": false,
+        "count": 3,
+        "limit": 10
+      }
+    },
+    "status": 200,
+    "domain": "topf.pl",
+    "endpoint": "get_backlinks_tlds"
+  }
+}

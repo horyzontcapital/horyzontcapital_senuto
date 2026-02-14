@@ -1,0 +1,42 @@
+{
+  "domain": "feniksfinanse.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "feniksfinanse.pl": [
+          {
+            "text": "www.feniksfinanse.pl",
+            "size": 4,
+            "percent": 0.4444444444444444
+          },
+          {
+            "text": "http://www.feniksfinanse.pl",
+            "size": 2,
+            "percent": 0.2222222222222222
+          },
+          {
+            "text": "",
+            "size": 1,
+            "percent": 0.1111111111111111
+          },
+          {
+            "text": "www",
+            "size": 1,
+            "percent": 0.1111111111111111
+          },
+          {
+            "text": "http://www.feniksfinanse.pl/",
+            "size": 1,
+            "percent": 0.1111111111111111
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "feniksfinanse.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

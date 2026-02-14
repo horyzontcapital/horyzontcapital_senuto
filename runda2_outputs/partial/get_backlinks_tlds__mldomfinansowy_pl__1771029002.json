@@ -1,0 +1,43 @@
+{
+  "domain": "mldomfinansowy.pl",
+  "endpoint": "get_backlinks_tlds",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "tld": "pl",
+          "count": 13,
+          "percent": 0.7222222222222222
+        },
+        {
+          "tld": "org",
+          "count": 2,
+          "percent": 0.1111111111111111
+        },
+        {
+          "tld": "eu",
+          "count": 2,
+          "percent": 0.1111111111111111
+        },
+        {
+          "tld": "ua",
+          "count": 1,
+          "percent": 0.05555555555555555
+        }
+      ],
+      "pagination": {
+        "page_count": 1,
+        "current_page": 1,
+        "has_next_page": false,
+        "has_prev_page": false,
+        "count": 4,
+        "limit": 10
+      }
+    },
+    "status": 200,
+    "domain": "mldomfinansowy.pl",
+    "endpoint": "get_backlinks_tlds"
+  }
+}

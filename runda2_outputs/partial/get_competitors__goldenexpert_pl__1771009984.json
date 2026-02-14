@@ -1,0 +1,159 @@
+{
+  "domain": "goldenexpert.pl",
+  "endpoint": "get_competitors",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "bankierkredyty.eu",
+        "is_main_domain": false,
+        "common_keywords": 3,
+        "statistics": {
+          "top3": {
+            "current": 4,
+            "previous": 4,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 16,
+            "previous": 16,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 56,
+            "previous": 56,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 29.07,
+            "previous": 29.07,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 430.64,
+            "previous": 430.64,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 619589,
+            "previous": 619558,
+            "diff": 31,
+            "percent": 0.0001,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "eurostrefa.eu",
+        "is_main_domain": false,
+        "common_keywords": 3,
+        "statistics": {
+          "top3": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 3,
+            "previous": 3,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 84,
+            "previous": 84,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 2.4,
+            "previous": 2.4,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 6.64,
+            "previous": 6.64,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 1193691,
+            "previous": 1193678,
+            "diff": 13,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "topf.pl",
+        "is_main_domain": false,
+        "common_keywords": 3,
+        "statistics": {
+          "top3": {
+            "current": 9,
+            "previous": 9,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 16,
+            "previous": 16,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 43,
+            "previous": 43,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 257.87,
+            "previous": 257.87,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 3785.95,
+            "previous": 3785.95,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 244809,
+            "previous": 244797,
+            "diff": 12,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 3,
+    "domain": "goldenexpert.pl",
+    "endpoint": "get_competitors"
+  }
+}

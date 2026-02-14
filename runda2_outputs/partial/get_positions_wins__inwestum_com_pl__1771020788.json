@@ -1,0 +1,327 @@
+{
+  "domain": "inwestum.com.pl",
+  "endpoint": "get_positions_wins",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "keyword_id": 1440960,
+        "kid": "1eedd1cfb37a2d0c40b0ec57bbc2f392",
+        "domain": "inwestum.com.pl",
+        "keyword": "pożyczki pod zastaw w domu klienta",
+        "words_count": 6,
+        "statistics": {
+          "position": {
+            "current": 37,
+            "previous": 40,
+            "diff": -3,
+            "changes": {
+              "wins": 2,
+              "losses": 3,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-21": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-26": {
+                "position": 34,
+                "has_serp": true
+              },
+              "2026-01-02": {
+                "position": 40,
+                "has_serp": true
+              },
+              "2026-01-09": {
+                "position": 37,
+                "has_serp": true
+              },
+              "2026-01-19": {
+                "position": 37,
+                "has_serp": true
+              },
+              "2026-01-29": {
+                "position": 40,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 37,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "inwestum.com.pl/",
+            "previous": "inwestum.com.pl/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 6.55
+          },
+          "searches": {
+            "current": 140
+          },
+          "trends": {
+            "history": [
+              90,
+              140,
+              140,
+              140,
+              110,
+              170,
+              170,
+              140,
+              140,
+              110,
+              140,
+              140
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 29
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 6232691,
+        "kid": "87b0a1fc8e5d1ab35510a93180bb5bfb",
+        "domain": "inwestum.com.pl",
+        "keyword": "pożyczki pod zastaw nieruchomości pozabankowe",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 8,
+            "previous": 9,
+            "diff": -1,
+            "changes": {
+              "wins": 2,
+              "losses": 1,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-21": {
+                "position": 9,
+                "has_serp": true
+              },
+              "2025-12-26": {
+                "position": 9,
+                "has_serp": true
+              },
+              "2026-01-02": {
+                "position": 8,
+                "has_serp": true
+              },
+              "2026-01-20": {
+                "position": 9,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 8,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 4.68,
+            "previous": 5.76,
+            "diff": -1.08,
+            "percent": -0.1875,
+            "history": null
+          },
+          "url": {
+            "current": "inwestum.com.pl/",
+            "previous": "inwestum.com.pl/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 15.61
+          },
+          "searches": {
+            "current": 320
+          },
+          "trends": {
+            "history": [
+              390,
+              390,
+              320,
+              320,
+              260,
+              320,
+              390,
+              320,
+              210,
+              170,
+              210,
+              320
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 35
+          },
+          "snippets": {
+            "current": [
+              "map"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 10612125,
+        "kid": "ea58ebf3708fdcf24512d0605e6c0b59",
+        "domain": "inwestum.com.pl",
+        "keyword": "pożyczki pod zastaw",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 26,
+            "previous": 30,
+            "diff": -4,
+            "changes": {
+              "wins": 3,
+              "losses": 7,
+              "no_changes": 2
+            },
+            "history": {
+              "2025-12-19": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-23": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-26": {
+                "position": 26,
+                "has_serp": true
+              },
+              "2025-12-31": {
+                "position": 28,
+                "has_serp": true
+              },
+              "2026-01-06": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-09": {
+                "position": 36,
+                "has_serp": true
+              },
+              "2026-01-12": {
+                "position": 36,
+                "has_serp": true
+              },
+              "2026-01-16": {
+                "position": 37,
+                "has_serp": true
+              },
+              "2026-01-21": {
+                "position": 38,
+                "has_serp": true
+              },
+              "2026-01-29": {
+                "position": 27,
+                "has_serp": true
+              },
+              "2026-02-03": {
+                "position": 30,
+                "has_serp": true
+              },
+              "2026-02-07": {
+                "position": 49,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 26,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "inwestum.com.pl/",
+            "previous": "inwestum.com.pl/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 12.48
+          },
+          "searches": {
+            "current": 1600
+          },
+          "trends": {
+            "history": [
+              1600,
+              1600,
+              1600,
+              1600,
+              1600,
+              1300,
+              1300,
+              1300,
+              2400,
+              2400,
+              1600,
+              1300
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 68
+          },
+          "snippets": {
+            "current": [
+              "map",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      }
+    ],
+    "total": 3,
+    "domain": "inwestum.com.pl",
+    "endpoint": "get_positions_wins"
+  }
+}

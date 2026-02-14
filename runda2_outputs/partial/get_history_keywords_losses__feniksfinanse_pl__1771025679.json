@@ -1,0 +1,1312 @@
+{
+  "domain": "feniksfinanse.pl",
+  "endpoint": "get_history_keywords_losses",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "keyword_id": 14337514,
+        "kid": "d98cbc0ce5b3595a950a0060a77a7794",
+        "domain": "feniksfinanse.pl",
+        "keyword": "co bedzie zamiast wiboru",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 23,
+            "previous": 20,
+            "diff": 3,
+            "changes": {
+              "wins": 1,
+              "losses": 1,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-21": {
+                "position": 21,
+                "has_serp": true
+              },
+              "2026-01-04": {
+                "position": 20,
+                "has_serp": true
+              },
+              "2026-01-21": {
+                "position": 20,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 23,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "feniksfinanse.pl/polstr-zamiast-wibor-wyznaczono-nowy-wskaznik-dla-kredytow-hipotecznych",
+            "previous": "feniksfinanse.pl/polstr-zamiast-wibor-wyznaczono-nowy-wskaznik-dla-kredytow-hipotecznych",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 30
+          },
+          "trends": {
+            "history": [
+              30,
+              30,
+              10,
+              10,
+              10,
+              20,
+              10,
+              30,
+              40,
+              40,
+              50,
+              40
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 24
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 8084021,
+        "kid": "b13b2195c5250ad3599870b63b25142b",
+        "domain": "feniksfinanse.pl",
+        "keyword": "feniks nieruchomości",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 43,
+            "previous": 37,
+            "diff": 6,
+            "changes": {
+              "wins": 1,
+              "losses": 4,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-19": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-26": {
+                "position": 20,
+                "has_serp": true
+              },
+              "2026-01-03": {
+                "position": 44,
+                "has_serp": true
+              },
+              "2026-01-10": {
+                "position": 44,
+                "has_serp": true
+              },
+              "2026-01-21": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-31": {
+                "position": 37,
+                "has_serp": true
+              },
+              "2026-02-10": {
+                "position": 43,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "feniksfinanse.pl/",
+            "previous": "feniksfinanse.pl/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0.09
+          },
+          "searches": {
+            "current": 170
+          },
+          "trends": {
+            "history": [
+              170,
+              170,
+              140,
+              170,
+              210,
+              260,
+              260,
+              260,
+              110,
+              140,
+              170,
+              110
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 31
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "map"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "website",
+            "main_intent": "navigational",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 11664417,
+        "kid": "4b69703811b222f34c987c02dba581f1",
+        "domain": "feniksfinanse.pl",
+        "keyword": "koszt nabycia nieruchomości",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 21,
+            "previous": 17,
+            "diff": 4,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-18": {
+                "position": 17,
+                "has_serp": true
+              },
+              "2026-02-06": {
+                "position": 21,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "feniksfinanse.pl/poza-bankowe-koszty-nabycia-nieruchomosci",
+            "previous": "feniksfinanse.pl/poza-bankowe-koszty-nabycia-nieruchomosci",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 30
+          },
+          "trends": {
+            "history": [
+              30,
+              40,
+              50,
+              70,
+              30,
+              20,
+              20,
+              20,
+              30,
+              20,
+              30,
+              20
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 42
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 13015955,
+        "kid": "6372e8fa36b8382574f36ef115ec01d5",
+        "domain": "feniksfinanse.pl",
+        "keyword": "jaki wskaźnik zamiast wibor",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 21,
+            "previous": 13,
+            "diff": 8,
+            "changes": {
+              "wins": 2,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-21": {
+                "position": 18,
+                "has_serp": true
+              },
+              "2026-01-04": {
+                "position": 17,
+                "has_serp": true
+              },
+              "2026-01-21": {
+                "position": 13,
+                "has_serp": true
+              },
+              "2026-02-10": {
+                "position": 21,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "feniksfinanse.pl/polstr-zamiast-wibor-wyznaczono-nowy-wskaznik-dla-kredytow-hipotecznych",
+            "previous": "feniksfinanse.pl/polstr-zamiast-wibor-wyznaczono-nowy-wskaznik-dla-kredytow-hipotecznych",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 50
+          },
+          "trends": {
+            "history": [
+              30,
+              20,
+              10,
+              10,
+              20,
+              90,
+              90,
+              90,
+              90,
+              90,
+              50,
+              40
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 24
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 11527518,
+        "kid": "ff34b5f095942c436c06ec3f2e136195",
+        "domain": "feniksfinanse.pl",
+        "keyword": "raty kapitałowe",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 22,
+            "previous": 21,
+            "diff": 1,
+            "changes": {
+              "wins": 0,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-16": {
+                "position": 17,
+                "has_serp": true
+              },
+              "2026-01-27": {
+                "position": 21,
+                "has_serp": true
+              },
+              "2026-02-05": {
+                "position": 22,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "feniksfinanse.pl/raty-rowne-czy-malejace",
+            "previous": "feniksfinanse.pl/raty-rowne-czy-malejace",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 1.95
+          },
+          "searches": {
+            "current": 260
+          },
+          "trends": {
+            "history": [
+              390,
+              260,
+              320,
+              260,
+              320,
+              320,
+              170,
+              210,
+              140,
+              260,
+              260,
+              260
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 53
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 13932700,
+        "kid": "b53703bdfe5d2752e987ed9ca1da10d9",
+        "domain": "feniksfinanse.pl",
+        "keyword": "wibor w innych krajach",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 20,
+            "previous": 11,
+            "diff": 9,
+            "changes": {
+              "wins": 1,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-21": {
+                "position": 16,
+                "has_serp": true
+              },
+              "2026-01-21": {
+                "position": 11,
+                "has_serp": true
+              },
+              "2026-02-10": {
+                "position": 20,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "feniksfinanse.pl/polstr-zamiast-wibor-wyznaczono-nowy-wskaznik-dla-kredytow-hipotecznych",
+            "previous": "feniksfinanse.pl/polstr-zamiast-wibor-wyznaczono-nowy-wskaznik-dla-kredytow-hipotecznych",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              20,
+              10,
+              20,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              40,
+              30
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 15
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 14380654,
+        "kid": "dd727241cd34c46b7b3a01d3992cc795",
+        "domain": "feniksfinanse.pl",
+        "keyword": "kiedy nowy wskaźnik zamiast wibor",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 40,
+            "previous": 33,
+            "diff": 7,
+            "changes": {
+              "wins": 1,
+              "losses": 1,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-21": {
+                "position": 38,
+                "has_serp": true
+              },
+              "2026-01-04": {
+                "position": 33,
+                "has_serp": true
+              },
+              "2026-01-21": {
+                "position": 33,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 40,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "feniksfinanse.pl/polstr-zamiast-wibor-wyznaczono-nowy-wskaznik-dla-kredytow-hipotecznych",
+            "previous": "feniksfinanse.pl/polstr-zamiast-wibor-wyznaczono-nowy-wskaznik-dla-kredytow-hipotecznych",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 30
+          },
+          "trends": {
+            "history": [
+              30,
+              20,
+              10,
+              10,
+              10,
+              10,
+              20,
+              30,
+              30,
+              70,
+              70,
+              50
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 16
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 13338155,
+        "kid": "7ffbdf327dd232b286c19261b80f04ab",
+        "domain": "feniksfinanse.pl",
+        "keyword": "zamiast wibor",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 16,
+            "previous": 13,
+            "diff": 3,
+            "changes": {
+              "wins": 1,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-18": {
+                "position": 16,
+                "has_serp": true
+              },
+              "2026-01-28": {
+                "position": 13,
+                "has_serp": true
+              },
+              "2026-02-07": {
+                "position": 16,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "feniksfinanse.pl/polstr-zamiast-wibor-wyznaczono-nowy-wskaznik-dla-kredytow-hipotecznych",
+            "previous": "feniksfinanse.pl/polstr-zamiast-wibor-wyznaczono-nowy-wskaznik-dla-kredytow-hipotecznych",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0.27
+          },
+          "searches": {
+            "current": 210
+          },
+          "trends": {
+            "history": [
+              320,
+              210,
+              170,
+              70,
+              50,
+              70,
+              70,
+              50,
+              50,
+              320,
+              480,
+              480
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 40
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 16322119,
+        "kid": "8f4f372cdffac996eca4d636ecd4f659",
+        "domain": "feniksfinanse.pl",
+        "keyword": "nowy wskaźnik zamiast wibor",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 19,
+            "previous": 18,
+            "diff": 1,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-17": {
+                "position": 18,
+                "has_serp": true
+              },
+              "2026-02-06": {
+                "position": 19,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "feniksfinanse.pl/polstr-zamiast-wibor-wyznaczono-nowy-wskaznik-dla-kredytow-hipotecznych",
+            "previous": "feniksfinanse.pl/polstr-zamiast-wibor-wyznaczono-nowy-wskaznik-dla-kredytow-hipotecznych",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 260
+          },
+          "trends": {
+            "history": [
+              210,
+              90,
+              70,
+              20,
+              20,
+              30,
+              30,
+              320,
+              720,
+              590,
+              480,
+              480
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 26
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 14059017,
+        "kid": "c07455dbe281a71bf46913b4184f0845",
+        "domain": "feniksfinanse.pl",
+        "keyword": "wskaźnik zamiast wibor",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 18,
+            "previous": 17,
+            "diff": 1,
+            "changes": {
+              "wins": 1,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-21": {
+                "position": 18,
+                "has_serp": true
+              },
+              "2026-01-04": {
+                "position": 24,
+                "has_serp": true
+              },
+              "2026-01-21": {
+                "position": 17,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 18,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "feniksfinanse.pl/polstr-zamiast-wibor-wyznaczono-nowy-wskaznik-dla-kredytow-hipotecznych",
+            "previous": "feniksfinanse.pl/polstr-zamiast-wibor-wyznaczono-nowy-wskaznik-dla-kredytow-hipotecznych",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              30,
+              20,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              30,
+              70,
+              50
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 31
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 14124096,
+        "kid": "c652a006399f90fbfa62f08ac67e0d56",
+        "domain": "feniksfinanse.pl",
+        "keyword": "ibor telefon",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 37,
+            "previous": 34,
+            "diff": 3,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-18": {
+                "position": 34,
+                "has_serp": true
+              },
+              "2026-02-07": {
+                "position": 37,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "feniksfinanse.pl/polstr-zamiast-wibor-wyznaczono-nowy-wskaznik-dla-kredytow-hipotecznych",
+            "previous": "feniksfinanse.pl/polstr-zamiast-wibor-wyznaczono-nowy-wskaznik-dla-kredytow-hipotecznych",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 170
+          },
+          "trends": {
+            "history": [
+              170,
+              170,
+              210,
+              110,
+              110,
+              70,
+              40,
+              70,
+              260,
+              320,
+              210,
+              140
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 31
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "image_thumbs"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know simple",
+            "main_intent": "navigational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 16335117,
+        "kid": "e840138f8e21419d38f9ad84e4958495",
+        "domain": "feniksfinanse.pl",
+        "keyword": "nowy wibor",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 30,
+            "previous": 23,
+            "diff": 7,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-17": {
+                "position": 23,
+                "has_serp": true
+              },
+              "2026-02-06": {
+                "position": 30,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "feniksfinanse.pl/polstr-zamiast-wibor-wyznaczono-nowy-wskaznik-dla-kredytow-hipotecznych",
+            "previous": "feniksfinanse.pl/polstr-zamiast-wibor-wyznaczono-nowy-wskaznik-dla-kredytow-hipotecznych",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 260
+          },
+          "trends": {
+            "history": [
+              260,
+              170,
+              140,
+              50,
+              40,
+              70,
+              50,
+              210,
+              1000,
+              480,
+              390,
+              390
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 40
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 13197625,
+        "kid": "7368f5eac3146964c9f671e43e3068b9",
+        "domain": "feniksfinanse.pl",
+        "keyword": "rezygnacja z wibor",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 42,
+            "previous": 39,
+            "diff": 3,
+            "changes": {
+              "wins": 1,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-20": {
+                "position": 23,
+                "has_serp": true
+              },
+              "2026-01-03": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-21": {
+                "position": 39,
+                "has_serp": true
+              },
+              "2026-02-10": {
+                "position": 42,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "feniksfinanse.pl/polstr-zamiast-wibor-wyznaczono-nowy-wskaznik-dla-kredytow-hipotecznych",
+            "previous": "feniksfinanse.pl/polstr-zamiast-wibor-wyznaczono-nowy-wskaznik-dla-kredytow-hipotecznych",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 28
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 8523051,
+        "kid": "bb1f4eb10547c76f257a6defc819901d",
+        "domain": "feniksfinanse.pl",
+        "keyword": "raty równe",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 14,
+            "previous": 10,
+            "diff": 4,
+            "changes": {
+              "wins": 0,
+              "losses": 2,
+              "no_changes": 4
+            },
+            "history": {
+              "2025-12-19": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-26": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-03": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-10": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-21": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-31": {
+                "position": 10,
+                "has_serp": true
+              },
+              "2026-02-10": {
+                "position": 14,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 1.69,
+            "diff": -1.69,
+            "percent": -1,
+            "history": null
+          },
+          "url": {
+            "current": "feniksfinanse.pl/raty-rowne-czy-malejace",
+            "previous": "feniksfinanse.pl/raty-rowne-czy-malejace",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0.16
+          },
+          "searches": {
+            "current": 110
+          },
+          "trends": {
+            "history": [
+              140,
+              140,
+              140,
+              110,
+              110,
+              110,
+              110,
+              110,
+              110,
+              110,
+              110,
+              110
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 45
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "people_also_ask",
+              "wiki_right"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 11884989,
+        "kid": "f40eb47b74111cd538169ba5de555100",
+        "domain": "feniksfinanse.pl",
+        "keyword": "feniks pożyczki",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 6,
+            "previous": 4,
+            "diff": 2,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-18": {
+                "position": 4,
+                "has_serp": true
+              },
+              "2026-02-06": {
+                "position": 6,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 2.6,
+            "previous": 4.97,
+            "diff": -2.37,
+            "percent": -0.4769,
+            "history": null
+          },
+          "url": {
+            "current": "feniksfinanse.pl/kredyty/dla-ciebie/pozyczka-hipoteczna",
+            "previous": "feniksfinanse.pl/",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 1.41
+          },
+          "searches": {
+            "current": 70
+          },
+          "trends": {
+            "history": [
+              90,
+              70,
+              70,
+              50,
+              70,
+              50,
+              70,
+              90,
+              70,
+              90,
+              70,
+              70
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 33
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "map",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      }
+    ],
+    "total": 15,
+    "domain": "feniksfinanse.pl",
+    "endpoint": "get_history_keywords_losses"
+  }
+}

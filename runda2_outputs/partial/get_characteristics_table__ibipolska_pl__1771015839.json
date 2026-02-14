@@ -1,0 +1,507 @@
+{
+  "domain": "ibipolska.pl",
+  "endpoint": "get_characteristics_table",
+  "data": {
+    "ok": true,
+    "data": {
+      "words_count": {
+        "success": true,
+        "data": [
+          {
+            "top3": 1,
+            "top10": 1,
+            "count": "1",
+            "visibility_sum": 356,
+            "key": 1,
+            "top50": 1,
+            "visibility_domain": 398.72,
+            "visibility_percent": 89.29
+          },
+          {
+            "top3": 1,
+            "top10": 1,
+            "count": "5",
+            "visibility_sum": 24.92,
+            "key": 2,
+            "top50": 5,
+            "visibility_domain": 398.72,
+            "visibility_percent": 6.25
+          },
+          {
+            "top3": 0,
+            "top10": 0,
+            "count": "4",
+            "visibility_sum": 0,
+            "key": 3,
+            "top50": 4,
+            "visibility_domain": 398.72,
+            "visibility_percent": 0
+          },
+          {
+            "top3": 1,
+            "top10": 1,
+            "count": "2",
+            "visibility_sum": 17.8,
+            "key": 4,
+            "top50": 2,
+            "visibility_domain": 398.72,
+            "visibility_percent": 4.46
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 4,
+          "limit": 100
+        }
+      },
+      "trends": {
+        "success": true,
+        "data": [
+          {
+            "key": "trend_1",
+            "top3": 0,
+            "top10": 0,
+            "top50": 0,
+            "visibility_domain": null,
+            "visibility_percent": 0,
+            "visibility_sum": 0
+          },
+          {
+            "key": "trend_2",
+            "top3": 0,
+            "top10": 0,
+            "top50": 0,
+            "visibility_domain": null,
+            "visibility_percent": 0,
+            "visibility_sum": 0
+          },
+          {
+            "key": "trend_3",
+            "top3": 0,
+            "top10": 0,
+            "top50": 0,
+            "visibility_domain": null,
+            "visibility_percent": 0,
+            "visibility_sum": 0
+          },
+          {
+            "key": "trend_4",
+            "top3": 0,
+            "top10": 0,
+            "top50": 0,
+            "visibility_domain": null,
+            "visibility_percent": 0,
+            "visibility_sum": 0
+          },
+          {
+            "key": "trend_5",
+            "top3": 0,
+            "top10": 0,
+            "top50": 0,
+            "visibility_domain": null,
+            "visibility_percent": 0,
+            "visibility_sum": 0
+          },
+          {
+            "key": "trend_6",
+            "top3": 0,
+            "top10": 0,
+            "top50": 0,
+            "visibility_domain": null,
+            "visibility_percent": 0,
+            "visibility_sum": 0
+          },
+          {
+            "key": "trend_7",
+            "top3": 0,
+            "top10": 0,
+            "top50": 1,
+            "visibility_domain": null,
+            "visibility_percent": 0,
+            "visibility_sum": 0
+          },
+          {
+            "key": "trend_8",
+            "top3": 0,
+            "top10": 0,
+            "top50": 0,
+            "visibility_domain": null,
+            "visibility_percent": 0,
+            "visibility_sum": 0
+          },
+          {
+            "key": "trend_9",
+            "top3": 0,
+            "top10": 0,
+            "top50": 0,
+            "visibility_domain": null,
+            "visibility_percent": 0,
+            "visibility_sum": 0
+          },
+          {
+            "key": "trend_10",
+            "top3": 0,
+            "top10": 0,
+            "top50": 0,
+            "visibility_domain": null,
+            "visibility_percent": 0,
+            "visibility_sum": 0
+          },
+          {
+            "key": "trend_11",
+            "top3": 0,
+            "top10": 0,
+            "top50": 0,
+            "visibility_domain": null,
+            "visibility_percent": 0,
+            "visibility_sum": 0
+          },
+          {
+            "key": "trend_12",
+            "top3": 0,
+            "top10": 0,
+            "top50": 0,
+            "visibility_domain": null,
+            "visibility_percent": 0,
+            "visibility_sum": 0
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 12,
+          "limit": 100
+        }
+      },
+      "searches": {
+        "success": true,
+        "data": [
+          {
+            "searches": 10,
+            "count": 3,
+            "top3": 0,
+            "top10": 0,
+            "top50": 3,
+            "visibility_sum": 0,
+            "key": 10,
+            "visibility_domain": 398.72,
+            "visibility_percent": 0
+          },
+          {
+            "searches": 30,
+            "count": 2,
+            "top3": 0,
+            "top10": 0,
+            "top50": 2,
+            "visibility_sum": 0,
+            "key": 30,
+            "visibility_domain": 398.72,
+            "visibility_percent": 0
+          },
+          {
+            "searches": 50,
+            "count": 1,
+            "top3": 1,
+            "top10": 1,
+            "top50": 1,
+            "visibility_sum": 17.8,
+            "key": 50,
+            "visibility_domain": 398.72,
+            "visibility_percent": 4.46
+          },
+          {
+            "searches": 70,
+            "count": 2,
+            "top3": 1,
+            "top10": 1,
+            "top50": 2,
+            "visibility_sum": 24.92,
+            "key": 70,
+            "visibility_domain": 398.72,
+            "visibility_percent": 6.25
+          },
+          {
+            "searches": 90,
+            "count": 1,
+            "top3": 0,
+            "top10": 0,
+            "top50": 1,
+            "visibility_sum": 0,
+            "key": 90,
+            "visibility_domain": 398.72,
+            "visibility_percent": 0
+          },
+          {
+            "searches": 170,
+            "count": 1,
+            "top3": 0,
+            "top10": 0,
+            "top50": 1,
+            "visibility_sum": 0,
+            "key": 170,
+            "visibility_domain": 398.72,
+            "visibility_percent": 0
+          },
+          {
+            "searches": 1000,
+            "count": 1,
+            "top3": 1,
+            "top10": 1,
+            "top50": 1,
+            "visibility_sum": 356,
+            "key": 1000,
+            "visibility_domain": 398.72,
+            "visibility_percent": 89.29
+          },
+          {
+            "searches": 1300,
+            "count": 1,
+            "top3": 0,
+            "top10": 0,
+            "top50": 1,
+            "visibility_sum": 0,
+            "key": 1300,
+            "visibility_domain": 398.72,
+            "visibility_percent": 0
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 8,
+          "limit": 100
+        }
+      },
+      "difficulty": {
+        "success": true,
+        "data": {
+          "1-10": {
+            "top3": 0,
+            "top10": 0,
+            "top50": 1,
+            "visibility_sum": 0,
+            "key": "1-10",
+            "min": 1,
+            "max": 10,
+            "visibility_domain": 399,
+            "visibility_percent": 0
+          },
+          "11-20": {
+            "top3": 1,
+            "top10": 1,
+            "top50": 3,
+            "visibility_sum": 18,
+            "key": "11-20",
+            "min": 11,
+            "max": 20,
+            "visibility_domain": 399,
+            "visibility_percent": 4.51
+          },
+          "21-30": {
+            "top3": 0,
+            "top10": 0,
+            "top50": 2,
+            "visibility_sum": 0,
+            "key": "21-30",
+            "min": 21,
+            "max": 30,
+            "visibility_domain": 399,
+            "visibility_percent": 0
+          },
+          "31-40": {
+            "top3": 1,
+            "top10": 1,
+            "top50": 3,
+            "visibility_sum": 25,
+            "key": "31-40",
+            "min": 31,
+            "max": 40,
+            "visibility_domain": 399,
+            "visibility_percent": 6.27
+          },
+          "41-50": {
+            "top3": 0,
+            "top10": 0,
+            "top50": 2,
+            "visibility_sum": 0,
+            "key": "41-50",
+            "min": 41,
+            "max": 50,
+            "visibility_domain": 399,
+            "visibility_percent": 0
+          },
+          "51-60": {
+            "top3": 1,
+            "top10": 1,
+            "top50": 1,
+            "visibility_sum": 356,
+            "key": "51-60",
+            "min": 51,
+            "max": 60,
+            "visibility_domain": 399,
+            "visibility_percent": 89.22
+          },
+          "61-70": {
+            "top3": 0,
+            "top10": 0,
+            "top50": 0,
+            "visibility_sum": 0,
+            "visibility_domain": 399,
+            "visibility_percent": 0
+          },
+          "71-80": {
+            "top3": 0,
+            "top10": 0,
+            "top50": 0,
+            "visibility_sum": 0,
+            "visibility_domain": 399,
+            "visibility_percent": 0
+          },
+          "81-90": {
+            "top3": 0,
+            "top10": 0,
+            "top50": 0,
+            "visibility_sum": 0,
+            "visibility_domain": 399,
+            "visibility_percent": 0
+          },
+          "91-100": {
+            "top3": 0,
+            "top10": 0,
+            "top50": 0,
+            "visibility_sum": 0,
+            "visibility_domain": 399,
+            "visibility_percent": 0
+          }
+        },
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 10,
+          "limit": 100
+        }
+      },
+      "keyword_params": {
+        "success": true,
+        "data": [
+          {
+            "key": "city",
+            "top3": 0,
+            "top10": 0,
+            "top50": 3,
+            "visibility_domain": 399,
+            "visibility_percent": 0,
+            "visibility_sum": 0
+          },
+          {
+            "key": "brand",
+            "top3": 2,
+            "top10": 2,
+            "top50": 8,
+            "visibility_domain": 399,
+            "visibility_percent": 10.71,
+            "visibility_sum": 42
+          },
+          {
+            "key": "name",
+            "top3": 0,
+            "top10": 0,
+            "top50": 0,
+            "visibility_domain": 399,
+            "visibility_percent": 0,
+            "visibility_sum": 0
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 3,
+          "limit": 100
+        }
+      },
+      "serp_params": {
+        "success": true,
+        "data": [
+          {
+            "param": "map",
+            "top3": 1,
+            "top10": 1,
+            "top50": 1,
+            "visibility": 356,
+            "key": "map",
+            "visibility_sum": 356,
+            "visibility_domain": 1111,
+            "visibility_percent": 32.04
+          },
+          {
+            "param": "image_thumbs",
+            "top3": 1,
+            "top10": 1,
+            "top50": 2,
+            "visibility": 356,
+            "key": "image_thumbs",
+            "visibility_sum": 356,
+            "visibility_domain": 1111,
+            "visibility_percent": 32.04
+          },
+          {
+            "param": "people_also_ask",
+            "top3": 1,
+            "top10": 1,
+            "top50": 5,
+            "visibility": 356,
+            "key": "people_also_ask",
+            "visibility_sum": 356,
+            "visibility_domain": 1111,
+            "visibility_percent": 32.04
+          },
+          {
+            "param": "wiki_right",
+            "top3": 2,
+            "top10": 2,
+            "top50": 7,
+            "visibility": 43,
+            "key": "wiki_right",
+            "visibility_sum": 43,
+            "visibility_domain": 1111,
+            "visibility_percent": 3.87
+          },
+          {
+            "param": "ai_overview",
+            "top3": 0,
+            "top10": 0,
+            "top50": 1,
+            "visibility": 0,
+            "key": "ai_overview",
+            "visibility_sum": 0,
+            "visibility_domain": 1111,
+            "visibility_percent": 0
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 5,
+          "limit": 100
+        }
+      }
+    },
+    "chars_ok": 6,
+    "chars_total": 6,
+    "domain": "ibipolska.pl",
+    "endpoint": "get_characteristics_table"
+  }
+}

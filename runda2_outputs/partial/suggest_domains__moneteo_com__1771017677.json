@@ -1,0 +1,19 @@
+{
+  "domain": "moneteo.com",
+  "endpoint": "suggest_domains",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "favourite": [],
+        "suggested": [
+          "moneteo.com"
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "moneteo.com",
+    "endpoint": "suggest_domains"
+  }
+}

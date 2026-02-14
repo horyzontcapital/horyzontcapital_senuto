@@ -1,0 +1,172 @@
+{
+  "domain": "mldomfinansowy.pl",
+  "endpoint": "get_history_keywords_losses",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "keyword_id": 10327142,
+        "kid": "e3e56a7c4855655480edcf2754b2a048",
+        "domain": "mldomfinansowy.pl",
+        "keyword": "doradztwo finansowe tychy",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 7,
+            "previous": 4,
+            "diff": 3,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-28": {
+                "position": 4,
+                "has_serp": true
+              },
+              "2026-02-10": {
+                "position": 7,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0.85,
+            "previous": 0.71,
+            "diff": 0.14,
+            "percent": 0.1972,
+            "history": null
+          },
+          "url": {
+            "current": "mldomfinansowy.pl/",
+            "previous": "mldomfinansowy.pl/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 5.17
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              30,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 22
+          },
+          "snippets": {
+            "current": [
+              "map",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "local",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 4809050,
+        "kid": "6816adb9e387d838fc41cf88e1f550d0",
+        "domain": "mldomfinansowy.pl",
+        "keyword": "kredyt hipoteczny tychy",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 7,
+            "previous": 6,
+            "diff": 1,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-20": {
+                "position": 6,
+                "has_serp": true
+              },
+              "2026-02-01": {
+                "position": 7,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0.28,
+            "previous": 0.37,
+            "diff": -0.09,
+            "percent": -0.2432,
+            "history": null
+          },
+          "url": {
+            "current": "mldomfinansowy.pl/",
+            "previous": "mldomfinansowy.pl/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              20,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 22
+          },
+          "snippets": {
+            "current": [
+              "map",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      }
+    ],
+    "total": 2,
+    "domain": "mldomfinansowy.pl",
+    "endpoint": "get_history_keywords_losses"
+  }
+}

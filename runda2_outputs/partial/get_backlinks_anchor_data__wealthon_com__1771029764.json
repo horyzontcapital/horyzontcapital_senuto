@@ -1,0 +1,511 @@
+{
+  "domain": "wealthon.com",
+  "endpoint": "get_backlinks_anchor_data",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "link_domain": "wealthon.com",
+        "is_main_domain": true,
+        "anchor": "wealthon.com",
+        "anchor_type": [],
+        "count": {
+          "count": 170,
+          "percent_of_total": 0.2905982905982906
+        },
+        "domains_with_anchor_count": 32,
+        "anchors_uniq_count": 35,
+        "percent_of_total": 0.2905982905982906
+      },
+      {
+        "link_domain": "wealthon.com",
+        "is_main_domain": true,
+        "anchor": "<redirect>",
+        "anchor_type": [],
+        "count": {
+          "count": 125,
+          "percent_of_total": 0.21367521367521367
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 125,
+        "percent_of_total": 0.21367521367521367
+      },
+      {
+        "link_domain": "wealthon.com",
+        "is_main_domain": true,
+        "anchor": "https://wealthon.com",
+        "anchor_type": [],
+        "count": {
+          "count": 118,
+          "percent_of_total": 0.20170940170940171
+        },
+        "domains_with_anchor_count": 22,
+        "anchors_uniq_count": 22,
+        "percent_of_total": 0.20170940170940171
+      },
+      {
+        "link_domain": "wealthon.com",
+        "is_main_domain": true,
+        "anchor": "https://wealthon.com/",
+        "anchor_type": [],
+        "count": {
+          "count": 54,
+          "percent_of_total": 0.09230769230769231
+        },
+        "domains_with_anchor_count": 9,
+        "anchors_uniq_count": 12,
+        "percent_of_total": 0.09230769230769231
+      },
+      {
+        "link_domain": "wealthon.com",
+        "is_main_domain": true,
+        "anchor": "Wealthon",
+        "anchor_type": [],
+        "count": {
+          "count": 20,
+          "percent_of_total": 0.03418803418803419
+        },
+        "domains_with_anchor_count": 4,
+        "anchors_uniq_count": 19,
+        "percent_of_total": 0.03418803418803419
+      },
+      {
+        "link_domain": "wealthon.com",
+        "is_main_domain": true,
+        "anchor": "Wealthon Fund S.A.",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 14,
+          "percent_of_total": 0.023931623931623933
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 0.023931623931623933
+      },
+      {
+        "link_domain": "wealthon.com",
+        "is_main_domain": true,
+        "anchor": "",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 12,
+          "percent_of_total": 0.020512820512820513
+        },
+        "domains_with_anchor_count": 3,
+        "anchors_uniq_count": 10,
+        "percent_of_total": 0.020512820512820513
+      },
+      {
+        "link_domain": "wealthon.com",
+        "is_main_domain": true,
+        "anchor": "https://wealthon.com/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 12,
+          "percent_of_total": 0.020512820512820513
+        },
+        "domains_with_anchor_count": 5,
+        "anchors_uniq_count": 8,
+        "percent_of_total": 0.020512820512820513
+      },
+      {
+        "link_domain": "wealthon.com",
+        "is_main_domain": true,
+        "anchor": "Finansowanie pozabankowe dla firm",
+        "anchor_type": [],
+        "count": {
+          "count": 6,
+          "percent_of_total": 0.010256410256410256
+        },
+        "domains_with_anchor_count": 5,
+        "anchors_uniq_count": 5,
+        "percent_of_total": 0.010256410256410256
+      },
+      {
+        "link_domain": "wealthon.com",
+        "is_main_domain": true,
+        "anchor": "",
+        "anchor_type": [],
+        "count": {
+          "count": 6,
+          "percent_of_total": 0.010256410256410256
+        },
+        "domains_with_anchor_count": 4,
+        "anchors_uniq_count": 4,
+        "percent_of_total": 0.010256410256410256
+      },
+      {
+        "link_domain": "wealthon.com",
+        "is_main_domain": true,
+        "anchor": "Finansowanie pomostowe",
+        "anchor_type": [],
+        "count": {
+          "count": 4,
+          "percent_of_total": 0.006837606837606838
+        },
+        "domains_with_anchor_count": 3,
+        "anchors_uniq_count": 3,
+        "percent_of_total": 0.006837606837606838
+      },
+      {
+        "link_domain": "wealthon.com",
+        "is_main_domain": true,
+        "anchor": "Pożyczki dla mikrofirm",
+        "anchor_type": [],
+        "count": {
+          "count": 3,
+          "percent_of_total": 0.005128205128205128
+        },
+        "domains_with_anchor_count": 3,
+        "anchors_uniq_count": 3,
+        "percent_of_total": 0.005128205128205128
+      },
+      {
+        "link_domain": "wealthon.com",
+        "is_main_domain": true,
+        "anchor": "Pożyczka na działalność gospodarczą",
+        "anchor_type": [],
+        "count": {
+          "count": 3,
+          "percent_of_total": 0.005128205128205128
+        },
+        "domains_with_anchor_count": 3,
+        "anchors_uniq_count": 3,
+        "percent_of_total": 0.005128205128205128
+      },
+      {
+        "link_domain": "wealthon.com",
+        "is_main_domain": true,
+        "anchor": "Pożyczka pomostowa",
+        "anchor_type": [],
+        "count": {
+          "count": 3,
+          "percent_of_total": 0.005128205128205128
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 0.005128205128205128
+      },
+      {
+        "link_domain": "wealthon.com",
+        "is_main_domain": true,
+        "anchor": "Kredyt na spłatę ZUS i US",
+        "anchor_type": [],
+        "count": {
+          "count": 3,
+          "percent_of_total": 0.005128205128205128
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 0.005128205128205128
+      },
+      {
+        "link_domain": "wealthon.com",
+        "is_main_domain": true,
+        "anchor": "Kredyty pomostowe",
+        "anchor_type": [],
+        "count": {
+          "count": 3,
+          "percent_of_total": 0.005128205128205128
+        },
+        "domains_with_anchor_count": 3,
+        "anchors_uniq_count": 3,
+        "percent_of_total": 0.005128205128205128
+      },
+      {
+        "link_domain": "wealthon.com",
+        "is_main_domain": true,
+        "anchor": "Pożyczka dla firm",
+        "anchor_type": [],
+        "count": {
+          "count": 3,
+          "percent_of_total": 0.005128205128205128
+        },
+        "domains_with_anchor_count": 3,
+        "anchors_uniq_count": 3,
+        "percent_of_total": 0.005128205128205128
+      },
+      {
+        "link_domain": "wealthon.com",
+        "is_main_domain": true,
+        "anchor": "polityce prywatności",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.003418803418803419
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 0.003418803418803419
+      },
+      {
+        "link_domain": "wealthon.com",
+        "is_main_domain": true,
+        "anchor": "Kredyty pozabankowe dla firm bez bik",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.003418803418803419
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 0.003418803418803419
+      },
+      {
+        "link_domain": "wealthon.com",
+        "is_main_domain": true,
+        "anchor": "Kredyt dla firm pozabankowy",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.003418803418803419
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.003418803418803419
+      },
+      {
+        "link_domain": "wealthon.com",
+        "is_main_domain": true,
+        "anchor": "Pożyczki dla mikroprzedsiębiorców",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.003418803418803419
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 0.003418803418803419
+      },
+      {
+        "link_domain": "wealthon.com",
+        "is_main_domain": true,
+        "anchor": "https://wealthon.com/?utm_source=google&amp;utm_medium=gmf&amp;utm_campaign=wizytowka",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.003418803418803419
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 0.003418803418803419
+      },
+      {
+        "link_domain": "wealthon.com",
+        "is_main_domain": true,
+        "anchor": "Kredyty pozabankowe dla nowych firm",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.003418803418803419
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 0.003418803418803419
+      },
+      {
+        "link_domain": "wealthon.com",
+        "is_main_domain": true,
+        "anchor": "Wealthon Round: Pre A Goal: business scaling www.wealthon.com",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0017094017094017094
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0017094017094017094
+      },
+      {
+        "link_domain": "wealthon.com",
+        "is_main_domain": true,
+        "anchor": "https://wealthon.com/finansowanie/karta-z-limitem-kredytowym/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0017094017094017094
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0017094017094017094
+      },
+      {
+        "link_domain": "wealthon.com",
+        "is_main_domain": true,
+        "anchor": "Wealthon Runda: Pre A Cel: skalowanie biznesu www.wealthon.com",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0017094017094017094
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0017094017094017094
+      },
+      {
+        "link_domain": "wealthon.com",
+        "is_main_domain": true,
+        "anchor": "strona www",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0017094017094017094
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0017094017094017094
+      },
+      {
+        "link_domain": "wealthon.com",
+        "is_main_domain": true,
+        "anchor": "Kredyt na spłatę ZUS",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0017094017094017094
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0017094017094017094
+      },
+      {
+        "link_domain": "wealthon.com",
+        "is_main_domain": true,
+        "anchor": "weal thon.com Odwiedź tę stronę",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0017094017094017094
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0017094017094017094
+      },
+      {
+        "link_domain": "wealthon.com",
+        "is_main_domain": true,
+        "anchor": "https://wealthon.com/blog/wealthon-pozyskal-fundusze-na-rozwoj-uslug-finansowych/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0017094017094017094
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0017094017094017094
+      },
+      {
+        "link_domain": "wealthon.com",
+        "is_main_domain": true,
+        "anchor": "Pożyczka na spłatę ZUS i US",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0017094017094017094
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0017094017094017094
+      },
+      {
+        "link_domain": "wealthon.com",
+        "is_main_domain": true,
+        "anchor": "https://www.wealthon.com/finansowanie/wealthon-poscash/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0017094017094017094
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0017094017094017094
+      },
+      {
+        "link_domain": "wealthon.com",
+        "is_main_domain": true,
+        "anchor": "pożyczka Wealthon POSCASH",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0017094017094017094
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0017094017094017094
+      },
+      {
+        "link_domain": "wealthon.com",
+        "is_main_domain": true,
+        "anchor": "Wealthon POS",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0017094017094017094
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0017094017094017094
+      },
+      {
+        "link_domain": "wealthon.com",
+        "is_main_domain": true,
+        "anchor": "Pożyczki na działalność gospodarczą bez BIK",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0017094017094017094
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0017094017094017094
+      },
+      {
+        "link_domain": "wealthon.com",
+        "is_main_domain": true,
+        "anchor": "Website",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0017094017094017094
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0017094017094017094
+      },
+      {
+        "link_domain": "wealthon.com",
+        "is_main_domain": true,
+        "anchor": "Pożyczki dla firm pozabankowe",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0017094017094017094
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0017094017094017094
+      }
+    ],
+    "total": 37,
+    "domain": "wealthon.com",
+    "endpoint": "get_backlinks_anchor_data"
+  }
+}

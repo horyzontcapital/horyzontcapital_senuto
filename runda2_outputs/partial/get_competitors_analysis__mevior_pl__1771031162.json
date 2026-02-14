@@ -1,0 +1,155 @@
+{
+  "domain": "mevior.pl",
+  "endpoint": "get_competitors_analysis",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "keyword": "pozabankowe instytucje finansowe",
+          "cpc": 0.11,
+          "searches": 50,
+          "trends": [
+            50,
+            50,
+            140,
+            90,
+            110,
+            70,
+            40,
+            20,
+            20,
+            20,
+            20,
+            50
+          ],
+          "difficulty": 30,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 22,
+            "url": "horyzontcapital.com/blog/czym-rozni-sie-finansowanie-pozabankowe-od-kredytu-bankowego"
+          },
+          "horyzontcapital.com_pos": 22,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/czym-rozni-sie-finansowanie-pozabankowe-od-kredytu-bankowego",
+          "mevior.pl": {
+            "pos": 25,
+            "url": "mevior.pl/pozabankowe-pozyczki-dla-firm-szybkie-finansowanie-bez-banku/"
+          },
+          "mevior.pl_pos": 25,
+          "mevior.pl_url": "mevior.pl/pozabankowe-pozyczki-dla-firm-szybkie-finansowanie-bez-banku/"
+        },
+        {
+          "keyword": "finansowanie pozabankowe",
+          "cpc": 13.65,
+          "searches": 40,
+          "trends": [
+            20,
+            30,
+            30,
+            30,
+            10,
+            10,
+            10,
+            10,
+            10,
+            20,
+            30,
+            20
+          ],
+          "difficulty": 38,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 22,
+            "url": "horyzontcapital.com/blog/czym-rozni-sie-finansowanie-pozabankowe-od-kredytu-bankowego"
+          },
+          "horyzontcapital.com_pos": 22,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/czym-rozni-sie-finansowanie-pozabankowe-od-kredytu-bankowego",
+          "mevior.pl": {
+            "pos": 13,
+            "url": "mevior.pl/pozabankowe-pozyczki-dla-firm-szybkie-finansowanie-bez-banku/"
+          },
+          "mevior.pl_pos": 13,
+          "mevior.pl_url": "mevior.pl/pozabankowe-pozyczki-dla-firm-szybkie-finansowanie-bez-banku/"
+        },
+        {
+          "keyword": "płynność inwestycji co to",
+          "cpc": 0,
+          "searches": 20,
+          "trends": [
+            30,
+            20,
+            20,
+            50,
+            40,
+            10,
+            10,
+            10,
+            10,
+            10,
+            40,
+            30
+          ],
+          "difficulty": 30,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 27,
+            "url": "horyzontcapital.com/blog/jak-zadbac-o-plynnosc-inwestycji-w-firmie-5-sposobow-na-finansowanie-bez-ryzyka-utraty-plynnosci"
+          },
+          "horyzontcapital.com_pos": 27,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/jak-zadbac-o-plynnosc-inwestycji-w-firmie-5-sposobow-na-finansowanie-bez-ryzyka-utraty-plynnosci",
+          "mevior.pl": {
+            "pos": 6,
+            "url": "mevior.pl/czym-jest-plynnosc-finansowa-i-jak-nia-zarzadzac/"
+          },
+          "mevior.pl_pos": 6,
+          "mevior.pl_url": "mevior.pl/czym-jest-plynnosc-finansowa-i-jak-nia-zarzadzac/"
+        },
+        {
+          "keyword": "szybkie finansowanie dla firm",
+          "cpc": 5.23,
+          "searches": 10,
+          "trends": [
+            30,
+            20,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            20,
+            10,
+            20,
+            20
+          ],
+          "difficulty": 50,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 36,
+            "url": "horyzontcapital.com/oferta/pozyczka-dla-firm"
+          },
+          "horyzontcapital.com_pos": 36,
+          "horyzontcapital.com_url": "horyzontcapital.com/oferta/pozyczka-dla-firm",
+          "mevior.pl": {
+            "pos": 27,
+            "url": "mevior.pl/pozabankowe-pozyczki-dla-firm-szybkie-finansowanie-bez-banku/"
+          },
+          "mevior.pl_pos": 27,
+          "mevior.pl_url": "mevior.pl/pozabankowe-pozyczki-dla-firm-szybkie-finansowanie-bez-banku/"
+        }
+      ],
+      "pagination": {
+        "page_count": 1,
+        "current_page": 1,
+        "has_next_page": false,
+        "has_prev_page": false,
+        "count": 4,
+        "limit": 100
+      }
+    },
+    "status": 200,
+    "domain": "mevior.pl",
+    "endpoint": "get_competitors_analysis"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "domain": "finhack.pl",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "finhack.pl",
+        "keywords_count": 5387,
+        "visibility_percent": 100,
+        "statistics": {
+          "visibility": {
+            "current": 40934.74,
+            "previous": 36190.92,
+            "diff": 4743.82,
+            "percent": 0.1311,
+            "history": null
+          },
+          "top3": {
+            "current": 1102,
+            "previous": 1106,
+            "diff": -4,
+            "percent": -0.0036,
+            "history": null
+          },
+          "top10": {
+            "current": 5387,
+            "previous": 5270,
+            "diff": 117,
+            "percent": 0.0222,
+            "history": null
+          },
+          "top50": {
+            "current": 23333,
+            "previous": 23157,
+            "diff": 176,
+            "percent": 0.0076,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 100,
+            "previous": 100,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "finhack.pl",
+    "endpoint": "get_subdomains"
+  }
+}

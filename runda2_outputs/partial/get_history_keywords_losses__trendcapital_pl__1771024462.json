@@ -1,0 +1,91 @@
+{
+  "domain": "trendcapital.pl",
+  "endpoint": "get_history_keywords_losses",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "keyword_id": 5534116,
+        "kid": "782ec60d3ab73e8d1f7d9541e9361352",
+        "domain": "trendcapital.pl",
+        "keyword": "sigma pożyczki",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 27,
+            "previous": 26,
+            "diff": 1,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-21": {
+                "position": 26,
+                "has_serp": true
+              },
+              "2026-02-02": {
+                "position": 27,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "trendcapital.pl/",
+            "previous": "trendcapital.pl/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 5.28
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 35
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "trendcapital.pl",
+    "endpoint": "get_history_keywords_losses"
+  }
+}

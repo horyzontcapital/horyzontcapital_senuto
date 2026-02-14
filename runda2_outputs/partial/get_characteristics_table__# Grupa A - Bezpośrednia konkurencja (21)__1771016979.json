@@ -1,0 +1,19 @@
+{
+  "domain": "# Grupa A - Bezpośrednia konkurencja (21)",
+  "endpoint": "get_characteristics_table",
+  "data": {
+    "ok": false,
+    "data": {
+      "words_count": "HTTP 418: {\"success\":false,\"data\":{\"error\":{\"type\":\"invalid_data\",\"message\":\"Given data is invalid, please check the documentation or contact Administrator\",\"params\":{\"domain\":{\"invalid\":\"Incorrect input\"}}}}}",
+      "trends": "HTTP 418: {\"success\":false,\"data\":{\"error\":{\"type\":\"invalid_data\",\"message\":\"Given data is invalid, please check the documentation or contact Administrator\",\"params\":{\"domain\":{\"invalid\":\"Incorrect input\"}}}}}",
+      "searches": "HTTP 418: {\"success\":false,\"data\":{\"error\":{\"type\":\"invalid_data\",\"message\":\"Given data is invalid, please check the documentation or contact Administrator\",\"params\":{\"domain\":{\"invalid\":\"Incorrect input\"}}}}}",
+      "difficulty": "HTTP 418: {\"success\":false,\"data\":{\"error\":{\"type\":\"invalid_data\",\"message\":\"Given data is invalid, please check the documentation or contact Administrator\",\"params\":{\"domain\":{\"invalid\":\"Incorrect input\"}}}}}",
+      "keyword_params": "HTTP 418: {\"success\":false,\"data\":{\"error\":{\"type\":\"invalid_data\",\"message\":\"Given data is invalid, please check the documentation or contact Administrator\",\"params\":{\"domain\":{\"invalid\":\"Incorrect input\"}}}}}",
+      "serp_params": "HTTP 418: {\"success\":false,\"data\":{\"error\":{\"type\":\"invalid_data\",\"message\":\"Given data is invalid, please check the documentation or contact Administrator\",\"params\":{\"domain\":{\"invalid\":\"Incorrect input\"}}}}}"
+    },
+    "chars_ok": 0,
+    "chars_total": 6,
+    "domain": "# Grupa A - Bezpośrednia konkurencja (21)",
+    "endpoint": "get_characteristics_table"
+  }
+}

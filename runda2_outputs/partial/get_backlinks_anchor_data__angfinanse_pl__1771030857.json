@@ -1,0 +1,81 @@
+{
+  "domain": "angfinanse.pl",
+  "endpoint": "get_backlinks_anchor_data",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "link_domain": "angfinanse.pl",
+        "is_main_domain": true,
+        "anchor": "<redirect>",
+        "anchor_type": [],
+        "count": {
+          "count": 107,
+          "percent_of_total": 0.8359375
+        },
+        "domains_with_anchor_count": 10,
+        "anchors_uniq_count": 107,
+        "percent_of_total": 0.8359375
+      },
+      {
+        "link_domain": "angfinanse.pl",
+        "is_main_domain": true,
+        "anchor": "ANG Odpowiedzialne Finanse SA",
+        "anchor_type": [],
+        "count": {
+          "count": 10,
+          "percent_of_total": 0.078125
+        },
+        "domains_with_anchor_count": 3,
+        "anchors_uniq_count": 9,
+        "percent_of_total": 0.078125
+      },
+      {
+        "link_domain": "angfinanse.pl",
+        "is_main_domain": true,
+        "anchor": "logo firmy ANG",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 6,
+          "percent_of_total": 0.046875
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 6,
+        "percent_of_total": 0.046875
+      },
+      {
+        "link_domain": "angfinanse.pl",
+        "is_main_domain": true,
+        "anchor": "",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 4,
+          "percent_of_total": 0.03125
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 3,
+        "percent_of_total": 0.03125
+      },
+      {
+        "link_domain": "angfinanse.pl",
+        "is_main_domain": true,
+        "anchor": "ANG Finanse",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0078125
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0078125
+      }
+    ],
+    "total": 5,
+    "domain": "angfinanse.pl",
+    "endpoint": "get_backlinks_anchor_data"
+  }
+}

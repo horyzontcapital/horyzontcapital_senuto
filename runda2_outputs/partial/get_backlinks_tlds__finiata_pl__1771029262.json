@@ -1,0 +1,53 @@
+{
+  "domain": "finiata.pl",
+  "endpoint": "get_backlinks_tlds",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "tld": "pl",
+          "count": 93,
+          "percent": 0.5
+        },
+        {
+          "tld": "com",
+          "count": 77,
+          "percent": 0.41397849462365593
+        },
+        {
+          "tld": "eu",
+          "count": 12,
+          "percent": 0.06451612903225806
+        },
+        {
+          "tld": "info",
+          "count": 2,
+          "percent": 0.010752688172043012
+        },
+        {
+          "tld": "cz",
+          "count": 1,
+          "percent": 0.005376344086021506
+        },
+        {
+          "tld": "io",
+          "count": 1,
+          "percent": 0.005376344086021506
+        }
+      ],
+      "pagination": {
+        "page_count": 1,
+        "current_page": 1,
+        "has_next_page": false,
+        "has_prev_page": false,
+        "count": 6,
+        "limit": 10
+      }
+    },
+    "status": 200,
+    "domain": "finiata.pl",
+    "endpoint": "get_backlinks_tlds"
+  }
+}

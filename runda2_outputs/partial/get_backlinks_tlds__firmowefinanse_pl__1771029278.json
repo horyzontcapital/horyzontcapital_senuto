@@ -1,0 +1,38 @@
+{
+  "domain": "firmowefinanse.pl",
+  "endpoint": "get_backlinks_tlds",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "tld": "pl",
+          "count": 6,
+          "percent": 0.6666666666666666
+        },
+        {
+          "tld": "com",
+          "count": 2,
+          "percent": 0.2222222222222222
+        },
+        {
+          "tld": "org",
+          "count": 1,
+          "percent": 0.1111111111111111
+        }
+      ],
+      "pagination": {
+        "page_count": 1,
+        "current_page": 1,
+        "has_next_page": false,
+        "has_prev_page": false,
+        "count": 3,
+        "limit": 10
+      }
+    },
+    "status": 200,
+    "domain": "firmowefinanse.pl",
+    "endpoint": "get_backlinks_tlds"
+  }
+}

@@ -1,0 +1,754 @@
+{
+  "endpoint": "get_direct_answers",
+  "path": "/api/visibility_analysis/tools/direct_answers/getData",
+  "desc": "Featured snippets / direct answers",
+  "ok": 104,
+  "total": 106,
+  "fetched_at": "2026-02-13T23:58:32Z",
+  "country_id": "200",
+  "fetch_mode": "topLevelDomain",
+  "results": [
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "baltcredit.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "novalend.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "pozyczkihipoteczne.eu",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "yanokhipoteczny.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "capitalaccess.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "businessfunds.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "forsel.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "profikredyt.com.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "topf.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "krk-partners.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "trendcapital.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "janvest.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "e-bilans.info",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "funduszkorona.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "ibipolska.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "tadam-finanse.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "actius.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "alphacredit.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "credithub.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "pod-zastaw.org",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "pozyczka-pod-zastaw.com",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "cpf-pozyczki.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "bankowybroker.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "mldomfinansowy.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "moneyrun.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "khfinanse.com",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "bankierkredyty.eu",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "smeo.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "finea.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "pragmago.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "wealthon.com",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "bizlend.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "smartney.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "pl.finbee.com",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "bankujesz.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "czerwona-skarbonka.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "comperia.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "loando.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "bankier.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "totalmoney.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "wnioskomat.com",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "money.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "odpowiedzialnybiznes.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "kontomaniak.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "lendi.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "expander.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "rankomat.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "moneteo.com",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "mfinanse.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "rekinfinansow.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "helikon.net.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "feniksfinanse.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "bancovo.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "fintek.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "notus.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "confronter.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "credipass.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "finergia.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "grupasg.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "kredytomat.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "platinum-financial.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "monevia.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "dginwest.com.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "brsonline.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "hiponet.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "strefabiznesu.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "poradnikprzedsiebiorcy.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "fines.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "businessinsider.com.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "janosikdlafirm.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "exfinder.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "horyzontcapital.com",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "# === RUNDA 1.5 - NOWE DOMENY ===",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": false,
+      "error": "HTTP 400: {\"message\":\"Not Found\",\"url\":\"\\/api\\/visibility_analysis\\/tools\\/direct_answers\\/getData\",\"code\":400}",
+      "status": 400,
+      "domain": "# Grupa A - Bezpośrednia konkurencja (21)",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "podzastaw.biz",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "gotowka-podzastaw.letnet.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "smartvest.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "inwestum.com.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "habzafinanse.com.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "newpoint-finance.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "fluxo.com.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "finiata.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "serwaczakowie.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "cbif.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "ftfund.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "ckakrybia.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "firmowefinanse.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "hipotecznapozyczka.com",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "pozyczkipodzastaw.com.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "simplefinance.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "mevior.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "goldenexpert.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "gawryszewskifinanse.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "splatapozyczek.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "open.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": false,
+      "error": "HTTP 400: {\"message\":\"Not Found\",\"url\":\"\\/api\\/visibility_analysis\\/tools\\/direct_answers\\/getData\",\"code\":400}",
+      "status": 400,
+      "domain": "# Grupa C - Porównywarki (10)",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "kasastefczyka.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "forum-kredytowe.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "blogkredytowy.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "angfinanse.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "kokos.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "akredo.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "finhack.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "bankoweabc.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "smart-money.pl",
+      "endpoint": "get_direct_answers"
+    },
+    {
+      "ok": true,
+      "data": [],
+      "total": 0,
+      "domain": "helpfind.pl",
+      "endpoint": "get_direct_answers"
+    }
+  ]
+}

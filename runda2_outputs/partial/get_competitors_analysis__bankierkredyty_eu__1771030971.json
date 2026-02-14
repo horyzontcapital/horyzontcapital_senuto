@@ -1,0 +1,56 @@
+{
+  "domain": "bankierkredyty.eu",
+  "endpoint": "get_competitors_analysis",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "keyword": "pożyczki pod zastaw nieruchomości bez bik",
+          "cpc": 13.41,
+          "searches": 170,
+          "trends": [
+            210,
+            210,
+            140,
+            110,
+            140,
+            170,
+            260,
+            140,
+            110,
+            210,
+            210,
+            260
+          ],
+          "difficulty": 46,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 8,
+            "url": "horyzontcapital.com/blog/pozyczka-pod-zastaw-mieszkania-elastyczne-finansowanie-dla-twojego-biznesu"
+          },
+          "horyzontcapital.com_pos": 8,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/pozyczka-pod-zastaw-mieszkania-elastyczne-finansowanie-dla-twojego-biznesu",
+          "bankierkredyty.eu": {
+            "pos": 9,
+            "url": "bankierkredyty.eu/oferta/pozyczka-hipoteczna-bez-bik/"
+          },
+          "bankierkredyty.eu_pos": 9,
+          "bankierkredyty.eu_url": "bankierkredyty.eu/oferta/pozyczka-hipoteczna-bez-bik/"
+        }
+      ],
+      "pagination": {
+        "page_count": 1,
+        "current_page": 1,
+        "has_next_page": false,
+        "has_prev_page": false,
+        "count": 1,
+        "limit": 100
+      }
+    },
+    "status": 200,
+    "domain": "bankierkredyty.eu",
+    "endpoint": "get_competitors_analysis"
+  }
+}

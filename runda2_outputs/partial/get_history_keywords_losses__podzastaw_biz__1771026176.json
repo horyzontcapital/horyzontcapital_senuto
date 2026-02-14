@@ -1,0 +1,257 @@
+{
+  "domain": "podzastaw.biz",
+  "endpoint": "get_history_keywords_losses",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "keyword_id": 8332204,
+        "kid": "b6cdbe197bc8a63f69797d55d936dca5",
+        "domain": "podzastaw.biz",
+        "keyword": "pożyczka pod hipotekę bez bik",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 18,
+            "previous": 11,
+            "diff": 7,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-16": {
+                "position": 11,
+                "has_serp": true
+              },
+              "2026-02-02": {
+                "position": 18,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "podzastaw.biz/pozyczki-pod-zastaw-nieruchomosci",
+            "previous": "podzastaw.biz/pozyczki-pod-zastaw-nieruchomosci",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 54.92
+          },
+          "searches": {
+            "current": 40
+          },
+          "trends": {
+            "history": [
+              50,
+              20,
+              10,
+              30,
+              10,
+              40,
+              50,
+              40,
+              70,
+              70,
+              50,
+              70
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 42
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 3019876,
+        "kid": "40f6b5929b2646484d013f6aaaf9bf49",
+        "domain": "podzastaw.biz",
+        "keyword": "kredyt pod zastaw nieruchomości bez bik",
+        "words_count": 6,
+        "statistics": {
+          "position": {
+            "current": 6,
+            "previous": 5,
+            "diff": 1,
+            "changes": {
+              "wins": 0,
+              "losses": 0,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-02-05": {
+                "position": 6,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0.37,
+            "previous": 0.5,
+            "diff": -0.13,
+            "percent": -0.26,
+            "history": null
+          },
+          "url": {
+            "current": "podzastaw.biz/pozyczki-pod-zastaw-nieruchomosci",
+            "previous": "podzastaw.biz/pozyczki-pod-zastaw-nieruchomosci",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 14.48
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              10,
+              10,
+              20,
+              10,
+              10,
+              10,
+              20,
+              10,
+              30,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 40
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "buy",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 6232691,
+        "kid": "87b0a1fc8e5d1ab35510a93180bb5bfb",
+        "domain": "podzastaw.biz",
+        "keyword": "pożyczki pod zastaw nieruchomości pozabankowe",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 7,
+            "previous": 5,
+            "diff": 2,
+            "changes": {
+              "wins": 2,
+              "losses": 1,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-21": {
+                "position": 8,
+                "has_serp": true
+              },
+              "2025-12-26": {
+                "position": 8,
+                "has_serp": true
+              },
+              "2026-01-02": {
+                "position": 7,
+                "has_serp": true
+              },
+              "2026-01-20": {
+                "position": 5,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 7,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 5.94,
+            "previous": 16.1,
+            "diff": -10.15,
+            "percent": -0.6311,
+            "history": null
+          },
+          "url": {
+            "current": "podzastaw.biz/pozyczki-pod-zastaw-nieruchomosci",
+            "previous": "podzastaw.biz/pozyczki-pod-zastaw-nieruchomosci",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 15.61
+          },
+          "searches": {
+            "current": 320
+          },
+          "trends": {
+            "history": [
+              390,
+              390,
+              320,
+              320,
+              260,
+              320,
+              390,
+              320,
+              210,
+              170,
+              210,
+              320
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 35
+          },
+          "snippets": {
+            "current": [
+              "map"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      }
+    ],
+    "total": 3,
+    "domain": "podzastaw.biz",
+    "endpoint": "get_history_keywords_losses"
+  }
+}

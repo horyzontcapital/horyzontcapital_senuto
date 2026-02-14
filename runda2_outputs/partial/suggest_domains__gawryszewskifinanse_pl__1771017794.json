@@ -1,0 +1,19 @@
+{
+  "domain": "gawryszewskifinanse.pl",
+  "endpoint": "suggest_domains",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "favourite": [],
+        "suggested": [
+          "gawryszewskifinanse.pl"
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "gawryszewskifinanse.pl",
+    "endpoint": "suggest_domains"
+  }
+}

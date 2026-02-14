@@ -1,0 +1,47 @@
+{
+  "domain": "funduszkorona.pl",
+  "endpoint": "get_url_sections",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "url_section": "funduszkorona.pl/",
+        "keywords_count": 1,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 7.12,
+            "previous": 7.12,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 1,
+            "previous": 1,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 1,
+            "previous": 1,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 1,
+            "previous": 1,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "funduszkorona.pl",
+    "endpoint": "get_url_sections"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "domain": "pozyczkipodzastaw.com.pl",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "pozyczkipodzastaw.com.pl",
+        "keywords_count": 2,
+        "visibility_percent": 100,
+        "statistics": {
+          "visibility": {
+            "current": 106.93,
+            "previous": 106.93,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 2,
+            "previous": 2,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 2,
+            "previous": 2,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 41,
+            "previous": 40,
+            "diff": 1,
+            "percent": 0.025,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 100,
+            "previous": 100,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "pozyczkipodzastaw.com.pl",
+    "endpoint": "get_subdomains"
+  }
+}

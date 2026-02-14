@@ -1,0 +1,68 @@
+{
+  "domain": "loando.pl",
+  "endpoint": "get_backlinks_tlds",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "tld": "pl",
+          "count": 723,
+          "percent": 0.8992537313432836
+        },
+        {
+          "tld": "com",
+          "count": 49,
+          "percent": 0.060945273631840796
+        },
+        {
+          "tld": "org",
+          "count": 18,
+          "percent": 0.022388059701492536
+        },
+        {
+          "tld": "info",
+          "count": 3,
+          "percent": 0.0037313432835820895
+        },
+        {
+          "tld": "tv",
+          "count": 3,
+          "percent": 0.0037313432835820895
+        },
+        {
+          "tld": "ua",
+          "count": 3,
+          "percent": 0.0037313432835820895
+        },
+        {
+          "tld": "wiki",
+          "count": 2,
+          "percent": 0.0024875621890547263
+        },
+        {
+          "tld": "eu",
+          "count": 2,
+          "percent": 0.0024875621890547263
+        },
+        {
+          "tld": "media",
+          "count": 1,
+          "percent": 0.0012437810945273632
+        }
+      ],
+      "pagination": {
+        "page_count": 1,
+        "current_page": 1,
+        "has_next_page": false,
+        "has_prev_page": false,
+        "count": 9,
+        "limit": 10
+      }
+    },
+    "status": 200,
+    "domain": "loando.pl",
+    "endpoint": "get_backlinks_tlds"
+  }
+}

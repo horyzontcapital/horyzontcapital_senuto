@@ -1,0 +1,2925 @@
+{
+  "domain": "novalend.pl",
+  "endpoint": "get_history_keywords_losses",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "keyword_id": 4598169,
+        "kid": "6365529d23b6f05a5e2b2e82319f42dd",
+        "domain": "novalend.pl",
+        "keyword": "kredyt dla firm rozpoczynających działalność",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 23,
+            "previous": 17,
+            "diff": 6,
+            "changes": {
+              "wins": 1,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-22": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-05": {
+                "position": 49,
+                "has_serp": true
+              },
+              "2026-01-22": {
+                "position": 17,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 23,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "novalend.pl/blog/jak-sfinansowac-rozwoj-firmy/",
+            "previous": "novalend.pl/blog/jak-sfinansowac-rozwoj-firmy/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              20,
+              10,
+              10,
+              10,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 28
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 6355546,
+        "kid": "8a6c0a4e2797bee368b2fcc78d00b452",
+        "domain": "novalend.pl",
+        "keyword": "kredyt inwestycyjny na zakup nieruchomości",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 30,
+            "previous": 25,
+            "diff": 5,
+            "changes": {
+              "wins": 0,
+              "losses": 2,
+              "no_changes": 2
+            },
+            "history": {
+              "2025-12-21": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-06": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-13": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-24": {
+                "position": 25,
+                "has_serp": true
+              },
+              "2026-02-02": {
+                "position": 30,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "novalend.pl/blog/jak-sfinansowac-nieruchomosc-inwestycyjna-kredyt-inwestycyjny-dla-firm/",
+            "previous": "novalend.pl/blog/jak-sfinansowac-nieruchomosc-inwestycyjna-kredyt-inwestycyjny-dla-firm/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 3.37
+          },
+          "searches": {
+            "current": 260
+          },
+          "trends": {
+            "history": [
+              260,
+              170,
+              260,
+              210,
+              320,
+              170,
+              210,
+              260,
+              320,
+              320,
+              260,
+              210
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 44
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 12879336,
+        "kid": "573e9fb94b9e56b54a59d26caa0d0570",
+        "domain": "novalend.pl",
+        "keyword": "dotacje dla firm na zakup maszyn",
+        "words_count": 6,
+        "statistics": {
+          "position": {
+            "current": 42,
+            "previous": 30,
+            "diff": 12,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-26": {
+                "position": 30,
+                "has_serp": true
+              },
+              "2026-02-07": {
+                "position": 42,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "novalend.pl/blog/zakup-sprzetu-do-firmy-sposoby-finansowania-dla-firm-budowlanych/",
+            "previous": "novalend.pl/blog/zakup-sprzetu-do-firmy-sposoby-finansowania-dla-firm-budowlanych/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0.94
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              30,
+              10,
+              20,
+              20,
+              10,
+              10,
+              10,
+              10,
+              20,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 32
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 17210150,
+        "kid": "6725acdef604c0c9d8c9ce3f18900c6a",
+        "domain": "novalend.pl",
+        "keyword": "płynność inwestycji co to",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 23,
+            "previous": 17,
+            "diff": 6,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-16": {
+                "position": 17,
+                "has_serp": true
+              },
+              "2026-02-02": {
+                "position": 23,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "novalend.pl/blog/jak-zachowac-plynnosc-finansowa-w-firmie/",
+            "previous": "novalend.pl/blog/jak-zachowac-plynnosc-finansowa-w-firmie/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              30,
+              20,
+              20,
+              50,
+              40,
+              10,
+              10,
+              10,
+              10,
+              10,
+              40,
+              30
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 30
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 6979199,
+        "kid": "985f436140edbecdb756043e8699ccb6",
+        "domain": "novalend.pl",
+        "keyword": "dotacje unijne dla firm budowlanych",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 15,
+            "previous": 11,
+            "diff": 4,
+            "changes": {
+              "wins": 1,
+              "losses": 1,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-20": {
+                "position": 18,
+                "has_serp": true
+              },
+              "2026-01-03": {
+                "position": 11,
+                "has_serp": true
+              },
+              "2026-01-20": {
+                "position": 11,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 15,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "novalend.pl/blog/zakup-sprzetu-do-firmy-sposoby-finansowania-dla-firm-budowlanych/",
+            "previous": "novalend.pl/blog/zakup-sprzetu-do-firmy-sposoby-finansowania-dla-firm-budowlanych/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0.93
+          },
+          "searches": {
+            "current": 30
+          },
+          "trends": {
+            "history": [
+              50,
+              40,
+              30,
+              20,
+              20,
+              50,
+              20,
+              30,
+              30,
+              30,
+              30,
+              30
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 40
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 7825556,
+        "kid": "ab692d60bae16585154add58ac49ff6c",
+        "domain": "novalend.pl",
+        "keyword": "kredyty online szybko",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 43,
+            "previous": 21,
+            "diff": 22,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-16": {
+                "position": 21,
+                "has_serp": true
+              },
+              "2026-02-03": {
+                "position": 43,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "novalend.pl/",
+            "previous": "novalend.pl/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 18.52
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              20,
+              30,
+              10,
+              10,
+              30,
+              10,
+              10,
+              10,
+              10,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 70
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "buy",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 8706328,
+        "kid": "bf3aa9500a606e02774120b8b027c98d",
+        "domain": "novalend.pl",
+        "keyword": "kredyt obrotowy",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 50,
+            "previous": 27,
+            "diff": 23,
+            "changes": {
+              "wins": 3,
+              "losses": 4,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-19": {
+                "position": 36,
+                "has_serp": true
+              },
+              "2025-12-22": {
+                "position": 24,
+                "has_serp": true
+              },
+              "2025-12-26": {
+                "position": 33,
+                "has_serp": true
+              },
+              "2026-01-15": {
+                "position": 30,
+                "has_serp": true
+              },
+              "2026-01-19": {
+                "position": 32,
+                "has_serp": true
+              },
+              "2026-01-23": {
+                "position": 19,
+                "has_serp": true
+              },
+              "2026-01-27": {
+                "position": 27,
+                "has_serp": true
+              },
+              "2026-02-05": {
+                "position": 50,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "novalend.pl/blog/kredyt-obrotowy-dla-firm/",
+            "previous": "novalend.pl/blog/kredyt-obrotowy-dla-firm/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 8.54
+          },
+          "searches": {
+            "current": 1600
+          },
+          "trends": {
+            "history": [
+              2400,
+              1900,
+              1900,
+              1900,
+              1600,
+              1600,
+              1300,
+              1000,
+              1300,
+              1300,
+              1300,
+              880
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 56
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask",
+              "wiki_right"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 9771657,
+        "kid": "d74bd4af8e51d61cc76f010a53cb70c6",
+        "domain": "novalend.pl",
+        "keyword": "pozyczka na firme bez biku",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 33,
+            "previous": 15,
+            "diff": 18,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-17": {
+                "position": 15,
+                "has_serp": true
+              },
+              "2026-02-04": {
+                "position": 33,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "novalend.pl/",
+            "previous": "novalend.pl/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 7.61
+          },
+          "searches": {
+            "current": 40
+          },
+          "trends": {
+            "history": [
+              70,
+              50,
+              50,
+              10,
+              20,
+              40,
+              30,
+              40,
+              20,
+              20,
+              30,
+              40
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 44
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "buy",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 1891688,
+        "kid": "289ce11d7f937a21d847f0d0dc3f1a2d",
+        "domain": "novalend.pl",
+        "keyword": "kredyty dla firm bez bik",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 17,
+            "previous": 13,
+            "diff": 4,
+            "changes": {
+              "wins": 1,
+              "losses": 2,
+              "no_changes": 2
+            },
+            "history": {
+              "2025-12-21": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-28": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-05": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-12": {
+                "position": 13,
+                "has_serp": true
+              },
+              "2026-02-01": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 17,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "novalend.pl/",
+            "previous": "novalend.pl/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 7.99
+          },
+          "searches": {
+            "current": 390
+          },
+          "trends": {
+            "history": [
+              390,
+              390,
+              480,
+              320,
+              390,
+              390,
+              480,
+              390,
+              260,
+              260,
+              260,
+              320
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 52
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 4015634,
+        "kid": "569b39a0c6e27e7f36c76bf7593cad53",
+        "domain": "novalend.pl",
+        "keyword": "lending",
+        "words_count": 1,
+        "statistics": {
+          "position": {
+            "current": 48,
+            "previous": 38,
+            "diff": 10,
+            "changes": {
+              "wins": 8,
+              "losses": 7,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-14": {
+                "position": 15,
+                "has_serp": false
+              },
+              "2025-12-20": {
+                "position": 40,
+                "has_serp": true
+              },
+              "2025-12-25": {
+                "position": 23,
+                "has_serp": true
+              },
+              "2025-12-29": {
+                "position": 46,
+                "has_serp": true
+              },
+              "2026-01-02": {
+                "position": 20,
+                "has_serp": true
+              },
+              "2026-01-05": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-08": {
+                "position": 42,
+                "has_serp": true
+              },
+              "2026-01-11": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-14": {
+                "position": 48,
+                "has_serp": true
+              },
+              "2026-01-18": {
+                "position": 47,
+                "has_serp": true
+              },
+              "2026-01-22": {
+                "position": 42,
+                "has_serp": true
+              },
+              "2026-01-27": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-30": {
+                "position": 38,
+                "has_serp": true
+              },
+              "2026-02-03": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-07": {
+                "position": 27,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 48,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "novalend.pl/",
+            "previous": "novalend.pl/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 5.11
+          },
+          "searches": {
+            "current": 170
+          },
+          "trends": {
+            "history": [
+              210,
+              210,
+              210,
+              210,
+              170,
+              170,
+              170,
+              170,
+              210,
+              170,
+              210,
+              140
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 60
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 6926565,
+        "kid": "973141ef99427ca413d121822d27327b",
+        "domain": "novalend.pl",
+        "keyword": "kredyt na samochód dla firmy",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 25,
+            "previous": 19,
+            "diff": 6,
+            "changes": {
+              "wins": 1,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-20": {
+                "position": 41,
+                "has_serp": true
+              },
+              "2026-01-03": {
+                "position": 43,
+                "has_serp": true
+              },
+              "2026-01-20": {
+                "position": 19,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 25,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "novalend.pl/blog/jak-sfinansowac-zakup-auta-do-firmy/",
+            "previous": "novalend.pl/blog/jak-sfinansowac-zakup-auta-do-firmy/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 5.81
+          },
+          "searches": {
+            "current": 40
+          },
+          "trends": {
+            "history": [
+              110,
+              30,
+              40,
+              40,
+              20,
+              20,
+              30,
+              20,
+              30,
+              40,
+              50,
+              30
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 41
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 9968723,
+        "kid": "dbc1c6c8b3f3710b16b9c1b308dda6e7",
+        "domain": "novalend.pl",
+        "keyword": "szybka pożyczka logowanie",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 45,
+            "previous": 38,
+            "diff": 7,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-17": {
+                "position": 38,
+                "has_serp": true
+              },
+              "2026-02-05": {
+                "position": 45,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "novalend.pl/",
+            "previous": "novalend.pl/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 1.24
+          },
+          "searches": {
+            "current": 50
+          },
+          "trends": {
+            "history": [
+              40,
+              40,
+              20,
+              20,
+              50,
+              70,
+              70,
+              50,
+              50,
+              40,
+              40,
+              50
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 48
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "buy",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 14663493,
+        "kid": "f71fb7b12f201cc4b2fd03617838c48b",
+        "domain": "novalend.pl",
+        "keyword": "linia obrotowa dla firm",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 45,
+            "previous": 37,
+            "diff": 8,
+            "changes": {
+              "wins": 2,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-21": {
+                "position": 48,
+                "has_serp": true
+              },
+              "2026-01-04": {
+                "position": 40,
+                "has_serp": true
+              },
+              "2026-01-21": {
+                "position": 37,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 45,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "novalend.pl/blog/kredyt-obrotowy-dla-firm/",
+            "previous": "novalend.pl/blog/kredyt-obrotowy-dla-firm/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 1.78
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              10,
+              40,
+              30,
+              30,
+              10,
+              10,
+              10,
+              10,
+              20,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 43
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 688033,
+        "kid": "0ebdb1463a0bc85429931dc87fa772a7",
+        "domain": "novalend.pl",
+        "keyword": "kredyt dla firm na podstawie obrotów",
+        "words_count": 6,
+        "statistics": {
+          "position": {
+            "current": 9,
+            "previous": 8,
+            "diff": 1,
+            "changes": {
+              "wins": 1,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-27": {
+                "position": 34,
+                "has_serp": true
+              },
+              "2026-01-11": {
+                "position": 8,
+                "has_serp": true
+              },
+              "2026-02-04": {
+                "position": 9,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0.18,
+            "previous": 0.22,
+            "diff": -0.04,
+            "percent": -0.1818,
+            "history": null
+          },
+          "url": {
+            "current": "novalend.pl/blog/kredyt-obrotowy-dla-firm/",
+            "previous": "novalend.pl/blog/kredyt-obrotowy-dla-firm/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 19.13
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              0,
+              0,
+              10,
+              0
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 42
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 10231873,
+        "kid": "e1bd17fe387c017db8c9aa7595e5602d",
+        "domain": "novalend.pl",
+        "keyword": "gotówka 24h",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 14,
+            "previous": 10,
+            "diff": 4,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-28": {
+                "position": 10,
+                "has_serp": true
+              },
+              "2026-02-10": {
+                "position": 14,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0.15,
+            "diff": -0.15,
+            "percent": -1,
+            "history": null
+          },
+          "url": {
+            "current": "novalend.pl/",
+            "previous": "novalend.pl/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 10.11
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              30,
+              10,
+              10,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 62
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "buy",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 2350755,
+        "kid": "3284e20ac9ee1c6264816b5d7445c257",
+        "domain": "novalend.pl",
+        "keyword": "kredyt dla firm od 6 miesiecy",
+        "words_count": 6,
+        "statistics": {
+          "position": {
+            "current": 7,
+            "previous": 5,
+            "diff": 2,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 2
+            },
+            "history": {
+              "2025-12-22": {
+                "position": 5,
+                "has_serp": true
+              },
+              "2026-01-05": {
+                "position": 5,
+                "has_serp": true
+              },
+              "2026-01-21": {
+                "position": 5,
+                "has_serp": true
+              },
+              "2026-02-10": {
+                "position": 7,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0.28,
+            "previous": 0.5,
+            "diff": -0.22,
+            "percent": -0.44,
+            "history": null
+          },
+          "url": {
+            "current": "novalend.pl/kredyty-dla-firm/",
+            "previous": "novalend.pl/kredyty-dla-firm/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 14.15
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              30,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 50
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 402027,
+        "kid": "0899c00efb038da9c90cf91117af0c4b",
+        "domain": "novalend.pl",
+        "keyword": "chwilowki dla firm bez baz",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 26,
+            "previous": 8,
+            "diff": 18,
+            "changes": {
+              "wins": 0,
+              "losses": 2,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-23": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-06": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-22": {
+                "position": 8,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 26,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0.22,
+            "diff": -0.22,
+            "percent": -1,
+            "history": null
+          },
+          "url": {
+            "current": "novalend.pl/",
+            "previous": "novalend.pl/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 13.91
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              0,
+              10,
+              10,
+              0,
+              10,
+              10,
+              10,
+              0,
+              10,
+              0
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 43
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "buy",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 6940455,
+        "kid": "9780cf3ec1b532de3372ab0851ce966a",
+        "domain": "novalend.pl",
+        "keyword": "finansowanie kontraktów",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 11,
+            "previous": 7,
+            "diff": 4,
+            "changes": {
+              "wins": 1,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-20": {
+                "position": 10,
+                "has_serp": true
+              },
+              "2026-01-20": {
+                "position": 7,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 11,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0.85,
+            "diff": -0.85,
+            "percent": -1,
+            "history": null
+          },
+          "url": {
+            "current": "novalend.pl/blog/jak-sfinansowac-kontrakt-budowlany/",
+            "previous": "novalend.pl/blog/jak-sfinansowac-kontrakt-budowlany/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 3.89
+          },
+          "searches": {
+            "current": 30
+          },
+          "trends": {
+            "history": [
+              20,
+              20,
+              40,
+              20,
+              30,
+              30,
+              10,
+              50,
+              30,
+              30,
+              10,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 37
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 7697286,
+        "kid": "a88648226a86f3d96bbb8206016c58dd",
+        "domain": "novalend.pl",
+        "keyword": "pozyczki dla zadluzonych firm bez zdolnosci kredytowej",
+        "words_count": 7,
+        "statistics": {
+          "position": {
+            "current": 47,
+            "previous": 5,
+            "diff": 42,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-16": {
+                "position": 5,
+                "has_serp": true
+              },
+              "2026-02-03": {
+                "position": 47,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 1.01,
+            "diff": -1.01,
+            "percent": -1,
+            "history": null
+          },
+          "url": {
+            "current": "novalend.pl/",
+            "previous": "novalend.pl/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 9.25
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              30,
+              10,
+              20,
+              30,
+              40,
+              40,
+              30,
+              20,
+              10,
+              20,
+              30,
+              20
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 46
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 8484600,
+        "kid": "ba40e747b8c500cd0708b616e5c7b820",
+        "domain": "novalend.pl",
+        "keyword": "kredyt obrotowy na czym polega",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 6,
+            "previous": 4,
+            "diff": 2,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-16": {
+                "position": 4,
+                "has_serp": true
+              },
+              "2026-02-03": {
+                "position": 6,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 1.11,
+            "previous": 2.13,
+            "diff": -1.02,
+            "percent": -0.4789,
+            "history": null
+          },
+          "url": {
+            "current": "novalend.pl/blog/kredyt-obrotowy-dla-firm/",
+            "previous": "novalend.pl/blog/kredyt-obrotowy-dla-firm/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 2.79
+          },
+          "searches": {
+            "current": 30
+          },
+          "trends": {
+            "history": [
+              30,
+              50,
+              20,
+              20,
+              10,
+              30,
+              30,
+              20,
+              30,
+              30,
+              30,
+              20
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 30
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 377174,
+        "kid": "0811714aac1b4c4e7218c0ea6920f3ae",
+        "domain": "novalend.pl",
+        "keyword": "firmy kredytowe",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 7,
+            "previous": 5,
+            "diff": 2,
+            "changes": {
+              "wins": 1,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-23": {
+                "position": 16,
+                "has_serp": true
+              },
+              "2026-01-06": {
+                "position": 33,
+                "has_serp": true
+              },
+              "2026-01-22": {
+                "position": 5,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 7,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 1.42,
+            "previous": 2.52,
+            "diff": -1.1,
+            "percent": -0.4365,
+            "history": null
+          },
+          "url": {
+            "current": "novalend.pl/",
+            "previous": "novalend.pl/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 10.03
+          },
+          "searches": {
+            "current": 50
+          },
+          "trends": {
+            "history": [
+              50,
+              50,
+              70,
+              50,
+              90,
+              30,
+              40,
+              50,
+              70,
+              70,
+              70,
+              40
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 70
+          },
+          "snippets": {
+            "current": [
+              "map",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 9489333,
+        "kid": "d0e8990afdb7e683decb282efcdf4c32",
+        "domain": "novalend.pl",
+        "keyword": "kredyt dla firm online",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 9,
+            "previous": 8,
+            "diff": 1,
+            "changes": {
+              "wins": 2,
+              "losses": 4,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-19": {
+                "position": 2,
+                "has_serp": true
+              },
+              "2025-12-27": {
+                "position": 4,
+                "has_serp": true
+              },
+              "2026-01-05": {
+                "position": 10,
+                "has_serp": true
+              },
+              "2026-01-12": {
+                "position": 11,
+                "has_serp": true
+              },
+              "2026-01-22": {
+                "position": 8,
+                "has_serp": true
+              },
+              "2026-02-01": {
+                "position": 12,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 9,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 4.68,
+            "previous": 5.8,
+            "diff": -1.12,
+            "percent": -0.1931,
+            "history": null
+          },
+          "url": {
+            "current": "novalend.pl/",
+            "previous": "novalend.pl/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 34.89
+          },
+          "searches": {
+            "current": 260
+          },
+          "trends": {
+            "history": [
+              210,
+              320,
+              260,
+              260,
+              210,
+              320,
+              210,
+              320,
+              320,
+              320,
+              170,
+              210
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 64
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 4721572,
+        "kid": "6621f6bf8efcfd579df9159531c43cf0",
+        "domain": "novalend.pl",
+        "keyword": "pożyczka dla zadłużonych firm",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 11,
+            "previous": 9,
+            "diff": 2,
+            "changes": {
+              "wins": 2,
+              "losses": 3,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-22": {
+                "position": 9,
+                "has_serp": true
+              },
+              "2025-12-29": {
+                "position": 21,
+                "has_serp": true
+              },
+              "2026-01-07": {
+                "position": 8,
+                "has_serp": true
+              },
+              "2026-01-14": {
+                "position": 14,
+                "has_serp": true
+              },
+              "2026-01-25": {
+                "position": 9,
+                "has_serp": true
+              },
+              "2026-02-04": {
+                "position": 11,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 1.62,
+            "diff": -1.62,
+            "percent": -1,
+            "history": null
+          },
+          "url": {
+            "current": "novalend.pl/",
+            "previous": "novalend.pl/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 7.85
+          },
+          "searches": {
+            "current": 90
+          },
+          "trends": {
+            "history": [
+              90,
+              110,
+              110,
+              70,
+              70,
+              70,
+              90,
+              50,
+              40,
+              90,
+              70,
+              90
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 51
+          },
+          "snippets": {
+            "current": []
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 6961286,
+        "kid": "97f8d1f6eb8c17dd350bef30ae921336",
+        "domain": "novalend.pl",
+        "keyword": "kredyty dla firm warszawa",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 29,
+            "previous": 6,
+            "diff": 23,
+            "changes": {
+              "wins": 0,
+              "losses": 2,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-20": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-03": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-20": {
+                "position": 6,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 29,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 1.86,
+            "diff": -1.86,
+            "percent": -1,
+            "history": null
+          },
+          "url": {
+            "current": "novalend.pl/kredyty-dla-firm/",
+            "previous": "novalend.pl/kredyty-dla-firm/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 15.13
+          },
+          "searches": {
+            "current": 50
+          },
+          "trends": {
+            "history": [
+              50,
+              50,
+              40,
+              20,
+              20,
+              30,
+              30,
+              70,
+              70,
+              50,
+              50,
+              70
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 58
+          },
+          "snippets": {
+            "current": [
+              "map"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 6644675,
+        "kid": "90e0edf104d7b8842f95c182b60090e1",
+        "domain": "novalend.pl",
+        "keyword": "kredyt inwestycyjny na zakup nieruchomości pod wynajem",
+        "words_count": 7,
+        "statistics": {
+          "position": {
+            "current": 19,
+            "previous": 6,
+            "diff": 13,
+            "changes": {
+              "wins": 0,
+              "losses": 2,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-18": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-01": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-20": {
+                "position": 6,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 19,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 2.6,
+            "diff": -2.6,
+            "percent": -1,
+            "history": null
+          },
+          "url": {
+            "current": "novalend.pl/blog/jak-sfinansowac-nieruchomosc-inwestycyjna-kredyt-inwestycyjny-dla-firm/",
+            "previous": "novalend.pl/blog/jak-sfinansowac-nieruchomosc-inwestycyjna-kredyt-inwestycyjny-dla-firm/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 4.2
+          },
+          "searches": {
+            "current": 70
+          },
+          "trends": {
+            "history": [
+              90,
+              90,
+              90,
+              110,
+              90,
+              70,
+              50,
+              50,
+              50,
+              70,
+              50,
+              70
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 22
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 17931652,
+        "kid": "d8e815e01285885d0ec2a10b7fa0e8b3",
+        "domain": "novalend.pl",
+        "keyword": "kredyty dla firm gdańsk",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 9,
+            "previous": 2,
+            "diff": 7,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-17": {
+                "position": 2,
+                "has_serp": true
+              },
+              "2026-02-05": {
+                "position": 9,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0.72,
+            "previous": 3.5,
+            "diff": -2.78,
+            "percent": -0.7943,
+            "history": null
+          },
+          "url": {
+            "current": "novalend.pl/kredyty-dla-firm/",
+            "previous": "novalend.pl/",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              30,
+              20,
+              20,
+              10,
+              10,
+              10,
+              10,
+              30,
+              20,
+              20,
+              20,
+              20
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 26
+          },
+          "snippets": {
+            "current": [
+              "map",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 9997234,
+        "kid": "dc68a95f54be5dcef3e8a0201ee7fc92",
+        "domain": "novalend.pl",
+        "keyword": "szybka pożyczka dla firm",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 6,
+            "previous": 3,
+            "diff": 3,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-17": {
+                "position": 3,
+                "has_serp": true
+              },
+              "2026-02-05": {
+                "position": 6,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 4.08,
+            "previous": 7.53,
+            "diff": -3.44,
+            "percent": -0.4582,
+            "history": null
+          },
+          "url": {
+            "current": "novalend.pl/",
+            "previous": "novalend.pl/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 30.52
+          },
+          "searches": {
+            "current": 70
+          },
+          "trends": {
+            "history": [
+              70,
+              90,
+              70,
+              50,
+              50,
+              70,
+              40,
+              50,
+              70,
+              50,
+              110,
+              90
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 59
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "buy",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 8084668,
+        "kid": "b13eeebc95b705762ec0da24700e3de5",
+        "domain": "novalend.pl",
+        "keyword": "kredyt firmowy kraków",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 7,
+            "previous": 1,
+            "diff": 6,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-16": {
+                "position": 1,
+                "has_serp": true
+              },
+              "2026-02-03": {
+                "position": 7,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0.57,
+            "previous": 7.12,
+            "diff": -6.55,
+            "percent": -0.9199,
+            "history": null
+          },
+          "url": {
+            "current": "novalend.pl/",
+            "previous": "novalend.pl/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              10,
+              20,
+              20,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              20,
+              20,
+              30
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 22
+          },
+          "snippets": {
+            "current": [
+              "map"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "local",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 6461599,
+        "kid": "8cc73d12848fb40ec0b7d05cc51ac95a",
+        "domain": "novalend.pl",
+        "keyword": "kredyt obrotowy co to",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 17,
+            "previous": 8,
+            "diff": 9,
+            "changes": {
+              "wins": 2,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-21": {
+                "position": 11,
+                "has_serp": true
+              },
+              "2025-12-28": {
+                "position": 10,
+                "has_serp": true
+              },
+              "2026-01-13": {
+                "position": 14,
+                "has_serp": true
+              },
+              "2026-01-24": {
+                "position": 8,
+                "has_serp": true
+              },
+              "2026-02-02": {
+                "position": 17,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 13.16,
+            "diff": -13.16,
+            "percent": -1,
+            "history": null
+          },
+          "url": {
+            "current": "novalend.pl/blog/kredyt-obrotowy-dla-firm/",
+            "previous": "novalend.pl/blog/kredyt-obrotowy-dla-firm/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 2.94
+          },
+          "searches": {
+            "current": 590
+          },
+          "trends": {
+            "history": [
+              590,
+              480,
+              390,
+              480,
+              390,
+              320,
+              320,
+              260,
+              260,
+              590,
+              1300,
+              1300
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 38
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask",
+              "wiki_right"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 10325220,
+        "kid": "e3da74d2652b54324b2743d9d13faf19",
+        "domain": "novalend.pl",
+        "keyword": "pożyczka dla firm jednoosobowych",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 6,
+            "previous": 5,
+            "diff": 1,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 1
+            },
+            "history": {
+              "2026-01-16": {
+                "position": 5,
+                "has_serp": true
+              },
+              "2026-01-27": {
+                "position": 5,
+                "has_serp": true
+              },
+              "2026-02-05": {
+                "position": 6,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 37.1,
+            "previous": 50.3,
+            "diff": -13.2,
+            "percent": -0.2624,
+            "history": null
+          },
+          "url": {
+            "current": "novalend.pl/blog/pozyczki-dla-firm-jednoosobowych-online-co-warto-wiedziec-przed-zlozeniem-wniosku/",
+            "previous": "novalend.pl/blog/pozyczki-dla-firm-jednoosobowych-online-co-warto-wiedziec-przed-zlozeniem-wniosku/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 14.89
+          },
+          "searches": {
+            "current": 1000
+          },
+          "trends": {
+            "history": [
+              1600,
+              1300,
+              1300,
+              1300,
+              1000,
+              1000,
+              1000,
+              720,
+              720,
+              720,
+              880,
+              880
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 55
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 16306349,
+        "kid": "2504e3fdb01e20028baea579697fd6be",
+        "domain": "novalend.pl",
+        "keyword": "nova credit pożyczka",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 6,
+            "previous": 3,
+            "diff": 3,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-17": {
+                "position": 3,
+                "has_serp": true
+              },
+              "2026-02-06": {
+                "position": 6,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 11.87,
+            "previous": 34.4,
+            "diff": -22.53,
+            "percent": -0.6549,
+            "history": null
+          },
+          "url": {
+            "current": "novalend.pl/",
+            "previous": "novalend.pl/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 4.03
+          },
+          "searches": {
+            "current": 320
+          },
+          "trends": {
+            "history": [
+              480,
+              390,
+              480,
+              320,
+              390,
+              210,
+              140,
+              320,
+              320,
+              320,
+              390,
+              480
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 50
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 3653105,
+        "kid": "4eb35cc6e4c3ccc72c35fb86e6ce0d35",
+        "domain": "novalend.pl",
+        "keyword": "latwy kredyt",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 10,
+            "previous": 4,
+            "diff": 6,
+            "changes": {
+              "wins": 1,
+              "losses": 3,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-22": {
+                "position": 5,
+                "has_serp": true
+              },
+              "2025-12-29": {
+                "position": 36,
+                "has_serp": true
+              },
+              "2026-01-07": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-14": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-24": {
+                "position": 4,
+                "has_serp": true
+              },
+              "2026-02-03": {
+                "position": 10,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 9.09,
+            "previous": 41.89,
+            "diff": -32.8,
+            "percent": -0.783,
+            "history": null
+          },
+          "url": {
+            "current": "novalend.pl/",
+            "previous": "novalend.pl/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 10.52
+          },
+          "searches": {
+            "current": 590
+          },
+          "trends": {
+            "history": [
+              590,
+              480,
+              590,
+              480,
+              480,
+              480,
+              480,
+              590,
+              590,
+              590,
+              590,
+              720
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 48
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "buy",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 13434736,
+        "kid": "88a1b2fa59901ca9f81656983ebd991b",
+        "domain": "novalend.pl",
+        "keyword": "pozyczki dla firmy",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 23,
+            "previous": 6,
+            "diff": 17,
+            "changes": {
+              "wins": 5,
+              "losses": 5,
+              "no_changes": 2
+            },
+            "history": {
+              "2025-12-19": {
+                "position": 3,
+                "has_serp": true
+              },
+              "2025-12-23": {
+                "position": 18,
+                "has_serp": true
+              },
+              "2025-12-27": {
+                "position": 18,
+                "has_serp": true
+              },
+              "2026-01-01": {
+                "position": 18,
+                "has_serp": true
+              },
+              "2026-01-04": {
+                "position": 10,
+                "has_serp": true
+              },
+              "2026-01-07": {
+                "position": 14,
+                "has_serp": true
+              },
+              "2026-01-10": {
+                "position": 10,
+                "has_serp": true
+              },
+              "2026-01-13": {
+                "position": 19,
+                "has_serp": true
+              },
+              "2026-01-17": {
+                "position": 6,
+                "has_serp": true
+              },
+              "2026-01-21": {
+                "position": 9,
+                "has_serp": true
+              },
+              "2026-01-27": {
+                "position": 6,
+                "has_serp": true
+              },
+              "2026-02-04": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 23,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 70.49,
+            "diff": -70.49,
+            "percent": -1,
+            "history": null
+          },
+          "url": {
+            "current": "novalend.pl/kredyty-dla-firm/",
+            "previous": "novalend.pl/",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 23.1
+          },
+          "searches": {
+            "current": 1900
+          },
+          "trends": {
+            "history": [
+              2400,
+              1900,
+              1900,
+              1900,
+              1900,
+              1900,
+              1900,
+              1600,
+              1900,
+              1900,
+              1900,
+              1900
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 80
+          },
+          "snippets": {
+            "current": []
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "buy",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      }
+    ],
+    "total": 33,
+    "domain": "novalend.pl",
+    "endpoint": "get_history_keywords_losses"
+  }
+}

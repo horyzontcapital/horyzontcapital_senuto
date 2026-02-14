@@ -1,0 +1,324 @@
+{
+  "domain": "smartney.pl",
+  "endpoint": "get_competitors_analysis",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "keyword": "pożyczki pod zastaw online",
+          "cpc": 8.53,
+          "searches": 140,
+          "trends": [
+            170,
+            170,
+            140,
+            170,
+            140,
+            110,
+            140,
+            140,
+            170,
+            140,
+            110,
+            110
+          ],
+          "difficulty": 44,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 43,
+            "url": "horyzontcapital.com/blog/pozyczka-pod-zastaw-nieruchomosci-dla-firmy-krok-po-kroku"
+          },
+          "horyzontcapital.com_pos": 43,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/pozyczka-pod-zastaw-nieruchomosci-dla-firmy-krok-po-kroku",
+          "smartney.pl": {
+            "pos": 37,
+            "url": "smartney.pl/"
+          },
+          "smartney.pl_pos": 37,
+          "smartney.pl_url": "smartney.pl/"
+        },
+        {
+          "keyword": "pożyczki pozabankowe bez zdolności kredytowej",
+          "cpc": 6.05,
+          "searches": 110,
+          "trends": [
+            110,
+            110,
+            110,
+            110,
+            140,
+            90,
+            140,
+            140,
+            90,
+            90,
+            140,
+            140
+          ],
+          "difficulty": 42,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 39,
+            "url": "horyzontcapital.com/blog/gdzie-dostane-kredyt-bez-zdolnosci-kredytowej"
+          },
+          "horyzontcapital.com_pos": 39,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/gdzie-dostane-kredyt-bez-zdolnosci-kredytowej",
+          "smartney.pl": {
+            "pos": 23,
+            "url": "smartney.pl/"
+          },
+          "smartney.pl_pos": 23,
+          "smartney.pl_url": "smartney.pl/"
+        },
+        {
+          "keyword": "bik krajowy rejestr długów",
+          "cpc": 1.82,
+          "searches": 90,
+          "trends": [
+            110,
+            90,
+            90,
+            50,
+            110,
+            110,
+            110,
+            70,
+            70,
+            70,
+            70,
+            50
+          ],
+          "difficulty": 46,
+          "params": [
+            "brand"
+          ],
+          "horyzontcapital.com": {
+            "pos": 34,
+            "url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia"
+          },
+          "horyzontcapital.com_pos": 34,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia",
+          "smartney.pl": {
+            "pos": 41,
+            "url": "smartney.pl/blog/slownik/rejestr-dluznikow-czym-jest-i-jak-dziala/"
+          },
+          "smartney.pl_pos": 41,
+          "smartney.pl_url": "smartney.pl/blog/slownik/rejestr-dluznikow-czym-jest-i-jak-dziala/"
+        },
+        {
+          "keyword": "poprawa bik",
+          "cpc": 3.76,
+          "searches": 50,
+          "trends": [
+            40,
+            30,
+            30,
+            20,
+            20,
+            10,
+            20,
+            30,
+            20,
+            30,
+            10,
+            40
+          ],
+          "difficulty": 34,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 37,
+            "url": "horyzontcapital.com/blog/jak-wyczyscic-bik-i-poprawic-scoring-kredytowy-poradnik-dla-przedsiebiorcow"
+          },
+          "horyzontcapital.com_pos": 37,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/jak-wyczyscic-bik-i-poprawic-scoring-kredytowy-poradnik-dla-przedsiebiorcow",
+          "smartney.pl": {
+            "pos": 32,
+            "url": "smartney.pl/blog/finanse/zdolnosc-kredytowa-jak-ja-poprawic/"
+          },
+          "smartney.pl_pos": 32,
+          "smartney.pl_url": "smartney.pl/blog/finanse/zdolnosc-kredytowa-jak-ja-poprawic/"
+        },
+        {
+          "keyword": "pożyczka dla jednoosobowej działalności gospodarczej",
+          "cpc": 7.97,
+          "searches": 40,
+          "trends": [
+            40,
+            50,
+            30,
+            70,
+            40,
+            50,
+            20,
+            50,
+            30,
+            20,
+            40,
+            30
+          ],
+          "difficulty": 46,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 26,
+            "url": "https://horyzontcapital.com/blog/pozyczka-dla-firmy-jednoosobowej-jak-uzyskac-finansowanie-gdy-bank-odmawia"
+          },
+          "horyzontcapital.com_pos": 26,
+          "horyzontcapital.com_url": "https://horyzontcapital.com/blog/pozyczka-dla-firmy-jednoosobowej-jak-uzyskac-finansowanie-gdy-bank-odmawia",
+          "smartney.pl": {
+            "pos": 34,
+            "url": "https://www.smartney.pl/pozyczka-dzialalnosc-gospodarcza/"
+          },
+          "smartney.pl_pos": 34,
+          "smartney.pl_url": "https://www.smartney.pl/pozyczka-dzialalnosc-gospodarcza/"
+        },
+        {
+          "keyword": "pozyczki dla zadluzonych firm bez zdolnosci kredytowej",
+          "cpc": 9.25,
+          "searches": 20,
+          "trends": [
+            30,
+            10,
+            20,
+            30,
+            40,
+            40,
+            30,
+            20,
+            10,
+            20,
+            30,
+            20
+          ],
+          "difficulty": 46,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 24,
+            "url": "horyzontcapital.com/oferta/pozyczka-dla-firm-bez-zdolnosci-kredytowej"
+          },
+          "horyzontcapital.com_pos": 24,
+          "horyzontcapital.com_url": "horyzontcapital.com/oferta/pozyczka-dla-firm-bez-zdolnosci-kredytowej",
+          "smartney.pl": {
+            "pos": 43,
+            "url": "smartney.pl/"
+          },
+          "smartney.pl_pos": 43,
+          "smartney.pl_url": "smartney.pl/"
+        },
+        {
+          "keyword": "szybka pozyczka pod zastaw",
+          "cpc": 0,
+          "searches": 10,
+          "trends": [
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+          ],
+          "difficulty": 31,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 30,
+            "url": "horyzontcapital.com/blog/pozyczka-pod-zastaw-nieruchomosci-o-czym-warto-wiedziec"
+          },
+          "horyzontcapital.com_pos": 30,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/pozyczka-pod-zastaw-nieruchomosci-o-czym-warto-wiedziec",
+          "smartney.pl": {
+            "pos": 25,
+            "url": "smartney.pl/"
+          },
+          "smartney.pl_pos": 25,
+          "smartney.pl_url": "smartney.pl/"
+        },
+        {
+          "keyword": "pożyczka komercyjna",
+          "cpc": 2.47,
+          "searches": 10,
+          "trends": [
+            20,
+            10,
+            10,
+            10,
+            10,
+            20,
+            20,
+            10,
+            30,
+            10,
+            10,
+            20
+          ],
+          "difficulty": 45,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 25,
+            "url": "horyzontcapital.com/dla-kogo/pozyczki-i-kredyty-dla-branzy-nieruchomosci-komercyjnych"
+          },
+          "horyzontcapital.com_pos": 25,
+          "horyzontcapital.com_url": "horyzontcapital.com/dla-kogo/pozyczki-i-kredyty-dla-branzy-nieruchomosci-komercyjnych",
+          "smartney.pl": {
+            "pos": 24,
+            "url": "smartney.pl/"
+          },
+          "smartney.pl_pos": 24,
+          "smartney.pl_url": "smartney.pl/"
+        },
+        {
+          "keyword": "jak wziąć kredyt bez zdolności",
+          "cpc": 5.79,
+          "searches": 10,
+          "trends": [
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            0,
+            10
+          ],
+          "difficulty": 48,
+          "params": [
+            "question"
+          ],
+          "horyzontcapital.com": {
+            "pos": 16,
+            "url": "horyzontcapital.com/blog/gdzie-dostane-kredyt-bez-zdolnosci-kredytowej"
+          },
+          "horyzontcapital.com_pos": 16,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/gdzie-dostane-kredyt-bez-zdolnosci-kredytowej",
+          "smartney.pl": {
+            "pos": 45,
+            "url": "smartney.pl/pozyczka-gotowkowa/"
+          },
+          "smartney.pl_pos": 45,
+          "smartney.pl_url": "smartney.pl/pozyczka-gotowkowa/"
+        }
+      ],
+      "pagination": {
+        "page_count": 1,
+        "current_page": 1,
+        "has_next_page": false,
+        "has_prev_page": false,
+        "count": 9,
+        "limit": 100
+      }
+    },
+    "status": 200,
+    "domain": "smartney.pl",
+    "endpoint": "get_competitors_analysis"
+  }
+}

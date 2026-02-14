@@ -1,0 +1,58 @@
+{
+  "domain": "gawryszewskifinanse.pl",
+  "endpoint": "get_competitors_analysis",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "keyword": "jak wziąć kredyt bez zdolności",
+          "cpc": 5.79,
+          "searches": 10,
+          "trends": [
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            0,
+            10
+          ],
+          "difficulty": 48,
+          "params": [
+            "question"
+          ],
+          "horyzontcapital.com": {
+            "pos": 16,
+            "url": "horyzontcapital.com/blog/gdzie-dostane-kredyt-bez-zdolnosci-kredytowej"
+          },
+          "horyzontcapital.com_pos": 16,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/gdzie-dostane-kredyt-bez-zdolnosci-kredytowej",
+          "gawryszewskifinanse.pl": {
+            "pos": 11,
+            "url": "gawryszewskifinanse.pl/blog/czy-mozna-dostac-kredyt-bez-zdolnosci/"
+          },
+          "gawryszewskifinanse.pl_pos": 11,
+          "gawryszewskifinanse.pl_url": "gawryszewskifinanse.pl/blog/czy-mozna-dostac-kredyt-bez-zdolnosci/"
+        }
+      ],
+      "pagination": {
+        "page_count": 1,
+        "current_page": 1,
+        "has_next_page": false,
+        "has_prev_page": false,
+        "count": 1,
+        "limit": 100
+      }
+    },
+    "status": 200,
+    "domain": "gawryszewskifinanse.pl",
+    "endpoint": "get_competitors_analysis"
+  }
+}

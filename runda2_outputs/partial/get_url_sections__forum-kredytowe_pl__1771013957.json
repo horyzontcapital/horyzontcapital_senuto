@@ -1,0 +1,222 @@
+{
+  "domain": "forum-kredytowe.pl",
+  "endpoint": "get_url_sections",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "url_section": "forum-kredytowe.pl/t/",
+        "keywords_count": 6753,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 75079.92,
+            "previous": 74110.68,
+            "diff": 969.24,
+            "percent": 0.0131,
+            "history": null
+          },
+          "top3": {
+            "current": 3186,
+            "previous": 3215,
+            "diff": -29,
+            "percent": -0.009,
+            "history": null
+          },
+          "top10": {
+            "current": 6753,
+            "previous": 6828,
+            "diff": -75,
+            "percent": -0.011,
+            "history": null
+          },
+          "top50": {
+            "current": 18508,
+            "previous": 18688,
+            "diff": -180,
+            "percent": -0.0096,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "forum-kredytowe.pl/",
+        "keywords_count": 22,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 3728.46,
+            "previous": 3717.9,
+            "diff": 10.56,
+            "percent": 0.0028,
+            "history": null
+          },
+          "top3": {
+            "current": 15,
+            "previous": 15,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 22,
+            "previous": 23,
+            "diff": -1,
+            "percent": -0.0435,
+            "history": null
+          },
+          "top50": {
+            "current": 977,
+            "previous": 997,
+            "diff": -20,
+            "percent": -0.0201,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "forum-kredytowe.pl/f/",
+        "keywords_count": 115,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 2665.94,
+            "previous": 2587.29,
+            "diff": 78.65,
+            "percent": 0.0304,
+            "history": null
+          },
+          "top3": {
+            "current": 78,
+            "previous": 76,
+            "diff": 2,
+            "percent": 0.0263,
+            "history": null
+          },
+          "top10": {
+            "current": 115,
+            "previous": 115,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 360,
+            "previous": 343,
+            "diff": 17,
+            "percent": 0.0496,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "forum-kredytowe.pl/blogs/",
+        "keywords_count": 0,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 19,
+            "previous": 22,
+            "diff": -3,
+            "percent": -0.1364,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "forum-kredytowe.pl/porady/",
+        "keywords_count": 0,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 9,
+            "previous": 10,
+            "diff": -1,
+            "percent": -0.1,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "forum-kredytowe.pl/polityka-prywatnosci/",
+        "keywords_count": 0,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 1,
+            "previous": 1,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 6,
+    "domain": "forum-kredytowe.pl",
+    "endpoint": "get_url_sections"
+  }
+}

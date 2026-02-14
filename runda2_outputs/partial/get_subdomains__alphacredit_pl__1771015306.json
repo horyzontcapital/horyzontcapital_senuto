@@ -1,0 +1,54 @@
+{
+  "domain": "alphacredit.pl",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "alphacredit.pl",
+        "keywords_count": 13,
+        "visibility_percent": 100,
+        "statistics": {
+          "visibility": {
+            "current": 130.73,
+            "previous": 130.04,
+            "diff": 0.7,
+            "percent": 0.0053,
+            "history": null
+          },
+          "top3": {
+            "current": 5,
+            "previous": 5,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 13,
+            "previous": 13,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 31,
+            "previous": 31,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 100,
+            "previous": 100,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "alphacredit.pl",
+    "endpoint": "get_subdomains"
+  }
+}

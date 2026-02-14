@@ -1,0 +1,74 @@
+{
+  "domain": "pozyczka-pod-zastaw.com",
+  "endpoint": "get_domain_statistics",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "statistics": {
+          "top3": {
+            "recent_value": 0,
+            "older_value": 0,
+            "diff": 0,
+            "percent": 0
+          },
+          "top10": {
+            "recent_value": 0,
+            "older_value": 0,
+            "diff": 0,
+            "percent": 0
+          },
+          "top50": {
+            "recent_value": 3,
+            "older_value": 3,
+            "diff": 0,
+            "percent": 0
+          },
+          "visibility": {
+            "recent_value": 0,
+            "older_value": 0,
+            "diff": 0,
+            "percent": 0
+          },
+          "domain_rank": {
+            "recent_value": 2492878,
+            "older_value": 3965294,
+            "diff": -1472416,
+            "percent": -0.3713
+          },
+          "ads_equivalent": {
+            "recent_value": 0,
+            "older_value": 0,
+            "diff": 0,
+            "percent": 0
+          },
+          "category": {
+            "name": "",
+            "statistics": {
+              "recent_value": 2805305,
+              "older_value": 2805305,
+              "diff": 0,
+              "percent": 0
+            }
+          },
+          "aio_keywords": {
+            "recent_value": 0,
+            "older_value": 0,
+            "diff": 0,
+            "percent": 0
+          },
+          "aio_visible_keywords": {
+            "recent_value": 0,
+            "older_value": 0,
+            "diff": 0,
+            "percent": 0
+          }
+        }
+      }
+    },
+    "status": 200,
+    "domain": "pozyczka-pod-zastaw.com",
+    "endpoint": "get_domain_statistics"
+  }
+}

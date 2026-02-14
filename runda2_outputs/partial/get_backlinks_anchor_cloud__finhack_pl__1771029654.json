@@ -1,0 +1,67 @@
+{
+  "domain": "finhack.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "finhack.pl": [
+          {
+            "text": "https://finhack.pl/ranking-kont-firmowych/",
+            "size": 21,
+            "percent": 0.2441860465116279
+          },
+          {
+            "text": "finhack.pl",
+            "size": 21,
+            "percent": 0.2441860465116279
+          },
+          {
+            "text": "Konto za granicą a urząd skarbowy - Finhack",
+            "size": 8,
+            "percent": 0.09302325581395349
+          },
+          {
+            "text": "https://finhack.pl/",
+            "size": 4,
+            "percent": 0.046511627906976744
+          },
+          {
+            "text": "https://finhack.pl/ranking-kont-firmowych-rachunki-dla-spolek/",
+            "size": 3,
+            "percent": 0.03488372093023256
+          },
+          {
+            "text": "https://finhack.pl/ranking-kont-osobistych/",
+            "size": 3,
+            "percent": 0.03488372093023256
+          },
+          {
+            "text": "https://finhack.pl/jak-wyplacic-pieniadze-eur-usd-gbp-z-paypala-na-konto/",
+            "size": 2,
+            "percent": 0.023255813953488372
+          },
+          {
+            "text": "https://finhack.pl/ranking-kart-kredytowych-najlepsze-kredytowki",
+            "size": 2,
+            "percent": 0.023255813953488372
+          },
+          {
+            "text": "ranking kont osobistych",
+            "size": 2,
+            "percent": 0.023255813953488372
+          },
+          {
+            "text": "Łatwy sposób wypłaty euro(EUR) i Funtów(GBP) z Paypala na konto - Finhack",
+            "size": 2,
+            "percent": 0.023255813953488372
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "finhack.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

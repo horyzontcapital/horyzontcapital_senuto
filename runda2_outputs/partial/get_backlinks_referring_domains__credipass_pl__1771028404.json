@@ -1,0 +1,854 @@
+{
+  "domain": "credipass.pl",
+  "endpoint": "get_backlinks_referring_domains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "ref_domain": "metrohouse.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.0036230833888872787,
+        "backlinks_count": 400786,
+        "links_external_count": 1552545,
+        "percent_of_total": 0.938764993710898,
+        "count": {
+          "count": 400786,
+          "percent_of_total": 0.938764993710898
+        },
+        "top3": 320,
+        "top10": 1426,
+        "top50": 11183,
+        "visibility": 21473.890000000065,
+        "domain_rank": 12989,
+        "ads_equivalent": 55288.625699999895
+      },
+      {
+        "ref_domain": "beta.metrohouse.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 5370,
+        "links_external_count": 0,
+        "percent_of_total": 0.012578203869964326,
+        "count": {
+          "count": 5370,
+          "percent_of_total": 0.012578203869964326
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 2,
+        "visibility": 0,
+        "domain_rank": 2598238,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "bleslawiec.metrohouse.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 2698,
+        "links_external_count": 0,
+        "percent_of_total": 0.006319551962972766,
+        "count": {
+          "count": 2698,
+          "percent_of_total": 0.006319551962972766
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "opole.metrohouse.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 9.038322487346348e-05,
+        "backlinks_count": 2596,
+        "links_external_count": 11064,
+        "percent_of_total": 0.006080636358738806,
+        "count": {
+          "count": 2596,
+          "percent_of_total": 0.006080636358738806
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 1,
+        "visibility": 0,
+        "domain_rank": 3341848,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "boleslxwiec.metrohouse.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 2557,
+        "links_external_count": 0,
+        "percent_of_total": 0.005989286274766999,
+        "count": {
+          "count": 2557,
+          "percent_of_total": 0.005989286274766999
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "pfopimm.metrohouse.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 2554,
+        "links_external_count": 0,
+        "percent_of_total": 0.005982259345230706,
+        "count": {
+          "count": 2554,
+          "percent_of_total": 0.005982259345230706
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "nowa.metrohouse.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 2485,
+        "links_external_count": 0,
+        "percent_of_total": 0.005820639965895969,
+        "count": {
+          "count": 2485,
+          "percent_of_total": 0.005820639965895969
+        },
+        "top3": 0,
+        "top10": 1,
+        "top50": 2,
+        "visibility": 0.742,
+        "domain_rank": 1916788,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "ww-w.metrohouse.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 2237,
+        "links_external_count": 0,
+        "percent_of_total": 0.005239747124229087,
+        "count": {
+          "count": 2237,
+          "percent_of_total": 0.005239747124229087
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 1,
+        "visibility": 0,
+        "domain_rank": 4613463,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "wwww.metrohouse.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 878,
+        "links_external_count": 0,
+        "percent_of_total": 0.0020565480442883946,
+        "count": {
+          "count": 878,
+          "percent_of_total": 0.0020565480442883946
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 12,
+        "visibility": 0,
+        "domain_rank": 3603066,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "mobile.metrohouse.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 751,
+        "links_external_count": 0,
+        "percent_of_total": 0.001759074693918661,
+        "count": {
+          "count": 751,
+          "percent_of_total": 0.001759074693918661
+        },
+        "top3": 3,
+        "top10": 6,
+        "top50": 217,
+        "visibility": 8.726999999999999,
+        "domain_rank": 1146558,
+        "ads_equivalent": 0.6545
+      },
+      {
+        "ref_domain": "grudziadz.metrohouse.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 744,
+        "links_external_count": 0,
+        "percent_of_total": 0.0017426785250006442,
+        "count": {
+          "count": 744,
+          "percent_of_total": 0.0017426785250006442
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 1,
+        "visibility": 0,
+        "domain_rank": 6236042,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "openx.metrohouse.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 708,
+        "links_external_count": 0,
+        "percent_of_total": 0.0016583553705651292,
+        "count": {
+          "count": 708,
+          "percent_of_total": 0.0016583553705651292
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "b.metrohouse.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 704,
+        "links_external_count": 0,
+        "percent_of_total": 0.0016489861311834051,
+        "count": {
+          "count": 704,
+          "percent_of_total": 0.0016489861311834051
+        },
+        "top3": 0,
+        "top10": 3,
+        "top50": 17,
+        "visibility": 3.876000000000001,
+        "domain_rank": 1405770,
+        "ads_equivalent": 0.19866
+      },
+      {
+        "ref_domain": "suwalki.metrohouse.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.0008650519031141869,
+        "backlinks_count": 465,
+        "links_external_count": 1156,
+        "percent_of_total": 0.0010891740781254027,
+        "count": {
+          "count": 465,
+          "percent_of_total": 0.0010891740781254027
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "glogow.metrohouse.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.0013568521031207597,
+        "backlinks_count": 363,
+        "links_external_count": 737,
+        "percent_of_total": 0.0008502584738914433,
+        "count": {
+          "count": 363,
+          "percent_of_total": 0.0008502584738914433
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 1,
+        "visibility": 0,
+        "domain_rank": 2686045,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "t.metrohouse.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 173,
+        "links_external_count": 0,
+        "percent_of_total": 0.00040521960325955837,
+        "count": {
+          "count": 173,
+          "percent_of_total": 0.00040521960325955837
+        },
+        "top3": 0,
+        "top10": 1,
+        "top50": 4,
+        "visibility": 0.154,
+        "domain_rank": 2138194,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "beoleslawiec.metrohouse.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 156,
+        "links_external_count": 0,
+        "percent_of_total": 0.0003654003358872318,
+        "count": {
+          "count": 156,
+          "percent_of_total": 0.0003654003358872318
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "mi.metrohouse.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 144,
+        "links_external_count": 0,
+        "percent_of_total": 0.00033729261774206014,
+        "count": {
+          "count": 144,
+          "percent_of_total": 0.00033729261774206014
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "oleslawiec.metrohouse.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 115,
+        "links_external_count": 0,
+        "percent_of_total": 0.0002693656322245619,
+        "count": {
+          "count": 115,
+          "percent_of_total": 0.0002693656322245619
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "panoramafirm.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.008904176540050861,
+        "backlinks_count": 75,
+        "links_external_count": 10148496,
+        "percent_of_total": 0.000175673238407323,
+        "count": {
+          "count": 75,
+          "percent_of_total": 0.000175673238407323
+        },
+        "top3": 57262,
+        "top10": 368820,
+        "top50": 1250269,
+        "visibility": 1329064.9030009708,
+        "domain_rank": 292,
+        "ads_equivalent": 1467222.458890008
+      },
+      {
+        "ref_domain": "boleszlawiec.metrohouse.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 67,
+        "links_external_count": 0,
+        "percent_of_total": 0.00015693475964387521,
+        "count": {
+          "count": 67,
+          "percent_of_total": 0.00015693475964387521
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "boleslawi2c.metrohouse.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 65,
+        "links_external_count": 0,
+        "percent_of_total": 0.00015225013995301328,
+        "count": {
+          "count": 65,
+          "percent_of_total": 0.00015225013995301328
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "lwdclqca.metrohouse.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 58,
+        "links_external_count": 0,
+        "percent_of_total": 0.00013585397103499646,
+        "count": {
+          "count": 58,
+          "percent_of_total": 0.00013585397103499646
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 1,
+        "visibility": 0,
+        "domain_rank": 3278138,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "jkvabty.metrohouse.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 47,
+        "links_external_count": 0,
+        "percent_of_total": 0.00011008856273525574,
+        "count": {
+          "count": 47,
+          "percent_of_total": 0.00011008856273525574
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "lubin.metrohouse.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 44,
+        "links_external_count": 0,
+        "percent_of_total": 0.00010306163319896282,
+        "count": {
+          "count": 44,
+          "percent_of_total": 0.00010306163319896282
+        },
+        "top3": 0,
+        "top10": 1,
+        "top50": 5,
+        "visibility": 0.223,
+        "domain_rank": 2100289,
+        "ads_equivalent": 0.02007
+      },
+      {
+        "ref_domain": "lwcoqca.metrohouse.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 36,
+        "links_external_count": 0,
+        "percent_of_total": 8.432315443551503e-05,
+        "count": {
+          "count": 36,
+          "percent_of_total": 8.432315443551503e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "h.metrohouse.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 22,
+        "links_external_count": 0,
+        "percent_of_total": 5.153081659948141e-05,
+        "count": {
+          "count": 22,
+          "percent_of_total": 5.153081659948141e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 7,
+        "visibility": 0,
+        "domain_rank": 5136579,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "ohmycraft.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 6.706192559174528e-05,
+        "backlinks_count": 6,
+        "links_external_count": 656110,
+        "percent_of_total": 1.405385907258584e-05,
+        "count": {
+          "count": 6,
+          "percent_of_total": 1.405385907258584e-05
+        },
+        "top3": 74,
+        "top10": 2354,
+        "top50": 93701,
+        "visibility": 3492.0279999999657,
+        "domain_rank": 54510,
+        "ads_equivalent": 1825.1227700000013
+      },
+      {
+        "ref_domain": "centrumabraham.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.007936507936507936,
+        "backlinks_count": 2,
+        "links_external_count": 126,
+        "percent_of_total": 4.684619690861947e-06,
+        "count": {
+          "count": 2,
+          "percent_of_total": 4.684619690861947e-06
+        },
+        "top3": 10,
+        "top10": 24,
+        "top50": 76,
+        "visibility": 131.907,
+        "domain_rank": 409016,
+        "ads_equivalent": 3.408
+      },
+      {
+        "ref_domain": "lnkd.in",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 5.231205278319859,
+        "backlinks_count": 2,
+        "links_external_count": 161415,
+        "percent_of_total": 4.684619690861947e-06,
+        "count": {
+          "count": 2,
+          "percent_of_total": 4.684619690861947e-06
+        },
+        "top3": 0,
+        "top10": 1,
+        "top50": 6,
+        "visibility": 0.223,
+        "domain_rank": 2098059,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "boleslawiec.metrohouse.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 2,
+        "links_external_count": 0,
+        "percent_of_total": 4.684619690861947e-06,
+        "count": {
+          "count": 2,
+          "percent_of_total": 4.684619690861947e-06
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 2,
+        "visibility": 0,
+        "domain_rank": 6163011,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "spreaker.com",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.8345275846535192,
+        "backlinks_count": 2,
+        "links_external_count": 450631,
+        "percent_of_total": 4.684619690861947e-06,
+        "count": {
+          "count": 2,
+          "percent_of_total": 4.684619690861947e-06
+        },
+        "top3": 30,
+        "top10": 325,
+        "top50": 4053,
+        "visibility": 2239.888999999997,
+        "domain_rank": 75159,
+        "ads_equivalent": 3254.7925999999998
+      },
+      {
+        "ref_domain": "szczecinek.metrohouse.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 2,
+        "links_external_count": 0,
+        "percent_of_total": 4.684619690861947e-06,
+        "count": {
+          "count": 2,
+          "percent_of_total": 4.684619690861947e-06
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "franczyza.metrohouse.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.2727272727272727,
+        "backlinks_count": 2,
+        "links_external_count": 22,
+        "percent_of_total": 4.684619690861947e-06,
+        "count": {
+          "count": 2,
+          "percent_of_total": 4.684619690861947e-06
+        },
+        "top3": 4,
+        "top10": 13,
+        "top50": 28,
+        "visibility": 22.793,
+        "domain_rank": 846511,
+        "ads_equivalent": 224.53014
+      },
+      {
+        "ref_domain": "augustow.metrohouse.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 2,
+        "links_external_count": 0,
+        "percent_of_total": 4.684619690861947e-06,
+        "count": {
+          "count": 2,
+          "percent_of_total": 4.684619690861947e-06
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 1,
+        "visibility": 0,
+        "domain_rank": 5413224,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "e-konkursy.info",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.002132372692382701,
+        "backlinks_count": 1,
+        "links_external_count": 543526,
+        "percent_of_total": 2.3423098454309734e-06,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.3423098454309734e-06
+        },
+        "top3": 1019,
+        "top10": 2898,
+        "top50": 11226,
+        "visibility": 95151.78299999869,
+        "domain_rank": 3408,
+        "ads_equivalent": 118924.92747
+      },
+      {
+        "ref_domain": "gchmanhattan.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.07797537619699042,
+        "backlinks_count": 1,
+        "links_external_count": 2193,
+        "percent_of_total": 2.3423098454309734e-06,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.3423098454309734e-06
+        },
+        "top3": 213,
+        "top10": 506,
+        "top50": 1277,
+        "visibility": 22449.586000000014,
+        "domain_rank": 12472,
+        "ads_equivalent": 46307.56024
+      },
+      {
+        "ref_domain": "guide.in.ua",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.0001939491083951112,
+        "backlinks_count": 1,
+        "links_external_count": 623875,
+        "percent_of_total": 2.3423098454309734e-06,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.3423098454309734e-06
+        },
+        "top3": 0,
+        "top10": 15,
+        "top50": 2984,
+        "visibility": 26.045,
+        "domain_rank": 804231,
+        "ads_equivalent": 1.5642
+      },
+      {
+        "ref_domain": "fachpraca.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.6808641872405687,
+        "backlinks_count": 1,
+        "links_external_count": 59987,
+        "percent_of_total": 2.3423098454309734e-06,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.3423098454309734e-06
+        },
+        "top3": 47,
+        "top10": 1663,
+        "top50": 18231,
+        "visibility": 9945.234000000077,
+        "domain_rank": 24456,
+        "ads_equivalent": 7112.752960000014
+      },
+      {
+        "ref_domain": "fastbase.com",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 6.972139331232396e-05,
+        "backlinks_count": 1,
+        "links_external_count": 143428,
+        "percent_of_total": 2.3423098454309734e-06,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.3423098454309734e-06
+        },
+        "top3": 0,
+        "top10": 23,
+        "top50": 862,
+        "visibility": 33.147999999999996,
+        "domain_rank": 736170,
+        "ads_equivalent": 24.45632
+      },
+      {
+        "ref_domain": "biznestuba.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": 1163.8,
+          "article_price_nofollow": null,
+          "link_price_dofollow": null,
+          "link_price_nofollow": null,
+          "price_do_follow": 1163.8,
+          "price_no_follow": null
+        },
+        "ratio_bl_ext": 0.0060195315493269536,
+        "backlinks_count": 1,
+        "links_external_count": 117451,
+        "percent_of_total": 2.3423098454309734e-06,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.3423098454309734e-06
+        },
+        "top3": 2,
+        "top10": 4,
+        "top50": 29,
+        "visibility": 12.251999999999999,
+        "domain_rank": 1038167,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "merito.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.6424119546444395,
+        "backlinks_count": 1,
+        "links_external_count": 106536,
+        "percent_of_total": 2.3423098454309734e-06,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.3423098454309734e-06
+        },
+        "top3": 2795,
+        "top10": 8506,
+        "top50": 30005,
+        "visibility": 169174.54499999402,
+        "domain_rank": 2008,
+        "ads_equivalent": 566574.8628400018
+      },
+      {
+        "ref_domain": "pl.linkedin.com",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 24.981880314710324,
+        "backlinks_count": 1,
+        "links_external_count": 239077,
+        "percent_of_total": 2.3423098454309734e-06,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.3423098454309734e-06
+        },
+        "top3": 54799,
+        "top10": 232159,
+        "top50": 708663,
+        "visibility": 4057480.918002241,
+        "domain_rank": 99,
+        "ads_equivalent": 12791202.674399933
+      },
+      {
+        "ref_domain": "findglocal.com",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.0026087950033006654,
+        "backlinks_count": 1,
+        "links_external_count": 157544,
+        "percent_of_total": 2.3423098454309734e-06,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.3423098454309734e-06
+        },
+        "top3": 1,
+        "top10": 10,
+        "top50": 1190,
+        "visibility": 53.04899999999999,
+        "domain_rank": 612215,
+        "ads_equivalent": 26.7228
+      },
+      {
+        "ref_domain": "primse.com",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.625,
+        "backlinks_count": 1,
+        "links_external_count": 24,
+        "percent_of_total": 2.3423098454309734e-06,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.3423098454309734e-06
+        },
+        "top3": 0,
+        "top10": 1,
+        "top50": 36,
+        "visibility": 0.154,
+        "domain_rank": 2147577,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "bankier.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": null,
+          "article_price_nofollow": 4025,
+          "link_price_dofollow": null,
+          "link_price_nofollow": null,
+          "price_do_follow": null,
+          "price_no_follow": 4025
+        },
+        "ratio_bl_ext": 0.45290338274804337,
+        "backlinks_count": 1,
+        "links_external_count": 8394329,
+        "percent_of_total": 2.3423098454309734e-06,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.3423098454309734e-06
+        },
+        "top3": 37585,
+        "top10": 100879,
+        "top50": 397062,
+        "visibility": 6716702.150999981,
+        "domain_rank": 54,
+        "ads_equivalent": 25095877.47217976
+      }
+    ],
+    "total": 46,
+    "domain": "credipass.pl",
+    "endpoint": "get_backlinks_referring_domains"
+  }
+}

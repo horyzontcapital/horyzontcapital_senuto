@@ -1,0 +1,19 @@
+{
+  "domain": "hipotecznapozyczka.com",
+  "endpoint": "suggest_domains",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "favourite": [],
+        "suggested": [
+          "hipotecznapozyczka.com"
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "hipotecznapozyczka.com",
+    "endpoint": "suggest_domains"
+  }
+}

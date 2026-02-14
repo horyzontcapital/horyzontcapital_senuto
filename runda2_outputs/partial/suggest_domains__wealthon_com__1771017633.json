@@ -1,0 +1,19 @@
+{
+  "domain": "wealthon.com",
+  "endpoint": "suggest_domains",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "favourite": [],
+        "suggested": [
+          "wealthon.com"
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "wealthon.com",
+    "endpoint": "suggest_domains"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "domain": "rekinfinansow.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "rekinfinansow.pl": [
+          {
+            "text": "Rekin Finansów",
+            "size": 1453,
+            "percent": 0.6850542197076851
+          },
+          {
+            "text": "Odbierz",
+            "size": 88,
+            "percent": 0.04148986327204149
+          },
+          {
+            "text": "Fintown &#8211; platforma do inwestycji w najem mieszkań",
+            "size": 67,
+            "percent": 0.031588873173031586
+          },
+          {
+            "text": "rekinfinansow.pl/feed/",
+            "size": 50,
+            "percent": 0.023573785950023574
+          },
+          {
+            "text": "Sprawdź »",
+            "size": 32,
+            "percent": 0.015087223008015087
+          },
+          {
+            "text": "",
+            "size": 31,
+            "percent": 0.014615747289014616
+          },
+          {
+            "text": "https://rekinfinansow.pl/darmowe-pozyczki-online/",
+            "size": 17,
+            "percent": 0.008015087223008015
+          },
+          {
+            "text": "rekinfinansow.pl/idea-bank-na-...",
+            "size": 11,
+            "percent": 0.005186232909005186
+          },
+          {
+            "text": "rekinfinansow.pl",
+            "size": 11,
+            "percent": 0.005186232909005186
+          },
+          {
+            "text": "Złóż wniosek",
+            "size": 9,
+            "percent": 0.004243281471004243
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "rekinfinansow.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

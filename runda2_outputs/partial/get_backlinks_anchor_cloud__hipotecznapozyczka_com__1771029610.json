@@ -1,0 +1,22 @@
+{
+  "domain": "hipotecznapozyczka.com",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "hipotecznapozyczka.com": [
+          {
+            "text": "www.hipotecznapozyczka.com",
+            "size": 1,
+            "percent": 1
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "hipotecznapozyczka.com",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

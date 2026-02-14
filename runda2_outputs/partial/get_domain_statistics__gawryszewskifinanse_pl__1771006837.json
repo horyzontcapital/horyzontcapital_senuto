@@ -1,0 +1,74 @@
+{
+  "domain": "gawryszewskifinanse.pl",
+  "endpoint": "get_domain_statistics",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "statistics": {
+          "top3": {
+            "recent_value": 33,
+            "older_value": 33,
+            "diff": 0,
+            "percent": 0
+          },
+          "top10": {
+            "recent_value": 183,
+            "older_value": 183,
+            "diff": 0,
+            "percent": 0
+          },
+          "top50": {
+            "recent_value": 555,
+            "older_value": 555,
+            "diff": 0,
+            "percent": 0
+          },
+          "visibility": {
+            "recent_value": 1014,
+            "older_value": 1014,
+            "diff": 0,
+            "percent": 0
+          },
+          "domain_rank": {
+            "recent_value": 129462,
+            "older_value": 129455,
+            "diff": 7,
+            "percent": 0.0001
+          },
+          "ads_equivalent": {
+            "recent_value": 11662.36,
+            "older_value": 11662.36,
+            "diff": 0,
+            "percent": 0
+          },
+          "category": {
+            "name": "",
+            "statistics": {
+              "recent_value": 129462,
+              "older_value": 129462,
+              "diff": 0,
+              "percent": 0
+            }
+          },
+          "aio_keywords": {
+            "recent_value": 113,
+            "older_value": 113,
+            "diff": 0,
+            "percent": 0
+          },
+          "aio_visible_keywords": {
+            "recent_value": 128,
+            "older_value": 128,
+            "diff": 0,
+            "percent": 0
+          }
+        }
+      }
+    },
+    "status": 200,
+    "domain": "gawryszewskifinanse.pl",
+    "endpoint": "get_domain_statistics"
+  }
+}

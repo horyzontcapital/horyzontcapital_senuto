@@ -1,0 +1,4177 @@
+{
+  "domain": "businessinsider.com.pl",
+  "endpoint": "get_competitors",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "businessinsider.com.pl",
+        "is_main_domain": true,
+        "common_keywords": null,
+        "statistics": {
+          "top3": {
+            "current": 25583,
+            "previous": 25585,
+            "diff": -2,
+            "percent": -0.0001,
+            "history": null
+          },
+          "top10": {
+            "current": 83858,
+            "previous": 83856,
+            "diff": 2,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 388048,
+            "previous": 388045,
+            "diff": 3,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 5162650.78,
+            "previous": 5160888.48,
+            "diff": 1762.3,
+            "percent": 0.0003,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 32848135.07,
+            "previous": 32848135.07,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 70,
+            "previous": 70,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "bankier.pl",
+        "is_main_domain": false,
+        "common_keywords": 46473,
+        "statistics": {
+          "top3": {
+            "current": 37585,
+            "previous": 37586,
+            "diff": -1,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 100879,
+            "previous": 100880,
+            "diff": -1,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 397062,
+            "previous": 397064,
+            "diff": -2,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 6716702.15,
+            "previous": 6712240.42,
+            "diff": 4461.73,
+            "percent": 0.0007,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 25095877.47,
+            "previous": 25095877.47,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 50,
+            "previous": 50,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "money.pl",
+        "is_main_domain": false,
+        "common_keywords": 44072,
+        "statistics": {
+          "top3": {
+            "current": 21441,
+            "previous": 21438,
+            "diff": 3,
+            "percent": 0.0001,
+            "history": null
+          },
+          "top10": {
+            "current": 87928,
+            "previous": 87927,
+            "diff": 1,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 387360,
+            "previous": 387344,
+            "diff": 16,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 3547607.12,
+            "previous": 3518169.58,
+            "diff": 29437.54,
+            "percent": 0.0084,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 7081859.63,
+            "previous": 7081859.63,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 89,
+            "previous": 89,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "gov.pl",
+        "is_main_domain": false,
+        "common_keywords": 40705,
+        "statistics": {
+          "top3": {
+            "current": 48,
+            "previous": 48,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 1610,
+            "previous": 1610,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 72401,
+            "previous": 72401,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 0.49,
+            "previous": 0.49,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 1459409,
+            "previous": 1459411,
+            "diff": -2,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "poradnikprzedsiebiorcy.pl",
+        "is_main_domain": false,
+        "common_keywords": 34772,
+        "statistics": {
+          "top3": {
+            "current": 96736,
+            "previous": 96735,
+            "diff": 1,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 185414,
+            "previous": 185415,
+            "diff": -1,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 354293,
+            "previous": 354291,
+            "diff": 2,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 2809931,
+            "previous": 2801824.86,
+            "diff": 8106.14,
+            "percent": 0.0029,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 5159974.85,
+            "previous": 5159974.85,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 125,
+            "previous": 125,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "sip.lex.pl",
+        "is_main_domain": false,
+        "common_keywords": 22139,
+        "statistics": {
+          "top3": {
+            "current": 91704,
+            "previous": 91704,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 202834,
+            "previous": 202833,
+            "diff": 1,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 456037,
+            "previous": 456042,
+            "diff": -5,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 3009155.49,
+            "previous": 3009277.98,
+            "diff": -122.49,
+            "percent": 0,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 2756871.86,
+            "previous": 2756871.86,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "tvn24.pl",
+        "is_main_domain": false,
+        "common_keywords": 20933,
+        "statistics": {
+          "top3": {
+            "current": 25263,
+            "previous": 25265,
+            "diff": -2,
+            "percent": -0.0001,
+            "history": null
+          },
+          "top10": {
+            "current": 109457,
+            "previous": 109460,
+            "diff": -3,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 513078,
+            "previous": 513083,
+            "diff": -5,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 7635517.78,
+            "previous": 7633025.23,
+            "diff": 2492.55,
+            "percent": 0.0003,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 6434563.36,
+            "previous": 6434563.36,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 34,
+            "previous": 34,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "wiadomosci.onet.pl",
+        "is_main_domain": false,
+        "common_keywords": 20495,
+        "statistics": {
+          "top3": {
+            "current": 25247,
+            "previous": 25245,
+            "diff": 2,
+            "percent": 0.0001,
+            "history": null
+          },
+          "top10": {
+            "current": 87971,
+            "previous": 87972,
+            "diff": -1,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 459194,
+            "previous": 459190,
+            "diff": 4,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 10196850.32,
+            "previous": 10161758.5,
+            "diff": 35091.82,
+            "percent": 0.0035,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 8089827.88,
+            "previous": 8089827.88,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "infor.pl",
+        "is_main_domain": false,
+        "common_keywords": 18000,
+        "statistics": {
+          "top3": {
+            "current": 19782,
+            "previous": 19785,
+            "diff": -3,
+            "percent": -0.0002,
+            "history": null
+          },
+          "top10": {
+            "current": 58987,
+            "previous": 58989,
+            "diff": -2,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 284742,
+            "previous": 284739,
+            "diff": 3,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 1206107.88,
+            "previous": 1206137.54,
+            "diff": -29.66,
+            "percent": 0,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 2072281.6,
+            "previous": 2072281.6,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 206,
+            "previous": 205,
+            "diff": 1,
+            "percent": 0.0049,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "prawo.pl",
+        "is_main_domain": false,
+        "common_keywords": 17054,
+        "statistics": {
+          "top3": {
+            "current": 27834,
+            "previous": 27834,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 87661,
+            "previous": 87660,
+            "diff": 1,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 403781,
+            "previous": 403784,
+            "diff": -3,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 751641,
+            "previous": 751756.27,
+            "diff": -115.27,
+            "percent": -0.0002,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 709042.72,
+            "previous": 709042.72,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 493,
+            "previous": 493,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "forsal.pl",
+        "is_main_domain": false,
+        "common_keywords": 16815,
+        "statistics": {
+          "top3": {
+            "current": 8089,
+            "previous": 8088,
+            "diff": 1,
+            "percent": 0.0001,
+            "history": null
+          },
+          "top10": {
+            "current": 30898,
+            "previous": 30898,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 190770,
+            "previous": 190769,
+            "diff": 1,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 989452.2,
+            "previous": 988403.89,
+            "diff": 1048.31,
+            "percent": 0.0011,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 1049528.36,
+            "previous": 1049528.36,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 394,
+            "previous": 394,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "rp.pl",
+        "is_main_domain": false,
+        "common_keywords": 15502,
+        "statistics": {
+          "top3": {
+            "current": 8269,
+            "previous": 8270,
+            "diff": -1,
+            "percent": -0.0001,
+            "history": null
+          },
+          "top10": {
+            "current": 44332,
+            "previous": 44337,
+            "diff": -5,
+            "percent": -0.0001,
+            "history": null
+          },
+          "top50": {
+            "current": 342099,
+            "previous": 342097,
+            "diff": 2,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 752626.46,
+            "previous": 753139.9,
+            "diff": -513.44,
+            "percent": -0.0007,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 462915.66,
+            "previous": 462915.66,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 222,
+            "previous": 222,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "rankomat.pl",
+        "is_main_domain": false,
+        "common_keywords": 15350,
+        "statistics": {
+          "top3": {
+            "current": 30017,
+            "previous": 30017,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 88203,
+            "previous": 88203,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 217075,
+            "previous": 217075,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 1567374.68,
+            "previous": 1562260.51,
+            "diff": 5114.17,
+            "percent": 0.0033,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 8679861.08,
+            "previous": 8679861.08,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 239,
+            "previous": 240,
+            "diff": -1,
+            "percent": -0.0042,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "biznes.interia.pl",
+        "is_main_domain": false,
+        "common_keywords": 14290,
+        "statistics": {
+          "top3": {
+            "current": 5481,
+            "previous": 5480,
+            "diff": 1,
+            "percent": 0.0002,
+            "history": null
+          },
+          "top10": {
+            "current": 23068,
+            "previous": 23067,
+            "diff": 1,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 152500,
+            "previous": 152507,
+            "diff": -7,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 750362.59,
+            "previous": 749087.18,
+            "diff": 1275.41,
+            "percent": 0.0017,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 1688221.46,
+            "previous": 1688221.46,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "pl.investing.com",
+        "is_main_domain": false,
+        "common_keywords": 13071,
+        "statistics": {
+          "top3": {
+            "current": 13753,
+            "previous": 13752,
+            "diff": 1,
+            "percent": 0.0001,
+            "history": null
+          },
+          "top10": {
+            "current": 31726,
+            "previous": 31726,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 76467,
+            "previous": 76468,
+            "diff": -1,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 3039370.26,
+            "previous": 3038734.82,
+            "diff": 635.44,
+            "percent": 0.0002,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 11265482.93,
+            "previous": 11265482.93,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "zus.pl",
+        "is_main_domain": false,
+        "common_keywords": 12221,
+        "statistics": {
+          "top3": {
+            "current": 28704,
+            "previous": 28704,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 44717,
+            "previous": 44718,
+            "diff": -1,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 158112,
+            "previous": 158116,
+            "diff": -4,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 4193494.46,
+            "previous": 4193439.58,
+            "diff": 54.88,
+            "percent": 0,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 20313780.02,
+            "previous": 20313780.02,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 81,
+            "previous": 81,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "direct.money.pl",
+        "is_main_domain": false,
+        "common_keywords": 10837,
+        "statistics": {
+          "top3": {
+            "current": 6673,
+            "previous": 6673,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 25741,
+            "previous": 25743,
+            "diff": -2,
+            "percent": -0.0001,
+            "history": null
+          },
+          "top50": {
+            "current": 74191,
+            "previous": 74194,
+            "diff": -3,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 386499.61,
+            "previous": 386557.3,
+            "diff": -57.69,
+            "percent": -0.0001,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 2714939.23,
+            "previous": 2714939.23,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "pl.linkedin.com",
+        "is_main_domain": false,
+        "common_keywords": 10404,
+        "statistics": {
+          "top3": {
+            "current": 54799,
+            "previous": 54798,
+            "diff": 1,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 232159,
+            "previous": 232156,
+            "diff": 3,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 708663,
+            "previous": 708649,
+            "diff": 14,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 4057480.92,
+            "previous": 4056042.77,
+            "diff": 1438.15,
+            "percent": 0.0004,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 12791202.67,
+            "previous": 12791202.67,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "interviewme.pl",
+        "is_main_domain": false,
+        "common_keywords": 9463,
+        "statistics": {
+          "top3": {
+            "current": 19200,
+            "previous": 19200,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 42970,
+            "previous": 42971,
+            "diff": -1,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 85507,
+            "previous": 85506,
+            "diff": 1,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 1169432.26,
+            "previous": 1170079.33,
+            "diff": -647.07,
+            "percent": -0.0006,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 1760903.21,
+            "previous": 1760903.21,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 340,
+            "previous": 340,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "wnp.pl",
+        "is_main_domain": false,
+        "common_keywords": 9366,
+        "statistics": {
+          "top3": {
+            "current": 3612,
+            "previous": 3612,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 20037,
+            "previous": 20038,
+            "diff": -1,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 147149,
+            "previous": 147142,
+            "diff": 7,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 554194.15,
+            "previous": 554821.3,
+            "diff": -627.15,
+            "percent": -0.0011,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 835779.75,
+            "previous": 835779.75,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 642,
+            "previous": 641,
+            "diff": 1,
+            "percent": 0.0016,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "onet.pl",
+        "is_main_domain": false,
+        "common_keywords": 9133,
+        "statistics": {
+          "top3": {
+            "current": 18882,
+            "previous": 18880,
+            "diff": 2,
+            "percent": 0.0001,
+            "history": null
+          },
+          "top10": {
+            "current": 85227,
+            "previous": 85225,
+            "diff": 2,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 576866,
+            "previous": 576853,
+            "diff": 13,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 12633562.81,
+            "previous": 12635330.07,
+            "diff": -1767.26,
+            "percent": -0.0001,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 4366039.14,
+            "previous": 4366039.14,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 9,
+            "previous": 9,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "wiadomosci.wp.pl",
+        "is_main_domain": false,
+        "common_keywords": 9073,
+        "statistics": {
+          "top3": {
+            "current": 8685,
+            "previous": 8684,
+            "diff": 1,
+            "percent": 0.0001,
+            "history": null
+          },
+          "top10": {
+            "current": 35159,
+            "previous": 35163,
+            "diff": -4,
+            "percent": -0.0001,
+            "history": null
+          },
+          "top50": {
+            "current": 214420,
+            "previous": 214416,
+            "diff": 4,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 1945493.7,
+            "previous": 1948465.85,
+            "diff": -2972.15,
+            "percent": -0.0015,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 752591.98,
+            "previous": 752591.98,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "wydarzenia.interia.pl",
+        "is_main_domain": false,
+        "common_keywords": 8988,
+        "statistics": {
+          "top3": {
+            "current": 7462,
+            "previous": 7463,
+            "diff": -1,
+            "percent": -0.0001,
+            "history": null
+          },
+          "top10": {
+            "current": 33206,
+            "previous": 33202,
+            "diff": 4,
+            "percent": 0.0001,
+            "history": null
+          },
+          "top50": {
+            "current": 178881,
+            "previous": 178883,
+            "diff": -2,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 1510118.09,
+            "previous": 1511054.59,
+            "diff": -936.5,
+            "percent": -0.0006,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 1790303.09,
+            "previous": 1790303.09,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "fakt.pl",
+        "is_main_domain": false,
+        "common_keywords": 8891,
+        "statistics": {
+          "top3": {
+            "current": 12681,
+            "previous": 12682,
+            "diff": -1,
+            "percent": -0.0001,
+            "history": null
+          },
+          "top10": {
+            "current": 59061,
+            "previous": 59059,
+            "diff": 2,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 373613,
+            "previous": 373619,
+            "diff": -6,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 2923497.71,
+            "previous": 2926622.1,
+            "diff": -3124.39,
+            "percent": -0.0011,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 2831088.62,
+            "previous": 2831088.62,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 105,
+            "previous": 105,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "gazetaprawna.pl",
+        "is_main_domain": false,
+        "common_keywords": 8555,
+        "statistics": {
+          "top3": {
+            "current": 4816,
+            "previous": 4816,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 23645,
+            "previous": 23648,
+            "diff": -3,
+            "percent": -0.0001,
+            "history": null
+          },
+          "top50": {
+            "current": 182868,
+            "previous": 182871,
+            "diff": -3,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 309090.09,
+            "previous": 309289.07,
+            "diff": -198.98,
+            "percent": -0.0006,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 196129.72,
+            "previous": 196129.72,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 682,
+            "previous": 680,
+            "diff": 2,
+            "percent": 0.0029,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "wise.com",
+        "is_main_domain": false,
+        "common_keywords": 8442,
+        "statistics": {
+          "top3": {
+            "current": 18248,
+            "previous": 18249,
+            "diff": -1,
+            "percent": -0.0001,
+            "history": null
+          },
+          "top10": {
+            "current": 33947,
+            "previous": 33946,
+            "diff": 1,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 69358,
+            "previous": 69357,
+            "diff": 1,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 2840664.71,
+            "previous": 2840820.47,
+            "diff": -155.76,
+            "percent": -0.0001,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 5493275.76,
+            "previous": 5493275.76,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 123,
+            "previous": 123,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "otomoto.pl",
+        "is_main_domain": false,
+        "common_keywords": 8074,
+        "statistics": {
+          "top3": {
+            "current": 155164,
+            "previous": 155163,
+            "diff": 1,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 262320,
+            "previous": 262323,
+            "diff": -3,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 736702,
+            "previous": 736696,
+            "diff": 6,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 16625824.47,
+            "previous": 16622847.59,
+            "diff": 2976.88,
+            "percent": 0.0002,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 15950305.8,
+            "previous": 15950305.8,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 21,
+            "previous": 21,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "pkobp.pl",
+        "is_main_domain": false,
+        "common_keywords": 7891,
+        "statistics": {
+          "top3": {
+            "current": 15359,
+            "previous": 15360,
+            "diff": -1,
+            "percent": -0.0001,
+            "history": null
+          },
+          "top10": {
+            "current": 30915,
+            "previous": 30915,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 119237,
+            "previous": 119241,
+            "diff": -4,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 4576943.49,
+            "previous": 4577721.59,
+            "diff": -778.1,
+            "percent": -0.0002,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 13163663.67,
+            "previous": 13163663.67,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 73,
+            "previous": 73,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "stockwatch.pl",
+        "is_main_domain": false,
+        "common_keywords": 7880,
+        "statistics": {
+          "top3": {
+            "current": 4213,
+            "previous": 4212,
+            "diff": 1,
+            "percent": 0.0002,
+            "history": null
+          },
+          "top10": {
+            "current": 15509,
+            "previous": 15507,
+            "diff": 2,
+            "percent": 0.0001,
+            "history": null
+          },
+          "top50": {
+            "current": 49694,
+            "previous": 49688,
+            "diff": 6,
+            "percent": 0.0001,
+            "history": null
+          },
+          "visibility": {
+            "current": 716754.87,
+            "previous": 716759.14,
+            "diff": -4.27,
+            "percent": 0,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 2436995.66,
+            "previous": 2436995.66,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 517,
+            "previous": 517,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "play.google.com",
+        "is_main_domain": false,
+        "common_keywords": 7546,
+        "statistics": {
+          "top3": {
+            "current": 112306,
+            "previous": 112305,
+            "diff": 1,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 283398,
+            "previous": 283387,
+            "diff": 11,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 666362,
+            "previous": 666356,
+            "diff": 6,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 83723570.15,
+            "previous": 83731186.74,
+            "diff": -7616.59,
+            "percent": -0.0001,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 372275622.52,
+            "previous": 372275622.52,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "autocentrum.pl",
+        "is_main_domain": false,
+        "common_keywords": 7325,
+        "statistics": {
+          "top3": {
+            "current": 101470,
+            "previous": 101471,
+            "diff": -1,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 183783,
+            "previous": 183781,
+            "diff": 2,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 331103,
+            "previous": 331095,
+            "diff": 8,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 4156995.23,
+            "previous": 4156664.95,
+            "diff": 330.28,
+            "percent": 0.0001,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 3567330.77,
+            "previous": 3567330.77,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 87,
+            "previous": 87,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "biznes.gov.pl",
+        "is_main_domain": false,
+        "common_keywords": 7287,
+        "statistics": {
+          "top3": {
+            "current": 31672,
+            "previous": 31673,
+            "diff": -1,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 61961,
+            "previous": 61961,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 170522,
+            "previous": 170522,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 1403613.48,
+            "previous": 1406834.43,
+            "diff": -3220.95,
+            "percent": -0.0023,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 3159381.55,
+            "previous": 3159381.55,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 269,
+            "previous": 268,
+            "diff": 1,
+            "percent": 0.0037,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "rejestr.io",
+        "is_main_domain": false,
+        "common_keywords": 7136,
+        "statistics": {
+          "top3": {
+            "current": 77578,
+            "previous": 77579,
+            "diff": -1,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 245410,
+            "previous": 245413,
+            "diff": -3,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 482302,
+            "previous": 482301,
+            "diff": 1,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 3718980.67,
+            "previous": 3719965.83,
+            "diff": -985.16,
+            "percent": -0.0003,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 8138792.24,
+            "previous": 8138792.24,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 93,
+            "previous": 93,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "pap.pl",
+        "is_main_domain": false,
+        "common_keywords": 6811,
+        "statistics": {
+          "top3": {
+            "current": 5057,
+            "previous": 5057,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 23112,
+            "previous": 23112,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 159525,
+            "previous": 159522,
+            "diff": 3,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 469016.66,
+            "previous": 469005.85,
+            "diff": 10.81,
+            "percent": 0,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 274807.84,
+            "previous": 274807.84,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 487,
+            "previous": 487,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "rmf24.pl",
+        "is_main_domain": false,
+        "common_keywords": 6626,
+        "statistics": {
+          "top3": {
+            "current": 6279,
+            "previous": 6279,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 32704,
+            "previous": 32707,
+            "diff": -3,
+            "percent": -0.0001,
+            "history": null
+          },
+          "top50": {
+            "current": 257096,
+            "previous": 257084,
+            "diff": 12,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 1602296.42,
+            "previous": 1602718.31,
+            "diff": -421.89,
+            "percent": -0.0003,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 2990499,
+            "previous": 2990499,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 236,
+            "previous": 236,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "pl.tradingview.com",
+        "is_main_domain": false,
+        "common_keywords": 6613,
+        "statistics": {
+          "top3": {
+            "current": 5385,
+            "previous": 5385,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 16335,
+            "previous": 16334,
+            "diff": 1,
+            "percent": 0.0001,
+            "history": null
+          },
+          "top50": {
+            "current": 35721,
+            "previous": 35724,
+            "diff": -3,
+            "percent": -0.0001,
+            "history": null
+          },
+          "visibility": {
+            "current": 1774415.84,
+            "previous": 1774341.52,
+            "diff": 74.32,
+            "percent": 0,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 8132658.81,
+            "previous": 8132658.81,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "polskieradio24.pl",
+        "is_main_domain": false,
+        "common_keywords": 6480,
+        "statistics": {
+          "top3": {
+            "current": 7332,
+            "previous": 7331,
+            "diff": 1,
+            "percent": 0.0001,
+            "history": null
+          },
+          "top10": {
+            "current": 41742,
+            "previous": 41737,
+            "diff": 5,
+            "percent": 0.0001,
+            "history": null
+          },
+          "top50": {
+            "current": 250712,
+            "previous": 250716,
+            "diff": -4,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 1221185.97,
+            "previous": 1221088.8,
+            "diff": 97.17,
+            "percent": 0.0001,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 3191468.33,
+            "previous": 3191468.33,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 320,
+            "previous": 320,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "livecareer.pl",
+        "is_main_domain": false,
+        "common_keywords": 6452,
+        "statistics": {
+          "top3": {
+            "current": 14124,
+            "previous": 14124,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 32571,
+            "previous": 32571,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 65494,
+            "previous": 65500,
+            "diff": -6,
+            "percent": -0.0001,
+            "history": null
+          },
+          "visibility": {
+            "current": 883574.29,
+            "previous": 883049.97,
+            "diff": 524.32,
+            "percent": 0.0006,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 1011173.16,
+            "previous": 1011173.16,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 428,
+            "previous": 429,
+            "diff": -1,
+            "percent": -0.0023,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "totalmoney.pl",
+        "is_main_domain": false,
+        "common_keywords": 6408,
+        "statistics": {
+          "top3": {
+            "current": 4407,
+            "previous": 4407,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 16255,
+            "previous": 16254,
+            "diff": 1,
+            "percent": 0.0001,
+            "history": null
+          },
+          "top50": {
+            "current": 61761,
+            "previous": 61764,
+            "diff": -3,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 283394.7,
+            "previous": 283365.44,
+            "diff": 29.26,
+            "percent": 0.0001,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 2172247.09,
+            "previous": 2172247.09,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 1166,
+            "previous": 1166,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "pl.jooble.org",
+        "is_main_domain": false,
+        "common_keywords": 6395,
+        "statistics": {
+          "top3": {
+            "current": 76490,
+            "previous": 76489,
+            "diff": 1,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 162113,
+            "previous": 162116,
+            "diff": -3,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 376822,
+            "previous": 376825,
+            "diff": -3,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 1757645.49,
+            "previous": 1757841.76,
+            "diff": -196.27,
+            "percent": -0.0001,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 987963.65,
+            "previous": 987963.65,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "forbes.pl",
+        "is_main_domain": false,
+        "common_keywords": 6323,
+        "statistics": {
+          "top3": {
+            "current": 3492,
+            "previous": 3492,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 15165,
+            "previous": 15166,
+            "diff": -1,
+            "percent": -0.0001,
+            "history": null
+          },
+          "top50": {
+            "current": 87111,
+            "previous": 87115,
+            "diff": -4,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 284737.95,
+            "previous": 284890.07,
+            "diff": -152.12,
+            "percent": -0.0005,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 681970.21,
+            "previous": 681970.21,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 1161,
+            "previous": 1162,
+            "diff": -1,
+            "percent": -0.0009,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "wyborcza.pl",
+        "is_main_domain": false,
+        "common_keywords": 6103,
+        "statistics": {
+          "top3": {
+            "current": 7199,
+            "previous": 7199,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 42016,
+            "previous": 42017,
+            "diff": -1,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 363131,
+            "previous": 363130,
+            "diff": 1,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 1788050.81,
+            "previous": 1783159.02,
+            "diff": 4891.79,
+            "percent": 0.0027,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 1987622.16,
+            "previous": 1987622.16,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 129,
+            "previous": 129,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "pit.pl",
+        "is_main_domain": false,
+        "common_keywords": 6045,
+        "statistics": {
+          "top3": {
+            "current": 5757,
+            "previous": 5757,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 19596,
+            "previous": 19598,
+            "diff": -2,
+            "percent": -0.0001,
+            "history": null
+          },
+          "top50": {
+            "current": 79876,
+            "previous": 79877,
+            "diff": -1,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 268518.41,
+            "previous": 270294.7,
+            "diff": -1776.29,
+            "percent": -0.0066,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 260746.78,
+            "previous": 260746.78,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 1211,
+            "previous": 1206,
+            "diff": 5,
+            "percent": 0.0041,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "santander.pl",
+        "is_main_domain": false,
+        "common_keywords": 5914,
+        "statistics": {
+          "top3": {
+            "current": 8650,
+            "previous": 8651,
+            "diff": -1,
+            "percent": -0.0001,
+            "history": null
+          },
+          "top10": {
+            "current": 20273,
+            "previous": 20274,
+            "diff": -1,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 106294,
+            "previous": 106289,
+            "diff": 5,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 1679665.54,
+            "previous": 1679662.93,
+            "diff": 2.61,
+            "percent": 0,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 7892825.2,
+            "previous": 7892825.2,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 225,
+            "previous": 225,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "notowania.pb.pl",
+        "is_main_domain": false,
+        "common_keywords": 5889,
+        "statistics": {
+          "top3": {
+            "current": 4034,
+            "previous": 4034,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 11121,
+            "previous": 11122,
+            "diff": -1,
+            "percent": -0.0001,
+            "history": null
+          },
+          "top50": {
+            "current": 19084,
+            "previous": 19082,
+            "diff": 2,
+            "percent": 0.0001,
+            "history": null
+          },
+          "visibility": {
+            "current": 805771.83,
+            "previous": 805809.03,
+            "diff": -37.2,
+            "percent": 0,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 3069019.89,
+            "previous": 3069019.89,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "next.gazeta.pl",
+        "is_main_domain": false,
+        "common_keywords": 5834,
+        "statistics": {
+          "top3": {
+            "current": 1929,
+            "previous": 1929,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 12363,
+            "previous": 12363,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 109995,
+            "previous": 109990,
+            "diff": 5,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 233460.57,
+            "previous": 233409.59,
+            "diff": 50.98,
+            "percent": 0.0002,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 307195.63,
+            "previous": 307195.63,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "biznesradar.pl",
+        "is_main_domain": false,
+        "common_keywords": 5812,
+        "statistics": {
+          "top3": {
+            "current": 2988,
+            "previous": 2989,
+            "diff": -1,
+            "percent": -0.0003,
+            "history": null
+          },
+          "top10": {
+            "current": 11724,
+            "previous": 11723,
+            "diff": 1,
+            "percent": 0.0001,
+            "history": null
+          },
+          "top50": {
+            "current": 30273,
+            "previous": 30269,
+            "diff": 4,
+            "percent": 0.0001,
+            "history": null
+          },
+          "visibility": {
+            "current": 427386.8,
+            "previous": 427258.88,
+            "diff": 127.92,
+            "percent": 0.0003,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 1887225.93,
+            "previous": 1887225.93,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 810,
+            "previous": 810,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "finanse.wp.pl",
+        "is_main_domain": false,
+        "common_keywords": 5713,
+        "statistics": {
+          "top3": {
+            "current": 2136,
+            "previous": 2136,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 11542,
+            "previous": 11541,
+            "diff": 1,
+            "percent": 0.0001,
+            "history": null
+          },
+          "top50": {
+            "current": 93512,
+            "previous": 93515,
+            "diff": -3,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 226377.47,
+            "previous": 226076.96,
+            "diff": 300.51,
+            "percent": 0.0013,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 483105,
+            "previous": 483105,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "medonet.pl",
+        "is_main_domain": false,
+        "common_keywords": 5614,
+        "statistics": {
+          "top3": {
+            "current": 70157,
+            "previous": 70152,
+            "diff": 5,
+            "percent": 0.0001,
+            "history": null
+          },
+          "top10": {
+            "current": 195464,
+            "previous": 195468,
+            "diff": -4,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 692527,
+            "previous": 692529,
+            "diff": -2,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 3356295.98,
+            "previous": 3356567.54,
+            "diff": -271.56,
+            "percent": -0.0001,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 1737641.26,
+            "previous": 1737641.26,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 96,
+            "previous": 96,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "ing.pl",
+        "is_main_domain": false,
+        "common_keywords": 5443,
+        "statistics": {
+          "top3": {
+            "current": 7419,
+            "previous": 7418,
+            "diff": 1,
+            "percent": 0.0001,
+            "history": null
+          },
+          "top10": {
+            "current": 18962,
+            "previous": 18964,
+            "diff": -2,
+            "percent": -0.0001,
+            "history": null
+          },
+          "top50": {
+            "current": 88243,
+            "previous": 88239,
+            "diff": 4,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 1758886.78,
+            "previous": 1759645.35,
+            "diff": -758.57,
+            "percent": -0.0004,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 7675735.3,
+            "previous": 7675735.3,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 212,
+            "previous": 211,
+            "diff": 1,
+            "percent": 0.0047,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "pl.indeed.com",
+        "is_main_domain": false,
+        "common_keywords": 5434,
+        "statistics": {
+          "top3": {
+            "current": 12585,
+            "previous": 12585,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 63327,
+            "previous": 63325,
+            "diff": 2,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 169023,
+            "previous": 169023,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 353327.44,
+            "previous": 352901.03,
+            "diff": 426.41,
+            "percent": 0.0012,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 262235.83,
+            "previous": 262235.83,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "mbank.pl",
+        "is_main_domain": false,
+        "common_keywords": 5415,
+        "statistics": {
+          "top3": {
+            "current": 9726,
+            "previous": 9726,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 21164,
+            "previous": 21167,
+            "diff": -3,
+            "percent": -0.0001,
+            "history": null
+          },
+          "top50": {
+            "current": 106355,
+            "previous": 106359,
+            "diff": -4,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 1210120.42,
+            "previous": 1210130.63,
+            "diff": -10.21,
+            "percent": 0,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 11739878.8,
+            "previous": 11739878.8,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 215,
+            "previous": 215,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "auto-swiat.pl",
+        "is_main_domain": false,
+        "common_keywords": 5396,
+        "statistics": {
+          "top3": {
+            "current": 13530,
+            "previous": 13530,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 65638,
+            "previous": 65637,
+            "diff": 1,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 251538,
+            "previous": 251541,
+            "diff": -3,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 1088235.64,
+            "previous": 1088181.22,
+            "diff": 54.42,
+            "percent": 0.0001,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 3326066.76,
+            "previous": 3326066.76,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 359,
+            "previous": 359,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "x.com",
+        "is_main_domain": false,
+        "common_keywords": 5317,
+        "statistics": {
+          "top3": {
+            "current": 14798,
+            "previous": 14794,
+            "diff": 4,
+            "percent": 0.0003,
+            "history": null
+          },
+          "top10": {
+            "current": 84405,
+            "previous": 84409,
+            "diff": -4,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 496698,
+            "previous": 496678,
+            "diff": 20,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 18055663.82,
+            "previous": 18046371.98,
+            "diff": 9291.84,
+            "percent": 0.0005,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 83156413.35,
+            "previous": 83156413.35,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 18,
+            "previous": 18,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "euro.com.pl",
+        "is_main_domain": false,
+        "common_keywords": 5265,
+        "statistics": {
+          "top3": {
+            "current": 53321,
+            "previous": 53318,
+            "diff": 3,
+            "percent": 0.0001,
+            "history": null
+          },
+          "top10": {
+            "current": 200593,
+            "previous": 200596,
+            "diff": -3,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 635748,
+            "previous": 635748,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 7182039.12,
+            "previous": 7183379.13,
+            "diff": -1340.01,
+            "percent": -0.0002,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 26964950.98,
+            "previous": 26964950.98,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 42,
+            "previous": 42,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "geekweek.interia.pl",
+        "is_main_domain": false,
+        "common_keywords": 5174,
+        "statistics": {
+          "top3": {
+            "current": 7821,
+            "previous": 7823,
+            "diff": -2,
+            "percent": -0.0003,
+            "history": null
+          },
+          "top10": {
+            "current": 31337,
+            "previous": 31335,
+            "diff": 2,
+            "percent": 0.0001,
+            "history": null
+          },
+          "top50": {
+            "current": 133918,
+            "previous": 133917,
+            "diff": 1,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 375756.52,
+            "previous": 375853.46,
+            "diff": -96.94,
+            "percent": -0.0003,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 187328.1,
+            "previous": 187328.1,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "rynekzdrowia.pl",
+        "is_main_domain": false,
+        "common_keywords": 5028,
+        "statistics": {
+          "top3": {
+            "current": 6321,
+            "previous": 6321,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 29819,
+            "previous": 29817,
+            "diff": 2,
+            "percent": 0.0001,
+            "history": null
+          },
+          "top50": {
+            "current": 159641,
+            "previous": 159626,
+            "diff": 15,
+            "percent": 0.0001,
+            "history": null
+          },
+          "visibility": {
+            "current": 314134.01,
+            "previous": 312458.18,
+            "diff": 1675.83,
+            "percent": 0.0054,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 252944.35,
+            "previous": 252944.35,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 1063,
+            "previous": 1068,
+            "diff": -5,
+            "percent": -0.0047,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "komputerswiat.pl",
+        "is_main_domain": false,
+        "common_keywords": 5017,
+        "statistics": {
+          "top3": {
+            "current": 8787,
+            "previous": 8787,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 46176,
+            "previous": 46173,
+            "diff": 3,
+            "percent": 0.0001,
+            "history": null
+          },
+          "top50": {
+            "current": 313485,
+            "previous": 313481,
+            "diff": 4,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 729412.55,
+            "previous": 728479.59,
+            "diff": 932.96,
+            "percent": 0.0013,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 1934052.73,
+            "previous": 1934052.73,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 505,
+            "previous": 508,
+            "diff": -3,
+            "percent": -0.0059,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "wynagrodzenia.pl",
+        "is_main_domain": false,
+        "common_keywords": 5000,
+        "statistics": {
+          "top3": {
+            "current": 11368,
+            "previous": 11369,
+            "diff": -1,
+            "percent": -0.0001,
+            "history": null
+          },
+          "top10": {
+            "current": 18226,
+            "previous": 18226,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 37972,
+            "previous": 37974,
+            "diff": -2,
+            "percent": -0.0001,
+            "history": null
+          },
+          "visibility": {
+            "current": 844339.37,
+            "previous": 844464.27,
+            "diff": -124.9,
+            "percent": -0.0001,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 605105.32,
+            "previous": 605105.32,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 446,
+            "previous": 446,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "pracuj.pl",
+        "is_main_domain": false,
+        "common_keywords": 4994,
+        "statistics": {
+          "top3": {
+            "current": 55881,
+            "previous": 55882,
+            "diff": -1,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 145810,
+            "previous": 145810,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 401692,
+            "previous": 401688,
+            "diff": 4,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 2862346.35,
+            "previous": 2863104.84,
+            "diff": -758.49,
+            "percent": -0.0003,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 2633861.59,
+            "previous": 2633861.59,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 51,
+            "previous": 51,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "national-geographic.pl",
+        "is_main_domain": false,
+        "common_keywords": 4983,
+        "statistics": {
+          "top3": {
+            "current": 20645,
+            "previous": 20646,
+            "diff": -1,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 58535,
+            "previous": 58537,
+            "diff": -2,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 167344,
+            "previous": 167348,
+            "diff": -4,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 1633799.23,
+            "previous": 1635159.86,
+            "diff": -1360.63,
+            "percent": -0.0008,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 1164794.37,
+            "previous": 1164794.37,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 233,
+            "previous": 233,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "walutomat.pl",
+        "is_main_domain": false,
+        "common_keywords": 4983,
+        "statistics": {
+          "top3": {
+            "current": 4993,
+            "previous": 4991,
+            "diff": 2,
+            "percent": 0.0004,
+            "history": null
+          },
+          "top10": {
+            "current": 11766,
+            "previous": 11766,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 23125,
+            "previous": 23124,
+            "diff": 1,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 2658279.07,
+            "previous": 2658060.24,
+            "diff": 218.83,
+            "percent": 0.0001,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 4848642.45,
+            "previous": 4848642.45,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 133,
+            "previous": 133,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "oko.press",
+        "is_main_domain": false,
+        "common_keywords": 4974,
+        "statistics": {
+          "top3": {
+            "current": 4229,
+            "previous": 4228,
+            "diff": 1,
+            "percent": 0.0002,
+            "history": null
+          },
+          "top10": {
+            "current": 15807,
+            "previous": 15805,
+            "diff": 2,
+            "percent": 0.0001,
+            "history": null
+          },
+          "top50": {
+            "current": 82392,
+            "previous": 82390,
+            "diff": 2,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 396069.62,
+            "previous": 396028.93,
+            "diff": 40.69,
+            "percent": 0.0001,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 303594.55,
+            "previous": 303594.55,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 876,
+            "previous": 877,
+            "diff": -1,
+            "percent": -0.0011,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "zpe.gov.pl",
+        "is_main_domain": false,
+        "common_keywords": 4905,
+        "statistics": {
+          "top3": {
+            "current": 53012,
+            "previous": 53009,
+            "diff": 3,
+            "percent": 0.0001,
+            "history": null
+          },
+          "top10": {
+            "current": 157184,
+            "previous": 157184,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 370562,
+            "previous": 370557,
+            "diff": 5,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 3206761.25,
+            "previous": 3206647.5,
+            "diff": 113.75,
+            "percent": 0,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 3681984.91,
+            "previous": 3681984.91,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 110,
+            "previous": 110,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "gpw.pl",
+        "is_main_domain": false,
+        "common_keywords": 4889,
+        "statistics": {
+          "top3": {
+            "current": 2618,
+            "previous": 2617,
+            "diff": 1,
+            "percent": 0.0004,
+            "history": null
+          },
+          "top10": {
+            "current": 8103,
+            "previous": 8103,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 20419,
+            "previous": 20417,
+            "diff": 2,
+            "percent": 0.0001,
+            "history": null
+          },
+          "visibility": {
+            "current": 581322.86,
+            "previous": 581023.52,
+            "diff": 299.34,
+            "percent": 0.0005,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 2292347.39,
+            "previous": 2292347.39,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 602,
+            "previous": 603,
+            "diff": -1,
+            "percent": -0.0017,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "pekao.com.pl",
+        "is_main_domain": false,
+        "common_keywords": 4848,
+        "statistics": {
+          "top3": {
+            "current": 8573,
+            "previous": 8573,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 19205,
+            "previous": 19203,
+            "diff": 2,
+            "percent": 0.0001,
+            "history": null
+          },
+          "top50": {
+            "current": 101642,
+            "previous": 101645,
+            "diff": -3,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 1722658.75,
+            "previous": 1722217.3,
+            "diff": 441.45,
+            "percent": 0.0003,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 6500237.51,
+            "previous": 6500237.51,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 220,
+            "previous": 220,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "podatki.gov.pl",
+        "is_main_domain": false,
+        "common_keywords": 4843,
+        "statistics": {
+          "top3": {
+            "current": 10309,
+            "previous": 10310,
+            "diff": -1,
+            "percent": -0.0001,
+            "history": null
+          },
+          "top10": {
+            "current": 20829,
+            "previous": 20830,
+            "diff": -1,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 60680,
+            "previous": 60677,
+            "diff": 3,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 1591900.08,
+            "previous": 1593827.51,
+            "diff": -1927.43,
+            "percent": -0.0012,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 2745311.62,
+            "previous": 2745311.62,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 221,
+            "previous": 221,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "uniqa.pl",
+        "is_main_domain": false,
+        "common_keywords": 4826,
+        "statistics": {
+          "top3": {
+            "current": 9225,
+            "previous": 9225,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 28476,
+            "previous": 28478,
+            "diff": -2,
+            "percent": -0.0001,
+            "history": null
+          },
+          "top50": {
+            "current": 82087,
+            "previous": 82087,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 535907.46,
+            "previous": 539278.41,
+            "diff": -3370.95,
+            "percent": -0.0063,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 2381550.84,
+            "previous": 2381550.84,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 626,
+            "previous": 624,
+            "diff": 2,
+            "percent": 0.0032,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "cuk.pl",
+        "is_main_domain": false,
+        "common_keywords": 4743,
+        "statistics": {
+          "top3": {
+            "current": 9430,
+            "previous": 9430,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 32761,
+            "previous": 32759,
+            "diff": 2,
+            "percent": 0.0001,
+            "history": null
+          },
+          "top50": {
+            "current": 96137,
+            "previous": 96139,
+            "diff": -2,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 440972.24,
+            "previous": 440487.5,
+            "diff": 484.74,
+            "percent": 0.0011,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 1885753.05,
+            "previous": 1885753.05,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 785,
+            "previous": 785,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "spidersweb.pl",
+        "is_main_domain": false,
+        "common_keywords": 4743,
+        "statistics": {
+          "top3": {
+            "current": 9085,
+            "previous": 9086,
+            "diff": -1,
+            "percent": -0.0001,
+            "history": null
+          },
+          "top10": {
+            "current": 41541,
+            "previous": 41541,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 200131,
+            "previous": 200128,
+            "diff": 3,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 696799.69,
+            "previous": 696563.9,
+            "diff": 235.79,
+            "percent": 0.0003,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 723369.03,
+            "previous": 723369.03,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 273,
+            "previous": 273,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "forum.gazeta.pl",
+        "is_main_domain": false,
+        "common_keywords": 4665,
+        "statistics": {
+          "top3": {
+            "current": 68636,
+            "previous": 68636,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 187314,
+            "previous": 187315,
+            "diff": -1,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 696849,
+            "previous": 696834,
+            "diff": 15,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 1405449.04,
+            "previous": 1405431.45,
+            "diff": 17.59,
+            "percent": 0,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 622474.01,
+            "previous": 622474.01,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "serwisy.gazetaprawna.pl",
+        "is_main_domain": false,
+        "common_keywords": 4656,
+        "statistics": {
+          "top3": {
+            "current": 2244,
+            "previous": 2242,
+            "diff": 2,
+            "percent": 0.0009,
+            "history": null
+          },
+          "top10": {
+            "current": 11884,
+            "previous": 11883,
+            "diff": 1,
+            "percent": 0.0001,
+            "history": null
+          },
+          "top50": {
+            "current": 103723,
+            "previous": 103715,
+            "diff": 8,
+            "percent": 0.0001,
+            "history": null
+          },
+          "visibility": {
+            "current": 152868.8,
+            "previous": 154101.39,
+            "diff": -1232.59,
+            "percent": -0.008,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 297223.63,
+            "previous": 297223.63,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "bank.pl",
+        "is_main_domain": false,
+        "common_keywords": 4625,
+        "statistics": {
+          "top3": {
+            "current": 1777,
+            "previous": 1777,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 11418,
+            "previous": 11419,
+            "diff": -1,
+            "percent": -0.0001,
+            "history": null
+          },
+          "top50": {
+            "current": 71046,
+            "previous": 71042,
+            "diff": 4,
+            "percent": 0.0001,
+            "history": null
+          },
+          "visibility": {
+            "current": 177966.26,
+            "previous": 178118.46,
+            "diff": -152.2,
+            "percent": -0.0009,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 597174.18,
+            "previous": 597174.18,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 1792,
+            "previous": 1792,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "wirtualnemedia.pl",
+        "is_main_domain": false,
+        "common_keywords": 4613,
+        "statistics": {
+          "top3": {
+            "current": 5247,
+            "previous": 5247,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 31711,
+            "previous": 31711,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 189224,
+            "previous": 189219,
+            "diff": 5,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 464175.13,
+            "previous": 464079.56,
+            "diff": 95.57,
+            "percent": 0.0002,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 538872.4,
+            "previous": 538872.4,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 746,
+            "previous": 746,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "ifirma.pl",
+        "is_main_domain": false,
+        "common_keywords": 4608,
+        "statistics": {
+          "top3": {
+            "current": 8091,
+            "previous": 8091,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 24693,
+            "previous": 24694,
+            "diff": -1,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 101026,
+            "previous": 101025,
+            "diff": 1,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 338420.02,
+            "previous": 338521.66,
+            "diff": -101.64,
+            "percent": -0.0003,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 1212369.45,
+            "previous": 1212369.45,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 931,
+            "previous": 932,
+            "diff": -1,
+            "percent": -0.0011,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "inforlex.pl",
+        "is_main_domain": false,
+        "common_keywords": 4589,
+        "statistics": {
+          "top3": {
+            "current": 5019,
+            "previous": 5019,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 35619,
+            "previous": 35619,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 152593,
+            "previous": 152590,
+            "diff": 3,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 160868.16,
+            "previous": 160868.16,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 117867.35,
+            "previous": 117867.35,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 2023,
+            "previous": 2021,
+            "diff": 2,
+            "percent": 0.001,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "defence24.pl",
+        "is_main_domain": false,
+        "common_keywords": 4584,
+        "statistics": {
+          "top3": {
+            "current": 5229,
+            "previous": 5228,
+            "diff": 1,
+            "percent": 0.0002,
+            "history": null
+          },
+          "top10": {
+            "current": 15565,
+            "previous": 15566,
+            "diff": -1,
+            "percent": -0.0001,
+            "history": null
+          },
+          "top50": {
+            "current": 44068,
+            "previous": 44071,
+            "diff": -3,
+            "percent": -0.0001,
+            "history": null
+          },
+          "visibility": {
+            "current": 503453.31,
+            "previous": 505183.39,
+            "diff": -1730.08,
+            "percent": -0.0034,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 343187.45,
+            "previous": 343187.45,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 703,
+            "previous": 699,
+            "diff": 4,
+            "percent": 0.0057,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "wszystkoconajwazniejsze.pl",
+        "is_main_domain": false,
+        "common_keywords": 4525,
+        "statistics": {
+          "top3": {
+            "current": 3719,
+            "previous": 3719,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 16831,
+            "previous": 16827,
+            "diff": 4,
+            "percent": 0.0002,
+            "history": null
+          },
+          "top50": {
+            "current": 75245,
+            "previous": 75245,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 561887.47,
+            "previous": 561415.58,
+            "diff": 471.89,
+            "percent": 0.0008,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 2100515.61,
+            "previous": 2100515.61,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 632,
+            "previous": 634,
+            "diff": -2,
+            "percent": -0.0032,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "samorzad.gov.pl",
+        "is_main_domain": false,
+        "common_keywords": 4523,
+        "statistics": {
+          "top3": {
+            "current": 14816,
+            "previous": 14816,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 49929,
+            "previous": 49928,
+            "diff": 1,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 158105,
+            "previous": 158107,
+            "diff": -2,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 966241.89,
+            "previous": 965544.76,
+            "diff": 697.13,
+            "percent": 0.0007,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 1035282.46,
+            "previous": 1035282.46,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 405,
+            "previous": 406,
+            "diff": -1,
+            "percent": -0.0025,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "zarobki.pracuj.pl",
+        "is_main_domain": false,
+        "common_keywords": 4433,
+        "statistics": {
+          "top3": {
+            "current": 7069,
+            "previous": 7069,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 13045,
+            "previous": 13045,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 28432,
+            "previous": 28434,
+            "diff": -2,
+            "percent": -0.0001,
+            "history": null
+          },
+          "visibility": {
+            "current": 1522182.72,
+            "previous": 1522182.72,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 1284634.31,
+            "previous": 1284634.31,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "revolut.com",
+        "is_main_domain": false,
+        "common_keywords": 4396,
+        "statistics": {
+          "top3": {
+            "current": 6601,
+            "previous": 6603,
+            "diff": -2,
+            "percent": -0.0003,
+            "history": null
+          },
+          "top10": {
+            "current": 14109,
+            "previous": 14109,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 22945,
+            "previous": 22947,
+            "diff": -2,
+            "percent": -0.0001,
+            "history": null
+          },
+          "visibility": {
+            "current": 860679.64,
+            "previous": 861344.52,
+            "diff": -664.88,
+            "percent": -0.0008,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 2576809.78,
+            "previous": 2576809.78,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 424,
+            "previous": 424,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "natemat.pl",
+        "is_main_domain": false,
+        "common_keywords": 4359,
+        "statistics": {
+          "top3": {
+            "current": 7940,
+            "previous": 7940,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 36580,
+            "previous": 36575,
+            "diff": 5,
+            "percent": 0.0001,
+            "history": null
+          },
+          "top50": {
+            "current": 217141,
+            "previous": 217135,
+            "diff": 6,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 572170.86,
+            "previous": 570984.09,
+            "diff": 1186.77,
+            "percent": 0.0021,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 229106.98,
+            "previous": 229106.98,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 616,
+            "previous": 616,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "stat.gov.pl",
+        "is_main_domain": false,
+        "common_keywords": 4342,
+        "statistics": {
+          "top3": {
+            "current": 6277,
+            "previous": 6278,
+            "diff": -1,
+            "percent": -0.0002,
+            "history": null
+          },
+          "top10": {
+            "current": 13480,
+            "previous": 13482,
+            "diff": -2,
+            "percent": -0.0001,
+            "history": null
+          },
+          "top50": {
+            "current": 40636,
+            "previous": 40632,
+            "diff": 4,
+            "percent": 0.0001,
+            "history": null
+          },
+          "visibility": {
+            "current": 396144.49,
+            "previous": 399553.86,
+            "diff": -3409.37,
+            "percent": -0.0085,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 2012400.86,
+            "previous": 2012400.86,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 410,
+            "previous": 412,
+            "diff": -2,
+            "percent": -0.0049,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "mfiles.pl",
+        "is_main_domain": false,
+        "common_keywords": 4307,
+        "statistics": {
+          "top3": {
+            "current": 11380,
+            "previous": 11379,
+            "diff": 1,
+            "percent": 0.0001,
+            "history": null
+          },
+          "top10": {
+            "current": 21985,
+            "previous": 21987,
+            "diff": -2,
+            "percent": -0.0001,
+            "history": null
+          },
+          "top50": {
+            "current": 54531,
+            "previous": 54532,
+            "diff": -1,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 395723.72,
+            "previous": 396085.49,
+            "diff": -361.77,
+            "percent": -0.0009,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 937822.6,
+            "previous": 937822.6,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 877,
+            "previous": 876,
+            "diff": 1,
+            "percent": 0.0011,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "pitax.pl",
+        "is_main_domain": false,
+        "common_keywords": 4295,
+        "statistics": {
+          "top3": {
+            "current": 6989,
+            "previous": 6990,
+            "diff": -1,
+            "percent": -0.0001,
+            "history": null
+          },
+          "top10": {
+            "current": 20270,
+            "previous": 20271,
+            "diff": -1,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 63405,
+            "previous": 63404,
+            "diff": 1,
+            "percent": 0,
+            "history": null
+          },
+          "visibility": {
+            "current": 372900.08,
+            "previous": 373137.14,
+            "diff": -237.06,
+            "percent": -0.0006,
+            "history": null
+          },
+          "ads_equivalent": {
+            "current": 886392.05,
+            "previous": 886392.05,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "domain_rank": {
+            "current": 925,
+            "previous": 925,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 85,
+    "domain": "businessinsider.com.pl",
+    "endpoint": "get_competitors"
+  }
+}

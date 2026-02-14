@@ -1,0 +1,33 @@
+{
+  "domain": "novalend.pl",
+  "endpoint": "get_backlinks_tlds",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "tld": "pl",
+          "count": 180,
+          "percent": 0.989010989010989
+        },
+        {
+          "tld": "com",
+          "count": 2,
+          "percent": 0.01098901098901099
+        }
+      ],
+      "pagination": {
+        "page_count": 1,
+        "current_page": 1,
+        "has_next_page": false,
+        "has_prev_page": false,
+        "count": 2,
+        "limit": 10
+      }
+    },
+    "status": 200,
+    "domain": "novalend.pl",
+    "endpoint": "get_backlinks_tlds"
+  }
+}

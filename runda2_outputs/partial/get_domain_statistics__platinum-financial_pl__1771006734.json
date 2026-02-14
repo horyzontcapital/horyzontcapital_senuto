@@ -1,0 +1,74 @@
+{
+  "domain": "platinum-financial.pl",
+  "endpoint": "get_domain_statistics",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "statistics": {
+          "top3": {
+            "recent_value": 6,
+            "older_value": 6,
+            "diff": 0,
+            "percent": 0
+          },
+          "top10": {
+            "recent_value": 8,
+            "older_value": 8,
+            "diff": 0,
+            "percent": 0
+          },
+          "top50": {
+            "recent_value": 21,
+            "older_value": 21,
+            "diff": 0,
+            "percent": 0
+          },
+          "visibility": {
+            "recent_value": 197,
+            "older_value": 197,
+            "diff": 0,
+            "percent": 0
+          },
+          "domain_rank": {
+            "recent_value": 334946,
+            "older_value": 334938,
+            "diff": 8,
+            "percent": 0
+          },
+          "ads_equivalent": {
+            "recent_value": 804.94,
+            "older_value": 804.94,
+            "diff": 0,
+            "percent": 0
+          },
+          "category": {
+            "name": "",
+            "statistics": {
+              "recent_value": 334946,
+              "older_value": 334946,
+              "diff": 0,
+              "percent": 0
+            }
+          },
+          "aio_keywords": {
+            "recent_value": 1,
+            "older_value": 1,
+            "diff": 0,
+            "percent": 0
+          },
+          "aio_visible_keywords": {
+            "recent_value": 2,
+            "older_value": 2,
+            "diff": 0,
+            "percent": 0
+          }
+        }
+      }
+    },
+    "status": 200,
+    "domain": "platinum-financial.pl",
+    "endpoint": "get_domain_statistics"
+  }
+}

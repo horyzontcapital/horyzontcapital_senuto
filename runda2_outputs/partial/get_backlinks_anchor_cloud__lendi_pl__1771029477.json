@@ -1,0 +1,67 @@
+{
+  "domain": "lendi.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "lendi.pl": [
+          {
+            "text": "",
+            "size": 641757,
+            "percent": 0.7612252063321859
+          },
+          {
+            "text": "Kredyty",
+            "size": 108088,
+            "percent": 0.1282094470368587
+          },
+          {
+            "text": "Weź kredyt",
+            "size": 78633,
+            "percent": 0.09327116283814399
+          },
+          {
+            "text": "Lendi - najszybszy sposób na najtańszy kredyt Lendi.pl | Kredyty hipoteczne - porównaj oferty dostępne na rynku. Skorzystaj z bezpłatnej pomocy eksperta",
+            "size": 19043,
+            "percent": 0.02258800699358763
+          },
+          {
+            "text": "WYPRÓBUJ EKSPERTA ONLINE",
+            "size": 12993,
+            "percent": 0.015411751030178233
+          },
+          {
+            "text": "Kredyt",
+            "size": 1180,
+            "percent": 0.0013996664523674527
+          },
+          {
+            "text": "Przejdź do formularza i sprawdź, czy otrzymasz Bezpieczny Kredyt 2 procent",
+            "size": 77,
+            "percent": 9.13341668070287e-05
+          },
+          {
+            "text": "Bezpłatne konsultacje",
+            "size": 62,
+            "percent": 7.354179664981531e-05
+          },
+          {
+            "text": "Kalkulator i porównywarka kredytów",
+            "size": 62,
+            "percent": 7.354179664981531e-05
+          },
+          {
+            "text": "Bezpieczny kredyt 2%",
+            "size": 49,
+            "percent": 5.812174251356372e-05
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "lendi.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

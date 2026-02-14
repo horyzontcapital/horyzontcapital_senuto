@@ -1,0 +1,74 @@
+{
+  "domain": "akredo.pl",
+  "endpoint": "get_domain_statistics",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "statistics": {
+          "top3": {
+            "recent_value": 226,
+            "older_value": 226,
+            "diff": 0,
+            "percent": 0
+          },
+          "top10": {
+            "recent_value": 1846,
+            "older_value": 1846,
+            "diff": 0,
+            "percent": 0
+          },
+          "top50": {
+            "recent_value": 14466,
+            "older_value": 14466,
+            "diff": 0,
+            "percent": 0
+          },
+          "visibility": {
+            "recent_value": 20731,
+            "older_value": 20731,
+            "diff": 0,
+            "percent": 0
+          },
+          "domain_rank": {
+            "recent_value": 13382,
+            "older_value": 13382,
+            "diff": 0,
+            "percent": 0
+          },
+          "ads_equivalent": {
+            "recent_value": 179391.68,
+            "older_value": 179391.68,
+            "diff": 0,
+            "percent": 0
+          },
+          "category": {
+            "name": "",
+            "statistics": {
+              "recent_value": 13382,
+              "older_value": 13382,
+              "diff": 0,
+              "percent": 0
+            }
+          },
+          "aio_keywords": {
+            "recent_value": 4608,
+            "older_value": 4608,
+            "diff": 0,
+            "percent": 0
+          },
+          "aio_visible_keywords": {
+            "recent_value": 1486,
+            "older_value": 1486,
+            "diff": 0,
+            "percent": 0
+          }
+        }
+      }
+    },
+    "status": 200,
+    "domain": "akredo.pl",
+    "endpoint": "get_domain_statistics"
+  }
+}

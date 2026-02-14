@@ -1,0 +1,666 @@
+{
+  "domain": "inwestum.com.pl",
+  "endpoint": "get_backlinks_anchor_data",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "link_domain": "inwestum.com.pl",
+        "is_main_domain": true,
+        "anchor": "inwestum.com.pl",
+        "anchor_type": [],
+        "count": {
+          "count": 19,
+          "percent_of_total": 0.1532258064516129
+        },
+        "domains_with_anchor_count": 13,
+        "anchors_uniq_count": 16,
+        "percent_of_total": 0.1532258064516129
+      },
+      {
+        "link_domain": "inwestum.com.pl",
+        "is_main_domain": true,
+        "anchor": "https://inwestum.com.pl/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 10,
+          "percent_of_total": 0.08064516129032258
+        },
+        "domains_with_anchor_count": 8,
+        "anchors_uniq_count": 8,
+        "percent_of_total": 0.08064516129032258
+      },
+      {
+        "link_domain": "inwestum.com.pl",
+        "is_main_domain": true,
+        "anchor": "www.inwestum.com.pl",
+        "anchor_type": [],
+        "count": {
+          "count": 9,
+          "percent_of_total": 0.07258064516129033
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 8,
+        "percent_of_total": 0.07258064516129033
+      },
+      {
+        "link_domain": "inwestum.com.pl",
+        "is_main_domain": true,
+        "anchor": "https://inwestum.com.pl/pozyczki-hipoteczne-dla-nowych-firm/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 7,
+          "percent_of_total": 0.056451612903225805
+        },
+        "domains_with_anchor_count": 5,
+        "anchors_uniq_count": 5,
+        "percent_of_total": 0.056451612903225805
+      },
+      {
+        "link_domain": "inwestum.com.pl",
+        "is_main_domain": true,
+        "anchor": "http://inwestum.com.pl",
+        "anchor_type": [],
+        "count": {
+          "count": 7,
+          "percent_of_total": 0.056451612903225805
+        },
+        "domains_with_anchor_count": 3,
+        "anchors_uniq_count": 7,
+        "percent_of_total": 0.056451612903225805
+      },
+      {
+        "link_domain": "inwestum.com.pl",
+        "is_main_domain": true,
+        "anchor": "https://inwestum.com.pl",
+        "anchor_type": [],
+        "count": {
+          "count": 5,
+          "percent_of_total": 0.04032258064516129
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 3,
+        "percent_of_total": 0.04032258064516129
+      },
+      {
+        "link_domain": "inwestum.com.pl",
+        "is_main_domain": true,
+        "anchor": "Kredyty pod zastaw nieruchomości",
+        "anchor_type": [],
+        "count": {
+          "count": 4,
+          "percent_of_total": 0.03225806451612903
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 3,
+        "percent_of_total": 0.03225806451612903
+      },
+      {
+        "link_domain": "inwestum.com.pl",
+        "is_main_domain": true,
+        "anchor": "grupa inwestycyjna Safe House",
+        "anchor_type": [],
+        "count": {
+          "count": 3,
+          "percent_of_total": 0.024193548387096774
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 0.024193548387096774
+      },
+      {
+        "link_domain": "inwestum.com.pl",
+        "is_main_domain": true,
+        "anchor": "pożyczki pod zastaw nieruchomości",
+        "anchor_type": [],
+        "count": {
+          "count": 3,
+          "percent_of_total": 0.024193548387096774
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.024193548387096774
+      },
+      {
+        "link_domain": "inwestum.com.pl",
+        "is_main_domain": true,
+        "anchor": "Pożyczka dla firmy",
+        "anchor_type": [],
+        "count": {
+          "count": 3,
+          "percent_of_total": 0.024193548387096774
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 0.024193548387096774
+      },
+      {
+        "link_domain": "inwestum.com.pl",
+        "is_main_domain": true,
+        "anchor": "Pożyczki prywatne",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 3,
+          "percent_of_total": 0.024193548387096774
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 0.024193548387096774
+      },
+      {
+        "link_domain": "inwestum.com.pl",
+        "is_main_domain": true,
+        "anchor": "W",
+        "anchor_type": [],
+        "count": {
+          "count": 3,
+          "percent_of_total": 0.024193548387096774
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.024193548387096774
+      },
+      {
+        "link_domain": "inwestum.com.pl",
+        "is_main_domain": true,
+        "anchor": "Pożyczka pod zastaw mieszkania",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.016129032258064516
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 0.016129032258064516
+      },
+      {
+        "link_domain": "inwestum.com.pl",
+        "is_main_domain": true,
+        "anchor": "Safe House, kt&oacute;ra proponuje kredyty pod zastaw bez BIK",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.016129032258064516
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 0.016129032258064516
+      },
+      {
+        "link_domain": "inwestum.com.pl",
+        "is_main_domain": true,
+        "anchor": "Pożyczka pod zastaw mieszkania",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.016129032258064516
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 0.016129032258064516
+      },
+      {
+        "link_domain": "inwestum.com.pl",
+        "is_main_domain": true,
+        "anchor": "inwestum pożyczki hipoteczne dla nowych firm",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.016129032258064516
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 0.016129032258064516
+      },
+      {
+        "link_domain": "inwestum.com.pl",
+        "is_main_domain": true,
+        "anchor": "Grupa Inwestycyjna Safe House widniejąca pod adresem https://inwestum.com.pl, specjalizuje się w kredytach pod zastaw nieruchomości",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.016129032258064516
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.016129032258064516
+      },
+      {
+        "link_domain": "inwestum.com.pl",
+        "is_main_domain": true,
+        "anchor": "Kredyt pod zastaw mieszkania",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.016129032258064516
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.016129032258064516
+      },
+      {
+        "link_domain": "inwestum.com.pl",
+        "is_main_domain": true,
+        "anchor": "Bezpieczne pożyczki pod zastaw nieruchomości",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.016129032258064516
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.016129032258064516
+      },
+      {
+        "link_domain": "inwestum.com.pl",
+        "is_main_domain": true,
+        "anchor": "Bezpieczne pożyczki pod zastaw nieruchomości",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.016129032258064516
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.016129032258064516
+      },
+      {
+        "link_domain": "inwestum.com.pl",
+        "is_main_domain": true,
+        "anchor": "Pożyczka pozabankowa",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.016129032258064516
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 0.016129032258064516
+      },
+      {
+        "link_domain": "inwestum.com.pl",
+        "is_main_domain": true,
+        "anchor": "kredyty pod zastaw",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.016129032258064516
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 0.016129032258064516
+      },
+      {
+        "link_domain": "inwestum.com.pl",
+        "is_main_domain": true,
+        "anchor": "Kredyt pozabankowy",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.016129032258064516
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.016129032258064516
+      },
+      {
+        "link_domain": "inwestum.com.pl",
+        "is_main_domain": true,
+        "anchor": "pożyczki pod zastaw bez bik",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.016129032258064516
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 0.016129032258064516
+      },
+      {
+        "link_domain": "inwestum.com.pl",
+        "is_main_domain": true,
+        "anchor": "Kredyty pozabankowe",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.008064516129032258
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.008064516129032258
+      },
+      {
+        "link_domain": "inwestum.com.pl",
+        "is_main_domain": true,
+        "anchor": "kredyty hipoteczne dla firm",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.008064516129032258
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.008064516129032258
+      },
+      {
+        "link_domain": "inwestum.com.pl",
+        "is_main_domain": true,
+        "anchor": "kredyty pod zastaw bez BIK udzielane przez Grupę Inwestycyjną Safe House",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.008064516129032258
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.008064516129032258
+      },
+      {
+        "link_domain": "inwestum.com.pl",
+        "is_main_domain": true,
+        "anchor": "Kredyt pod zastaw mieszkania bez zdolności kredytowej",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.008064516129032258
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.008064516129032258
+      },
+      {
+        "link_domain": "inwestum.com.pl",
+        "is_main_domain": true,
+        "anchor": "Pożyczka pod zastaw",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.008064516129032258
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.008064516129032258
+      },
+      {
+        "link_domain": "inwestum.com.pl",
+        "is_main_domain": true,
+        "anchor": "Ekspresowy skup mieszkań",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.008064516129032258
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.008064516129032258
+      },
+      {
+        "link_domain": "inwestum.com.pl",
+        "is_main_domain": true,
+        "anchor": "Kredyt hipoteczny pod zastaw domu",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.008064516129032258
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.008064516129032258
+      },
+      {
+        "link_domain": "inwestum.com.pl",
+        "is_main_domain": true,
+        "anchor": "Pożyczki pod zastaw nieruchomości",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.008064516129032258
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.008064516129032258
+      },
+      {
+        "link_domain": "inwestum.com.pl",
+        "is_main_domain": true,
+        "anchor": "Prywatna pożyczka pod zastaw nieruchomości",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.008064516129032258
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.008064516129032258
+      },
+      {
+        "link_domain": "inwestum.com.pl",
+        "is_main_domain": true,
+        "anchor": "Prywatne pożyczki pod zastaw",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.008064516129032258
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.008064516129032258
+      },
+      {
+        "link_domain": "inwestum.com.pl",
+        "is_main_domain": true,
+        "anchor": "Prywatna pożyczka pod zastaw",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.008064516129032258
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.008064516129032258
+      },
+      {
+        "link_domain": "inwestum.com.pl",
+        "is_main_domain": true,
+        "anchor": "Pożyczki pozabankowe",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.008064516129032258
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.008064516129032258
+      },
+      {
+        "link_domain": "inwestum.com.pl",
+        "is_main_domain": true,
+        "anchor": "Kredyt pod zastaw domu",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.008064516129032258
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.008064516129032258
+      },
+      {
+        "link_domain": "inwestum.com.pl",
+        "is_main_domain": true,
+        "anchor": "inwestum",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.008064516129032258
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.008064516129032258
+      },
+      {
+        "link_domain": "inwestum.com.pl",
+        "is_main_domain": true,
+        "anchor": "inwestum.com.pl pożyczki pod zastaw bez bik",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.008064516129032258
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.008064516129032258
+      },
+      {
+        "link_domain": "inwestum.com.pl",
+        "is_main_domain": true,
+        "anchor": "więcej o pożyczkach pod zastaw nieruchomości znajdziesz na inwestum",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.008064516129032258
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.008064516129032258
+      },
+      {
+        "link_domain": "inwestum.com.pl",
+        "is_main_domain": true,
+        "anchor": "Pożyczka pod zastaw",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.008064516129032258
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.008064516129032258
+      },
+      {
+        "link_domain": "inwestum.com.pl",
+        "is_main_domain": true,
+        "anchor": "skup domów",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.008064516129032258
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.008064516129032258
+      },
+      {
+        "link_domain": "inwestum.com.pl",
+        "is_main_domain": true,
+        "anchor": "Pożyczka pod zastaw nieruchomości",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.008064516129032258
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.008064516129032258
+      },
+      {
+        "link_domain": "inwestum.com.pl",
+        "is_main_domain": true,
+        "anchor": "Pożyczka pozabankowa",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.008064516129032258
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.008064516129032258
+      },
+      {
+        "link_domain": "inwestum.com.pl",
+        "is_main_domain": true,
+        "anchor": "oferta Safe house",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.008064516129032258
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.008064516129032258
+      },
+      {
+        "link_domain": "inwestum.com.pl",
+        "is_main_domain": true,
+        "anchor": "Kredyt pod zastaw domu",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.008064516129032258
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.008064516129032258
+      },
+      {
+        "link_domain": "inwestum.com.pl",
+        "is_main_domain": true,
+        "anchor": "pożyczki pod zastaw ziemi rolnej inwestum.com.pl",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.008064516129032258
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.008064516129032258
+      },
+      {
+        "link_domain": "inwestum.com.pl",
+        "is_main_domain": true,
+        "anchor": "Prywatne pożyczki",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.008064516129032258
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.008064516129032258
+      }
+    ],
+    "total": 48,
+    "domain": "inwestum.com.pl",
+    "endpoint": "get_backlinks_anchor_data"
+  }
+}

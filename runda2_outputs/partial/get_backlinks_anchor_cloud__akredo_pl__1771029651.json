@@ -1,0 +1,67 @@
+{
+  "domain": "akredo.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "akredo.pl": [
+          {
+            "text": "",
+            "size": 16,
+            "percent": 0.1415929203539823
+          },
+          {
+            "text": "akredo",
+            "size": 8,
+            "percent": 0.07079646017699115
+          },
+          {
+            "text": "Akredo",
+            "size": 5,
+            "percent": 0.04424778761061947
+          },
+          {
+            "text": "Opinie na akredo.pl Opinie na akredo.pl",
+            "size": 4,
+            "percent": 0.035398230088495575
+          },
+          {
+            "text": "karty kredytowe",
+            "size": 3,
+            "percent": 0.02654867256637168
+          },
+          {
+            "text": "www.akredo.pl",
+            "size": 3,
+            "percent": 0.02654867256637168
+          },
+          {
+            "text": "https://akredo.pl/",
+            "size": 2,
+            "percent": 0.017699115044247787
+          },
+          {
+            "text": "kredyt gotówkowy",
+            "size": 2,
+            "percent": 0.017699115044247787
+          },
+          {
+            "text": "ryzyko kredytowe",
+            "size": 2,
+            "percent": 0.017699115044247787
+          },
+          {
+            "text": "zdolność kredytowa",
+            "size": 2,
+            "percent": 0.017699115044247787
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "akredo.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

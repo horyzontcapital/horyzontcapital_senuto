@@ -1,0 +1,16 @@
+{
+  "domain": "bankowybroker.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "bankowybroker.pl": []
+      }
+    },
+    "status": 200,
+    "domain": "bankowybroker.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

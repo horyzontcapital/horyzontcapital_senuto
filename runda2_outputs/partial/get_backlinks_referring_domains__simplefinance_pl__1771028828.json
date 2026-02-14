@@ -1,0 +1,102 @@
+{
+  "domain": "simplefinance.pl",
+  "endpoint": "get_backlinks_referring_domains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "ref_domain": "ukredytowani.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 1.8288185222739935e-05,
+        "backlinks_count": 79,
+        "links_external_count": 984242,
+        "percent_of_total": 0.8061224489795918,
+        "count": {
+          "count": 79,
+          "percent_of_total": 0.8061224489795918
+        },
+        "top3": 23,
+        "top10": 159,
+        "top50": 848,
+        "visibility": 1752.5549999999994,
+        "domain_rank": 89402,
+        "ads_equivalent": 9637.012390000007
+      },
+      {
+        "ref_domain": "biznesforums.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.0030349013657056147,
+        "backlinks_count": 12,
+        "links_external_count": 1977,
+        "percent_of_total": 0.12244897959183673,
+        "count": {
+          "count": 12,
+          "percent_of_total": 0.12244897959183673
+        },
+        "top3": 18,
+        "top10": 33,
+        "top50": 173,
+        "visibility": 209.57000000000002,
+        "domain_rank": 325053,
+        "ads_equivalent": 137.73608000000002
+      },
+      {
+        "ref_domain": "subiektywnieofinansach.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.027508352738685835,
+        "backlinks_count": 4,
+        "links_external_count": 98770,
+        "percent_of_total": 0.04081632653061224,
+        "count": {
+          "count": 4,
+          "percent_of_total": 0.04081632653061224
+        },
+        "top3": 1090,
+        "top10": 6274,
+        "top50": 48401,
+        "visibility": 76840.73299999758,
+        "domain_rank": 4161,
+        "ads_equivalent": 48740.54324000002
+      },
+      {
+        "ref_domain": "simple.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.3053435114503817,
+        "backlinks_count": 2,
+        "links_external_count": 131,
+        "percent_of_total": 0.02040816326530612,
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.02040816326530612
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "wealthon.com",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.4511494252873563,
+        "backlinks_count": 1,
+        "links_external_count": 348,
+        "percent_of_total": 0.01020408163265306,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.01020408163265306
+        },
+        "top3": 71,
+        "top10": 382,
+        "top50": 1457,
+        "visibility": 2596.7239999999997,
+        "domain_rank": 67571,
+        "ads_equivalent": 17038.261160000005
+      }
+    ],
+    "total": 5,
+    "domain": "simplefinance.pl",
+    "endpoint": "get_backlinks_referring_domains"
+  }
+}

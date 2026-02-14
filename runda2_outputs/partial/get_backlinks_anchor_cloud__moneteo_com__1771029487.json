@@ -1,0 +1,67 @@
+{
+  "domain": "moneteo.com",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "moneteo.com": [
+          {
+            "text": "",
+            "size": 144,
+            "percent": 0.7272727272727273
+          },
+          {
+            "text": "https://moneteo.com/ranking-kont-walutowych",
+            "size": 5,
+            "percent": 0.025252525252525252
+          },
+          {
+            "text": "Moneteo.com",
+            "size": 4,
+            "percent": 0.020202020202020204
+          },
+          {
+            "text": "Moneteo",
+            "size": 3,
+            "percent": 0.015151515151515152
+          },
+          {
+            "text": "Kim jest wierzyciel hipoteczny i jakie posiada prawa?",
+            "size": 2,
+            "percent": 0.010101010101010102
+          },
+          {
+            "text": "Co to jest leasing konsumencki i czy opłaca się z niego korzystać?",
+            "size": 2,
+            "percent": 0.010101010101010102
+          },
+          {
+            "text": "lokaty",
+            "size": 2,
+            "percent": 0.010101010101010102
+          },
+          {
+            "text": "https://moneteo.com/",
+            "size": 2,
+            "percent": 0.010101010101010102
+          },
+          {
+            "text": "Kredyty hipoteczne",
+            "size": 1,
+            "percent": 0.005050505050505051
+          },
+          {
+            "text": "płatność kartą za granicą",
+            "size": 1,
+            "percent": 0.005050505050505051
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "moneteo.com",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

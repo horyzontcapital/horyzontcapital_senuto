@@ -1,0 +1,74 @@
+{
+  "domain": "kontomaniak.pl",
+  "endpoint": "get_domain_statistics",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "statistics": {
+          "top3": {
+            "recent_value": 1797,
+            "older_value": 1798,
+            "diff": -1,
+            "percent": -0.0006
+          },
+          "top10": {
+            "recent_value": 7619,
+            "older_value": 7619,
+            "diff": 0,
+            "percent": 0
+          },
+          "top50": {
+            "recent_value": 30232,
+            "older_value": 30232,
+            "diff": 0,
+            "percent": 0
+          },
+          "visibility": {
+            "recent_value": 71720,
+            "older_value": 71997,
+            "diff": -277,
+            "percent": -0.0038
+          },
+          "domain_rank": {
+            "recent_value": 4398,
+            "older_value": 4385,
+            "diff": 13,
+            "percent": 0.003
+          },
+          "ads_equivalent": {
+            "recent_value": 377548.55,
+            "older_value": 385121.34,
+            "diff": -7572.79,
+            "percent": -0.0197
+          },
+          "category": {
+            "name": "",
+            "statistics": {
+              "recent_value": 4398,
+              "older_value": 4398,
+              "diff": 0,
+              "percent": 0
+            }
+          },
+          "aio_keywords": {
+            "recent_value": 12605,
+            "older_value": 12605,
+            "diff": 0,
+            "percent": 0
+          },
+          "aio_visible_keywords": {
+            "recent_value": 6391,
+            "older_value": 6391,
+            "diff": 0,
+            "percent": 0
+          }
+        }
+      }
+    },
+    "status": 200,
+    "domain": "kontomaniak.pl",
+    "endpoint": "get_domain_statistics"
+  }
+}

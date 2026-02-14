@@ -1,0 +1,80 @@
+{
+  "domain": "bizlend.pl",
+  "endpoint": "get_backlinks_referring_domains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "ref_domain": "businessinsider.com.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": null,
+          "article_price_nofollow": 5635,
+          "link_price_dofollow": null,
+          "link_price_nofollow": null,
+          "price_do_follow": null,
+          "price_no_follow": 5635
+        },
+        "ratio_bl_ext": 0.7053901230401596,
+        "backlinks_count": 1,
+        "links_external_count": 1902387,
+        "percent_of_total": 0.3333333333333333,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.3333333333333333
+        },
+        "top3": 25583,
+        "top10": 83858,
+        "top50": 388048,
+        "visibility": 5162650.777000366,
+        "domain_rank": 72,
+        "ads_equivalent": 32848135.066369906
+      },
+      {
+        "ref_domain": "poradnikprzedsiebiorcy.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": 3864,
+          "article_price_nofollow": null,
+          "link_price_dofollow": 8050,
+          "link_price_nofollow": null,
+          "price_do_follow": 3864,
+          "price_no_follow": null
+        },
+        "ratio_bl_ext": 0.6486882155307698,
+        "backlinks_count": 1,
+        "links_external_count": 189894,
+        "percent_of_total": 0.3333333333333333,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.3333333333333333
+        },
+        "top3": 96736,
+        "top10": 185414,
+        "top50": 354293,
+        "visibility": 2809930.9950018968,
+        "domain_rank": 134,
+        "ads_equivalent": 5159974.8452299675
+      },
+      {
+        "ref_domain": "federacjaprzedsiebiorcow.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.31636863823933975,
+        "backlinks_count": 1,
+        "links_external_count": 1454,
+        "percent_of_total": 0.3333333333333333,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.3333333333333333
+        },
+        "top3": 46,
+        "top10": 129,
+        "top50": 377,
+        "visibility": 3084.154,
+        "domain_rank": 59619,
+        "ads_equivalent": 9.41759
+      }
+    ],
+    "total": 3,
+    "domain": "bizlend.pl",
+    "endpoint": "get_backlinks_referring_domains"
+  }
+}

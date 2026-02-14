@@ -1,0 +1,23 @@
+{
+  "domain": "kokos.pl",
+  "endpoint": "suggest_domains",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "favourite": [],
+        "suggested": [
+          "kokosek.pl",
+          "kokos.pl",
+          "kokosklep.pl",
+          "kokoso.lt",
+          "kokos.com.pl"
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "kokos.pl",
+    "endpoint": "suggest_domains"
+  }
+}

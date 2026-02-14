@@ -1,0 +1,54 @@
+{
+  "domain": "cbif.pl",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "cbif.pl",
+        "keywords_count": 204,
+        "visibility_percent": 100,
+        "statistics": {
+          "visibility": {
+            "current": 1308.12,
+            "previous": 1303.17,
+            "diff": 4.95,
+            "percent": 0.0038,
+            "history": null
+          },
+          "top3": {
+            "current": 39,
+            "previous": 39,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 204,
+            "previous": 205,
+            "diff": -1,
+            "percent": -0.0049,
+            "history": null
+          },
+          "top50": {
+            "current": 702,
+            "previous": 721,
+            "diff": -19,
+            "percent": -0.0264,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 100,
+            "previous": 100,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "cbif.pl",
+    "endpoint": "get_subdomains"
+  }
+}

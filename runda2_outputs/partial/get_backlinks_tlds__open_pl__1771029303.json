@@ -1,0 +1,73 @@
+{
+  "domain": "open.pl",
+  "endpoint": "get_backlinks_tlds",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "tld": "pl",
+          "count": 2352,
+          "percent": 0.8779395296752519
+        },
+        {
+          "tld": "com",
+          "count": 172,
+          "percent": 0.06420306084359836
+        },
+        {
+          "tld": "info",
+          "count": 122,
+          "percent": 0.04553938036580814
+        },
+        {
+          "tld": "org",
+          "count": 12,
+          "percent": 0.004479283314669653
+        },
+        {
+          "tld": "net",
+          "count": 5,
+          "percent": 0.001866368047779022
+        },
+        {
+          "tld": "us",
+          "count": 4,
+          "percent": 0.0014930944382232176
+        },
+        {
+          "tld": "eu",
+          "count": 4,
+          "percent": 0.0014930944382232176
+        },
+        {
+          "tld": "152",
+          "count": 3,
+          "percent": 0.0011198208286674132
+        },
+        {
+          "tld": "biz",
+          "count": 2,
+          "percent": 0.0007465472191116088
+        },
+        {
+          "tld": "ua",
+          "count": 1,
+          "percent": 0.0003732736095558044
+        }
+      ],
+      "pagination": {
+        "page_count": 2,
+        "current_page": 1,
+        "has_next_page": true,
+        "has_prev_page": false,
+        "count": 12,
+        "limit": 10
+      }
+    },
+    "status": 200,
+    "domain": "open.pl",
+    "endpoint": "get_backlinks_tlds"
+  }
+}

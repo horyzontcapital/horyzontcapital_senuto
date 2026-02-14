@@ -1,0 +1,67 @@
+{
+  "domain": "loando.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "loando.pl": [
+          {
+            "text": "www.loando.pl",
+            "size": 200,
+            "percent": 0.24875621890547264
+          },
+          {
+            "text": "Łatwy Kredyt opinie",
+            "size": 67,
+            "percent": 0.08333333333333333
+          },
+          {
+            "text": "VIA SMS opinie",
+            "size": 60,
+            "percent": 0.07462686567164178
+          },
+          {
+            "text": "Credissimo opinie",
+            "size": 44,
+            "percent": 0.05472636815920398
+          },
+          {
+            "text": "",
+            "size": 41,
+            "percent": 0.05099502487562189
+          },
+          {
+            "text": "loando.pl",
+            "size": 38,
+            "percent": 0.0472636815920398
+          },
+          {
+            "text": "Loando.pl",
+            "size": 29,
+            "percent": 0.036069651741293535
+          },
+          {
+            "text": "Super Kasa opinie",
+            "size": 22,
+            "percent": 0.02736318407960199
+          },
+          {
+            "text": "https://loando.pl/",
+            "size": 22,
+            "percent": 0.02736318407960199
+          },
+          {
+            "text": "loando",
+            "size": 17,
+            "percent": 0.021144278606965175
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "loando.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

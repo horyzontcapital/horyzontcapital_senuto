@@ -1,0 +1,67 @@
+{
+  "domain": "splatapozyczek.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "splatapozyczek.pl": [
+          {
+            "text": "Spłata Pożyczek",
+            "size": 55,
+            "percent": 0.20522388059701493
+          },
+          {
+            "text": "https://splatapozyczek.pl/",
+            "size": 20,
+            "percent": 0.07462686567164178
+          },
+          {
+            "text": "https://splatapozyczek.pl/konsolidacja-chwilowek/",
+            "size": 16,
+            "percent": 0.05970149253731343
+          },
+          {
+            "text": "https://splatapozyczek.pl/kredyt-gotowkowy/",
+            "size": 12,
+            "percent": 0.04477611940298507
+          },
+          {
+            "text": "https://splatapozyczek.pl/kredyty-dla-firm/",
+            "size": 10,
+            "percent": 0.03731343283582089
+          },
+          {
+            "text": "https://splatapozyczek.pl/kredyt-oddluzeniowy/",
+            "size": 10,
+            "percent": 0.03731343283582089
+          },
+          {
+            "text": "https://splatapozyczek.pl/kredyt-konsolidacyjny/",
+            "size": 9,
+            "percent": 0.033582089552238806
+          },
+          {
+            "text": "kredyt konsolidacyjny",
+            "size": 8,
+            "percent": 0.029850746268656716
+          },
+          {
+            "text": "https://splatapozyczek.pl/kalkulator-kredytowy/",
+            "size": 7,
+            "percent": 0.026119402985074626
+          },
+          {
+            "text": "https://splatapozyczek.pl/kredyt-refinansowy/",
+            "size": 7,
+            "percent": 0.026119402985074626
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "splatapozyczek.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

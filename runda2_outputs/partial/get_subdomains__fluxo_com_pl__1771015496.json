@@ -1,0 +1,54 @@
+{
+  "domain": "fluxo.com.pl",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "fluxo.com.pl",
+        "keywords_count": 34,
+        "visibility_percent": 100,
+        "statistics": {
+          "visibility": {
+            "current": 197.42,
+            "previous": 188.82,
+            "diff": 8.6,
+            "percent": 0.0455,
+            "history": null
+          },
+          "top3": {
+            "current": 17,
+            "previous": 17,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 34,
+            "previous": 34,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 141,
+            "previous": 134,
+            "diff": 7,
+            "percent": 0.0522,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 100,
+            "previous": 100,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "fluxo.com.pl",
+    "endpoint": "get_subdomains"
+  }
+}

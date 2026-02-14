@@ -1,0 +1,67 @@
+{
+  "domain": "blogkredytowy.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "blogkredytowy.pl": [
+          {
+            "text": "Blog Kredytowy II Kredyty hipoteczne okiem praktyka",
+            "size": 50,
+            "percent": 0.15060240963855423
+          },
+          {
+            "text": "blogkredytowy.pl",
+            "size": 33,
+            "percent": 0.09939759036144578
+          },
+          {
+            "text": "Kredyt hipoteczny po 40 &#8211; czy jest możliwy do uzyskania?",
+            "size": 29,
+            "percent": 0.08734939759036145
+          },
+          {
+            "text": "https://blogkredytowy.pl/",
+            "size": 28,
+            "percent": 0.08433734939759036
+          },
+          {
+            "text": "https://blogkredytowy.pl/nasze-kalkulatory/kalkulator-nadplaty/",
+            "size": 26,
+            "percent": 0.0783132530120482
+          },
+          {
+            "text": "Blog kredytowy",
+            "size": 21,
+            "percent": 0.06325301204819277
+          },
+          {
+            "text": "Prowizja za udzielenie kredytu hipotecznego",
+            "size": 18,
+            "percent": 0.05421686746987952
+          },
+          {
+            "text": "Blog Kredytowy",
+            "size": 15,
+            "percent": 0.045180722891566265
+          },
+          {
+            "text": "Michał z BlogKredytowy.pl",
+            "size": 10,
+            "percent": 0.030120481927710843
+          },
+          {
+            "text": "Blog",
+            "size": 8,
+            "percent": 0.024096385542168676
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "blogkredytowy.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

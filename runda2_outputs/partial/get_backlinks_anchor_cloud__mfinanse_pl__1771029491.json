@@ -1,0 +1,67 @@
+{
+  "domain": "mfinanse.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "mfinanse.pl": [
+          {
+            "text": "",
+            "size": 881,
+            "percent": 0.6199859254046446
+          },
+          {
+            "text": "Uzyskaj kredyt",
+            "size": 56,
+            "percent": 0.03940886699507389
+          },
+          {
+            "text": "mFinanse",
+            "size": 47,
+            "percent": 0.033075299085151305
+          },
+          {
+            "text": "Budowa na kredyt? To możliwe!&nbsp;",
+            "size": 43,
+            "percent": 0.030260380014074596
+          },
+          {
+            "text": "mfinanse.pl",
+            "size": 35,
+            "percent": 0.024630541871921183
+          },
+          {
+            "text": "mFinanse S.A.",
+            "size": 15,
+            "percent": 0.01055594651653765
+          },
+          {
+            "text": "www.mfinanse.pl",
+            "size": 14,
+            "percent": 0.009852216748768473
+          },
+          {
+            "text": "Skontaktuj się",
+            "size": 13,
+            "percent": 0.009148486980999296
+          },
+          {
+            "text": "SKONTAKTUJ SIĘ",
+            "size": 11,
+            "percent": 0.007741027445460943
+          },
+          {
+            "text": "www.mfinanse.pl/wspolpraca-deweloperzy",
+            "size": 8,
+            "percent": 0.005629838142153413
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "mfinanse.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

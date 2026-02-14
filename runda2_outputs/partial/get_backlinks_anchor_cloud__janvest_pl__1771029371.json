@@ -1,0 +1,67 @@
+{
+  "domain": "janvest.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "janvest.pl": [
+          {
+            "text": "janvest.pl",
+            "size": 9,
+            "percent": 0.16666666666666666
+          },
+          {
+            "text": "janvest",
+            "size": 8,
+            "percent": 0.14814814814814814
+          },
+          {
+            "text": "http://janvest.pl/",
+            "size": 8,
+            "percent": 0.14814814814814814
+          },
+          {
+            "text": "",
+            "size": 7,
+            "percent": 0.12962962962962962
+          },
+          {
+            "text": "JANVEST",
+            "size": 7,
+            "percent": 0.12962962962962962
+          },
+          {
+            "text": "Zobacz WWW",
+            "size": 2,
+            "percent": 0.037037037037037035
+          },
+          {
+            "text": "http://www.janvest.pl",
+            "size": 2,
+            "percent": 0.037037037037037035
+          },
+          {
+            "text": "https://janvest.pl/",
+            "size": 2,
+            "percent": 0.037037037037037035
+          },
+          {
+            "text": "Website",
+            "size": 1,
+            "percent": 0.018518518518518517
+          },
+          {
+            "text": "www.janvest.pl",
+            "size": 1,
+            "percent": 0.018518518518518517
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "janvest.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

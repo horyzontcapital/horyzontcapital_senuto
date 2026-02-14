@@ -1,0 +1,107 @@
+{
+  "domain": "pl.finbee.com",
+  "endpoint": "get_positions_history_chart",
+  "data": {
+    "ok": true,
+    "data": {
+      "_serialize": true,
+      "success": true,
+      "data": [
+        {
+          "main_domain": true,
+          "domain": "pl.finbee.com",
+          "data": {
+            "all": {
+              "keywords_top3": [],
+              "keywords_top10": [],
+              "keywords_top50": [],
+              "efficiency_top10": [],
+              "efficiency_top50": [],
+              "unique_urls_top10": [],
+              "unique_urls_top50": [],
+              "visibility": [],
+              "ads_equivalent": [],
+              "domain_rank": []
+            },
+            "my_brand": {
+              "keywords_top3": [],
+              "keywords_top10": [],
+              "keywords_top50": [],
+              "efficiency_top10": [],
+              "efficiency_top50": [],
+              "unique_urls_top10": [],
+              "unique_urls_top50": [],
+              "visibility": [],
+              "ads_equivalent": [],
+              "domain_rank": []
+            },
+            "non_own_brand": {
+              "keywords_top3": [],
+              "keywords_top10": [],
+              "keywords_top50": [],
+              "efficiency_top10": [],
+              "efficiency_top50": [],
+              "unique_urls_top10": [],
+              "unique_urls_top50": [],
+              "visibility": [],
+              "ads_equivalent": [],
+              "domain_rank": []
+            },
+            "non_brand": {
+              "keywords_top3": [],
+              "keywords_top10": [],
+              "keywords_top50": [],
+              "efficiency_top10": [],
+              "efficiency_top50": [],
+              "unique_urls_top10": [],
+              "unique_urls_top50": [],
+              "visibility": [],
+              "ads_equivalent": [],
+              "domain_rank": []
+            },
+            "long_tail": {
+              "keywords_top3": [],
+              "keywords_top10": [],
+              "keywords_top50": [],
+              "efficiency_top10": [],
+              "efficiency_top50": [],
+              "unique_urls_top10": [],
+              "unique_urls_top50": [],
+              "visibility": [],
+              "ads_equivalent": [],
+              "domain_rank": []
+            },
+            "short_tail": {
+              "keywords_top3": [],
+              "keywords_top10": [],
+              "keywords_top50": [],
+              "efficiency_top10": [],
+              "efficiency_top50": [],
+              "unique_urls_top10": [],
+              "unique_urls_top50": [],
+              "visibility": [],
+              "ads_equivalent": [],
+              "domain_rank": []
+            },
+            "brand": {
+              "keywords_top3": [],
+              "keywords_top10": [],
+              "keywords_top50": [],
+              "efficiency_top10": [],
+              "efficiency_top50": [],
+              "unique_urls_top10": [],
+              "unique_urls_top50": [],
+              "visibility": [],
+              "ads_equivalent": [],
+              "domain_rank": []
+            }
+          }
+        }
+      ],
+      "fromCache": true
+    },
+    "status": 200,
+    "domain": "pl.finbee.com",
+    "endpoint": "get_positions_history_chart"
+  }
+}

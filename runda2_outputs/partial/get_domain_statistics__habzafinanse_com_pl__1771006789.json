@@ -1,0 +1,74 @@
+{
+  "domain": "habzafinanse.com.pl",
+  "endpoint": "get_domain_statistics",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "statistics": {
+          "top3": {
+            "recent_value": 298,
+            "older_value": 298,
+            "diff": 0,
+            "percent": 0
+          },
+          "top10": {
+            "recent_value": 1389,
+            "older_value": 1389,
+            "diff": 0,
+            "percent": 0
+          },
+          "top50": {
+            "recent_value": 6300,
+            "older_value": 6299,
+            "diff": 1,
+            "percent": 0.0002
+          },
+          "visibility": {
+            "recent_value": 6216,
+            "older_value": 6216,
+            "diff": 0,
+            "percent": 0
+          },
+          "domain_rank": {
+            "recent_value": 35243,
+            "older_value": 35237,
+            "diff": 6,
+            "percent": 0.0002
+          },
+          "ads_equivalent": {
+            "recent_value": 51971.45,
+            "older_value": 51971.45,
+            "diff": 0,
+            "percent": 0
+          },
+          "category": {
+            "name": "",
+            "statistics": {
+              "recent_value": 35243,
+              "older_value": 35243,
+              "diff": 0,
+              "percent": 0
+            }
+          },
+          "aio_keywords": {
+            "recent_value": 1254,
+            "older_value": 1254,
+            "diff": 0,
+            "percent": 0
+          },
+          "aio_visible_keywords": {
+            "recent_value": 2009,
+            "older_value": 2009,
+            "diff": 0,
+            "percent": 0
+          }
+        }
+      }
+    },
+    "status": 200,
+    "domain": "habzafinanse.com.pl",
+    "endpoint": "get_domain_statistics"
+  }
+}

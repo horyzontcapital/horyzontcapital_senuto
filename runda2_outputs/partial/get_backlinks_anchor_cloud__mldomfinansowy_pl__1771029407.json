@@ -1,0 +1,67 @@
+{
+  "domain": "mldomfinansowy.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "mldomfinansowy.pl": [
+          {
+            "text": "ML Dom Finansowy",
+            "size": 2,
+            "percent": 0.1111111111111111
+          },
+          {
+            "text": "mldomfinansowy.pl",
+            "size": 2,
+            "percent": 0.1111111111111111
+          },
+          {
+            "text": "www",
+            "size": 1,
+            "percent": 0.05555555555555555
+          },
+          {
+            "text": "ML Dom",
+            "size": 1,
+            "percent": 0.05555555555555555
+          },
+          {
+            "text": "&#127760;",
+            "size": 1,
+            "percent": 0.05555555555555555
+          },
+          {
+            "text": "pożyczki",
+            "size": 1,
+            "percent": 0.05555555555555555
+          },
+          {
+            "text": "kredyt konsolidacyjny",
+            "size": 1,
+            "percent": 0.05555555555555555
+          },
+          {
+            "text": "analizy finansowej",
+            "size": 1,
+            "percent": 0.05555555555555555
+          },
+          {
+            "text": "http://mldomfinansowy.pl",
+            "size": 1,
+            "percent": 0.05555555555555555
+          },
+          {
+            "text": "firmy ML Dom Finansowy w Tychach",
+            "size": 1,
+            "percent": 0.05555555555555555
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "mldomfinansowy.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

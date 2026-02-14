@@ -1,0 +1,67 @@
+{
+  "domain": "janosikdlafirm.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "janosikdlafirm.pl": [
+          {
+            "text": "www.janosikdlafirm.pl",
+            "size": 128,
+            "percent": 0.6918918918918919
+          },
+          {
+            "text": "kredyt bez zaświadczeń z zus i us",
+            "size": 9,
+            "percent": 0.04864864864864865
+          },
+          {
+            "text": "kredyt dla firm bez zaświadczeń",
+            "size": 5,
+            "percent": 0.02702702702702703
+          },
+          {
+            "text": "Pożyczka na spłatę zaległości w ZUS",
+            "size": 4,
+            "percent": 0.021621621621621623
+          },
+          {
+            "text": "Skuteczny pośrednik kredytowy",
+            "size": 4,
+            "percent": 0.021621621621621623
+          },
+          {
+            "text": "Janosik dla firm",
+            "size": 2,
+            "percent": 0.010810810810810811
+          },
+          {
+            "text": "kredyt bez zaświadczeń z ZUS i US",
+            "size": 2,
+            "percent": 0.010810810810810811
+          },
+          {
+            "text": "Pomoc przy kredycie dla firmy",
+            "size": 2,
+            "percent": 0.010810810810810811
+          },
+          {
+            "text": "pożyczka na spłatę ZUS i US",
+            "size": 2,
+            "percent": 0.010810810810810811
+          },
+          {
+            "text": "https://www.janosikdlafirm.pl/",
+            "size": 2,
+            "percent": 0.010810810810810811
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "janosikdlafirm.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

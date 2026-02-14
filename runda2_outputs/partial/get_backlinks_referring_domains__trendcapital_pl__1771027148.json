@@ -1,0 +1,181 @@
+{
+  "domain": "trendcapital.pl",
+  "endpoint": "get_backlinks_referring_domains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "ref_domain": "useme.com",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.025792271086413632,
+        "backlinks_count": 2,
+        "links_external_count": 330758,
+        "percent_of_total": 0.2,
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.2
+        },
+        "top3": 1416,
+        "top10": 3978,
+        "top50": 19734,
+        "visibility": 75077.12299999976,
+        "domain_rank": 4236,
+        "ads_equivalent": 136703.4265199999
+      },
+      {
+        "ref_domain": "lnkd.in",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 5.231205278319859,
+        "backlinks_count": 1,
+        "links_external_count": 161415,
+        "percent_of_total": 0.1,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.1
+        },
+        "top3": 0,
+        "top10": 1,
+        "top50": 6,
+        "visibility": 0.223,
+        "domain_rank": 2098059,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "pozyczasz.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.07627118644067797,
+        "backlinks_count": 1,
+        "links_external_count": 2006,
+        "percent_of_total": 0.1,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.1
+        },
+        "top3": 8,
+        "top10": 175,
+        "top50": 3406,
+        "visibility": 634.2050000000002,
+        "domain_rank": 174094,
+        "ads_equivalent": 1578.5165400000003
+      },
+      {
+        "ref_domain": "pjana.com",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 11.863157894736842,
+        "backlinks_count": 1,
+        "links_external_count": 95,
+        "percent_of_total": 0.1,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.1
+        },
+        "top3": 0,
+        "top10": 1,
+        "top50": 10,
+        "visibility": 1.386,
+        "domain_rank": 1771179,
+        "ads_equivalent": 12.90366
+      },
+      {
+        "ref_domain": "geldon.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.014285714285714285,
+        "backlinks_count": 1,
+        "links_external_count": 140,
+        "percent_of_total": 0.1,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.1
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 11,
+        "visibility": 0,
+        "domain_rank": 4886903,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "creditnow.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.16037735849056603,
+        "backlinks_count": 1,
+        "links_external_count": 318,
+        "percent_of_total": 0.1,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.1
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 1,
+        "visibility": 0,
+        "domain_rank": 5560266,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "gopozyczka.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": 1288,
+          "article_price_nofollow": null,
+          "link_price_dofollow": null,
+          "link_price_nofollow": null,
+          "price_do_follow": 1288,
+          "price_no_follow": null
+        },
+        "ratio_bl_ext": 108.75862068965517,
+        "backlinks_count": 1,
+        "links_external_count": 29,
+        "percent_of_total": 0.1,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.1
+        },
+        "top3": 3,
+        "top10": 22,
+        "top50": 326,
+        "visibility": 72.621,
+        "domain_rank": 536857,
+        "ads_equivalent": 334.78678
+      },
+      {
+        "ref_domain": "blackweek.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.00016059097478721696,
+        "backlinks_count": 1,
+        "links_external_count": 6227,
+        "percent_of_total": 0.1,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.1
+        },
+        "top3": 14,
+        "top10": 155,
+        "top50": 1873,
+        "visibility": 291.2339999999999,
+        "domain_rank": 272958,
+        "ads_equivalent": 1030.4234600000002
+      },
+      {
+        "ref_domain": "kapitaldlabiznesu.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 1,
+        "links_external_count": 0,
+        "percent_of_total": 0.1,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.1
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      }
+    ],
+    "total": 9,
+    "domain": "trendcapital.pl",
+    "endpoint": "get_backlinks_referring_domains"
+  }
+}

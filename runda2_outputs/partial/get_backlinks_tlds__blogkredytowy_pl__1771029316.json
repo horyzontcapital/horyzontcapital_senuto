@@ -1,0 +1,63 @@
+{
+  "domain": "blogkredytowy.pl",
+  "endpoint": "get_backlinks_tlds",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "tld": "pl",
+          "count": 178,
+          "percent": 0.536144578313253
+        },
+        {
+          "tld": "com",
+          "count": 141,
+          "percent": 0.4246987951807229
+        },
+        {
+          "tld": "info",
+          "count": 5,
+          "percent": 0.015060240963855422
+        },
+        {
+          "tld": "org",
+          "count": 3,
+          "percent": 0.009036144578313253
+        },
+        {
+          "tld": "nl",
+          "count": 2,
+          "percent": 0.006024096385542169
+        },
+        {
+          "tld": "biz",
+          "count": 1,
+          "percent": 0.0030120481927710845
+        },
+        {
+          "tld": "one",
+          "count": 1,
+          "percent": 0.0030120481927710845
+        },
+        {
+          "tld": "eu",
+          "count": 1,
+          "percent": 0.0030120481927710845
+        }
+      ],
+      "pagination": {
+        "page_count": 1,
+        "current_page": 1,
+        "has_next_page": false,
+        "has_prev_page": false,
+        "count": 8,
+        "limit": 10
+      }
+    },
+    "status": 200,
+    "domain": "blogkredytowy.pl",
+    "endpoint": "get_backlinks_tlds"
+  }
+}

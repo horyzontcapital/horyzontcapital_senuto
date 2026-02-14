@@ -1,0 +1,54 @@
+{
+  "domain": "mfinanse.pl",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "mfinanse.pl",
+        "keywords_count": 6434,
+        "visibility_percent": 100,
+        "statistics": {
+          "visibility": {
+            "current": 102986.43,
+            "previous": 80298.4,
+            "diff": 22688.03,
+            "percent": 0.2825,
+            "history": null
+          },
+          "top3": {
+            "current": 2157,
+            "previous": 2111,
+            "diff": 46,
+            "percent": 0.0218,
+            "history": null
+          },
+          "top10": {
+            "current": 6434,
+            "previous": 6318,
+            "diff": 116,
+            "percent": 0.0184,
+            "history": null
+          },
+          "top50": {
+            "current": 23599,
+            "previous": 23292,
+            "diff": 307,
+            "percent": 0.0132,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 100,
+            "previous": 100,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "mfinanse.pl",
+    "endpoint": "get_subdomains"
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "domain": "janvest.pl",
+  "endpoint": "get_backlinks_anchor_data",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "link_domain": "janvest.pl",
+        "is_main_domain": true,
+        "anchor": "JANVEST",
+        "anchor_type": [],
+        "count": {
+          "count": 16,
+          "percent_of_total": 0.22535211267605634
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 7,
+        "percent_of_total": 0.22535211267605634
+      },
+      {
+        "link_domain": "janvest.pl",
+        "is_main_domain": true,
+        "anchor": "janvest.pl",
+        "anchor_type": [],
+        "count": {
+          "count": 10,
+          "percent_of_total": 0.14084507042253522
+        },
+        "domains_with_anchor_count": 9,
+        "anchors_uniq_count": 9,
+        "percent_of_total": 0.14084507042253522
+      },
+      {
+        "link_domain": "janvest.pl",
+        "is_main_domain": true,
+        "anchor": "http://janvest.pl/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 9,
+          "percent_of_total": 0.1267605633802817
+        },
+        "domains_with_anchor_count": 3,
+        "anchors_uniq_count": 8,
+        "percent_of_total": 0.1267605633802817
+      },
+      {
+        "link_domain": "janvest.pl",
+        "is_main_domain": true,
+        "anchor": "janvest",
+        "anchor_type": [
+          "multimedia",
+          "naked"
+        ],
+        "count": {
+          "count": 8,
+          "percent_of_total": 0.11267605633802817
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 8,
+        "percent_of_total": 0.11267605633802817
+      },
+      {
+        "link_domain": "janvest.pl",
+        "is_main_domain": true,
+        "anchor": "<canonical>",
+        "anchor_type": [],
+        "count": {
+          "count": 7,
+          "percent_of_total": 0.09859154929577464
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 7,
+        "percent_of_total": 0.09859154929577464
+      },
+      {
+        "link_domain": "janvest.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.janvest.pl",
+        "anchor_type": [],
+        "count": {
+          "count": 4,
+          "percent_of_total": 0.056338028169014086
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 0.056338028169014086
+      },
+      {
+        "link_domain": "janvest.pl",
+        "is_main_domain": true,
+        "anchor": "www.janvest.pl",
+        "anchor_type": [],
+        "count": {
+          "count": 3,
+          "percent_of_total": 0.04225352112676056
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.04225352112676056
+      },
+      {
+        "link_domain": "janvest.pl",
+        "is_main_domain": true,
+        "anchor": "kredyty pozabankowe",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.028169014084507043
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.028169014084507043
+      },
+      {
+        "link_domain": "janvest.pl",
+        "is_main_domain": true,
+        "anchor": "https://janvest.pl/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.028169014084507043
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 0.028169014084507043
+      },
+      {
+        "link_domain": "janvest.pl",
+        "is_main_domain": true,
+        "anchor": "Zobacz WWW",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.028169014084507043
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 0.028169014084507043
+      },
+      {
+        "link_domain": "janvest.pl",
+        "is_main_domain": true,
+        "anchor": "Website",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.028169014084507043
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.028169014084507043
+      },
+      {
+        "link_domain": "janvest.pl",
+        "is_main_domain": true,
+        "anchor": "pożyczki pozabankowe",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.014084507042253521
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.014084507042253521
+      },
+      {
+        "link_domain": "janvest.pl",
+        "is_main_domain": true,
+        "anchor": "http://janvest.pl",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.014084507042253521
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.014084507042253521
+      },
+      {
+        "link_domain": "janvest.pl",
+        "is_main_domain": true,
+        "anchor": "Janvest po�yczki dla firm bez BIK - Toru� ��d� Wroc�aw Pozna� Krak�w Janvest po�yczki dla firm bez BIK - Toru� ��d� Wroc�aw Pozna� Krak�w",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.014084507042253521
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.014084507042253521
+      },
+      {
+        "link_domain": "janvest.pl",
+        "is_main_domain": true,
+        "anchor": "kredyty hipoteczne",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.014084507042253521
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.014084507042253521
+      },
+      {
+        "link_domain": "janvest.pl",
+        "is_main_domain": true,
+        "anchor": "Prywatne pożyczki",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.014084507042253521
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.014084507042253521
+      },
+      {
+        "link_domain": "janvest.pl",
+        "is_main_domain": true,
+        "anchor": "Pożyczki i kredyty dla firm",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.014084507042253521
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.014084507042253521
+      }
+    ],
+    "total": 17,
+    "domain": "janvest.pl",
+    "endpoint": "get_backlinks_anchor_data"
+  }
+}

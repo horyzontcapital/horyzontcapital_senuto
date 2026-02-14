@@ -1,0 +1,11 @@
+{
+  "domain": "# === RUNDA 1.5 - NOWE DOMENY ===",
+  "endpoint": "get_competitors_analysis",
+  "data": {
+    "ok": false,
+    "error": "HTTP 400: {\"message\":\"Not Found\",\"url\":\"\\/api\\/visibility_analysis\\/tools\\/competitors_analysis\\/getData\",\"code\":400}",
+    "status": 400,
+    "domain": "# === RUNDA 1.5 - NOWE DOMENY ===",
+    "endpoint": "get_competitors_analysis"
+  }
+}

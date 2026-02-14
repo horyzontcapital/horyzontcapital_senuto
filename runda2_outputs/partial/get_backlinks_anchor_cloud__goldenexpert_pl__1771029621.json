@@ -1,0 +1,62 @@
+{
+  "domain": "goldenexpert.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "goldenexpert.pl": [
+          {
+            "text": "www.goldenexpert.pl",
+            "size": 31,
+            "percent": 0.484375
+          },
+          {
+            "text": "http://www. goldenexpert. pl",
+            "size": 17,
+            "percent": 0.265625
+          },
+          {
+            "text": "",
+            "size": 6,
+            "percent": 0.09375
+          },
+          {
+            "text": "goldenexpert.pl",
+            "size": 3,
+            "percent": 0.046875
+          },
+          {
+            "text": "www",
+            "size": 2,
+            "percent": 0.03125
+          },
+          {
+            "text": "Kredyty dla firm Toruń, Bydgoszcz",
+            "size": 2,
+            "percent": 0.03125
+          },
+          {
+            "text": "https://www.goldenexpert.pl/",
+            "size": 1,
+            "percent": 0.015625
+          },
+          {
+            "text": "GOLDEN EXPERT-Niezależni Doradcy Finansowi, kredyty",
+            "size": 1,
+            "percent": 0.015625
+          },
+          {
+            "text": "http://www.goldenexpert.pl/kredytysamochodowe.html",
+            "size": 1,
+            "percent": 0.015625
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "goldenexpert.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

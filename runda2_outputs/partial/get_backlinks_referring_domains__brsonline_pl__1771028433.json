@@ -1,0 +1,48 @@
+{
+  "domain": "brsonline.pl",
+  "endpoint": "get_backlinks_referring_domains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "ref_domain": "emis.com",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.09254916220975604,
+        "backlinks_count": 1,
+        "links_external_count": 489502,
+        "percent_of_total": 0.5,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.5
+        },
+        "top3": 297,
+        "top10": 4824,
+        "top50": 50202,
+        "visibility": 10473.57000000014,
+        "domain_rank": 23416,
+        "ads_equivalent": 9410.197350000006
+      },
+      {
+        "ref_domain": "novalend.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 11.846153846153847,
+        "backlinks_count": 1,
+        "links_external_count": 26,
+        "percent_of_total": 0.5,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.5
+        },
+        "top3": 17,
+        "top10": 77,
+        "top50": 242,
+        "visibility": 318.776,
+        "domain_rank": 259824,
+        "ads_equivalent": 4668.575030000001
+      }
+    ],
+    "total": 2,
+    "domain": "brsonline.pl",
+    "endpoint": "get_backlinks_referring_domains"
+  }
+}

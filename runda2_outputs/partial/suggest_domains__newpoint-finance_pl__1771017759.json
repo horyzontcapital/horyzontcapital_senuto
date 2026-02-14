@@ -1,0 +1,19 @@
+{
+  "domain": "newpoint-finance.pl",
+  "endpoint": "suggest_domains",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "favourite": [],
+        "suggested": [
+          "newpoint-finance.pl"
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "newpoint-finance.pl",
+    "endpoint": "suggest_domains"
+  }
+}

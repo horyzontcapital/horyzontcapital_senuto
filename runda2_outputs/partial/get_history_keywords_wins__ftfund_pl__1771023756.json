@@ -1,0 +1,1897 @@
+{
+  "domain": "ftfund.pl",
+  "endpoint": "get_history_keywords_wins",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "keyword_id": 9707,
+        "kid": "0034c5c87edada55f2ed0fc18d8b040b",
+        "domain": "ftfund.pl",
+        "keyword": "bezpieczne pożyczki pod zastaw nieruchomości",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 1,
+            "previous": 3,
+            "diff": -2,
+            "changes": {
+              "wins": 3,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-05": {
+                "position": 3,
+                "has_serp": true
+              },
+              "2026-01-12": {
+                "position": 7,
+                "has_serp": true
+              },
+              "2026-01-22": {
+                "position": 3,
+                "has_serp": true
+              },
+              "2026-02-01": {
+                "position": 2,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 1,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 49.84,
+            "previous": 15.05,
+            "diff": 34.79,
+            "percent": 2.3116,
+            "history": null
+          },
+          "url": {
+            "current": "ftfund.pl/",
+            "previous": "ftfund.pl/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 25.26
+          },
+          "searches": {
+            "current": 140
+          },
+          "trends": {
+            "history": [
+              170,
+              170,
+              90,
+              110,
+              110,
+              170,
+              170,
+              140,
+              70,
+              110,
+              110,
+              110
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 51
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 10139327,
+        "kid": "dfa29b271b337eb1991d2ccb35cffa75",
+        "domain": "ftfund.pl",
+        "keyword": "bydgoszcz pożyczki bez bik big krd",
+        "words_count": 6,
+        "statistics": {
+          "position": {
+            "current": 5,
+            "previous": 7,
+            "diff": -2,
+            "changes": {
+              "wins": 1,
+              "losses": 0,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-18": {
+                "position": 7,
+                "has_serp": true
+              },
+              "2026-02-07": {
+                "position": 5,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 1.51,
+            "previous": 0.85,
+            "diff": 0.66,
+            "percent": 0.7765,
+            "history": null
+          },
+          "url": {
+            "current": "ftfund.pl/pozyczki-pod-zastaw-bydgoszcz",
+            "previous": "ftfund.pl/pozyczki-pod-zastaw-bydgoszcz",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0.59
+          },
+          "searches": {
+            "current": 30
+          },
+          "trends": {
+            "history": [
+              50,
+              20,
+              40,
+              30,
+              40,
+              40,
+              10,
+              40,
+              40,
+              20,
+              30,
+              20
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 24
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 1086763,
+        "kid": "1752802dc211c1583318ff61f675cfc8",
+        "domain": "ftfund.pl",
+        "keyword": "pożyczki pod zastaw mieszkania warszawa",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 7,
+            "previous": 12,
+            "diff": -5,
+            "changes": {
+              "wins": 1,
+              "losses": 0,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-26": {
+                "position": 12,
+                "has_serp": true
+              },
+              "2026-02-06": {
+                "position": 7,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0.57,
+            "previous": 0,
+            "diff": 0.57,
+            "percent": 1,
+            "history": null
+          },
+          "url": {
+            "current": "ftfund.pl/pozyczki-pod-zastaw-warszawa",
+            "previous": "ftfund.pl/pozyczki-pod-zastaw-warszawa",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              10,
+              10,
+              10,
+              0,
+              0,
+              0,
+              0,
+              0,
+              10,
+              0
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 17
+          },
+          "snippets": {
+            "current": []
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 8993939,
+        "kid": "c5b528c6a029b82470441851fb9e8a53",
+        "domain": "ftfund.pl",
+        "keyword": "pozyczki gorzow",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 7,
+            "previous": 13,
+            "diff": -6,
+            "changes": {
+              "wins": 1,
+              "losses": 0,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-17": {
+                "position": 13,
+                "has_serp": true
+              },
+              "2026-02-04": {
+                "position": 7,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0.57,
+            "previous": 0,
+            "diff": 0.57,
+            "percent": 1,
+            "history": null
+          },
+          "url": {
+            "current": "ftfund.pl/pozyczki-pod-zastaw-gorzow-wielkopolski",
+            "previous": "ftfund.pl/pozyczki-pod-zastaw-gorzow-wielkopolski",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 13.21
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              20,
+              20,
+              10,
+              10,
+              20,
+              20,
+              10,
+              10,
+              40,
+              10,
+              10,
+              20
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 48
+          },
+          "snippets": {
+            "current": [
+              "adwords",
+              "map",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "local",
+            "action_type": "buy",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 10308598,
+        "kid": "e379dba4aa6dc4cd62ab1ca707773521",
+        "domain": "ftfund.pl",
+        "keyword": "pozyczki pod zastaw lodz",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 6,
+            "previous": 9,
+            "diff": -3,
+            "changes": {
+              "wins": 0,
+              "losses": 0,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-02-10": {
+                "position": 6,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0.37,
+            "previous": 0.18,
+            "diff": 0.19,
+            "percent": 1.0556,
+            "history": null
+          },
+          "url": {
+            "current": "ftfund.pl/pozyczki-pod-zastaw-lodz",
+            "previous": "ftfund.pl/pozyczki-pod-zastaw-lodz",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 7.68
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              20,
+              10,
+              30,
+              10,
+              20,
+              20
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 29
+          },
+          "snippets": {
+            "current": [
+              "map",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "buy",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 6873332,
+        "kid": "960053cac9241eec3f7cca050dbf81dd",
+        "domain": "ftfund.pl",
+        "keyword": "pożyczki chwilówki olsztyn",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 9,
+            "previous": 51,
+            "diff": -42,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-23": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-26": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-07": {
+                "position": 9,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0.18,
+            "previous": 0,
+            "diff": 0.18,
+            "percent": 1,
+            "history": null
+          },
+          "url": {
+            "current": "ftfund.pl/pozyczki-pod-zastaw-olsztyn",
+            "previous": "",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              0,
+              10,
+              0,
+              0,
+              0,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 21
+          },
+          "snippets": {
+            "current": [
+              "map",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "buy",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 11711756,
+        "kid": "6edc7a21446a868322626c1ee92d8f07",
+        "domain": "ftfund.pl",
+        "keyword": "pożyczka pod zastaw warszawa",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 12,
+            "previous": 14,
+            "diff": -2,
+            "changes": {
+              "wins": 1,
+              "losses": 0,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-18": {
+                "position": 14,
+                "has_serp": true
+              },
+              "2026-02-06": {
+                "position": 12,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ftfund.pl/pozyczki-pod-zastaw-warszawa",
+            "previous": "ftfund.pl/pozyczki-pod-zastaw-warszawa",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 8.14
+          },
+          "searches": {
+            "current": 30
+          },
+          "trends": {
+            "history": [
+              30,
+              30,
+              30,
+              30,
+              30,
+              40,
+              40,
+              40,
+              10,
+              30,
+              20,
+              50
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 31
+          },
+          "snippets": {
+            "current": [
+              "map"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "buy",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 15601829,
+        "kid": "6e5420d12048a8823db18771b3ecd2ee",
+        "domain": "ftfund.pl",
+        "keyword": "prywatne pożyczki od ręki olsztyn",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 28,
+            "previous": 38,
+            "diff": -10,
+            "changes": {
+              "wins": 1,
+              "losses": 0,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-18": {
+                "position": 38,
+                "has_serp": true
+              },
+              "2026-02-07": {
+                "position": 28,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ftfund.pl/pozyczki-pod-zastaw-olsztyn",
+            "previous": "ftfund.pl/pozyczki-pod-zastaw-olsztyn",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 3.45
+          },
+          "searches": {
+            "current": 70
+          },
+          "trends": {
+            "history": [
+              90,
+              140,
+              110,
+              90,
+              70,
+              110,
+              70,
+              50,
+              40,
+              40,
+              70,
+              20
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 14
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "buy",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 9916772,
+        "kid": "da9718e39309949731f6b1c3827bca6d",
+        "domain": "ftfund.pl",
+        "keyword": "pożyczka pod zastaw hipoteczny",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 36,
+            "previous": 39,
+            "diff": -3,
+            "changes": {
+              "wins": 1,
+              "losses": 0,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-18": {
+                "position": 39,
+                "has_serp": true
+              },
+              "2026-02-07": {
+                "position": 36,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ftfund.pl/pozyczka-pod-zastaw-nieruchomosci",
+            "previous": "ftfund.pl/pozyczka-pod-zastaw-nieruchomosci",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 10.27
+          },
+          "searches": {
+            "current": 30
+          },
+          "trends": {
+            "history": [
+              40,
+              20,
+              30,
+              30,
+              20,
+              20,
+              30,
+              20,
+              10,
+              40,
+              20,
+              30
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 47
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 10651490,
+        "kid": "eb3eafae79cafeedb48c01c9cfa641ec",
+        "domain": "ftfund.pl",
+        "keyword": "pożyczki z komornikiem olsztyn",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 44,
+            "previous": 49,
+            "diff": -5,
+            "changes": {
+              "wins": 1,
+              "losses": 0,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-17": {
+                "position": 49,
+                "has_serp": true
+              },
+              "2026-02-05": {
+                "position": 44,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ftfund.pl/pozyczki-pod-zastaw-olsztyn",
+            "previous": "ftfund.pl/pozyczka-pod-zastaw-dzialki",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 0.4
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              20,
+              20,
+              10,
+              10,
+              20,
+              20,
+              10,
+              10,
+              10,
+              10,
+              20,
+              20
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 18
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "buy",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 3019876,
+        "kid": "40f6b5929b2646484d013f6aaaf9bf49",
+        "domain": "ftfund.pl",
+        "keyword": "kredyt pod zastaw nieruchomości bez bik",
+        "words_count": 6,
+        "statistics": {
+          "position": {
+            "current": 37,
+            "previous": 50,
+            "diff": -13,
+            "changes": {
+              "wins": 0,
+              "losses": 0,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-02-05": {
+                "position": 37,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ftfund.pl/wpisy/pozyczki-pod-zastaw-nieruchomosci-bez-bik",
+            "previous": "ftfund.pl/wpisy/pozyczki-pod-zastaw-nieruchomosci-bez-bik",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 14.48
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              10,
+              10,
+              20,
+              10,
+              10,
+              10,
+              20,
+              10,
+              30,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 40
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "buy",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 9410327,
+        "kid": "cf1e82b4260339c4e4944dd7a6db9720",
+        "domain": "ftfund.pl",
+        "keyword": "uczciwe pożyczki pod zastaw mieszkania",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 14,
+            "previous": 28,
+            "diff": -14,
+            "changes": {
+              "wins": 3,
+              "losses": 3,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-19": {
+                "position": 5,
+                "has_serp": true
+              },
+              "2025-12-26": {
+                "position": 9,
+                "has_serp": true
+              },
+              "2026-01-04": {
+                "position": 23,
+                "has_serp": true
+              },
+              "2026-01-11": {
+                "position": 5,
+                "has_serp": true
+              },
+              "2026-01-22": {
+                "position": 28,
+                "has_serp": true
+              },
+              "2026-02-01": {
+                "position": 18,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 14,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ftfund.pl/pozyczka-pod-zastaw-domu",
+            "previous": "ftfund.pl/pozyczka-pod-zastaw-domu",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 1.71
+          },
+          "searches": {
+            "current": 90
+          },
+          "trends": {
+            "history": [
+              90,
+              30,
+              50,
+              50,
+              140,
+              90,
+              70,
+              70,
+              110,
+              110,
+              140,
+              70
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 27
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 5315171,
+        "kid": "73557aaaa743585a19817cb93a302e5a",
+        "domain": "ftfund.pl",
+        "keyword": "pożyczka pod zastaw mieszkania własnościowego",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 35,
+            "previous": 39,
+            "diff": -4,
+            "changes": {
+              "wins": 2,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-16": {
+                "position": 42,
+                "has_serp": true
+              },
+              "2025-12-30": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-14": {
+                "position": 39,
+                "has_serp": true
+              },
+              "2026-02-01": {
+                "position": 35,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ftfund.pl/pozyczka-pod-zastaw-mieszkania",
+            "previous": "ftfund.pl/pozyczka-pod-zastaw-mieszkania",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 14.75
+          },
+          "searches": {
+            "current": 70
+          },
+          "trends": {
+            "history": [
+              70,
+              40,
+              50,
+              70,
+              70,
+              110,
+              90,
+              50,
+              50,
+              50,
+              90,
+              50
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 52
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 8332204,
+        "kid": "b6cdbe197bc8a63f69797d55d936dca5",
+        "domain": "ftfund.pl",
+        "keyword": "pożyczka pod hipotekę bez bik",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 25,
+            "previous": 51,
+            "diff": -26,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-16": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-02": {
+                "position": 25,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ftfund.pl/wpisy/pozyczki-pod-zastaw-nieruchomosci-bez-bik",
+            "previous": "",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 54.92
+          },
+          "searches": {
+            "current": 40
+          },
+          "trends": {
+            "history": [
+              50,
+              20,
+              10,
+              30,
+              10,
+              40,
+              50,
+              40,
+              70,
+              70,
+              50,
+              70
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 42
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 4339702,
+        "kid": "5db718f7c57ea40d890b586d6176b6df",
+        "domain": "ftfund.pl",
+        "keyword": "pożyczka pod zastaw samochodu poznań",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 33,
+            "previous": 51,
+            "diff": -18,
+            "changes": {
+              "wins": 1,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-14": {
+                "position": 33,
+                "has_serp": false
+              },
+              "2025-12-30": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-05": {
+                "position": 33,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ftfund.pl/pozyczki-pod-zastaw-poznan",
+            "previous": "",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 11.1
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              40,
+              10,
+              40,
+              20,
+              10,
+              30,
+              10,
+              10,
+              20,
+              40,
+              10,
+              30
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 32
+          },
+          "snippets": {
+            "current": [
+              "map",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "buy",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 551291,
+        "kid": "0bccb3ee937fc099b717d8eb1f93b0ee",
+        "domain": "ftfund.pl",
+        "keyword": "pożyczka pod zastaw działki rolnej",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 50,
+            "previous": 51,
+            "diff": -1,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-27": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-11": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-04": {
+                "position": 50,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ftfund.pl/pozyczki-dla-rolnikow",
+            "previous": "",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 1.64
+          },
+          "searches": {
+            "current": 70
+          },
+          "trends": {
+            "history": [
+              50,
+              50,
+              70,
+              50,
+              170,
+              110,
+              30,
+              40,
+              40,
+              40,
+              30,
+              40
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 31
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "buy",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 8408922,
+        "kid": "b88777d0802d0aa889e25b51efd10d55",
+        "domain": "ftfund.pl",
+        "keyword": "pozyczka hipoteczna pod zastaw mieszkania",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 36,
+            "previous": 51,
+            "diff": -15,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-16": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-03": {
+                "position": 36,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ftfund.pl/pozyczka-pod-zastaw-nieruchomosci",
+            "previous": "",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 6.16
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              20,
+              20,
+              30,
+              10,
+              10,
+              20,
+              10,
+              10,
+              20,
+              10,
+              20,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 46
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 8587544,
+        "kid": "bc905e692d12908b5f45c9d056f175b8",
+        "domain": "ftfund.pl",
+        "keyword": "pożyczki z dostawą do domu wrocław",
+        "words_count": 6,
+        "statistics": {
+          "position": {
+            "current": 36,
+            "previous": 51,
+            "diff": -15,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-16": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-03": {
+                "position": 36,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ftfund.pl/pozyczki-pod-zastaw-wroclaw",
+            "previous": "",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 1.21
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              10,
+              10,
+              40,
+              30,
+              10,
+              20,
+              20,
+              10,
+              20,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 24
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "buy",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 6987596,
+        "kid": "98908073503a2a879a234cff95ae8327",
+        "domain": "ftfund.pl",
+        "keyword": "pożyczki prywatne opole",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 46,
+            "previous": 51,
+            "diff": -5,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 2
+            },
+            "history": {
+              "2025-12-20": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-03": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-20": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 46,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ftfund.pl/pozyczki-pod-zastaw-opole",
+            "previous": "",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 2.27
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              30,
+              20,
+              20,
+              20,
+              10,
+              30,
+              20,
+              20,
+              50,
+              20
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 31
+          },
+          "snippets": {
+            "current": [
+              "map",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 10519137,
+        "kid": "e83fc53a8180063f00138f6bbec620a8",
+        "domain": "ftfund.pl",
+        "keyword": "pożyczki szczecin",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 38,
+            "previous": 51,
+            "diff": -13,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-15": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-03": {
+                "position": 38,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ftfund.pl/pozyczki-pod-zastaw-szczecin",
+            "previous": "",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 9.57
+          },
+          "searches": {
+            "current": 140
+          },
+          "trends": {
+            "history": [
+              140,
+              140,
+              140,
+              110,
+              210,
+              140,
+              140,
+              90,
+              210,
+              110,
+              110,
+              140
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 54
+          },
+          "snippets": {
+            "current": [
+              "map",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "local",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 8840980,
+        "kid": "c2429475e431f7e34c2acd4487a0ef6e",
+        "domain": "ftfund.pl",
+        "keyword": "pożyczka pod zastaw domu bez bik",
+        "words_count": 6,
+        "statistics": {
+          "position": {
+            "current": 17,
+            "previous": 51,
+            "diff": -34,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-17": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-04": {
+                "position": 17,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ftfund.pl/wpisy/pozyczki-pod-zastaw-nieruchomosci-bez-bik",
+            "previous": "",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              10,
+              20,
+              10,
+              10,
+              0,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              0
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 27
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 14110744,
+        "kid": "c51bdfb16a1bf0468a92259de64fcb3a",
+        "domain": "ftfund.pl",
+        "keyword": "pożyczki kielce dla zadłużonych",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 50,
+            "previous": 51,
+            "diff": -1,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 2
+            },
+            "history": {
+              "2025-12-21": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-04": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-21": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 50,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ftfund.pl/pozyczka-pod-zastaw-dzialki",
+            "previous": "",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 0.8
+          },
+          "searches": {
+            "current": 50
+          },
+          "trends": {
+            "history": [
+              90,
+              50,
+              70,
+              40,
+              70,
+              40,
+              50,
+              70,
+              30,
+              20,
+              40,
+              30
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 24
+          },
+          "snippets": {
+            "current": [
+              "map",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 8153567,
+        "kid": "b2cc089998c172c942e8bf611eb804e4",
+        "domain": "ftfund.pl",
+        "keyword": "pożyczki prywatne olsztyn",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 13,
+            "previous": 51,
+            "diff": -38,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-16": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-03": {
+                "position": 13,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ftfund.pl/pozyczki-pod-zastaw-olsztyn",
+            "previous": "",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 2.01
+          },
+          "searches": {
+            "current": 70
+          },
+          "trends": {
+            "history": [
+              70,
+              50,
+              90,
+              140,
+              70,
+              70,
+              90,
+              70,
+              10,
+              10,
+              30,
+              70
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 28
+          },
+          "snippets": {
+            "current": [
+              "map",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      }
+    ],
+    "total": 23,
+    "domain": "ftfund.pl",
+    "endpoint": "get_history_keywords_wins"
+  }
+}

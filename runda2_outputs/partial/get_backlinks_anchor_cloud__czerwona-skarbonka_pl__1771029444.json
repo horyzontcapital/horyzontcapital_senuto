@@ -1,0 +1,67 @@
+{
+  "domain": "czerwona-skarbonka.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "czerwona-skarbonka.pl": [
+          {
+            "text": "",
+            "size": 1945,
+            "percent": 0.5194978632478633
+          },
+          {
+            "text": "https://www.czerwona-skarbonka.pl/",
+            "size": 930,
+            "percent": 0.2483974358974359
+          },
+          {
+            "text": "Czerwona Skarbonka",
+            "size": 163,
+            "percent": 0.043536324786324784
+          },
+          {
+            "text": "Spoofing – co to jest i jak się przed nim bronić?",
+            "size": 71,
+            "percent": 0.018963675213675212
+          },
+          {
+            "text": "Kredyt gotówkowy ranking",
+            "size": 33,
+            "percent": 0.008814102564102564
+          },
+          {
+            "text": "https://www.czerwona-skarbonka.pl",
+            "size": 24,
+            "percent": 0.00641025641025641
+          },
+          {
+            "text": "Aasa",
+            "size": 23,
+            "percent": 0.006143162393162393
+          },
+          {
+            "text": "https://www.czerwona-skarbonka.pl/ofin-opinie/",
+            "size": 21,
+            "percent": 0.005608974358974359
+          },
+          {
+            "text": "czerwona-skarbonka.pl",
+            "size": 16,
+            "percent": 0.004273504273504274
+          },
+          {
+            "text": "https://www.czerwona-skarbonka.pl/opoqa-finance-opinie/",
+            "size": 11,
+            "percent": 0.002938034188034188
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "czerwona-skarbonka.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

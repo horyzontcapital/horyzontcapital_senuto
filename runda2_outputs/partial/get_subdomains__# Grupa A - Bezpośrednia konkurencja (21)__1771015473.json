@@ -1,0 +1,11 @@
+{
+  "domain": "# Grupa A - Bezpośrednia konkurencja (21)",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": false,
+    "error": "HTTP 418: {\"success\":false,\"data\":{\"error\":{\"type\":\"invalid_data\",\"message\":\"Given data is invalid, please check the documentation or contact Administrator\",\"params\":{\"domain\":{\"invalid\":\"Incorrect input\"}}}}}",
+    "status": 418,
+    "domain": "# Grupa A - Bezpośrednia konkurencja (21)",
+    "endpoint": "get_subdomains"
+  }
+}

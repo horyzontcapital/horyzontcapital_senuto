@@ -1,0 +1,53 @@
+{
+  "domain": "wnioskomat.com",
+  "endpoint": "get_backlinks_tlds",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "tld": "pl",
+          "count": 137,
+          "percent": 0.8303030303030303
+        },
+        {
+          "tld": "com",
+          "count": 13,
+          "percent": 0.07878787878787878
+        },
+        {
+          "tld": "info",
+          "count": 12,
+          "percent": 0.07272727272727272
+        },
+        {
+          "tld": "ua",
+          "count": 1,
+          "percent": 0.006060606060606061
+        },
+        {
+          "tld": "net",
+          "count": 1,
+          "percent": 0.006060606060606061
+        },
+        {
+          "tld": "eu",
+          "count": 1,
+          "percent": 0.006060606060606061
+        }
+      ],
+      "pagination": {
+        "page_count": 1,
+        "current_page": 1,
+        "has_next_page": false,
+        "has_prev_page": false,
+        "count": 6,
+        "limit": 10
+      }
+    },
+    "status": 200,
+    "domain": "wnioskomat.com",
+    "endpoint": "get_backlinks_tlds"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "domain": "gawryszewskifinanse.pl",
+  "endpoint": "get_backlinks_tlds",
+  "data": {
+    "ok": false,
+    "error": "HTTP 418: {\"success\":false,\"data\":{\"error\":{\"type\":\"backlinks_api_error\",\"message\":\"External error while fetching data from backlinks API\"}}}",
+    "status": 418,
+    "domain": "gawryszewskifinanse.pl",
+    "endpoint": "get_backlinks_tlds"
+  }
+}

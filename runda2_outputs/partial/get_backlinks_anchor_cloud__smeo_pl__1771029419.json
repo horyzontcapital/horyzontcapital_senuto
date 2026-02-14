@@ -1,0 +1,67 @@
+{
+  "domain": "smeo.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "smeo.pl": [
+          {
+            "text": "SMEO",
+            "size": 31,
+            "percent": 0.11567164179104478
+          },
+          {
+            "text": "SMEO SMEO",
+            "size": 30,
+            "percent": 0.11194029850746269
+          },
+          {
+            "text": "",
+            "size": 24,
+            "percent": 0.08955223880597014
+          },
+          {
+            "text": "https://smeo.pl/faktoring/",
+            "size": 10,
+            "percent": 0.03731343283582089
+          },
+          {
+            "text": "faktoring",
+            "size": 9,
+            "percent": 0.033582089552238806
+          },
+          {
+            "text": "usługa faktoringu",
+            "size": 7,
+            "percent": 0.026119402985074626
+          },
+          {
+            "text": "ZOSTAW KONTAKT",
+            "size": 6,
+            "percent": 0.022388059701492536
+          },
+          {
+            "text": "smeo.pl",
+            "size": 6,
+            "percent": 0.022388059701492536
+          },
+          {
+            "text": "https://smeo.pl/",
+            "size": 5,
+            "percent": 0.018656716417910446
+          },
+          {
+            "text": "czym jest faktoring",
+            "size": 5,
+            "percent": 0.018656716417910446
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "smeo.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

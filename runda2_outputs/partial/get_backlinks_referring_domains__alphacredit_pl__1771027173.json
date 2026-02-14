@@ -1,0 +1,48 @@
+{
+  "domain": "alphacredit.pl",
+  "endpoint": "get_backlinks_referring_domains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "ref_domain": "emis.com",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.09254916220975604,
+        "backlinks_count": 2,
+        "links_external_count": 489502,
+        "percent_of_total": 0.6666666666666666,
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.6666666666666666
+        },
+        "top3": 297,
+        "top10": 4824,
+        "top50": 50202,
+        "visibility": 10473.57000000014,
+        "domain_rank": 23416,
+        "ads_equivalent": 9410.197350000006
+      },
+      {
+        "ref_domain": "annamaka.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 1,
+        "links_external_count": 0,
+        "percent_of_total": 0.3333333333333333,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.3333333333333333
+        },
+        "top3": 1,
+        "top10": 2,
+        "top50": 2,
+        "visibility": 33.4,
+        "domain_rank": 734384,
+        "ads_equivalent": 0
+      }
+    ],
+    "total": 2,
+    "domain": "alphacredit.pl",
+    "endpoint": "get_backlinks_referring_domains"
+  }
+}

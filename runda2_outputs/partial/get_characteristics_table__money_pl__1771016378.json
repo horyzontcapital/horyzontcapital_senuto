@@ -1,0 +1,1294 @@
+{
+  "domain": "money.pl",
+  "endpoint": "get_characteristics_table",
+  "data": {
+    "ok": true,
+    "data": {
+      "words_count": {
+        "success": true,
+        "data": [
+          {
+            "top3": 194,
+            "top10": 1140,
+            "count": "5932",
+            "visibility_sum": 1201072.5809999998,
+            "key": 1,
+            "top50": 5932,
+            "visibility_domain": 3547605.138999986,
+            "visibility_percent": 33.86
+          },
+          {
+            "top3": 4300,
+            "top10": 18964,
+            "count": "82034",
+            "visibility_sum": 1274119.7809999923,
+            "key": 2,
+            "top50": 82034,
+            "visibility_domain": 3547605.138999986,
+            "visibility_percent": 35.91
+          },
+          {
+            "top3": 6541,
+            "top10": 26242,
+            "count": "111448",
+            "visibility_sum": 591085.5369999927,
+            "key": 3,
+            "top50": 111448,
+            "visibility_domain": 3547605.138999986,
+            "visibility_percent": 16.66
+          },
+          {
+            "top3": 5291,
+            "top10": 20899,
+            "count": "89379",
+            "visibility_sum": 269070.30900000053,
+            "key": 4,
+            "top50": 89379,
+            "visibility_domain": 3547605.138999986,
+            "visibility_percent": 7.58
+          },
+          {
+            "top3": 3171,
+            "top10": 12348,
+            "count": "55749",
+            "visibility_sum": 154496.36900000018,
+            "key": 5,
+            "top50": 55749,
+            "visibility_domain": 3547605.138999986,
+            "visibility_percent": 4.35
+          },
+          {
+            "top3": 1293,
+            "top10": 5508,
+            "count": "27292",
+            "visibility_sum": 39350.24600000005,
+            "key": 6,
+            "top50": 27292,
+            "visibility_domain": 3547605.138999986,
+            "visibility_percent": 1.11
+          },
+          {
+            "top3": 496,
+            "top10": 2071,
+            "count": "11864",
+            "visibility_sum": 13495.364999999994,
+            "key": 7,
+            "top50": 11864,
+            "visibility_domain": 3547605.138999986,
+            "visibility_percent": 0.38
+          },
+          {
+            "top3": 101,
+            "top10": 481,
+            "count": "2400",
+            "visibility_sum": 2895.0169999999994,
+            "key": 8,
+            "top50": 2400,
+            "visibility_domain": 3547605.138999986,
+            "visibility_percent": 0.08
+          },
+          {
+            "top3": 36,
+            "top10": 211,
+            "count": "920",
+            "visibility_sum": 1670.6740000000002,
+            "key": 9,
+            "top50": 920,
+            "visibility_domain": 3547605.138999986,
+            "visibility_percent": 0.05
+          },
+          {
+            "top3": 18,
+            "top10": 63,
+            "count": "347",
+            "visibility_sum": 349.26,
+            "key": 10,
+            "top50": 347,
+            "visibility_domain": 3547605.138999986,
+            "visibility_percent": 0.01
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 10,
+          "limit": 100
+        }
+      },
+      "trends": {
+        "success": true,
+        "data": [
+          {
+            "key": "trend_1",
+            "top3": 1004,
+            "top10": 3990,
+            "top50": 15803,
+            "visibility_domain": null,
+            "visibility_percent": 9.8,
+            "visibility_sum": 164129
+          },
+          {
+            "key": "trend_2",
+            "top3": 795,
+            "top10": 3091,
+            "top50": 13282,
+            "visibility_domain": null,
+            "visibility_percent": 4.45,
+            "visibility_sum": 74496
+          },
+          {
+            "key": "trend_3",
+            "top3": 993,
+            "top10": 4340,
+            "top50": 16369,
+            "visibility_domain": null,
+            "visibility_percent": 7.91,
+            "visibility_sum": 132380
+          },
+          {
+            "key": "trend_4",
+            "top3": 595,
+            "top10": 2754,
+            "top50": 11268,
+            "visibility_domain": null,
+            "visibility_percent": 3.95,
+            "visibility_sum": 66203
+          },
+          {
+            "key": "trend_5",
+            "top3": 734,
+            "top10": 2724,
+            "top50": 10731,
+            "visibility_domain": null,
+            "visibility_percent": 4.62,
+            "visibility_sum": 77350
+          },
+          {
+            "key": "trend_6",
+            "top3": 566,
+            "top10": 2347,
+            "top50": 9366,
+            "visibility_domain": null,
+            "visibility_percent": 15.1,
+            "visibility_sum": 252830
+          },
+          {
+            "key": "trend_7",
+            "top3": 609,
+            "top10": 2596,
+            "top50": 10763,
+            "visibility_domain": null,
+            "visibility_percent": 16.62,
+            "visibility_sum": 278407
+          },
+          {
+            "key": "trend_8",
+            "top3": 818,
+            "top10": 3061,
+            "top50": 12068,
+            "visibility_domain": null,
+            "visibility_percent": 6.58,
+            "visibility_sum": 110147
+          },
+          {
+            "key": "trend_9",
+            "top3": 1057,
+            "top10": 3452,
+            "top50": 12672,
+            "visibility_domain": null,
+            "visibility_percent": 7.14,
+            "visibility_sum": 119596
+          },
+          {
+            "key": "trend_10",
+            "top3": 867,
+            "top10": 3036,
+            "top50": 11032,
+            "visibility_domain": null,
+            "visibility_percent": 7.13,
+            "visibility_sum": 119442
+          },
+          {
+            "key": "trend_11",
+            "top3": 774,
+            "top10": 2736,
+            "top50": 11359,
+            "visibility_domain": null,
+            "visibility_percent": 8.49,
+            "visibility_sum": 142232
+          },
+          {
+            "key": "trend_12",
+            "top3": 590,
+            "top10": 2135,
+            "top50": 9047,
+            "visibility_domain": null,
+            "visibility_percent": 8.21,
+            "visibility_sum": 137419
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 12,
+          "limit": 100
+        }
+      },
+      "searches": {
+        "success": true,
+        "data": [
+          {
+            "searches": 0,
+            "count": 566,
+            "top3": 24,
+            "top10": 91,
+            "top50": 566,
+            "visibility_sum": 1.587,
+            "key": 0,
+            "visibility_domain": 3547605.1389999995,
+            "visibility_percent": 0
+          },
+          {
+            "searches": 10,
+            "count": 99759,
+            "top3": 5393,
+            "top10": 20972,
+            "top50": 99753,
+            "visibility_sum": 15960.919999999845,
+            "key": 10,
+            "visibility_domain": 3547605.1389999995,
+            "visibility_percent": 0.45
+          },
+          {
+            "searches": 20,
+            "count": 62048,
+            "top3": 3363,
+            "top10": 13464,
+            "top50": 62048,
+            "visibility_sum": 20338.170999999882,
+            "key": 20,
+            "visibility_domain": 3547605.1389999995,
+            "visibility_percent": 0.57
+          },
+          {
+            "searches": 30,
+            "count": 39970,
+            "top3": 2235,
+            "top10": 8776,
+            "top50": 39970,
+            "visibility_sum": 20181.50799999997,
+            "key": 30,
+            "visibility_domain": 3547605.1389999995,
+            "visibility_percent": 0.57
+          },
+          {
+            "searches": 40,
+            "count": 25678,
+            "top3": 1342,
+            "top10": 5668,
+            "top50": 25678,
+            "visibility_sum": 16374.660999999967,
+            "key": 40,
+            "visibility_domain": 3547605.1389999995,
+            "visibility_percent": 0.46
+          },
+          {
+            "searches": 50,
+            "count": 30714,
+            "top3": 1803,
+            "top10": 7016,
+            "top50": 30714,
+            "visibility_sum": 26745.78300000003,
+            "key": 50,
+            "visibility_domain": 3547605.1389999995,
+            "visibility_percent": 0.75
+          },
+          {
+            "searches": 70,
+            "count": 24758,
+            "top3": 1417,
+            "top10": 5711,
+            "top50": 24758,
+            "visibility_sum": 29477.090000000062,
+            "key": 70,
+            "visibility_domain": 3547605.1389999995,
+            "visibility_percent": 0.83
+          },
+          {
+            "searches": 90,
+            "count": 16838,
+            "top3": 961,
+            "top10": 3964,
+            "top50": 16838,
+            "visibility_sum": 25859.640999999996,
+            "key": 90,
+            "visibility_domain": 3547605.1389999995,
+            "visibility_percent": 0.73
+          },
+          {
+            "searches": 110,
+            "count": 13175,
+            "top3": 769,
+            "top10": 3179,
+            "top50": 13175,
+            "visibility_sum": 25712.512999999977,
+            "key": 110,
+            "visibility_domain": 3547605.1389999995,
+            "visibility_percent": 0.72
+          },
+          {
+            "searches": 140,
+            "count": 11373,
+            "top3": 643,
+            "top10": 2763,
+            "top50": 11373,
+            "visibility_sum": 27600.66300000004,
+            "key": 140,
+            "visibility_domain": 3547605.1389999995,
+            "visibility_percent": 0.78
+          },
+          {
+            "searches": 170,
+            "count": 10463,
+            "top3": 647,
+            "top10": 2623,
+            "top50": 10463,
+            "visibility_sum": 32661.547000000013,
+            "key": 170,
+            "visibility_domain": 3547605.1389999995,
+            "visibility_percent": 0.92
+          },
+          {
+            "searches": 210,
+            "count": 7210,
+            "top3": 423,
+            "top10": 1832,
+            "top50": 7210,
+            "visibility_sum": 27975.63400000003,
+            "key": 210,
+            "visibility_domain": 3547605.1389999995,
+            "visibility_percent": 0.79
+          },
+          {
+            "searches": 260,
+            "count": 6931,
+            "top3": 401,
+            "top10": 1778,
+            "top50": 6931,
+            "visibility_sum": 31042.259999999984,
+            "key": 260,
+            "visibility_domain": 3547605.1389999995,
+            "visibility_percent": 0.88
+          },
+          {
+            "searches": 320,
+            "count": 5851,
+            "top3": 339,
+            "top10": 1502,
+            "top50": 5851,
+            "visibility_sum": 33930.031,
+            "key": 320,
+            "visibility_domain": 3547605.1389999995,
+            "visibility_percent": 0.96
+          },
+          {
+            "searches": 390,
+            "count": 4956,
+            "top3": 297,
+            "top10": 1276,
+            "top50": 4956,
+            "visibility_sum": 35725.41600000004,
+            "key": 390,
+            "visibility_domain": 3547605.1389999995,
+            "visibility_percent": 1.01
+          },
+          {
+            "searches": 480,
+            "count": 4073,
+            "top3": 214,
+            "top10": 1094,
+            "top50": 4073,
+            "visibility_sum": 34179.33099999999,
+            "key": 480,
+            "visibility_domain": 3547605.1389999995,
+            "visibility_percent": 0.96
+          },
+          {
+            "searches": 500,
+            "count": 1,
+            "top3": 0,
+            "top10": 0,
+            "top50": 1,
+            "visibility_sum": 0,
+            "key": 500,
+            "visibility_domain": 3547605.1389999995,
+            "visibility_percent": 0
+          },
+          {
+            "searches": 590,
+            "count": 3626,
+            "top3": 204,
+            "top10": 1013,
+            "top50": 3626,
+            "visibility_sum": 37899.11900000001,
+            "key": 590,
+            "visibility_domain": 3547605.1389999995,
+            "visibility_percent": 1.07
+          },
+          {
+            "searches": 720,
+            "count": 3092,
+            "top3": 144,
+            "top10": 811,
+            "top50": 3092,
+            "visibility_sum": 35562.57199999999,
+            "key": 720,
+            "visibility_domain": 3547605.1389999995,
+            "visibility_percent": 1
+          },
+          {
+            "searches": 880,
+            "count": 2650,
+            "top3": 123,
+            "top10": 720,
+            "top50": 2650,
+            "visibility_sum": 36254.401,
+            "key": 880,
+            "visibility_domain": 3547605.1389999995,
+            "visibility_percent": 1.02
+          },
+          {
+            "searches": 1000,
+            "count": 2085,
+            "top3": 106,
+            "top10": 561,
+            "top50": 2085,
+            "visibility_sum": 33744.35600000001,
+            "key": 1000,
+            "visibility_domain": 3547605.1389999995,
+            "visibility_percent": 0.95
+          },
+          {
+            "searches": 1300,
+            "count": 1812,
+            "top3": 94,
+            "top10": 490,
+            "top50": 1812,
+            "visibility_sum": 40737.729999999996,
+            "key": 1300,
+            "visibility_domain": 3547605.1389999995,
+            "visibility_percent": 1.15
+          },
+          {
+            "searches": 1600,
+            "count": 1546,
+            "top3": 80,
+            "top10": 416,
+            "top50": 1546,
+            "visibility_sum": 40802.271,
+            "key": 1600,
+            "visibility_domain": 3547605.1389999995,
+            "visibility_percent": 1.15
+          },
+          {
+            "searches": 1900,
+            "count": 1353,
+            "top3": 76,
+            "top10": 385,
+            "top50": 1353,
+            "visibility_sum": 46751.22299999998,
+            "key": 1900,
+            "visibility_domain": 3547605.1389999995,
+            "visibility_percent": 1.32
+          },
+          {
+            "searches": 2400,
+            "count": 1078,
+            "top3": 57,
+            "top10": 309,
+            "top50": 1078,
+            "visibility_sum": 44592.251,
+            "key": 2400,
+            "visibility_domain": 3547605.1389999995,
+            "visibility_percent": 1.26
+          },
+          {
+            "searches": 2900,
+            "count": 908,
+            "top3": 34,
+            "top10": 242,
+            "top50": 908,
+            "visibility_sum": 41148.55999999999,
+            "key": 2900,
+            "visibility_domain": 3547605.1389999995,
+            "visibility_percent": 1.16
+          },
+          {
+            "searches": 3600,
+            "count": 755,
+            "top3": 39,
+            "top10": 191,
+            "top50": 755,
+            "visibility_sum": 41760.035,
+            "key": 3600,
+            "visibility_domain": 3547605.1389999995,
+            "visibility_percent": 1.18
+          },
+          {
+            "searches": 4400,
+            "count": 711,
+            "top3": 29,
+            "top10": 204,
+            "top50": 711,
+            "visibility_sum": 45747.40000000001,
+            "key": 4400,
+            "visibility_domain": 3547605.1389999995,
+            "visibility_percent": 1.29
+          },
+          {
+            "searches": 5400,
+            "count": 554,
+            "top3": 25,
+            "top10": 139,
+            "top50": 554,
+            "visibility_sum": 49528.748,
+            "key": 5400,
+            "visibility_domain": 3547605.1389999995,
+            "visibility_percent": 1.4
+          },
+          {
+            "searches": 6600,
+            "count": 463,
+            "top3": 25,
+            "top10": 116,
+            "top50": 463,
+            "visibility_sum": 57795.619000000006,
+            "key": 6600,
+            "visibility_domain": 3547605.1389999995,
+            "visibility_percent": 1.63
+          },
+          {
+            "searches": 8100,
+            "count": 362,
+            "top3": 15,
+            "top10": 105,
+            "top50": 362,
+            "visibility_sum": 44156.30000000001,
+            "key": 8100,
+            "visibility_domain": 3547605.1389999995,
+            "visibility_percent": 1.24
+          },
+          {
+            "searches": 9900,
+            "count": 327,
+            "top3": 18,
+            "top10": 75,
+            "top50": 327,
+            "visibility_sum": 74370.79000000001,
+            "key": 9900,
+            "visibility_domain": 3547605.1389999995,
+            "visibility_percent": 2.1
+          },
+          {
+            "searches": 12100,
+            "count": 256,
+            "top3": 11,
+            "top10": 60,
+            "top50": 256,
+            "visibility_sum": 44781.87000000002,
+            "key": 12100,
+            "visibility_domain": 3547605.1389999995,
+            "visibility_percent": 1.26
+          },
+          {
+            "searches": 14800,
+            "count": 239,
+            "top3": 19,
+            "top10": 60,
+            "top50": 239,
+            "visibility_sum": 62004.27000000001,
+            "key": 14800,
+            "visibility_domain": 3547605.1389999995,
+            "visibility_percent": 1.75
+          },
+          {
+            "searches": 18100,
+            "count": 204,
+            "top3": 14,
+            "top10": 71,
+            "top50": 204,
+            "visibility_sum": 79742.63000000002,
+            "key": 18100,
+            "visibility_domain": 3547605.1389999995,
+            "visibility_percent": 2.25
+          },
+          {
+            "searches": 22200,
+            "count": 163,
+            "top3": 7,
+            "top10": 38,
+            "top50": 163,
+            "visibility_sum": 45994.998000000014,
+            "key": 22200,
+            "visibility_domain": 3547605.1389999995,
+            "visibility_percent": 1.3
+          },
+          {
+            "searches": 27100,
+            "count": 115,
+            "top3": 6,
+            "top10": 22,
+            "top50": 115,
+            "visibility_sum": 43905.86,
+            "key": 27100,
+            "visibility_domain": 3547605.1389999995,
+            "visibility_percent": 1.24
+          },
+          {
+            "searches": 33100,
+            "count": 121,
+            "top3": 9,
+            "top10": 36,
+            "top50": 121,
+            "visibility_sum": 71900.76999999999,
+            "key": 33100,
+            "visibility_domain": 3547605.1389999995,
+            "visibility_percent": 2.03
+          },
+          {
+            "searches": 40500,
+            "count": 93,
+            "top3": 5,
+            "top10": 25,
+            "top50": 93,
+            "visibility_sum": 55915.96,
+            "key": 40500,
+            "visibility_domain": 3547605.1389999995,
+            "visibility_percent": 1.58
+          },
+          {
+            "searches": 49500,
+            "count": 96,
+            "top3": 4,
+            "top10": 24,
+            "top50": 96,
+            "visibility_sum": 73267.1,
+            "key": 49500,
+            "visibility_domain": 3547605.1389999995,
+            "visibility_percent": 2.07
+          },
+          {
+            "searches": 60500,
+            "count": 64,
+            "top3": 4,
+            "top10": 25,
+            "top50": 64,
+            "visibility_sum": 91737.15,
+            "key": 60500,
+            "visibility_domain": 3547605.1389999995,
+            "visibility_percent": 2.59
+          },
+          {
+            "searches": 74000,
+            "count": 53,
+            "top3": 2,
+            "top10": 14,
+            "top50": 53,
+            "visibility_sum": 75147.2,
+            "key": 74000,
+            "visibility_domain": 3547605.1389999995,
+            "visibility_percent": 2.12
+          },
+          {
+            "searches": 90500,
+            "count": 47,
+            "top3": 6,
+            "top10": 9,
+            "top50": 47,
+            "visibility_sum": 88548.25,
+            "key": 90500,
+            "visibility_domain": 3547605.1389999995,
+            "visibility_percent": 2.5
+          },
+          {
+            "searches": 110000,
+            "count": 45,
+            "top3": 3,
+            "top10": 7,
+            "top50": 45,
+            "visibility_sum": 81662.9,
+            "key": 110000,
+            "visibility_domain": 3547605.1389999995,
+            "visibility_percent": 2.3
+          },
+          {
+            "searches": 135000,
+            "count": 33,
+            "top3": 5,
+            "top10": 12,
+            "top50": 33,
+            "visibility_sum": 194344.7,
+            "key": 135000,
+            "visibility_domain": 3547605.1389999995,
+            "visibility_percent": 5.48
+          },
+          {
+            "searches": 165000,
+            "count": 23,
+            "top3": 1,
+            "top10": 9,
+            "top50": 23,
+            "visibility_sum": 78026.6,
+            "key": 165000,
+            "visibility_domain": 3547605.1389999995,
+            "visibility_percent": 2.2
+          },
+          {
+            "searches": 201000,
+            "count": 29,
+            "top3": 1,
+            "top10": 4,
+            "top50": 29,
+            "visibility_sum": 36124.8,
+            "key": 201000,
+            "visibility_domain": 3547605.1389999995,
+            "visibility_percent": 1.02
+          },
+          {
+            "searches": 246000,
+            "count": 11,
+            "top3": 0,
+            "top10": 1,
+            "top50": 11,
+            "visibility_sum": 3788.4,
+            "key": 246000,
+            "visibility_domain": 3547605.1389999995,
+            "visibility_percent": 0.11
+          },
+          {
+            "searches": 301000,
+            "count": 19,
+            "top3": 0,
+            "top10": 7,
+            "top50": 19,
+            "visibility_sum": 59717.4,
+            "key": 301000,
+            "visibility_domain": 3547605.1389999995,
+            "visibility_percent": 1.68
+          },
+          {
+            "searches": 368000,
+            "count": 13,
+            "top3": 2,
+            "top10": 4,
+            "top50": 13,
+            "visibility_sum": 106530.5,
+            "key": 368000,
+            "visibility_domain": 3547605.1389999995,
+            "visibility_percent": 3
+          },
+          {
+            "searches": 450000,
+            "count": 5,
+            "top3": 0,
+            "top10": 3,
+            "top50": 5,
+            "visibility_sum": 18412.15,
+            "key": 450000,
+            "visibility_domain": 3547605.1389999995,
+            "visibility_percent": 0.52
+          },
+          {
+            "searches": 550000,
+            "count": 7,
+            "top3": 0,
+            "top10": 2,
+            "top50": 7,
+            "visibility_sum": 18370,
+            "key": 550000,
+            "visibility_domain": 3547605.1389999995,
+            "visibility_percent": 0.52
+          },
+          {
+            "searches": 673000,
+            "count": 10,
+            "top3": 1,
+            "top10": 2,
+            "top50": 10,
+            "visibility_sum": 89042.5,
+            "key": 673000,
+            "visibility_domain": 3547605.1389999995,
+            "visibility_percent": 2.51
+          },
+          {
+            "searches": 823000,
+            "count": 2,
+            "top3": 0,
+            "top10": 0,
+            "top50": 2,
+            "visibility_sum": 0,
+            "key": 823000,
+            "visibility_domain": 3547605.1389999995,
+            "visibility_percent": 0
+          },
+          {
+            "searches": 1000000,
+            "count": 6,
+            "top3": 0,
+            "top10": 0,
+            "top50": 6,
+            "visibility_sum": 0,
+            "key": 1000000,
+            "visibility_domain": 3547605.1389999995,
+            "visibility_percent": 0
+          },
+          {
+            "searches": 1220000,
+            "count": 6,
+            "top3": 0,
+            "top10": 2,
+            "top50": 6,
+            "visibility_sum": 163380,
+            "key": 1220000,
+            "visibility_domain": 3547605.1389999995,
+            "visibility_percent": 4.61
+          },
+          {
+            "searches": 1500000,
+            "count": 5,
+            "top3": 1,
+            "top10": 1,
+            "top50": 5,
+            "visibility_sum": 392448,
+            "key": 1500000,
+            "visibility_domain": 3547605.1389999995,
+            "visibility_percent": 11.06
+          },
+          {
+            "searches": 1830000,
+            "count": 2,
+            "top3": 0,
+            "top10": 0,
+            "top50": 2,
+            "visibility_sum": 0,
+            "key": 1830000,
+            "visibility_domain": 3547605.1389999995,
+            "visibility_percent": 0
+          },
+          {
+            "searches": 2240000,
+            "count": 3,
+            "top3": 0,
+            "top10": 1,
+            "top50": 3,
+            "visibility_sum": 101654,
+            "key": 2240000,
+            "visibility_domain": 3547605.1389999995,
+            "visibility_percent": 2.87
+          },
+          {
+            "searches": 2740000,
+            "count": 1,
+            "top3": 0,
+            "top10": 0,
+            "top50": 1,
+            "visibility_sum": 0,
+            "key": 2740000,
+            "visibility_domain": 3547605.1389999995,
+            "visibility_percent": 0
+          },
+          {
+            "searches": 3350000,
+            "count": 2,
+            "top3": 0,
+            "top10": 0,
+            "top50": 2,
+            "visibility_sum": 0,
+            "key": 3350000,
+            "visibility_domain": 3547605.1389999995,
+            "visibility_percent": 0
+          },
+          {
+            "searches": 4090000,
+            "count": 2,
+            "top3": 0,
+            "top10": 1,
+            "top50": 2,
+            "visibility_sum": 151739,
+            "key": 4090000,
+            "visibility_domain": 3547605.1389999995,
+            "visibility_percent": 4.28
+          },
+          {
+            "searches": 5000000,
+            "count": 1,
+            "top3": 0,
+            "top10": 0,
+            "top50": 1,
+            "visibility_sum": 0,
+            "key": 5000000,
+            "visibility_domain": 3547605.1389999995,
+            "visibility_percent": 0
+          },
+          {
+            "searches": 7480000,
+            "count": 1,
+            "top3": 0,
+            "top10": 0,
+            "top50": 1,
+            "visibility_sum": 0,
+            "key": 7480000,
+            "visibility_domain": 3547605.1389999995,
+            "visibility_percent": 0
+          },
+          {
+            "searches": 13600000,
+            "count": 1,
+            "top3": 0,
+            "top10": 0,
+            "top50": 1,
+            "visibility_sum": 0,
+            "key": 13600000,
+            "visibility_domain": 3547605.1389999995,
+            "visibility_percent": 0
+          },
+          {
+            "searches": 16600000,
+            "count": 1,
+            "top3": 0,
+            "top10": 1,
+            "top50": 1,
+            "visibility_sum": 244800,
+            "key": 16600000,
+            "visibility_domain": 3547605.1389999995,
+            "visibility_percent": 6.9
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 66,
+          "limit": 100
+        }
+      },
+      "difficulty": {
+        "success": true,
+        "data": {
+          "1-10": {
+            "top3": 365,
+            "top10": 1421,
+            "top50": 5623,
+            "visibility_sum": 3965,
+            "key": "1-10",
+            "min": 1,
+            "max": 10,
+            "visibility_domain": 3538967,
+            "visibility_percent": 0.11
+          },
+          "11-20": {
+            "top3": 4618,
+            "top10": 18747,
+            "top50": 68463,
+            "visibility_sum": 77480,
+            "key": "11-20",
+            "min": 11,
+            "max": 20,
+            "visibility_domain": 3538967,
+            "visibility_percent": 2.19
+          },
+          "21-30": {
+            "top3": 7688,
+            "top10": 31647,
+            "top50": 134272,
+            "visibility_sum": 262774,
+            "key": "21-30",
+            "min": 21,
+            "max": 30,
+            "visibility_domain": 3538967,
+            "visibility_percent": 7.43
+          },
+          "31-40": {
+            "top3": 5636,
+            "top10": 22794,
+            "top50": 110282,
+            "visibility_sum": 346564,
+            "key": "31-40",
+            "min": 31,
+            "max": 40,
+            "visibility_domain": 3538967,
+            "visibility_percent": 9.79
+          },
+          "41-50": {
+            "top3": 2187,
+            "top10": 9171,
+            "top50": 47445,
+            "visibility_sum": 516932,
+            "key": "41-50",
+            "min": 41,
+            "max": 50,
+            "visibility_domain": 3538967,
+            "visibility_percent": 14.61
+          },
+          "51-60": {
+            "top3": 612,
+            "top10": 2522,
+            "top50": 13386,
+            "visibility_sum": 920061,
+            "key": "51-60",
+            "min": 51,
+            "max": 60,
+            "visibility_domain": 3538967,
+            "visibility_percent": 26
+          },
+          "61-70": {
+            "top3": 102,
+            "top10": 558,
+            "top50": 2997,
+            "visibility_sum": 348751,
+            "key": "61-70",
+            "min": 61,
+            "max": 70,
+            "visibility_domain": 3538967,
+            "visibility_percent": 9.85
+          },
+          "71-80": {
+            "top3": 30,
+            "top10": 109,
+            "top50": 557,
+            "visibility_sum": 940012,
+            "key": "71-80",
+            "min": 71,
+            "max": 80,
+            "visibility_domain": 3538967,
+            "visibility_percent": 26.56
+          },
+          "81-90": {
+            "top3": 4,
+            "top10": 11,
+            "top50": 64,
+            "visibility_sum": 37669,
+            "key": "81-90",
+            "min": 81,
+            "max": 90,
+            "visibility_domain": 3538967,
+            "visibility_percent": 1.06
+          },
+          "91-100": {
+            "top3": 2,
+            "top10": 4,
+            "top50": 12,
+            "visibility_sum": 84759,
+            "key": "91-100",
+            "min": 91,
+            "max": 100,
+            "visibility_domain": 3538967,
+            "visibility_percent": 2.4
+          }
+        },
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 10,
+          "limit": 100
+        }
+      },
+      "keyword_params": {
+        "success": true,
+        "data": [
+          {
+            "key": "city",
+            "top3": 1601,
+            "top10": 11082,
+            "top50": 34424,
+            "visibility_domain": 3547605,
+            "visibility_percent": 4.08,
+            "visibility_sum": 144753
+          },
+          {
+            "key": "brand",
+            "top3": 3945,
+            "top10": 21207,
+            "top50": 87770,
+            "visibility_domain": 3547605,
+            "visibility_percent": 40.46,
+            "visibility_sum": 1435250
+          },
+          {
+            "key": "name",
+            "top3": 1239,
+            "top10": 4477,
+            "top50": 16838,
+            "visibility_domain": 3547605,
+            "visibility_percent": 1.78,
+            "visibility_sum": 63068
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 3,
+          "limit": 100
+        }
+      },
+      "serp_params": {
+        "success": true,
+        "data": [
+          {
+            "param": "people_also_ask",
+            "top3": 19241,
+            "top10": 78609,
+            "top50": 344304,
+            "visibility": 2755308,
+            "key": "people_also_ask",
+            "visibility_sum": 2755308,
+            "visibility_domain": 6134292,
+            "visibility_percent": 44.92
+          },
+          {
+            "param": "image_thumbs",
+            "top3": 13931,
+            "top10": 53996,
+            "top50": 242728,
+            "visibility": 1467552,
+            "key": "image_thumbs",
+            "visibility_sum": 1467552,
+            "visibility_domain": 6134292,
+            "visibility_percent": 23.92
+          },
+          {
+            "param": "map",
+            "top3": 342,
+            "top10": 2390,
+            "top50": 12588,
+            "visibility": 765939,
+            "key": "map",
+            "visibility_sum": 765939,
+            "visibility_domain": 6134292,
+            "visibility_percent": 12.49
+          },
+          {
+            "param": "wiki_right",
+            "top3": 1619,
+            "top10": 11082,
+            "top50": 39180,
+            "visibility": 665720,
+            "key": "wiki_right",
+            "visibility_sum": 665720,
+            "visibility_domain": 6134292,
+            "visibility_percent": 10.85
+          },
+          {
+            "param": "ai_overview",
+            "top3": 9557,
+            "top10": 35500,
+            "top50": 164740,
+            "visibility": 422295,
+            "key": "ai_overview",
+            "visibility_sum": 422295,
+            "visibility_domain": 6134292,
+            "visibility_percent": 6.88
+          },
+          {
+            "param": "spell",
+            "top3": 179,
+            "top10": 766,
+            "top50": 3681,
+            "visibility": 57313,
+            "key": "spell",
+            "visibility_sum": 57313,
+            "visibility_domain": 6134292,
+            "visibility_percent": 0.93
+          },
+          {
+            "param": "adwords",
+            "top3": 13,
+            "top10": 74,
+            "top50": 694,
+            "visibility": 138,
+            "key": "adwords",
+            "visibility_sum": 138,
+            "visibility_domain": 6134292,
+            "visibility_percent": 0
+          },
+          {
+            "param": "site_links",
+            "top3": 1,
+            "top10": 6,
+            "top50": 20,
+            "visibility": 24,
+            "key": "site_links",
+            "visibility_sum": 24,
+            "visibility_domain": 6134292,
+            "visibility_percent": 0
+          },
+          {
+            "param": "direct_answer",
+            "top3": 0,
+            "top10": 1,
+            "top50": 1,
+            "visibility": 3,
+            "key": "direct_answer",
+            "visibility_sum": 3,
+            "visibility_domain": 6134292,
+            "visibility_percent": 0
+          },
+          {
+            "param": "video_thumbs",
+            "top3": 0,
+            "top10": 0,
+            "top50": 2,
+            "visibility": 0,
+            "key": "video_thumbs",
+            "visibility_sum": 0,
+            "visibility_domain": 6134292,
+            "visibility_percent": 0
+          },
+          {
+            "param": "yellow_pages",
+            "top3": 0,
+            "top10": 1,
+            "top50": 2,
+            "visibility": 0,
+            "key": "yellow_pages",
+            "visibility_sum": 0,
+            "visibility_domain": 6134292,
+            "visibility_percent": 0
+          },
+          {
+            "param": "featured_answer",
+            "top3": 0,
+            "top10": 0,
+            "top50": 2,
+            "visibility": 0,
+            "key": "featured_answer",
+            "visibility_sum": 0,
+            "visibility_domain": 6134292,
+            "visibility_percent": 0
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 12,
+          "limit": 100
+        }
+      }
+    },
+    "chars_ok": 6,
+    "chars_total": 6,
+    "domain": "money.pl",
+    "endpoint": "get_characteristics_table"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "domain": "fintek.pl",
+  "endpoint": "get_backlinks_tlds",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "tld": "pl",
+          "count": 644,
+          "percent": 0.6558044806517311
+        },
+        {
+          "tld": "com",
+          "count": 214,
+          "percent": 0.21792260692464357
+        },
+        {
+          "tld": "org",
+          "count": 42,
+          "percent": 0.04276985743380855
+        },
+        {
+          "tld": "in",
+          "count": 25,
+          "percent": 0.025458248472505093
+        },
+        {
+          "tld": "eu",
+          "count": 13,
+          "percent": 0.013238289205702648
+        },
+        {
+          "tld": "biz",
+          "count": 5,
+          "percent": 0.0050916496945010185
+        },
+        {
+          "tld": "wiki",
+          "count": 5,
+          "percent": 0.0050916496945010185
+        },
+        {
+          "tld": "co",
+          "count": 4,
+          "percent": 0.004073319755600814
+        },
+        {
+          "tld": "lu",
+          "count": 3,
+          "percent": 0.003054989816700611
+        },
+        {
+          "tld": "io",
+          "count": 3,
+          "percent": 0.003054989816700611
+        }
+      ],
+      "pagination": {
+        "page_count": 3,
+        "current_page": 1,
+        "has_next_page": true,
+        "has_prev_page": false,
+        "count": 26,
+        "limit": 10
+      }
+    },
+    "status": 200,
+    "domain": "fintek.pl",
+    "endpoint": "get_backlinks_tlds"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "domain": "monevia.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "monevia.pl": [
+          {
+            "text": "",
+            "size": 12,
+            "percent": 0.06451612903225806
+          },
+          {
+            "text": "Monevia",
+            "size": 12,
+            "percent": 0.06451612903225806
+          },
+          {
+            "text": "http://monevia.pl/",
+            "size": 9,
+            "percent": 0.04838709677419355
+          },
+          {
+            "text": "https://www.monevia.pl/",
+            "size": 8,
+            "percent": 0.043010752688172046
+          },
+          {
+            "text": "Usługi faktoringowe",
+            "size": 8,
+            "percent": 0.043010752688172046
+          },
+          {
+            "text": "monevia.pl",
+            "size": 6,
+            "percent": 0.03225806451612903
+          },
+          {
+            "text": "www.monevia.pl",
+            "size": 6,
+            "percent": 0.03225806451612903
+          },
+          {
+            "text": "https://www.monevia.pl/dla-kogo-sprzedaz-faktur/",
+            "size": 5,
+            "percent": 0.026881720430107527
+          },
+          {
+            "text": "link",
+            "size": 4,
+            "percent": 0.021505376344086023
+          },
+          {
+            "text": "faktoring dla transportu",
+            "size": 4,
+            "percent": 0.021505376344086023
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "monevia.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

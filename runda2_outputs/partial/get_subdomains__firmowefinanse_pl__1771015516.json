@@ -1,0 +1,54 @@
+{
+  "domain": "firmowefinanse.pl",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "firmowefinanse.pl",
+        "keywords_count": 142,
+        "visibility_percent": 100,
+        "statistics": {
+          "visibility": {
+            "current": 525.42,
+            "previous": 522.39,
+            "diff": 3.03,
+            "percent": 0.0058,
+            "history": null
+          },
+          "top3": {
+            "current": 50,
+            "previous": 50,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 142,
+            "previous": 140,
+            "diff": 2,
+            "percent": 0.0143,
+            "history": null
+          },
+          "top50": {
+            "current": 491,
+            "previous": 493,
+            "diff": -2,
+            "percent": -0.0041,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 100,
+            "previous": 100,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "firmowefinanse.pl",
+    "endpoint": "get_subdomains"
+  }
+}

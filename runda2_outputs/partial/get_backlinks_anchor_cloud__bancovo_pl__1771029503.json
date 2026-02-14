@@ -1,0 +1,67 @@
+{
+  "domain": "bancovo.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "bancovo.pl": [
+          {
+            "text": "https://www.bancovo.pl/",
+            "size": 12,
+            "percent": 0.08955223880597014
+          },
+          {
+            "text": "www.bancovo.pl",
+            "size": 8,
+            "percent": 0.05970149253731343
+          },
+          {
+            "text": "Strona za chwilę się otworzy. Do użycia tej oferty nie potrzeba kodu.",
+            "size": 5,
+            "percent": 0.03731343283582089
+          },
+          {
+            "text": "Bancovo",
+            "size": 4,
+            "percent": 0.029850746268656716
+          },
+          {
+            "text": "https://www.bancovo.pl/landing/kredyt-na-dowolny-cel/",
+            "size": 3,
+            "percent": 0.022388059701492536
+          },
+          {
+            "text": "kredyt konsolidacyjny",
+            "size": 3,
+            "percent": 0.022388059701492536
+          },
+          {
+            "text": "Możesz to&nbsp;sprawdzić tutaj.",
+            "size": 3,
+            "percent": 0.022388059701492536
+          },
+          {
+            "text": "",
+            "size": 3,
+            "percent": 0.022388059701492536
+          },
+          {
+            "text": "Website",
+            "size": 3,
+            "percent": 0.022388059701492536
+          },
+          {
+            "text": "Bankovo",
+            "size": 2,
+            "percent": 0.014925373134328358
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "bancovo.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

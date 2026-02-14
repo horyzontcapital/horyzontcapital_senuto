@@ -1,0 +1,89 @@
+{
+  "domain": "fintek.pl",
+  "endpoint": "get_competitors_analysis",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "keyword": "pożyczki pozabankowe bez zdolności kredytowej",
+          "cpc": 6.05,
+          "searches": 110,
+          "trends": [
+            110,
+            110,
+            110,
+            110,
+            140,
+            90,
+            140,
+            140,
+            90,
+            90,
+            140,
+            140
+          ],
+          "difficulty": 42,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 39,
+            "url": "horyzontcapital.com/blog/gdzie-dostane-kredyt-bez-zdolnosci-kredytowej"
+          },
+          "horyzontcapital.com_pos": 39,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/gdzie-dostane-kredyt-bez-zdolnosci-kredytowej",
+          "fintek.pl": {
+            "pos": 10,
+            "url": "fintek.pl/pozyczki-chwilowki-online/"
+          },
+          "fintek.pl_pos": 10,
+          "fintek.pl_url": "fintek.pl/pozyczki-chwilowki-online/"
+        },
+        {
+          "keyword": "pozabankowe instytucje finansowe",
+          "cpc": 0.11,
+          "searches": 50,
+          "trends": [
+            50,
+            50,
+            140,
+            90,
+            110,
+            70,
+            40,
+            20,
+            20,
+            20,
+            20,
+            50
+          ],
+          "difficulty": 30,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 22,
+            "url": "horyzontcapital.com/blog/czym-rozni-sie-finansowanie-pozabankowe-od-kredytu-bankowego"
+          },
+          "horyzontcapital.com_pos": 22,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/czym-rozni-sie-finansowanie-pozabankowe-od-kredytu-bankowego",
+          "fintek.pl": {
+            "pos": 39,
+            "url": "fintek.pl/pozyczki-chwilowki-online/"
+          },
+          "fintek.pl_pos": 39,
+          "fintek.pl_url": "fintek.pl/pozyczki-chwilowki-online/"
+        }
+      ],
+      "pagination": {
+        "page_count": 1,
+        "current_page": 1,
+        "has_next_page": false,
+        "has_prev_page": false,
+        "count": 2,
+        "limit": 100
+      }
+    },
+    "status": 200,
+    "domain": "fintek.pl",
+    "endpoint": "get_competitors_analysis"
+  }
+}

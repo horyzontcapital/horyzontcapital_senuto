@@ -1,0 +1,67 @@
+{
+  "domain": "fintek.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "fintek.pl": [
+          {
+            "text": "",
+            "size": 133,
+            "percent": 0.1354378818737271
+          },
+          {
+            "text": "fintek",
+            "size": 74,
+            "percent": 0.07535641547861507
+          },
+          {
+            "text": "źródło",
+            "size": 71,
+            "percent": 0.07230142566191446
+          },
+          {
+            "text": "fintek.pl",
+            "size": 48,
+            "percent": 0.048879837067209775
+          },
+          {
+            "text": "Fintek.pl",
+            "size": 43,
+            "percent": 0.04378818737270876
+          },
+          {
+            "text": "https://fintek.pl/parlament-europejski-przyjal-akt-o-sztucznej-inteligencji/",
+            "size": 17,
+            "percent": 0.017311608961303463
+          },
+          {
+            "text": "Fintek",
+            "size": 11,
+            "percent": 0.01120162932790224
+          },
+          {
+            "text": "(źródło )",
+            "size": 10,
+            "percent": 0.010183299389002037
+          },
+          {
+            "text": "tutaj",
+            "size": 10,
+            "percent": 0.010183299389002037
+          },
+          {
+            "text": "https://fintek.pl/nowa-dyrektywa-ue-w-sprawie-sprzedazy-uslug-finansowych-na-odleglosc/",
+            "size": 8,
+            "percent": 0.008146639511201629
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "fintek.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

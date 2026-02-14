@@ -1,0 +1,54 @@
+{
+  "domain": "forsel.pl",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "forsel.pl",
+        "keywords_count": 6,
+        "visibility_percent": 99.96,
+        "statistics": {
+          "visibility": {
+            "current": 2.82,
+            "previous": 2.51,
+            "diff": 0.31,
+            "percent": 0.1235,
+            "history": null
+          },
+          "top3": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 6,
+            "previous": 5,
+            "diff": 1,
+            "percent": 0.2,
+            "history": null
+          },
+          "top50": {
+            "current": 84,
+            "previous": 86,
+            "diff": -2,
+            "percent": -0.0233,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 99.96,
+            "previous": 100.04,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "forsel.pl",
+    "endpoint": "get_subdomains"
+  }
+}

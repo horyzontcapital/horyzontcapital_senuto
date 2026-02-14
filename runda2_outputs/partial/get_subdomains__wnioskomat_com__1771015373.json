@@ -1,0 +1,54 @@
+{
+  "domain": "wnioskomat.com",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "wnioskomat.com",
+        "keywords_count": 2041,
+        "visibility_percent": 100,
+        "statistics": {
+          "visibility": {
+            "current": 35946.51,
+            "previous": 22189.26,
+            "diff": 13757.26,
+            "percent": 0.62,
+            "history": null
+          },
+          "top3": {
+            "current": 408,
+            "previous": 415,
+            "diff": -7,
+            "percent": -0.0169,
+            "history": null
+          },
+          "top10": {
+            "current": 2041,
+            "previous": 2108,
+            "diff": -67,
+            "percent": -0.0318,
+            "history": null
+          },
+          "top50": {
+            "current": 17142,
+            "previous": 17310,
+            "diff": -168,
+            "percent": -0.0097,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 100,
+            "previous": 100,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "wnioskomat.com",
+    "endpoint": "get_subdomains"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "domain": "horyzontcapital.com",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "horyzontcapital.com",
+        "keywords_count": 14,
+        "visibility_percent": 99.99,
+        "statistics": {
+          "visibility": {
+            "current": 31.74,
+            "previous": 20.88,
+            "diff": 10.86,
+            "percent": 0.5201,
+            "history": null
+          },
+          "top3": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 14,
+            "previous": 12,
+            "diff": 2,
+            "percent": 0.1667,
+            "history": null
+          },
+          "top50": {
+            "current": 104,
+            "previous": 96,
+            "diff": 8,
+            "percent": 0.0833,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 99.99,
+            "previous": 100,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "horyzontcapital.com",
+    "endpoint": "get_subdomains"
+  }
+}

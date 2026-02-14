@@ -1,0 +1,183 @@
+{
+  "domain": "credithub.pl",
+  "endpoint": "get_backlinks_anchor_data",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "link_domain": "credithub.pl",
+        "is_main_domain": true,
+        "anchor": "kredyty i pożyczki dla firm",
+        "anchor_type": [],
+        "count": {
+          "count": 15,
+          "percent_of_total": 0.19736842105263158
+        },
+        "domains_with_anchor_count": 14,
+        "anchors_uniq_count": 14,
+        "percent_of_total": 0.19736842105263158
+      },
+      {
+        "link_domain": "credithub.pl",
+        "is_main_domain": true,
+        "anchor": "konsolidacja kredytu firmowego",
+        "anchor_type": [],
+        "count": {
+          "count": 10,
+          "percent_of_total": 0.13157894736842105
+        },
+        "domains_with_anchor_count": 8,
+        "anchors_uniq_count": 8,
+        "percent_of_total": 0.13157894736842105
+      },
+      {
+        "link_domain": "credithub.pl",
+        "is_main_domain": true,
+        "anchor": "kredyt bez BIKu i KRD przez internet",
+        "anchor_type": [],
+        "count": {
+          "count": 10,
+          "percent_of_total": 0.13157894736842105
+        },
+        "domains_with_anchor_count": 8,
+        "anchors_uniq_count": 8,
+        "percent_of_total": 0.13157894736842105
+      },
+      {
+        "link_domain": "credithub.pl",
+        "is_main_domain": true,
+        "anchor": "kredyt dla rolnika",
+        "anchor_type": [],
+        "count": {
+          "count": 9,
+          "percent_of_total": 0.11842105263157894
+        },
+        "domains_with_anchor_count": 9,
+        "anchors_uniq_count": 9,
+        "percent_of_total": 0.11842105263157894
+      },
+      {
+        "link_domain": "credithub.pl",
+        "is_main_domain": true,
+        "anchor": "kredyt dla firm bez bik i krd",
+        "anchor_type": [],
+        "count": {
+          "count": 8,
+          "percent_of_total": 0.10526315789473684
+        },
+        "domains_with_anchor_count": 8,
+        "anchors_uniq_count": 8,
+        "percent_of_total": 0.10526315789473684
+      },
+      {
+        "link_domain": "credithub.pl",
+        "is_main_domain": true,
+        "anchor": "kredyt dla firm bez BIK i KRD",
+        "anchor_type": [],
+        "count": {
+          "count": 7,
+          "percent_of_total": 0.09210526315789473
+        },
+        "domains_with_anchor_count": 7,
+        "anchors_uniq_count": 7,
+        "percent_of_total": 0.09210526315789473
+      },
+      {
+        "link_domain": "credithub.pl",
+        "is_main_domain": true,
+        "anchor": "Kredyt dla firm bez bik i krd",
+        "anchor_type": [],
+        "count": {
+          "count": 4,
+          "percent_of_total": 0.05263157894736842
+        },
+        "domains_with_anchor_count": 3,
+        "anchors_uniq_count": 3,
+        "percent_of_total": 0.05263157894736842
+      },
+      {
+        "link_domain": "credithub.pl",
+        "is_main_domain": true,
+        "anchor": "kredytowi dla rolnika",
+        "anchor_type": [],
+        "count": {
+          "count": 3,
+          "percent_of_total": 0.039473684210526314
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.039473684210526314
+      },
+      {
+        "link_domain": "credithub.pl",
+        "is_main_domain": true,
+        "anchor": "Kredyt dla lekarza",
+        "anchor_type": [],
+        "count": {
+          "count": 3,
+          "percent_of_total": 0.039473684210526314
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.039473684210526314
+      },
+      {
+        "link_domain": "credithub.pl",
+        "is_main_domain": true,
+        "anchor": "kredyt dla lekarza",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.02631578947368421
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 0.02631578947368421
+      },
+      {
+        "link_domain": "credithub.pl",
+        "is_main_domain": true,
+        "anchor": "pożyczki dla firm bez BIK i KRD",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.02631578947368421
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 0.02631578947368421
+      },
+      {
+        "link_domain": "credithub.pl",
+        "is_main_domain": true,
+        "anchor": "Kredyt dla rolników",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.02631578947368421
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 0.02631578947368421
+      },
+      {
+        "link_domain": "credithub.pl",
+        "is_main_domain": true,
+        "anchor": "https://credithub.pl/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.013157894736842105
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.013157894736842105
+      }
+    ],
+    "total": 13,
+    "domain": "credithub.pl",
+    "endpoint": "get_backlinks_anchor_data"
+  }
+}

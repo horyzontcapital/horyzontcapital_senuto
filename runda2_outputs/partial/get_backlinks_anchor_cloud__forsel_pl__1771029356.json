@@ -1,0 +1,67 @@
+{
+  "domain": "forsel.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "forsel.pl": [
+          {
+            "text": "FORSEL FINANCE Magdalena Sobecka",
+            "size": 39,
+            "percent": 0.19306930693069307
+          },
+          {
+            "text": "https://www.forsel.pl/",
+            "size": 32,
+            "percent": 0.15841584158415842
+          },
+          {
+            "text": "forsel",
+            "size": 9,
+            "percent": 0.04455445544554455
+          },
+          {
+            "text": "Forsel",
+            "size": 7,
+            "percent": 0.034653465346534656
+          },
+          {
+            "text": "http://forsel.pl/",
+            "size": 7,
+            "percent": 0.034653465346534656
+          },
+          {
+            "text": "odkryj stronę",
+            "size": 4,
+            "percent": 0.019801980198019802
+          },
+          {
+            "text": "https://www.forsel.pl/kredyty-dla-firm/kredyt-obrotowy",
+            "size": 3,
+            "percent": 0.01485148514851485
+          },
+          {
+            "text": "www",
+            "size": 3,
+            "percent": 0.01485148514851485
+          },
+          {
+            "text": "kredyt obrotowy dla firm",
+            "size": 3,
+            "percent": 0.01485148514851485
+          },
+          {
+            "text": "kredyt inwestycyjny dla nowych firm",
+            "size": 2,
+            "percent": 0.009900990099009901
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "forsel.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "domain": "splatapozyczek.pl",
+  "endpoint": "suggest_domains",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "favourite": [],
+        "suggested": [
+          "splatapozyczek.pl"
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "splatapozyczek.pl",
+    "endpoint": "suggest_domains"
+  }
+}

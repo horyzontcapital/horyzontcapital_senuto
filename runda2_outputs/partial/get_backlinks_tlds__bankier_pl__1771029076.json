@@ -1,0 +1,73 @@
+{
+  "domain": "bankier.pl",
+  "endpoint": "get_backlinks_tlds",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "tld": "pl",
+          "count": 3814708,
+          "percent": 0.9894534089992424
+        },
+        {
+          "tld": "com",
+          "count": 22060,
+          "percent": 0.005721890693212504
+        },
+        {
+          "tld": "eu",
+          "count": 12399,
+          "percent": 0.003216034574122477
+        },
+        {
+          "tld": "org",
+          "count": 2249,
+          "percent": 0.0005833423467377571
+        },
+        {
+          "tld": "net",
+          "count": 705,
+          "percent": 0.0001828618739217958
+        },
+        {
+          "tld": "lt",
+          "count": 498,
+          "percent": 0.00012917051519582173
+        },
+        {
+          "tld": "info",
+          "count": 390,
+          "percent": 0.00010115763238227002
+        },
+        {
+          "tld": "men",
+          "count": 244,
+          "percent": 6.328836487506124e-05
+        },
+        {
+          "tld": "in",
+          "count": 209,
+          "percent": 5.421011581511393e-05
+        },
+        {
+          "tld": "biz",
+          "count": 197,
+          "percent": 5.109757328027486e-05
+        }
+      ],
+      "pagination": {
+        "page_count": 11,
+        "current_page": 1,
+        "has_next_page": true,
+        "has_prev_page": false,
+        "count": 102,
+        "limit": 10
+      }
+    },
+    "status": 200,
+    "domain": "bankier.pl",
+    "endpoint": "get_backlinks_tlds"
+  }
+}

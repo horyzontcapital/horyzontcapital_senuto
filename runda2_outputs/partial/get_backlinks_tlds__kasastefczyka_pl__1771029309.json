@@ -1,0 +1,73 @@
+{
+  "domain": "kasastefczyka.pl",
+  "endpoint": "get_backlinks_tlds",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "tld": "pl",
+          "count": 11960,
+          "percent": 0.8065821418937146
+        },
+        {
+          "tld": "info",
+          "count": 2637,
+          "percent": 0.17783922309144862
+        },
+        {
+          "tld": "com",
+          "count": 158,
+          "percent": 0.010655516590234691
+        },
+        {
+          "tld": "ua",
+          "count": 17,
+          "percent": 0.0011464796331265173
+        },
+        {
+          "tld": "org",
+          "count": 14,
+          "percent": 0.0009441596978688966
+        },
+        {
+          "tld": "net",
+          "count": 8,
+          "percent": 0.0005395198273536552
+        },
+        {
+          "tld": "in",
+          "count": 8,
+          "percent": 0.0005395198273536552
+        },
+        {
+          "tld": "news",
+          "count": 5,
+          "percent": 0.0003371998920960345
+        },
+        {
+          "tld": "io",
+          "count": 4,
+          "percent": 0.0002697599136768276
+        },
+        {
+          "tld": "eu",
+          "count": 4,
+          "percent": 0.0002697599136768276
+        }
+      ],
+      "pagination": {
+        "page_count": 2,
+        "current_page": 1,
+        "has_next_page": true,
+        "has_prev_page": false,
+        "count": 18,
+        "limit": 10
+      }
+    },
+    "status": 200,
+    "domain": "kasastefczyka.pl",
+    "endpoint": "get_backlinks_tlds"
+  }
+}

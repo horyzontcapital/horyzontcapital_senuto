@@ -1,0 +1,19 @@
+{
+  "domain": "brsonline.pl",
+  "endpoint": "suggest_domains",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "favourite": [],
+        "suggested": [
+          "brsonline.pl"
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "brsonline.pl",
+    "endpoint": "suggest_domains"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "domain": "baltcredit.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "baltcredit.pl": [
+          {
+            "text": "org",
+            "size": 676,
+            "percent": 0.9575070821529745
+          },
+          {
+            "text": "",
+            "size": 5,
+            "percent": 0.007082152974504249
+          },
+          {
+            "text": "nazwa logo",
+            "size": 5,
+            "percent": 0.007082152974504249
+          },
+          {
+            "text": "https://baltcredit.pl/.",
+            "size": 3,
+            "percent": 0.00424929178470255
+          },
+          {
+            "text": "www",
+            "size": 2,
+            "percent": 0.0028328611898017
+          },
+          {
+            "text": "baltcredit.pl/",
+            "size": 2,
+            "percent": 0.0028328611898017
+          },
+          {
+            "text": "www.baltcredit.pl",
+            "size": 2,
+            "percent": 0.0028328611898017
+          },
+          {
+            "text": "https://baltcredit.pl/",
+            "size": 2,
+            "percent": 0.0028328611898017
+          },
+          {
+            "text": "zainwestować",
+            "size": 1,
+            "percent": 0.00141643059490085
+          },
+          {
+            "text": "doświadczenie",
+            "size": 1,
+            "percent": 0.00141643059490085
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "baltcredit.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

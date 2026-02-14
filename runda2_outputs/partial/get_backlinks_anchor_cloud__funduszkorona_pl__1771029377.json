@@ -1,0 +1,42 @@
+{
+  "domain": "funduszkorona.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "funduszkorona.pl": [
+          {
+            "text": "http://funduszkorona.pl/",
+            "size": 4,
+            "percent": 0.5
+          },
+          {
+            "text": "funduszkorona.pl",
+            "size": 1,
+            "percent": 0.125
+          },
+          {
+            "text": "🌐 funduszkorona.pl",
+            "size": 1,
+            "percent": 0.125
+          },
+          {
+            "text": "Przejdz do strony",
+            "size": 1,
+            "percent": 0.125
+          },
+          {
+            "text": "http://www.funduszkorona.pl",
+            "size": 1,
+            "percent": 0.125
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "funduszkorona.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

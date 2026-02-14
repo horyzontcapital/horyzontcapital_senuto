@@ -1,0 +1,54 @@
+{
+  "domain": "topf.pl",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "topf.pl",
+        "keywords_count": 17,
+        "visibility_percent": 100,
+        "statistics": {
+          "visibility": {
+            "current": 259.62,
+            "previous": 174.82,
+            "diff": 84.8,
+            "percent": 0.4851,
+            "history": null
+          },
+          "top3": {
+            "current": 10,
+            "previous": 11,
+            "diff": -1,
+            "percent": -0.0909,
+            "history": null
+          },
+          "top10": {
+            "current": 17,
+            "previous": 17,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 45,
+            "previous": 47,
+            "diff": -2,
+            "percent": -0.0426,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 100,
+            "previous": 100,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "topf.pl",
+    "endpoint": "get_subdomains"
+  }
+}

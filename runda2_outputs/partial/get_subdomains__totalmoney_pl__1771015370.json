@@ -1,0 +1,54 @@
+{
+  "domain": "totalmoney.pl",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "totalmoney.pl",
+        "keywords_count": 16769,
+        "visibility_percent": 100,
+        "statistics": {
+          "visibility": {
+            "current": 284051.93,
+            "previous": 221248.6,
+            "diff": 62803.33,
+            "percent": 0.2839,
+            "history": null
+          },
+          "top3": {
+            "current": 4539,
+            "previous": 4468,
+            "diff": 71,
+            "percent": 0.0159,
+            "history": null
+          },
+          "top10": {
+            "current": 16769,
+            "previous": 16633,
+            "diff": 136,
+            "percent": 0.0082,
+            "history": null
+          },
+          "top50": {
+            "current": 63548,
+            "previous": 63335,
+            "diff": 213,
+            "percent": 0.0034,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 100,
+            "previous": 100,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "totalmoney.pl",
+    "endpoint": "get_subdomains"
+  }
+}

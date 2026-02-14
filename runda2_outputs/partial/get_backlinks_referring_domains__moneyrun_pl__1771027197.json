@@ -1,0 +1,30 @@
+{
+  "domain": "moneyrun.pl",
+  "endpoint": "get_backlinks_referring_domains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "ref_domain": "faraon24.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.07149975087194818,
+        "backlinks_count": 1,
+        "links_external_count": 4014,
+        "percent_of_total": 1,
+        "count": {
+          "count": 1,
+          "percent_of_total": 1
+        },
+        "top3": 59,
+        "top10": 232,
+        "top50": 882,
+        "visibility": 3036.3190000000013,
+        "domain_rank": 60318,
+        "ads_equivalent": 13091.460129999996
+      }
+    ],
+    "total": 1,
+    "domain": "moneyrun.pl",
+    "endpoint": "get_backlinks_referring_domains"
+  }
+}

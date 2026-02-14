@@ -1,0 +1,43 @@
+{
+  "domain": "moneteo.com",
+  "endpoint": "get_backlinks_tlds",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "tld": "pl",
+          "count": 182,
+          "percent": 0.9191919191919192
+        },
+        {
+          "tld": "org",
+          "count": 7,
+          "percent": 0.03535353535353535
+        },
+        {
+          "tld": "com",
+          "count": 7,
+          "percent": 0.03535353535353535
+        },
+        {
+          "tld": "eu",
+          "count": 2,
+          "percent": 0.010101010101010102
+        }
+      ],
+      "pagination": {
+        "page_count": 1,
+        "current_page": 1,
+        "has_next_page": false,
+        "has_prev_page": false,
+        "count": 4,
+        "limit": 10
+      }
+    },
+    "status": 200,
+    "domain": "moneteo.com",
+    "endpoint": "get_backlinks_tlds"
+  }
+}

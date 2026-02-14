@@ -1,0 +1,3048 @@
+{
+  "domain": "credithub.pl",
+  "endpoint": "get_history_keywords_losses",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "keyword_id": 8808024,
+        "kid": "c1854345ae068637becbe6bfc5b9cb3d",
+        "domain": "credithub.pl",
+        "keyword": "kredyt konsolidacyjny z negatywnym bik",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 4,
+            "previous": 3,
+            "diff": 1,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-17": {
+                "position": 3,
+                "has_serp": true
+              },
+              "2026-02-04": {
+                "position": 4,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 1.42,
+            "previous": 1.08,
+            "diff": 0.35,
+            "percent": 0.3148,
+            "history": null
+          },
+          "url": {
+            "current": "credithub.pl/osoba-prywatna/kredyt-konsolidacyjny-z-negatywnym-bik/",
+            "previous": "credithub.pl/osoba-prywatna/kredyt-konsolidacyjny-z-negatywnym-bik/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              10,
+              10,
+              0,
+              0,
+              0,
+              10,
+              10,
+              10,
+              10,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 25
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 2392009,
+        "kid": "3367386ccef966421cf3cab4d86217c4",
+        "domain": "credithub.pl",
+        "keyword": "pożyczka pod zastaw samochodu",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 33,
+            "previous": 29,
+            "diff": 4,
+            "changes": {
+              "wins": 2,
+              "losses": 3,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-14": {
+                "position": 38,
+                "has_serp": false
+              },
+              "2025-12-22": {
+                "position": 39,
+                "has_serp": true
+              },
+              "2026-01-06": {
+                "position": 36,
+                "has_serp": true
+              },
+              "2026-01-13": {
+                "position": 39,
+                "has_serp": true
+              },
+              "2026-01-23": {
+                "position": 29,
+                "has_serp": true
+              },
+              "2026-02-02": {
+                "position": 33,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "credithub.pl/osoba-prywatna/pozyczka-pod-zastaw-auta/",
+            "previous": "credithub.pl/osoba-prywatna/pozyczka-pod-zastaw-auta/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 8.61
+          },
+          "searches": {
+            "current": 720
+          },
+          "trends": {
+            "history": [
+              880,
+              880,
+              880,
+              720,
+              720,
+              590,
+              720,
+              590,
+              590,
+              590,
+              480,
+              590
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 48
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 6678366,
+        "kid": "91a0c25182f1829856cd79314d34e026",
+        "domain": "credithub.pl",
+        "keyword": "konsolidacja dla zadłużonych",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 44,
+            "previous": 33,
+            "diff": 11,
+            "changes": {
+              "wins": 1,
+              "losses": 2,
+              "no_changes": 2
+            },
+            "history": {
+              "2025-12-21": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-28": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-06": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-13": {
+                "position": 47,
+                "has_serp": true
+              },
+              "2026-01-24": {
+                "position": 33,
+                "has_serp": true
+              },
+              "2026-02-02": {
+                "position": 44,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "credithub.pl/osoba-prywatna/kredyt-konsolidacyjny-dla-zadluzonych/",
+            "previous": "credithub.pl/blog/czy-konsolidacja-sie-oplaca",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 26.04
+          },
+          "searches": {
+            "current": 210
+          },
+          "trends": {
+            "history": [
+              260,
+              260,
+              260,
+              260,
+              260,
+              140,
+              140,
+              170,
+              260,
+              210,
+              210,
+              140
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 49
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "buy",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 14826213,
+        "kid": "25b48e99cdf129c0dc85a6a67b4dfc80",
+        "domain": "credithub.pl",
+        "keyword": "kredyt hipoteczny dla obcokrajowca z kartą czasowego pobytu",
+        "words_count": 8,
+        "statistics": {
+          "position": {
+            "current": 34,
+            "previous": 33,
+            "diff": 1,
+            "changes": {
+              "wins": 0,
+              "losses": 3,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-22": {
+                "position": 19,
+                "has_serp": true
+              },
+              "2026-01-05": {
+                "position": 20,
+                "has_serp": true
+              },
+              "2026-01-22": {
+                "position": 33,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 34,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "credithub.pl/blog/kredyt-dla-obcokrajowca-z-karta-czasowego-pobytu",
+            "previous": "credithub.pl/blog/kredyt-dla-obcokrajowca-z-karta-czasowego-pobytu",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0.85
+          },
+          "searches": {
+            "current": 50
+          },
+          "trends": {
+            "history": [
+              70,
+              50,
+              70,
+              70,
+              50,
+              70,
+              50,
+              30,
+              40,
+              50,
+              30,
+              50
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 19
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 9892982,
+        "kid": "da0d524ce7a016d6224415276aed9e89",
+        "domain": "credithub.pl",
+        "keyword": "pożyczka pod zastaw samochodu którym nadal jeździsz",
+        "words_count": 7,
+        "statistics": {
+          "position": {
+            "current": 23,
+            "previous": 22,
+            "diff": 1,
+            "changes": {
+              "wins": 1,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-19": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-26": {
+                "position": 36,
+                "has_serp": true
+              },
+              "2026-01-21": {
+                "position": 22,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 23,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "credithub.pl/osoba-prywatna/pozyczka-pod-zastaw-auta/",
+            "previous": "credithub.pl/osoba-prywatna/pozyczka-pod-zastaw-auta/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 20.68
+          },
+          "searches": {
+            "current": 320
+          },
+          "trends": {
+            "history": [
+              320,
+              390,
+              260,
+              320,
+              260,
+              260,
+              390,
+              320,
+              210,
+              260,
+              210,
+              210
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 29
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 2660231,
+        "kid": "392eef14c01df3bf6a0bbdec866c08df",
+        "domain": "credithub.pl",
+        "keyword": "krajowy rejestr długów rejestracja",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 45,
+            "previous": 33,
+            "diff": 12,
+            "changes": {
+              "wins": 3,
+              "losses": 3,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-14": {
+                "position": 39,
+                "has_serp": false
+              },
+              "2025-12-22": {
+                "position": 31,
+                "has_serp": true
+              },
+              "2025-12-29": {
+                "position": 40,
+                "has_serp": true
+              },
+              "2026-01-06": {
+                "position": 30,
+                "has_serp": true
+              },
+              "2026-01-13": {
+                "position": 41,
+                "has_serp": true
+              },
+              "2026-01-24": {
+                "position": 33,
+                "has_serp": true
+              },
+              "2026-02-02": {
+                "position": 45,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "credithub.pl/blog/kto-i-jak-moze-dokonac-wpisu-do-krd",
+            "previous": "credithub.pl/blog/kto-i-jak-moze-dokonac-wpisu-do-krd",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 3.71
+          },
+          "searches": {
+            "current": 720
+          },
+          "trends": {
+            "history": [
+              1300,
+              1000,
+              880,
+              720,
+              720,
+              720,
+              590,
+              590,
+              590,
+              590,
+              720,
+              480
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 51
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 12215866,
+        "kid": "1c13b6a50fee5492e6e7fba225b8801f",
+        "domain": "credithub.pl",
+        "keyword": "konsolidacja przeterminowanych chwilówek",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 45,
+            "previous": 42,
+            "diff": 3,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-18": {
+                "position": 42,
+                "has_serp": true
+              },
+              "2026-02-06": {
+                "position": 45,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "credithub.pl/blog/konsolidacja-chwilowek-online",
+            "previous": "credithub.pl/blog/konsolidacja-chwilowek-online",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              10,
+              10,
+              30,
+              20,
+              20,
+              20,
+              30,
+              10,
+              30,
+              30
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 23
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 1258040,
+        "kid": "1afe3b2509da975b3730282b66a3c0fc",
+        "domain": "credithub.pl",
+        "keyword": "spłata chwilówek",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 12,
+            "previous": 11,
+            "diff": 1,
+            "changes": {
+              "wins": 2,
+              "losses": 3,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-21": {
+                "position": 14,
+                "has_serp": true
+              },
+              "2025-12-28": {
+                "position": 12,
+                "has_serp": true
+              },
+              "2026-01-05": {
+                "position": 15,
+                "has_serp": true
+              },
+              "2026-01-12": {
+                "position": 17,
+                "has_serp": true
+              },
+              "2026-01-22": {
+                "position": 11,
+                "has_serp": true
+              },
+              "2026-02-10": {
+                "position": 12,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "credithub.pl/osoba-prywatna/splata-chwilowek/",
+            "previous": "credithub.pl/osoba-prywatna/splata-chwilowek/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 28.95
+          },
+          "searches": {
+            "current": 1000
+          },
+          "trends": {
+            "history": [
+              1000,
+              1000,
+              1000,
+              720,
+              880,
+              1000,
+              2400,
+              1600,
+              1000,
+              880,
+              880,
+              880
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 65
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 18322516,
+        "kid": "0cd3db9dc9dd507a2293150c753cb71f",
+        "domain": "credithub.pl",
+        "keyword": "kredyt płynnościowy dla rolników arimr",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 50,
+            "previous": 47,
+            "diff": 3,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-17": {
+                "position": 47,
+                "has_serp": true
+              },
+              "2026-02-05": {
+                "position": 50,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "credithub.pl/dla-rolnikow/kredyt-plynnosciowy-dla-rolnika/",
+            "previous": "credithub.pl/dla-rolnikow/kredyt-plynnosciowy-dla-rolnika/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 1.32
+          },
+          "searches": {
+            "current": 50
+          },
+          "trends": {
+            "history": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              320,
+              260,
+              0,
+              0,
+              0,
+              0
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 21
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 6732286,
+        "kid": "92d6eaa5de3edea2e77f62865650cd5b",
+        "domain": "credithub.pl",
+        "keyword": "kredyt dla wojskowych",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 48,
+            "previous": 19,
+            "diff": 29,
+            "changes": {
+              "wins": 0,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-18": {
+                "position": 18,
+                "has_serp": true
+              },
+              "2026-01-01": {
+                "position": 19,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 48,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "credithub.pl/produkt/kredyt-dla-zolnierza/",
+            "previous": "credithub.pl/produkt/kredyt-dla-zolnierza/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 2.35
+          },
+          "searches": {
+            "current": 70
+          },
+          "trends": {
+            "history": [
+              70,
+              90,
+              70,
+              70,
+              70,
+              70,
+              90,
+              30,
+              50,
+              30,
+              40,
+              50
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 38
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 9382609,
+        "kid": "ce7c79593e0daa74c9ecc8f99624b3a8",
+        "domain": "credithub.pl",
+        "keyword": "pomogę wyjść z pętli zadłużenia",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 27,
+            "previous": 20,
+            "diff": 7,
+            "changes": {
+              "wins": 1,
+              "losses": 4,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-19": {
+                "position": 20,
+                "has_serp": true
+              },
+              "2025-12-26": {
+                "position": 21,
+                "has_serp": true
+              },
+              "2026-01-04": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-11": {
+                "position": 18,
+                "has_serp": true
+              },
+              "2026-01-22": {
+                "position": 20,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 27,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "credithub.pl/blog/kto-pomaga-wyjsc-z-dlugow",
+            "previous": "credithub.pl/blog/kto-pomaga-wyjsc-z-dlugow",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 1.93
+          },
+          "searches": {
+            "current": 170
+          },
+          "trends": {
+            "history": [
+              170,
+              110,
+              210,
+              90,
+              210,
+              90,
+              70,
+              210,
+              210,
+              210,
+              260,
+              210
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 37
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 11230084,
+        "kid": "f86d36c086137e2a370a50ee312b43ff",
+        "domain": "credithub.pl",
+        "keyword": "pożyczki prywatne z podpisaniem umowy w domu",
+        "words_count": 7,
+        "statistics": {
+          "position": {
+            "current": 23,
+            "previous": 19,
+            "diff": 4,
+            "changes": {
+              "wins": 2,
+              "losses": 2,
+              "no_changes": 4
+            },
+            "history": {
+              "2025-12-19": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-23": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-27": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-15": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-19": {
+                "position": 33,
+                "has_serp": true
+              },
+              "2026-01-28": {
+                "position": 19,
+                "has_serp": true
+              },
+              "2026-02-01": {
+                "position": 18,
+                "has_serp": true
+              },
+              "2026-02-06": {
+                "position": 18,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 23,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "credithub.pl/osoba-prywatna/pozyczki-prywatne/",
+            "previous": "credithub.pl/osoba-prywatna/pozyczki-prywatne/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 3.15
+          },
+          "searches": {
+            "current": 880
+          },
+          "trends": {
+            "history": [
+              1600,
+              1300,
+              1000,
+              720,
+              880,
+              1000,
+              880,
+              590,
+              590,
+              880,
+              720,
+              720
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 35
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "buy",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 2387619,
+        "kid": "334f40d36c7544cbb1cab32ddc7510f3",
+        "domain": "credithub.pl",
+        "keyword": "trudne pożyczki dla zadłużonych",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 43,
+            "previous": 12,
+            "diff": 31,
+            "changes": {
+              "wins": 1,
+              "losses": 5,
+              "no_changes": 7
+            },
+            "history": {
+              "2025-12-15": {
+                "position": 0,
+                "has_serp": false
+              },
+              "2025-12-20": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-25": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-28": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-01": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-04": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-07": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-10": {
+                "position": 13,
+                "has_serp": true
+              },
+              "2026-01-13": {
+                "position": 14,
+                "has_serp": true
+              },
+              "2026-01-17": {
+                "position": 14,
+                "has_serp": true
+              },
+              "2026-01-21": {
+                "position": 12,
+                "has_serp": true
+              },
+              "2026-01-29": {
+                "position": 12,
+                "has_serp": true
+              },
+              "2026-02-02": {
+                "position": 34,
+                "has_serp": true
+              },
+              "2026-02-06": {
+                "position": 43,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "credithub.pl/blog/trudne-pozyczki-dla-firm",
+            "previous": "credithub.pl/blog/trudne-pozyczki-dla-firm",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              140,
+              20,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 48
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "buy",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 9549776,
+        "kid": "d2473c3e1c28bc6fd75e5139b001ef09",
+        "domain": "credithub.pl",
+        "keyword": "kredyt na spłatę komornika",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 15,
+            "previous": 11,
+            "diff": 4,
+            "changes": {
+              "wins": 1,
+              "losses": 4,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-19": {
+                "position": 18,
+                "has_serp": true
+              },
+              "2026-01-05": {
+                "position": 38,
+                "has_serp": true
+              },
+              "2026-01-12": {
+                "position": 39,
+                "has_serp": true
+              },
+              "2026-01-22": {
+                "position": 11,
+                "has_serp": true
+              },
+              "2026-02-01": {
+                "position": 13,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 15,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "credithub.pl/osoba-prywatna/kredyt-konsolidacyjny-z-komornikiem/",
+            "previous": "credithub.pl/osoba-prywatna/kredyt-konsolidacyjny-z-komornikiem/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 6.92
+          },
+          "searches": {
+            "current": 260
+          },
+          "trends": {
+            "history": [
+              320,
+              260,
+              320,
+              320,
+              260,
+              210,
+              260,
+              170,
+              210,
+              210,
+              140,
+              110
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 44
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 12801050,
+        "kid": "504a2587477c2acad8f03da1cace0166",
+        "domain": "credithub.pl",
+        "keyword": "spłata długu a umorzenie postępowania egzekucyjnego",
+        "words_count": 6,
+        "statistics": {
+          "position": {
+            "current": 19,
+            "previous": 18,
+            "diff": 1,
+            "changes": {
+              "wins": 1,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-17": {
+                "position": 19,
+                "has_serp": true
+              },
+              "2026-01-27": {
+                "position": 18,
+                "has_serp": true
+              },
+              "2026-02-06": {
+                "position": 19,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "credithub.pl/blog/splata-dlugu-a-umorzenie-postepowania-egzekucyjnego",
+            "previous": "credithub.pl/blog/splata-dlugu-a-umorzenie-postepowania-egzekucyjnego",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0.24
+          },
+          "searches": {
+            "current": 140
+          },
+          "trends": {
+            "history": [
+              170,
+              210,
+              260,
+              170,
+              110,
+              90,
+              90,
+              110,
+              140,
+              110,
+              110,
+              110
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 30
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 9275025,
+        "kid": "cc0a346729e6a0be13689cde91f79d01",
+        "domain": "credithub.pl",
+        "keyword": "czy rozdzielność majątkowa chroni przed długami małżonka",
+        "words_count": 7,
+        "statistics": {
+          "position": {
+            "current": 43,
+            "previous": 42,
+            "diff": 1,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-17": {
+                "position": 42,
+                "has_serp": true
+              },
+              "2026-02-04": {
+                "position": 43,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "credithub.pl/blog/rodzielnosc-majatkowa-a-firmowe-dlugi",
+            "previous": "credithub.pl/blog/rodzielnosc-majatkowa-a-firmowe-dlugi",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 50
+          },
+          "trends": {
+            "history": [
+              70,
+              50,
+              70,
+              70,
+              50,
+              50,
+              30,
+              40,
+              50,
+              70,
+              30,
+              30
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 21
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 6561224,
+        "kid": "8f049267899ab0482ab204fc2e8629eb",
+        "domain": "credithub.pl",
+        "keyword": "kredyt w wojsku",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 25,
+            "previous": 23,
+            "diff": 2,
+            "changes": {
+              "wins": 1,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-18": {
+                "position": 19,
+                "has_serp": true
+              },
+              "2026-01-01": {
+                "position": 27,
+                "has_serp": true
+              },
+              "2026-01-20": {
+                "position": 23,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 25,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "credithub.pl/produkt/kredyt-dla-zolnierza/",
+            "previous": "credithub.pl/produkt/kredyt-dla-zolnierza/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0.77
+          },
+          "searches": {
+            "current": 70
+          },
+          "trends": {
+            "history": [
+              70,
+              90,
+              110,
+              90,
+              50,
+              30,
+              40,
+              40,
+              40,
+              40,
+              70,
+              70
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 25
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 2924348,
+        "kid": "3ee7998554ac4051923c9f2226a41ab2",
+        "domain": "credithub.pl",
+        "keyword": "chwilówka bez zdolności kredytowej",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 48,
+            "previous": 38,
+            "diff": 10,
+            "changes": {
+              "wins": 0,
+              "losses": 3,
+              "no_changes": 2
+            },
+            "history": {
+              "2025-12-14": {
+                "position": 0,
+                "has_serp": false
+              },
+              "2025-12-22": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-29": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-07": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-24": {
+                "position": 38,
+                "has_serp": true
+              },
+              "2026-02-03": {
+                "position": 48,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "credithub.pl/blog/pozyczka-bez-zdolnosci-kredytowej",
+            "previous": "credithub.pl/blog/pozyczka-bez-zdolnosci-kredytowej",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 6.1
+          },
+          "searches": {
+            "current": 320
+          },
+          "trends": {
+            "history": [
+              390,
+              390,
+              390,
+              390,
+              320,
+              320,
+              260,
+              320,
+              260,
+              170,
+              170,
+              210
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 53
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "buy",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 13970002,
+        "kid": "b8882e4977ef831aa917c47376d65ce0",
+        "domain": "credithub.pl",
+        "keyword": "kredyty płynnościowe dla rolników",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 41,
+            "previous": 38,
+            "diff": 3,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-19": {
+                "position": 38,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 41,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "credithub.pl/dla-rolnikow/kredyt-plynnosciowy-dla-rolnika/",
+            "previous": "credithub.pl/dla-rolnikow/kredyt-plynnosciowy-dla-rolnika/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 5.86
+          },
+          "searches": {
+            "current": 170
+          },
+          "trends": {
+            "history": [
+              480,
+              720,
+              260,
+              110,
+              40,
+              110,
+              110,
+              50,
+              20,
+              10,
+              10,
+              50
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 23
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 9109050,
+        "kid": "c84fc42090bd00f2a2bc8238de80bf6b",
+        "domain": "credithub.pl",
+        "keyword": "krd rejestracja osoba prywatna",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 32,
+            "previous": 11,
+            "diff": 21,
+            "changes": {
+              "wins": 3,
+              "losses": 4,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-19": {
+                "position": 11,
+                "has_serp": true
+              },
+              "2025-12-22": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-26": {
+                "position": 11,
+                "has_serp": true
+              },
+              "2026-01-15": {
+                "position": 39,
+                "has_serp": true
+              },
+              "2026-01-19": {
+                "position": 13,
+                "has_serp": true
+              },
+              "2026-01-23": {
+                "position": 14,
+                "has_serp": true
+              },
+              "2026-01-27": {
+                "position": 11,
+                "has_serp": true
+              },
+              "2026-02-01": {
+                "position": 11,
+                "has_serp": true
+              },
+              "2026-02-06": {
+                "position": 32,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "credithub.pl/blog/kto-i-jak-moze-dokonac-wpisu-do-krd",
+            "previous": "credithub.pl/blog/kto-i-jak-moze-dokonac-wpisu-do-krd",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 1.49
+          },
+          "searches": {
+            "current": 1000
+          },
+          "trends": {
+            "history": [
+              1300,
+              1300,
+              1600,
+              1300,
+              1000,
+              880,
+              720,
+              720,
+              720,
+              880,
+              880,
+              880
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 43
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 8070454,
+        "kid": "b0ec81475f7fca5923d9c7399671328e",
+        "domain": "credithub.pl",
+        "keyword": "umorzenie postępowania egzekucyjnego",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 38,
+            "previous": 37,
+            "diff": 1,
+            "changes": {
+              "wins": 2,
+              "losses": 3,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-19": {
+                "position": 13,
+                "has_serp": true
+              },
+              "2025-12-26": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-03": {
+                "position": 37,
+                "has_serp": true
+              },
+              "2026-01-10": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-21": {
+                "position": 37,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 38,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "credithub.pl/blog/splata-dlugu-a-umorzenie-postepowania-egzekucyjnego",
+            "previous": "credithub.pl/blog/splata-dlugu-a-umorzenie-postepowania-egzekucyjnego",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0.82
+          },
+          "searches": {
+            "current": 590
+          },
+          "trends": {
+            "history": [
+              720,
+              720,
+              720,
+              590,
+              720,
+              720,
+              590,
+              480,
+              590,
+              590,
+              590,
+              590
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 36
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 4334265,
+        "kid": "5d9850a8fb5a4225a7dff7b9feeb51d8",
+        "domain": "credithub.pl",
+        "keyword": "jestem w bik czy dostanę leasing",
+        "words_count": 6,
+        "statistics": {
+          "position": {
+            "current": 50,
+            "previous": 46,
+            "diff": 4,
+            "changes": {
+              "wins": 1,
+              "losses": 3,
+              "no_changes": 2
+            },
+            "history": {
+              "2025-12-22": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-26": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-02": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-09": {
+                "position": 49,
+                "has_serp": true
+              },
+              "2026-01-19": {
+                "position": 44,
+                "has_serp": true
+              },
+              "2026-01-30": {
+                "position": 46,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 50,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "credithub.pl/blog/umowa-na-leasing-dla-zadluzonych",
+            "previous": "credithub.pl/blog/umowa-na-leasing-dla-zadluzonych",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 1.14
+          },
+          "searches": {
+            "current": 90
+          },
+          "trends": {
+            "history": [
+              110,
+              140,
+              140,
+              110,
+              90,
+              70,
+              70,
+              110,
+              70,
+              70,
+              90,
+              110
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 24
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 8207074,
+        "kid": "b3ff8289329c7a0d5942662a8bda666e",
+        "domain": "credithub.pl",
+        "keyword": "kto pomoże wyjść z długów",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 27,
+            "previous": 20,
+            "diff": 7,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-16": {
+                "position": 20,
+                "has_serp": true
+              },
+              "2026-02-03": {
+                "position": 27,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "credithub.pl/blog/kto-pomaga-wyjsc-z-dlugow",
+            "previous": "credithub.pl/blog/kto-pomaga-wyjsc-z-dlugow",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 2.6
+          },
+          "searches": {
+            "current": 50
+          },
+          "trends": {
+            "history": [
+              50,
+              50,
+              30,
+              20,
+              20,
+              40,
+              70,
+              110,
+              20,
+              30,
+              50,
+              40
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 44
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 11023947,
+        "kid": "f3c00de6bb57ccdf4005330aa843f8e7",
+        "domain": "credithub.pl",
+        "keyword": "kredyt dla nauczycieli",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 21,
+            "previous": 20,
+            "diff": 1,
+            "changes": {
+              "wins": 0,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-16": {
+                "position": 17,
+                "has_serp": true
+              },
+              "2026-01-27": {
+                "position": 20,
+                "has_serp": true
+              },
+              "2026-02-05": {
+                "position": 21,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "credithub.pl/produkt/kredyt-dla-nauczyciela/",
+            "previous": "credithub.pl/produkt/kredyt-dla-nauczyciela/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 2.44
+          },
+          "searches": {
+            "current": 170
+          },
+          "trends": {
+            "history": [
+              260,
+              210,
+              170,
+              140,
+              170,
+              140,
+              140,
+              170,
+              210,
+              170,
+              140,
+              110
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 50
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 14575140,
+        "kid": "ef18dd78cc7ae714c1d4504ae99a53aa",
+        "domain": "credithub.pl",
+        "keyword": "pomoc finansowa w spłacie długów",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 24,
+            "previous": 20,
+            "diff": 4,
+            "changes": {
+              "wins": 1,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-22": {
+                "position": 21,
+                "has_serp": true
+              },
+              "2026-01-05": {
+                "position": 20,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 24,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "credithub.pl/blog/kto-pomaga-wyjsc-z-dlugow",
+            "previous": "credithub.pl/blog/kto-pomaga-wyjsc-z-dlugow",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 1.27
+          },
+          "searches": {
+            "current": 50
+          },
+          "trends": {
+            "history": [
+              90,
+              10,
+              10,
+              10,
+              90,
+              90,
+              110,
+              50,
+              30,
+              20,
+              20,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 39
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 6319486,
+        "kid": "89a061faa93ec129d9344099b19cbaf8",
+        "domain": "credithub.pl",
+        "keyword": "kredyt dla obcokrajowca z kartą czasowego pobytu",
+        "words_count": 7,
+        "statistics": {
+          "position": {
+            "current": 21,
+            "previous": 18,
+            "diff": 3,
+            "changes": {
+              "wins": 1,
+              "losses": 3,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-21": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-26": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-02": {
+                "position": 18,
+                "has_serp": true
+              },
+              "2026-01-09": {
+                "position": 15,
+                "has_serp": true
+              },
+              "2026-01-30": {
+                "position": 18,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 21,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "credithub.pl/blog/kredyt-dla-obcokrajowca-z-karta-czasowego-pobytu",
+            "previous": "credithub.pl/blog/kredyt-dla-obcokrajowca-z-karta-czasowego-pobytu",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 9.77
+          },
+          "searches": {
+            "current": 880
+          },
+          "trends": {
+            "history": [
+              880,
+              720,
+              720,
+              880,
+              880,
+              880,
+              1000,
+              880,
+              720,
+              720,
+              720,
+              720
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 32
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 9714591,
+        "kid": "d5feb7a07a553ddc3cb196816501fdc5",
+        "domain": "credithub.pl",
+        "keyword": "informacja o wpisie do krd",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 33,
+            "previous": 31,
+            "diff": 2,
+            "changes": {
+              "wins": 0,
+              "losses": 0,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-02-08": {
+                "position": 33,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "credithub.pl/blog/kto-i-jak-moze-dokonac-wpisu-do-krd",
+            "previous": "credithub.pl/blog/kto-i-jak-moze-dokonac-wpisu-do-krd",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 31
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 12598875,
+        "kid": "3e3c7f88577e36b155e3c0ba95520669",
+        "domain": "credithub.pl",
+        "keyword": "pozyczka dla obcokrajowca z kartą czasowego pobytu",
+        "words_count": 7,
+        "statistics": {
+          "position": {
+            "current": 30,
+            "previous": 18,
+            "diff": 12,
+            "changes": {
+              "wins": 0,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-20": {
+                "position": 16,
+                "has_serp": true
+              },
+              "2026-01-21": {
+                "position": 18,
+                "has_serp": true
+              },
+              "2026-02-10": {
+                "position": 30,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "credithub.pl/blog/kredyt-dla-obcokrajowca-z-karta-czasowego-pobytu",
+            "previous": "credithub.pl/blog/kredyt-dla-obcokrajowca-z-karta-czasowego-pobytu",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 11.5
+          },
+          "searches": {
+            "current": 30
+          },
+          "trends": {
+            "history": [
+              0,
+              70,
+              110,
+              70,
+              40,
+              110,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 32
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 9779981,
+        "kid": "d77c4937d7c4ce4e6cce43cd589bcc44",
+        "domain": "credithub.pl",
+        "keyword": "kto pomoże mi spłacić długi",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 32,
+            "previous": 21,
+            "diff": 11,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-17": {
+                "position": 21,
+                "has_serp": true
+              },
+              "2026-02-04": {
+                "position": 32,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "credithub.pl/blog/kto-pomaga-wyjsc-z-dlugow",
+            "previous": "credithub.pl/blog/kto-pomaga-wyjsc-z-dlugow",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0.54
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              30,
+              30,
+              40,
+              10,
+              10,
+              10,
+              10,
+              20,
+              10,
+              20,
+              10,
+              20
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 29
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 5543534,
+        "kid": "786434cf31bbe1243c4e9b117fb11c27",
+        "domain": "credithub.pl",
+        "keyword": "kredyt na auto dla firm",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 48,
+            "previous": 46,
+            "diff": 2,
+            "changes": {
+              "wins": 0,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-21": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-26": {
+                "position": 46,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 48,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "credithub.pl/dla-firm/kredyt-na-samochod-dla-firm/",
+            "previous": "credithub.pl/dla-firm/kredyt-na-samochod-dla-firm/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 5.19
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 49
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 16518444,
+        "kid": "0e02043e27be40d577bb2987ca2e24bf",
+        "domain": "credithub.pl",
+        "keyword": "pożyczka dla nauczyciela",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 16,
+            "previous": 13,
+            "diff": 3,
+            "changes": {
+              "wins": 1,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-16": {
+                "position": 15,
+                "has_serp": true
+              },
+              "2026-01-27": {
+                "position": 13,
+                "has_serp": true
+              },
+              "2026-02-05": {
+                "position": 16,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "credithub.pl/produkt/kredyt-dla-nauczyciela/",
+            "previous": "credithub.pl/produkt/kredyt-dla-nauczyciela/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 9.35
+          },
+          "searches": {
+            "current": 90
+          },
+          "trends": {
+            "history": [
+              90,
+              90,
+              110,
+              110,
+              90,
+              90,
+              110,
+              90,
+              90,
+              90,
+              90,
+              40
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 52
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "buy",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 7622857,
+        "kid": "a6d916428f8fd118a512726c8f726e2d",
+        "domain": "credithub.pl",
+        "keyword": "pożyczka pod zastaw samochodu z możliwością użytkowania",
+        "words_count": 7,
+        "statistics": {
+          "position": {
+            "current": 11,
+            "previous": 6,
+            "diff": 5,
+            "changes": {
+              "wins": 1,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-20": {
+                "position": 6,
+                "has_serp": true
+              },
+              "2026-01-04": {
+                "position": 12,
+                "has_serp": true
+              },
+              "2026-01-21": {
+                "position": 6,
+                "has_serp": true
+              },
+              "2026-02-10": {
+                "position": 11,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0.74,
+            "diff": -0.74,
+            "percent": -1,
+            "history": null
+          },
+          "url": {
+            "current": "credithub.pl/osoba-prywatna/pozyczka-pod-zastaw-auta/",
+            "previous": "credithub.pl/osoba-prywatna/pozyczka-pod-zastaw-auta/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 2.75
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              30,
+              20,
+              40,
+              30,
+              10,
+              30
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 23
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 11953269,
+        "kid": "04b98ec22766cbbac390f4d6b4254491",
+        "domain": "credithub.pl",
+        "keyword": "ile kosztuje oddłużanie",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 7,
+            "previous": 5,
+            "diff": 2,
+            "changes": {
+              "wins": 2,
+              "losses": 1,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-26": {
+                "position": 8,
+                "has_serp": true
+              },
+              "2026-01-04": {
+                "position": 8,
+                "has_serp": true
+              },
+              "2026-01-11": {
+                "position": 6,
+                "has_serp": true
+              },
+              "2026-01-22": {
+                "position": 5,
+                "has_serp": true
+              },
+              "2026-02-02": {
+                "position": 7,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 3.11,
+            "previous": 5.53,
+            "diff": -2.42,
+            "percent": -0.4376,
+            "history": null
+          },
+          "url": {
+            "current": "credithub.pl/blog/ile-kosztuje-oddluzanie",
+            "previous": "credithub.pl/blog/ile-kosztuje-oddluzanie",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 3.23
+          },
+          "searches": {
+            "current": 110
+          },
+          "trends": {
+            "history": [
+              140,
+              90,
+              140,
+              110,
+              90,
+              110,
+              110,
+              70,
+              90,
+              110,
+              70,
+              70
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 29
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 14499345,
+        "kid": "e84558474ffbba6a6ce57a80f796497b",
+        "domain": "credithub.pl",
+        "keyword": "bogaty pomoże wyjść z długów",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 9,
+            "previous": 8,
+            "diff": 1,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-18": {
+                "position": 8,
+                "has_serp": true
+              },
+              "2026-02-07": {
+                "position": 9,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 15.84,
+            "previous": 19.62,
+            "diff": -3.78,
+            "percent": -0.1927,
+            "history": null
+          },
+          "url": {
+            "current": "credithub.pl/blog/kto-pomaga-wyjsc-z-dlugow",
+            "previous": "credithub.pl/blog/kto-pomaga-wyjsc-z-dlugow",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 1.14
+          },
+          "searches": {
+            "current": 880
+          },
+          "trends": {
+            "history": [
+              1000,
+              880,
+              1000,
+              1000,
+              880,
+              720,
+              880,
+              720,
+              880,
+              590,
+              880,
+              720
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 31
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      }
+    ],
+    "total": 34,
+    "domain": "credithub.pl",
+    "endpoint": "get_history_keywords_losses"
+  }
+}

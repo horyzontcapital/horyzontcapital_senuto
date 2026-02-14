@@ -1,0 +1,22 @@
+{
+  "domain": "notus.pl",
+  "endpoint": "suggest_domains",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "favourite": [],
+        "suggested": [
+          "notus.pl",
+          "notus.org.pl",
+          "notus.com.pl",
+          "notus-finanse.nieruchomosci-online.pl"
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "notus.pl",
+    "endpoint": "suggest_domains"
+  }
+}

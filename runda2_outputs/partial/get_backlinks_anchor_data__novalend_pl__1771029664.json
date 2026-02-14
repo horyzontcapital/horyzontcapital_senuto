@@ -1,0 +1,107 @@
+{
+  "domain": "novalend.pl",
+  "endpoint": "get_backlinks_anchor_data",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "link_domain": "novalend.pl",
+        "is_main_domain": true,
+        "anchor": "NovaLend",
+        "anchor_type": [],
+        "count": {
+          "count": 83,
+          "percent_of_total": 0.44385026737967914
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 81,
+        "percent_of_total": 0.44385026737967914
+      },
+      {
+        "link_domain": "novalend.pl",
+        "is_main_domain": true,
+        "anchor": "logo (2).png logo (2).png",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 71,
+          "percent_of_total": 0.37967914438502676
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 71,
+        "percent_of_total": 0.37967914438502676
+      },
+      {
+        "link_domain": "novalend.pl",
+        "is_main_domain": true,
+        "anchor": "Sprawdź",
+        "anchor_type": [],
+        "count": {
+          "count": 24,
+          "percent_of_total": 0.12834224598930483
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 24,
+        "percent_of_total": 0.12834224598930483
+      },
+      {
+        "link_domain": "novalend.pl",
+        "is_main_domain": true,
+        "anchor": "Złóż wniosek",
+        "anchor_type": [],
+        "count": {
+          "count": 6,
+          "percent_of_total": 0.03208556149732621
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 3,
+        "percent_of_total": 0.03208556149732621
+      },
+      {
+        "link_domain": "novalend.pl",
+        "is_main_domain": true,
+        "anchor": "https://novalend.pl/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0053475935828877
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0053475935828877
+      },
+      {
+        "link_domain": "novalend.pl",
+        "is_main_domain": true,
+        "anchor": "<redirect>",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0053475935828877
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0053475935828877
+      },
+      {
+        "link_domain": "novalend.pl",
+        "is_main_domain": true,
+        "anchor": "www.novalend.pl",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0053475935828877
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0053475935828877
+      }
+    ],
+    "total": 7,
+    "domain": "novalend.pl",
+    "endpoint": "get_backlinks_anchor_data"
+  }
+}

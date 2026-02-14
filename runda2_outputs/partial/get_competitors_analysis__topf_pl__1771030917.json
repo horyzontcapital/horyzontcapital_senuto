@@ -1,0 +1,93 @@
+{
+  "domain": "topf.pl",
+  "endpoint": "get_competitors_analysis",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "keyword": "kredyty dla firm bez bik",
+          "cpc": 7.99,
+          "searches": 390,
+          "trends": [
+            390,
+            390,
+            480,
+            320,
+            390,
+            390,
+            480,
+            390,
+            260,
+            260,
+            260,
+            320
+          ],
+          "difficulty": 52,
+          "params": [
+            "brand"
+          ],
+          "horyzontcapital.com": {
+            "pos": 7,
+            "url": "horyzontcapital.com/blog/kredyt-dla-firm-bez-bik-czy-to-mozliwe-i-na-jakich-warunkach"
+          },
+          "horyzontcapital.com_pos": 7,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/kredyt-dla-firm-bez-bik-czy-to-mozliwe-i-na-jakich-warunkach",
+          "topf.pl": {
+            "pos": 29,
+            "url": "topf.pl/offer/kredyt-dla-firm-bez-bik-i-krd/"
+          },
+          "topf.pl_pos": 29,
+          "topf.pl_url": "topf.pl/offer/kredyt-dla-firm-bez-bik-i-krd/"
+        },
+        {
+          "keyword": "finansowanie firm bez bik",
+          "cpc": 11.58,
+          "searches": 10,
+          "trends": [
+            10,
+            10,
+            10,
+            10,
+            20,
+            10,
+            50,
+            10,
+            10,
+            10,
+            10,
+            10
+          ],
+          "difficulty": 47,
+          "params": [
+            "brand"
+          ],
+          "horyzontcapital.com": {
+            "pos": 48,
+            "url": "horyzontcapital.com/blog/kredyt-dla-firm-bez-bik-czy-to-mozliwe-i-na-jakich-warunkach"
+          },
+          "horyzontcapital.com_pos": 48,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/kredyt-dla-firm-bez-bik-czy-to-mozliwe-i-na-jakich-warunkach",
+          "topf.pl": {
+            "pos": 23,
+            "url": "topf.pl/offer/kredyt-dla-firm-bez-bik-i-krd/"
+          },
+          "topf.pl_pos": 23,
+          "topf.pl_url": "topf.pl/offer/kredyt-dla-firm-bez-bik-i-krd/"
+        }
+      ],
+      "pagination": {
+        "page_count": 1,
+        "current_page": 1,
+        "has_next_page": false,
+        "has_prev_page": false,
+        "count": 2,
+        "limit": 100
+      }
+    },
+    "status": 200,
+    "domain": "topf.pl",
+    "endpoint": "get_competitors_analysis"
+  }
+}

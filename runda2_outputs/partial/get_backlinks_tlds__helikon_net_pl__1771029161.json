@@ -1,0 +1,38 @@
+{
+  "domain": "helikon.net.pl",
+  "endpoint": "get_backlinks_tlds",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "tld": "pl",
+          "count": 26,
+          "percent": 0.7428571428571429
+        },
+        {
+          "tld": "com",
+          "count": 7,
+          "percent": 0.2
+        },
+        {
+          "tld": "in",
+          "count": 2,
+          "percent": 0.05714285714285714
+        }
+      ],
+      "pagination": {
+        "page_count": 1,
+        "current_page": 1,
+        "has_next_page": false,
+        "has_prev_page": false,
+        "count": 3,
+        "limit": 10
+      }
+    },
+    "status": 200,
+    "domain": "helikon.net.pl",
+    "endpoint": "get_backlinks_tlds"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "domain": "expander.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "expander.pl": [
+          {
+            "text": "www.expander.pl",
+            "size": 154,
+            "percent": 0.11518324607329843
+          },
+          {
+            "text": "Finanse",
+            "size": 73,
+            "percent": 0.054599850411368736
+          },
+          {
+            "text": "Expander",
+            "size": 69,
+            "percent": 0.05160807778608826
+          },
+          {
+            "text": "",
+            "size": 68,
+            "percent": 0.050860134629768135
+          },
+          {
+            "text": "KONTAKT",
+            "size": 66,
+            "percent": 0.0493642483171279
+          },
+          {
+            "text": "expander.pl",
+            "size": 44,
+            "percent": 0.032909498878085267
+          },
+          {
+            "text": "CONTACT",
+            "size": 43,
+            "percent": 0.03216155572176515
+          },
+          {
+            "text": "https://www.expander.pl/porownywarka/",
+            "size": 39,
+            "percent": 0.02916978309648467
+          },
+          {
+            "text": "logo expander",
+            "size": 36,
+            "percent": 0.02692595362752431
+          },
+          {
+            "text": "Expandera",
+            "size": 29,
+            "percent": 0.02169035153328347
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "expander.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

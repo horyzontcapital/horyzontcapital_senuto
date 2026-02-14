@@ -1,0 +1,84 @@
+{
+  "domain": "newpoint-finance.pl",
+  "endpoint": "get_backlinks_referring_domains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "ref_domain": "robimywww.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 1.162162162162162,
+        "backlinks_count": 3,
+        "links_external_count": 37,
+        "percent_of_total": 0.5,
+        "count": {
+          "count": 3,
+          "percent_of_total": 0.5
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 15,
+        "visibility": 0,
+        "domain_rank": 2153097,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "minershop.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 1,
+        "links_external_count": 0,
+        "percent_of_total": 0.16666666666666666,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.16666666666666666
+        },
+        "top3": 3,
+        "top10": 15,
+        "top50": 71,
+        "visibility": 63.014,
+        "domain_rank": 570428,
+        "ads_equivalent": 23.57466
+      },
+      {
+        "ref_domain": "panoramafirm.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.008904176540050861,
+        "backlinks_count": 1,
+        "links_external_count": 10148496,
+        "percent_of_total": 0.16666666666666666,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.16666666666666666
+        },
+        "top3": 57262,
+        "top10": 368820,
+        "top50": 1250269,
+        "visibility": 1329064.9030009708,
+        "domain_rank": 292,
+        "ads_equivalent": 1467222.458890008
+      },
+      {
+        "ref_domain": "guide.in.ua",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.0001939491083951112,
+        "backlinks_count": 1,
+        "links_external_count": 623875,
+        "percent_of_total": 0.16666666666666666,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.16666666666666666
+        },
+        "top3": 0,
+        "top10": 15,
+        "top50": 2984,
+        "visibility": 26.045,
+        "domain_rank": 804231,
+        "ads_equivalent": 1.5642
+      }
+    ],
+    "total": 4,
+    "domain": "newpoint-finance.pl",
+    "endpoint": "get_backlinks_referring_domains"
+  }
+}

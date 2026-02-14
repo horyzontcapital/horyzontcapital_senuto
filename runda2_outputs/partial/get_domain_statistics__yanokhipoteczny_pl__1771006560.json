@@ -1,0 +1,74 @@
+{
+  "domain": "yanokhipoteczny.pl",
+  "endpoint": "get_domain_statistics",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "statistics": {
+          "top3": {
+            "recent_value": 53,
+            "older_value": 53,
+            "diff": 0,
+            "percent": 0
+          },
+          "top10": {
+            "recent_value": 119,
+            "older_value": 119,
+            "diff": 0,
+            "percent": 0
+          },
+          "top50": {
+            "recent_value": 507,
+            "older_value": 507,
+            "diff": 0,
+            "percent": 0
+          },
+          "visibility": {
+            "recent_value": 997,
+            "older_value": 997,
+            "diff": 0,
+            "percent": 0
+          },
+          "domain_rank": {
+            "recent_value": 130925,
+            "older_value": 130920,
+            "diff": 5,
+            "percent": 0
+          },
+          "ads_equivalent": {
+            "recent_value": 5976.57,
+            "older_value": 5976.57,
+            "diff": 0,
+            "percent": 0
+          },
+          "category": {
+            "name": "",
+            "statistics": {
+              "recent_value": 130925,
+              "older_value": 130925,
+              "diff": 0,
+              "percent": 0
+            }
+          },
+          "aio_keywords": {
+            "recent_value": 273,
+            "older_value": 273,
+            "diff": 0,
+            "percent": 0
+          },
+          "aio_visible_keywords": {
+            "recent_value": 152,
+            "older_value": 152,
+            "diff": 0,
+            "percent": 0
+          }
+        }
+      }
+    },
+    "status": 200,
+    "domain": "yanokhipoteczny.pl",
+    "endpoint": "get_domain_statistics"
+  }
+}

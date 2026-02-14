@@ -1,0 +1,68 @@
+{
+  "domain": "rekinfinansow.pl",
+  "endpoint": "get_backlinks_tlds",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "tld": "com",
+          "count": 1114,
+          "percent": 0.5252239509665252
+        },
+        {
+          "tld": "pl",
+          "count": 990,
+          "percent": 0.4667609618104668
+        },
+        {
+          "tld": "org",
+          "count": 7,
+          "percent": 0.0033003300330033004
+        },
+        {
+          "tld": "eu",
+          "count": 3,
+          "percent": 0.0014144271570014145
+        },
+        {
+          "tld": "men",
+          "count": 2,
+          "percent": 0.000942951438000943
+        },
+        {
+          "tld": "net",
+          "count": 2,
+          "percent": 0.000942951438000943
+        },
+        {
+          "tld": "us",
+          "count": 1,
+          "percent": 0.0004714757190004715
+        },
+        {
+          "tld": "tv",
+          "count": 1,
+          "percent": 0.0004714757190004715
+        },
+        {
+          "tld": "wiki",
+          "count": 1,
+          "percent": 0.0004714757190004715
+        }
+      ],
+      "pagination": {
+        "page_count": 1,
+        "current_page": 1,
+        "has_next_page": false,
+        "has_prev_page": false,
+        "count": 9,
+        "limit": 10
+      }
+    },
+    "status": 200,
+    "domain": "rekinfinansow.pl",
+    "endpoint": "get_backlinks_tlds"
+  }
+}

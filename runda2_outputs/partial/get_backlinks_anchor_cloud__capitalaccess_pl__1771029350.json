@@ -1,0 +1,67 @@
+{
+  "domain": "capitalaccess.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "capitalaccess.pl": [
+          {
+            "text": "",
+            "size": 16,
+            "percent": 0.42105263157894735
+          },
+          {
+            "text": "www.capitalaccess.pl",
+            "size": 9,
+            "percent": 0.23684210526315788
+          },
+          {
+            "text": "http://www.capitalaccess.pl",
+            "size": 3,
+            "percent": 0.07894736842105263
+          },
+          {
+            "text": "WWW.CAPITALACCESS.PL",
+            "size": 2,
+            "percent": 0.05263157894736842
+          },
+          {
+            "text": "Capital Access",
+            "size": 1,
+            "percent": 0.02631578947368421
+          },
+          {
+            "text": "faktoring",
+            "size": 1,
+            "percent": 0.02631578947368421
+          },
+          {
+            "text": "faktorIng z regresem",
+            "size": 1,
+            "percent": 0.02631578947368421
+          },
+          {
+            "text": "capital accEss finansowanie firm.",
+            "size": 1,
+            "percent": 0.02631578947368421
+          },
+          {
+            "text": "fInansowanie kontrakt&#243;w",
+            "size": 1,
+            "percent": 0.02631578947368421
+          },
+          {
+            "text": "cesjA wierzytelno&#347;ci",
+            "size": 1,
+            "percent": 0.02631578947368421
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "capitalaccess.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

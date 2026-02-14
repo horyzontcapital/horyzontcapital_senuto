@@ -1,0 +1,20 @@
+{
+  "domain": "finhack.pl",
+  "endpoint": "suggest_domains",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "favourite": [],
+        "suggested": [
+          "finhack.pl",
+          "finhacker.cz"
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "finhack.pl",
+    "endpoint": "suggest_domains"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "domain": "splatapozyczek.pl",
+  "endpoint": "get_backlinks_tlds",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "tld": "pl",
+          "count": 260,
+          "percent": 0.9701492537313433
+        },
+        {
+          "tld": "info",
+          "count": 2,
+          "percent": 0.007462686567164179
+        },
+        {
+          "tld": "org",
+          "count": 2,
+          "percent": 0.007462686567164179
+        },
+        {
+          "tld": "biz",
+          "count": 1,
+          "percent": 0.0037313432835820895
+        },
+        {
+          "tld": "online",
+          "count": 1,
+          "percent": 0.0037313432835820895
+        },
+        {
+          "tld": "eu",
+          "count": 1,
+          "percent": 0.0037313432835820895
+        },
+        {
+          "tld": "uk",
+          "count": 1,
+          "percent": 0.0037313432835820895
+        }
+      ],
+      "pagination": {
+        "page_count": 1,
+        "current_page": 1,
+        "has_next_page": false,
+        "has_prev_page": false,
+        "count": 7,
+        "limit": 10
+      }
+    },
+    "status": 200,
+    "domain": "splatapozyczek.pl",
+    "endpoint": "get_backlinks_tlds"
+  }
+}

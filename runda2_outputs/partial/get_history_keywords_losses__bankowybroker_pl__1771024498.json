@@ -1,0 +1,849 @@
+{
+  "domain": "bankowybroker.pl",
+  "endpoint": "get_history_keywords_losses",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "keyword_id": 16818294,
+        "kid": "2a5789b04136956d938f565bbf1e2a19",
+        "domain": "bankowybroker.pl",
+        "keyword": "niespłacone chwilowki",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 20,
+            "previous": 18,
+            "diff": 2,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-15": {
+                "position": 18,
+                "has_serp": true
+              },
+              "2026-02-01": {
+                "position": 20,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "bankowybroker.pl/poradnik-pozyczkowy/dlaczego-chwilowki-to-pulapka-dla-przedsiebiorcow-i-jakie-sa-bezpieczniejsze-alternatywy/",
+            "previous": "bankowybroker.pl/poradnik-pozyczkowy/dlaczego-chwilowki-to-pulapka-dla-przedsiebiorcow-i-jakie-sa-bezpieczniejsze-alternatywy/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 3.89
+          },
+          "searches": {
+            "current": 50
+          },
+          "trends": {
+            "history": [
+              70,
+              50,
+              50,
+              40,
+              40,
+              40,
+              70,
+              70,
+              70,
+              50,
+              50,
+              50
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 42
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 6650541,
+        "kid": "91026a735732b587500b88d37d11a49e",
+        "domain": "bankowybroker.pl",
+        "keyword": "kredyty deweloperskie",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 33,
+            "previous": 25,
+            "diff": 8,
+            "changes": {
+              "wins": 1,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-18": {
+                "position": 24,
+                "has_serp": true
+              },
+              "2026-01-01": {
+                "position": 17,
+                "has_serp": true
+              },
+              "2026-01-20": {
+                "position": 25,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 33,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "bankowybroker.pl/oferta/kredyty-deweloperskie/",
+            "previous": "bankowybroker.pl/oferta/kredyty-deweloperskie/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 3.85
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              30,
+              20,
+              30,
+              20,
+              30,
+              20,
+              10,
+              10,
+              20,
+              30,
+              30,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 50
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 10384867,
+        "kid": "e5335e669f8e63edb627f7418b6d189b",
+        "domain": "bankowybroker.pl",
+        "keyword": "czy kredyt jest kosztem",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 17,
+            "previous": 13,
+            "diff": 4,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-17": {
+                "position": 13,
+                "has_serp": true
+              },
+              "2026-02-05": {
+                "position": 17,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "bankowybroker.pl/poradnik-pozyczkowy/czy-odsetki-od-kredytu-pozyczki-sa-kosztem/",
+            "previous": "bankowybroker.pl/poradnik-pozyczkowy/czy-odsetki-od-kredytu-pozyczki-sa-kosztem/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              40,
+              10,
+              20,
+              20,
+              20,
+              20,
+              10,
+              30,
+              20,
+              20,
+              30,
+              30
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 34
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 11416337,
+        "kid": "fca90bf98a0003263cbdd7d1afd80638",
+        "domain": "bankowybroker.pl",
+        "keyword": "kredyt na splate zus",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 24,
+            "previous": 21,
+            "diff": 3,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-18": {
+                "position": 21,
+                "has_serp": true
+              },
+              "2026-02-06": {
+                "position": 24,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "bankowybroker.pl/oferta/pozyczka-na-splate-zus-i-us/",
+            "previous": "bankowybroker.pl/oferta/pozyczka-na-splate-zus-i-us/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 16.57
+          },
+          "searches": {
+            "current": 40
+          },
+          "trends": {
+            "history": [
+              40,
+              70,
+              40,
+              70,
+              50,
+              40,
+              30,
+              40,
+              30,
+              30,
+              40,
+              40
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 43
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 4809642,
+        "kid": "681a130d9f75904218c445f2a574cc59",
+        "domain": "bankowybroker.pl",
+        "keyword": "kredyt na spłatę zus i us",
+        "words_count": 6,
+        "statistics": {
+          "position": {
+            "current": 25,
+            "previous": 23,
+            "diff": 2,
+            "changes": {
+              "wins": 0,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-29": {
+                "position": 21,
+                "has_serp": true
+              },
+              "2026-01-14": {
+                "position": 23,
+                "has_serp": true
+              },
+              "2026-02-01": {
+                "position": 25,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "bankowybroker.pl/oferta/pozyczka-na-splate-zus-i-us/",
+            "previous": "bankowybroker.pl/oferta/pozyczka-na-splate-zus-i-us/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 35.94
+          },
+          "searches": {
+            "current": 170
+          },
+          "trends": {
+            "history": [
+              210,
+              390,
+              210,
+              140,
+              170,
+              110,
+              110,
+              70,
+              50,
+              70,
+              140,
+              210
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 29
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 5068736,
+        "kid": "6dd9729a2632b1302b0f817a7a0d579f",
+        "domain": "bankowybroker.pl",
+        "keyword": "kredyt deweloperski na czym polega",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 23,
+            "previous": 12,
+            "diff": 11,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-20": {
+                "position": 12,
+                "has_serp": true
+              },
+              "2026-02-01": {
+                "position": 23,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "bankowybroker.pl/oferta/kredyty-deweloperskie/",
+            "previous": "bankowybroker.pl/oferta/kredyty-deweloperskie/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              0,
+              10,
+              0,
+              10,
+              10,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 18
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 12414730,
+        "kid": "2dc933d3acea53a8853a3ee47fe5ad72",
+        "domain": "bankowybroker.pl",
+        "keyword": "skuteczna pożyczka",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 22,
+            "previous": 16,
+            "diff": 6,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-18": {
+                "position": 16,
+                "has_serp": true
+              },
+              "2026-02-07": {
+                "position": 22,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "bankowybroker.pl/poradnik-pozyczkowy/pozyczka-pod-zastaw-nieruchomosci-jako-skuteczna-dzwignia-finansowa-w-przetargach-publicznych/",
+            "previous": "bankowybroker.pl/poradnik-pozyczkowy/pozyczka-pod-zastaw-nieruchomosci-jako-skuteczna-dzwignia-finansowa-w-przetargach-publicznych/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 4.47
+          },
+          "searches": {
+            "current": 30
+          },
+          "trends": {
+            "history": [
+              10,
+              20,
+              10,
+              10,
+              20,
+              10,
+              30,
+              140,
+              70,
+              30,
+              20,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 39
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "buy",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 292644,
+        "kid": "0643714a375165f5cfb47d19aa57f404",
+        "domain": "bankowybroker.pl",
+        "keyword": "leasing zwrotny nieruchomości",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 39,
+            "previous": 34,
+            "diff": 5,
+            "changes": {
+              "wins": 2,
+              "losses": 4,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-18": {
+                "position": 21,
+                "has_serp": true
+              },
+              "2025-12-25": {
+                "position": 20,
+                "has_serp": true
+              },
+              "2026-01-01": {
+                "position": 30,
+                "has_serp": true
+              },
+              "2026-01-08": {
+                "position": 33,
+                "has_serp": true
+              },
+              "2026-01-19": {
+                "position": 41,
+                "has_serp": true
+              },
+              "2026-01-29": {
+                "position": 34,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 39,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "bankowybroker.pl/oferta/leasing-nieruchomosci/",
+            "previous": "bankowybroker.pl/oferta/leasing-nieruchomosci/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 2.55
+          },
+          "searches": {
+            "current": 110
+          },
+          "trends": {
+            "history": [
+              110,
+              90,
+              90,
+              70,
+              110,
+              90,
+              140,
+              90,
+              140,
+              110,
+              110,
+              90
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 41
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 10847690,
+        "kid": "efbb3d7d6e2e557c059415e5a1df2227",
+        "domain": "bankowybroker.pl",
+        "keyword": "kiedy zus blokuje konto",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 14,
+            "previous": 12,
+            "diff": 2,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-29": {
+                "position": 12,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 14,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "bankowybroker.pl/poradnik-pozyczkowy/zablokowane-konto-firmowe-przez-zus-lub-us-jak-nie-stracic-plynnosci-i-dzialac-dalej-dzieki-finansowaniu-pod-zastaw/",
+            "previous": "bankowybroker.pl/poradnik-pozyczkowy/zablokowane-konto-firmowe-przez-zus-lub-us-jak-nie-stracic-plynnosci-i-dzialac-dalej-dzieki-finansowaniu-pod-zastaw/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              20,
+              20,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              20,
+              30
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 29
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 6232691,
+        "kid": "87b0a1fc8e5d1ab35510a93180bb5bfb",
+        "domain": "bankowybroker.pl",
+        "keyword": "pożyczki pod zastaw nieruchomości pozabankowe",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 10,
+            "previous": 8,
+            "diff": 2,
+            "changes": {
+              "wins": 2,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-21": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-26": {
+                "position": 13,
+                "has_serp": true
+              },
+              "2026-01-02": {
+                "position": 9,
+                "has_serp": true
+              },
+              "2026-01-20": {
+                "position": 8,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 10,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 3.23,
+            "previous": 7.14,
+            "diff": -3.9,
+            "percent": -0.5476,
+            "history": null
+          },
+          "url": {
+            "current": "bankowybroker.pl/oferta/pozyczki-indywidualne/",
+            "previous": "bankowybroker.pl/oferta/pozyczki-indywidualne/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 15.61
+          },
+          "searches": {
+            "current": 320
+          },
+          "trends": {
+            "history": [
+              390,
+              390,
+              320,
+              320,
+              260,
+              320,
+              390,
+              320,
+              210,
+              170,
+              210,
+              320
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 35
+          },
+          "snippets": {
+            "current": [
+              "map"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      }
+    ],
+    "total": 10,
+    "domain": "bankowybroker.pl",
+    "endpoint": "get_history_keywords_losses"
+  }
+}

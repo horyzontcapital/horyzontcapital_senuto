@@ -1,0 +1,19 @@
+{
+  "domain": "bankoweabc.pl",
+  "endpoint": "suggest_domains",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "favourite": [],
+        "suggested": [
+          "bankoweabc.pl"
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "bankoweabc.pl",
+    "endpoint": "suggest_domains"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "domain": "bankoweabc.pl",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "bankoweabc.pl",
+        "keywords_count": 2366,
+        "visibility_percent": 100,
+        "statistics": {
+          "visibility": {
+            "current": 22190.56,
+            "previous": 19704.4,
+            "diff": 2486.16,
+            "percent": 0.1262,
+            "history": null
+          },
+          "top3": {
+            "current": 262,
+            "previous": 274,
+            "diff": -12,
+            "percent": -0.0438,
+            "history": null
+          },
+          "top10": {
+            "current": 2366,
+            "previous": 2427,
+            "diff": -61,
+            "percent": -0.0251,
+            "history": null
+          },
+          "top50": {
+            "current": 11781,
+            "previous": 12022,
+            "diff": -241,
+            "percent": -0.02,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 100,
+            "previous": 100,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "bankoweabc.pl",
+    "endpoint": "get_subdomains"
+  }
+}

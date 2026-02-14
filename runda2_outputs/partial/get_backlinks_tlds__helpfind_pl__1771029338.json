@@ -1,0 +1,73 @@
+{
+  "domain": "helpfind.pl",
+  "endpoint": "get_backlinks_tlds",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "tld": "pl",
+          "count": 2029,
+          "percent": 0.887964989059081
+        },
+        {
+          "tld": "com",
+          "count": 190,
+          "percent": 0.08315098468271334
+        },
+        {
+          "tld": "info",
+          "count": 36,
+          "percent": 0.01575492341356674
+        },
+        {
+          "tld": "net",
+          "count": 14,
+          "percent": 0.00612691466083151
+        },
+        {
+          "tld": "org",
+          "count": 6,
+          "percent": 0.00262582056892779
+        },
+        {
+          "tld": "eu",
+          "count": 4,
+          "percent": 0.00175054704595186
+        },
+        {
+          "tld": "io",
+          "count": 2,
+          "percent": 0.00087527352297593
+        },
+        {
+          "tld": "tv",
+          "count": 1,
+          "percent": 0.000437636761487965
+        },
+        {
+          "tld": "online",
+          "count": 1,
+          "percent": 0.000437636761487965
+        },
+        {
+          "tld": "me",
+          "count": 1,
+          "percent": 0.000437636761487965
+        }
+      ],
+      "pagination": {
+        "page_count": 2,
+        "current_page": 1,
+        "has_next_page": true,
+        "has_prev_page": false,
+        "count": 11,
+        "limit": 10
+      }
+    },
+    "status": 200,
+    "domain": "helpfind.pl",
+    "endpoint": "get_backlinks_tlds"
+  }
+}

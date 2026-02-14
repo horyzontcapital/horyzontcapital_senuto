@@ -1,0 +1,77 @@
+{
+  "domain": "novalend.pl",
+  "endpoint": "get_cannibalization_keywords",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "keyword": "prosty kredyt sp z oo",
+        "keyword_id": 9410632,
+        "kid": "cf206747c7e2f3c02df11e6cecb9ddbe",
+        "domain": "novalend.pl",
+        "words_count": 5,
+        "brand": "",
+        "statistics": {
+          "position": {
+            "current": 13,
+            "previous": 16,
+            "diff": -3,
+            "changes": {
+              "wins": 2,
+              "losses": 0,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-25": 0,
+              "2025-12-26": 16,
+              "2026-02-07": 13
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 10
+          },
+          "difficulty": {
+            "current": 29
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              20,
+              10,
+              20,
+              10,
+              10
+            ],
+            "peak": []
+          },
+          "url": {
+            "current": "novalend.pl/",
+            "previous": "novalend.pl/kredyty-dla-firm/"
+          },
+          "snippets": {
+            "current": []
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "novalend.pl",
+    "endpoint": "get_cannibalization_keywords"
+  }
+}

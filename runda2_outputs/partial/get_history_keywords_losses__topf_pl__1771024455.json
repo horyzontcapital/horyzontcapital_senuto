@@ -1,0 +1,595 @@
+{
+  "domain": "topf.pl",
+  "endpoint": "get_history_keywords_losses",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "keyword_id": 6817547,
+        "kid": "94bea485a89dcaffebb014ce35c3985a",
+        "domain": "topf.pl",
+        "keyword": "kredyt inwestycyjny 2 mln",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 41,
+            "previous": 37,
+            "diff": 4,
+            "changes": {
+              "wins": 1,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-18": {
+                "position": 46,
+                "has_serp": true
+              },
+              "2026-01-01": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-20": {
+                "position": 37,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 41,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "topf.pl/offer/kredyt-inwestycyjny/",
+            "previous": "topf.pl/offer/kredyt-inwestycyjny/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0.31
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              20,
+              10,
+              10,
+              10,
+              30,
+              20,
+              10,
+              20,
+              10,
+              10,
+              10,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 41
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 1891688,
+        "kid": "289ce11d7f937a21d847f0d0dc3f1a2d",
+        "domain": "topf.pl",
+        "keyword": "kredyty dla firm bez bik",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 29,
+            "previous": 21,
+            "diff": 8,
+            "changes": {
+              "wins": 1,
+              "losses": 4,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-21": {
+                "position": 17,
+                "has_serp": true
+              },
+              "2025-12-28": {
+                "position": 22,
+                "has_serp": true
+              },
+              "2026-01-05": {
+                "position": 19,
+                "has_serp": true
+              },
+              "2026-01-12": {
+                "position": 21,
+                "has_serp": true
+              },
+              "2026-02-01": {
+                "position": 24,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 29,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "topf.pl/offer/kredyt-dla-firm-bez-bik-i-krd/",
+            "previous": "topf.pl/offer/kredyt-dla-firm-bez-bik-i-krd/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 7.99
+          },
+          "searches": {
+            "current": 390
+          },
+          "trends": {
+            "history": [
+              390,
+              390,
+              480,
+              320,
+              390,
+              390,
+              480,
+              390,
+              260,
+              260,
+              260,
+              320
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 52
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 184912,
+        "kid": "03f6458ac1dffda6e316bb3a839f28d8",
+        "domain": "topf.pl",
+        "keyword": "kredyt dla spółki bez bik prezesa",
+        "words_count": 6,
+        "statistics": {
+          "position": {
+            "current": 38,
+            "previous": 36,
+            "diff": 2,
+            "changes": {
+              "wins": 2,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-25": {
+                "position": 39,
+                "has_serp": true
+              },
+              "2026-01-01": {
+                "position": 41,
+                "has_serp": true
+              },
+              "2026-01-08": {
+                "position": 40,
+                "has_serp": true
+              },
+              "2026-01-29": {
+                "position": 36,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 38,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "topf.pl/offer/kredyt-dla-firm-bez-bik-i-krd/",
+            "previous": "topf.pl/offer/kredyt-dla-firm-bez-bik-i-krd/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 11.41
+          },
+          "searches": {
+            "current": 260
+          },
+          "trends": {
+            "history": [
+              210,
+              320,
+              390,
+              320,
+              260,
+              260,
+              260,
+              170,
+              170,
+              210,
+              170,
+              140
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 35
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 1220008,
+        "kid": "1a2c01532c07701e49aaa78e34a0a822",
+        "domain": "topf.pl",
+        "keyword": "kredyt dla nowych firm bez bik",
+        "words_count": 6,
+        "statistics": {
+          "position": {
+            "current": 18,
+            "previous": 12,
+            "diff": 6,
+            "changes": {
+              "wins": 0,
+              "losses": 0,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-02-04": {
+                "position": 18,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "topf.pl/offer/kredyt-dla-firm-bez-bik-i-krd/",
+            "previous": "topf.pl/offer/kredyt-dla-firm-bez-bik-i-krd/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              10,
+              20,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 30
+          },
+          "snippets": {
+            "current": []
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 4828889,
+        "kid": "6887ab9d2e228a54be981bb713e66c2e",
+        "domain": "topf.pl",
+        "keyword": "szybki kredyt dla firm bez bik",
+        "words_count": 6,
+        "statistics": {
+          "position": {
+            "current": 21,
+            "previous": 16,
+            "diff": 5,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-26": {
+                "position": 16,
+                "has_serp": true
+              },
+              "2026-02-06": {
+                "position": 21,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "topf.pl/offer/kredyt-dla-firm-bez-bik-i-krd/",
+            "previous": "topf.pl/offer/kredyt-dla-firm-bez-bik-i-krd/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              20,
+              10,
+              20,
+              10,
+              10,
+              20,
+              20,
+              20,
+              20,
+              10,
+              20,
+              30
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 25
+          },
+          "snippets": {
+            "current": []
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 4719250,
+        "kid": "661485f02f5407a20be2922f7fe51d29",
+        "domain": "topf.pl",
+        "keyword": "wysoka przyznawalność kredytów",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 35,
+            "previous": 30,
+            "diff": 5,
+            "changes": {
+              "wins": 0,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-19": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-26": {
+                "position": 30,
+                "has_serp": true
+              },
+              "2026-02-06": {
+                "position": 35,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "topf.pl/oferta/",
+            "previous": "topf.pl/oferta/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 12.43
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              20,
+              10,
+              10,
+              10,
+              10,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 55
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 10058779,
+        "kid": "ddcee4f11e8d768535d845c335233eca",
+        "domain": "topf.pl",
+        "keyword": "kredyt bez zaświadczeń z zus i us",
+        "words_count": 7,
+        "statistics": {
+          "position": {
+            "current": 4,
+            "previous": 2,
+            "diff": 2,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-18": {
+                "position": 2,
+                "has_serp": true
+              },
+              "2026-02-06": {
+                "position": 4,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 1.42,
+            "previous": 3.5,
+            "diff": -2.08,
+            "percent": -0.5943,
+            "history": null
+          },
+          "url": {
+            "current": "topf.pl/offer/kredyt-dla-firm-bez-zus-i-us/",
+            "previous": "topf.pl/offer/kredyt-dla-firm-bez-zus-i-us/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 11.32
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              10,
+              20,
+              30,
+              30,
+              30,
+              20,
+              10,
+              10,
+              10,
+              20,
+              30,
+              20
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 40
+          },
+          "snippets": {
+            "current": []
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      }
+    ],
+    "total": 7,
+    "domain": "topf.pl",
+    "endpoint": "get_history_keywords_losses"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "domain": "firmowefinanse.pl",
+  "endpoint": "suggest_domains",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "favourite": [],
+        "suggested": [
+          "firmowefinanse.pl"
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "firmowefinanse.pl",
+    "endpoint": "suggest_domains"
+  }
+}

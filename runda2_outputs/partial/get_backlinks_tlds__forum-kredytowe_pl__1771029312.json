@@ -1,0 +1,68 @@
+{
+  "domain": "forum-kredytowe.pl",
+  "endpoint": "get_backlinks_tlds",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "tld": "pl",
+          "count": 9510,
+          "percent": 0.9679389312977099
+        },
+        {
+          "tld": "net",
+          "count": 88,
+          "percent": 0.008956743002544528
+        },
+        {
+          "tld": "com",
+          "count": 76,
+          "percent": 0.007735368956743003
+        },
+        {
+          "tld": "info",
+          "count": 63,
+          "percent": 0.006412213740458015
+        },
+        {
+          "tld": "us",
+          "count": 60,
+          "percent": 0.0061068702290076335
+        },
+        {
+          "tld": "org",
+          "count": 18,
+          "percent": 0.00183206106870229
+        },
+        {
+          "tld": "expert",
+          "count": 4,
+          "percent": 0.0004071246819338422
+        },
+        {
+          "tld": "uk",
+          "count": 4,
+          "percent": 0.0004071246819338422
+        },
+        {
+          "tld": "eu",
+          "count": 2,
+          "percent": 0.0002035623409669211
+        }
+      ],
+      "pagination": {
+        "page_count": 1,
+        "current_page": 1,
+        "has_next_page": false,
+        "has_prev_page": false,
+        "count": 9,
+        "limit": 10
+      }
+    },
+    "status": 200,
+    "domain": "forum-kredytowe.pl",
+    "endpoint": "get_backlinks_tlds"
+  }
+}

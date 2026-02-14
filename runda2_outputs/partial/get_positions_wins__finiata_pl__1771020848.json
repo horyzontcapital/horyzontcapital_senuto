@@ -1,0 +1,651 @@
+{
+  "domain": "finiata.pl",
+  "endpoint": "get_positions_wins",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "keyword_id": 442345,
+        "kid": "0977fef3fa6be08abda8ebbb6692071a",
+        "domain": "finiata.pl",
+        "keyword": "pożyczki prywatne dla firm",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 5,
+            "previous": 51,
+            "diff": -46,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 2
+            },
+            "history": {
+              "2025-12-23": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-06": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-22": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 5,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 1.01,
+            "previous": 0,
+            "diff": 1.01,
+            "percent": 1,
+            "history": null
+          },
+          "url": {
+            "current": "finiata.pl/pozyczka-dla-firm/",
+            "previous": "",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 13.36
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              30,
+              20,
+              10,
+              20,
+              10,
+              10,
+              10,
+              10,
+              30,
+              10,
+              10,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 47
+          },
+          "snippets": {
+            "current": []
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 4828889,
+        "kid": "6887ab9d2e228a54be981bb713e66c2e",
+        "domain": "finiata.pl",
+        "keyword": "szybki kredyt dla firm bez bik",
+        "words_count": 6,
+        "statistics": {
+          "position": {
+            "current": 39,
+            "previous": 51,
+            "diff": -12,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-26": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-06": {
+                "position": 39,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "finiata.pl/pozyczka-dla-firm/",
+            "previous": "",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              20,
+              10,
+              20,
+              10,
+              10,
+              20,
+              20,
+              20,
+              20,
+              10,
+              20,
+              30
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 25
+          },
+          "snippets": {
+            "current": []
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 8976813,
+        "kid": "c552d7fa5d5b9b0ca3e5db7aaf087839",
+        "domain": "finiata.pl",
+        "keyword": "szybka pożyczka pozabankowa",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 37,
+            "previous": 51,
+            "diff": -14,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 5
+            },
+            "history": {
+              "2025-12-19": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-26": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-04": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-11": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-21": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-31": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-10": {
+                "position": 37,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "finiata.pl/pozyczka-dla-firm/",
+            "previous": "",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 10.54
+          },
+          "searches": {
+            "current": 70
+          },
+          "trends": {
+            "history": [
+              40,
+              90,
+              70,
+              70,
+              90,
+              50,
+              40,
+              50,
+              70,
+              70,
+              50,
+              50
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 62
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "buy",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 9489333,
+        "kid": "d0e8990afdb7e683decb282efcdf4c32",
+        "domain": "finiata.pl",
+        "keyword": "kredyt dla firm online",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 49,
+            "previous": 51,
+            "diff": -2,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 5
+            },
+            "history": {
+              "2025-12-19": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-27": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-05": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-12": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-22": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-01": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 49,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "finiata.pl/pozyczka-dla-firm/",
+            "previous": "",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 34.89
+          },
+          "searches": {
+            "current": 260
+          },
+          "trends": {
+            "history": [
+              210,
+              320,
+              260,
+              260,
+              210,
+              320,
+              210,
+              320,
+              320,
+              320,
+              170,
+              210
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 64
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 13434736,
+        "kid": "88a1b2fa59901ca9f81656983ebd991b",
+        "domain": "finiata.pl",
+        "keyword": "pozyczki dla firmy",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 26,
+            "previous": 51,
+            "diff": -25,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 11
+            },
+            "history": {
+              "2025-12-19": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-23": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-27": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-01": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-04": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-07": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-10": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-13": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-17": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-21": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-27": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-04": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 26,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "finiata.pl/pozyczka-dla-firm/",
+            "previous": "",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 23.1
+          },
+          "searches": {
+            "current": 1900
+          },
+          "trends": {
+            "history": [
+              2400,
+              1900,
+              1900,
+              1900,
+              1900,
+              1900,
+              1900,
+              1600,
+              1900,
+              1900,
+              1900,
+              1900
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 80
+          },
+          "snippets": {
+            "current": []
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "buy",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 14408912,
+        "kid": "e001179262bfa7a0facbe417c05404c7",
+        "domain": "finiata.pl",
+        "keyword": "pożyczka dla firmy jednoosobowej bez bik",
+        "words_count": 6,
+        "statistics": {
+          "position": {
+            "current": 40,
+            "previous": 51,
+            "diff": -11,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-18": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-07": {
+                "position": 40,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "finiata.pl/pozyczka-dla-firm/",
+            "previous": "",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 17.39
+          },
+          "searches": {
+            "current": 210
+          },
+          "trends": {
+            "history": [
+              260,
+              210,
+              260,
+              260,
+              210,
+              210,
+              260,
+              210,
+              170,
+              210,
+              170,
+              170
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 30
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 16285579,
+        "kid": "af771861f04a55bd26815bc0b0d3ac6d",
+        "domain": "finiata.pl",
+        "keyword": "finette pożyczki",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 28,
+            "previous": 51,
+            "diff": -23,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-17": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-06": {
+                "position": 28,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "finiata.pl/pozyczka-dla-firm/",
+            "previous": "",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 3.36
+          },
+          "searches": {
+            "current": 320
+          },
+          "trends": {
+            "history": [
+              320,
+              260,
+              320,
+              210,
+              390,
+              170,
+              110,
+              320,
+              320,
+              320,
+              390,
+              320
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 44
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "buy",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      }
+    ],
+    "total": 7,
+    "domain": "finiata.pl",
+    "endpoint": "get_positions_wins"
+  }
+}

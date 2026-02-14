@@ -1,0 +1,27 @@
+{
+  "domain": "brsonline.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "brsonline.pl": [
+          {
+            "text": "",
+            "size": 1,
+            "percent": 0.5
+          },
+          {
+            "text": "http://www.brsonline.pl",
+            "size": 1,
+            "percent": 0.5
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "brsonline.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

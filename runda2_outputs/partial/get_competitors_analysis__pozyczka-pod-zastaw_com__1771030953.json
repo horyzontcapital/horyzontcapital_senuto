@@ -1,0 +1,56 @@
+{
+  "domain": "pozyczka-pod-zastaw.com",
+  "endpoint": "get_competitors_analysis",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "keyword": "uczciwe pożyczki pod zastaw mieszkania",
+          "cpc": 1.71,
+          "searches": 90,
+          "trends": [
+            90,
+            30,
+            50,
+            50,
+            140,
+            90,
+            70,
+            70,
+            110,
+            110,
+            140,
+            70
+          ],
+          "difficulty": 27,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 26,
+            "url": "horyzontcapital.com/oferta/pozyczka-pod-zastaw-nieruchomosci"
+          },
+          "horyzontcapital.com_pos": 26,
+          "horyzontcapital.com_url": "horyzontcapital.com/oferta/pozyczka-pod-zastaw-nieruchomosci",
+          "pozyczka-pod-zastaw.com": {
+            "pos": 38,
+            "url": "pozyczka-pod-zastaw.com/pozyczka-pod-zastaw-domu/"
+          },
+          "pozyczka-pod-zastaw.com_pos": 38,
+          "pozyczka-pod-zastaw.com_url": "pozyczka-pod-zastaw.com/pozyczka-pod-zastaw-domu/"
+        }
+      ],
+      "pagination": {
+        "page_count": 1,
+        "current_page": 1,
+        "has_next_page": false,
+        "has_prev_page": false,
+        "count": 1,
+        "limit": 100
+      }
+    },
+    "status": 200,
+    "domain": "pozyczka-pod-zastaw.com",
+    "endpoint": "get_competitors_analysis"
+  }
+}

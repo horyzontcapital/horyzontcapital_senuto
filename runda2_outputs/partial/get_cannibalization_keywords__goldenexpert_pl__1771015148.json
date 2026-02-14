@@ -1,0 +1,212 @@
+{
+  "domain": "goldenexpert.pl",
+  "endpoint": "get_cannibalization_keywords",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "keyword": "pozyczki pod zastaw lodz",
+        "keyword_id": 10308598,
+        "kid": "e379dba4aa6dc4cd62ab1ca707773521",
+        "domain": "goldenexpert.pl",
+        "words_count": 4,
+        "brand": "",
+        "statistics": {
+          "position": {
+            "current": 15,
+            "previous": 49,
+            "diff": -34,
+            "changes": {
+              "wins": 0,
+              "losses": 0,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-02-10": 15
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "cpc": {
+            "current": 7.68
+          },
+          "searches": {
+            "current": 10
+          },
+          "difficulty": {
+            "current": 29
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              20,
+              10,
+              30,
+              10,
+              20,
+              20
+            ],
+            "peak": []
+          },
+          "url": {
+            "current": "goldenexpert.pl/pozyczka-pod-zastaw-nieruchomosci-bez-bik/",
+            "previous": "goldenexpert.pl/pozyczka-pod-auto-gotowka-pod-auto/"
+          },
+          "snippets": {
+            "current": [
+              "map",
+              "people_also_ask"
+            ]
+          }
+        }
+      },
+      {
+        "keyword": "pożyczka płynnościowa dla mikroprzedsiębiorców",
+        "keyword_id": 12261165,
+        "kid": "201907e651d74f40235e4e7560f69a88",
+        "domain": "goldenexpert.pl",
+        "words_count": 4,
+        "brand": "",
+        "statistics": {
+          "position": {
+            "current": 35,
+            "previous": 17,
+            "diff": 18,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-18": 17,
+              "2026-02-06": 35
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "cpc": {
+            "current": 0.4
+          },
+          "searches": {
+            "current": 30
+          },
+          "difficulty": {
+            "current": 14
+          },
+          "trends": {
+            "history": [
+              30,
+              50,
+              50,
+              70,
+              30,
+              20,
+              10,
+              10,
+              20,
+              50,
+              50,
+              20
+            ],
+            "peak": []
+          },
+          "url": {
+            "current": "goldenexpert.pl/jak-uzyskac-pozyczke-obrotowa-plynnosciowa-ze-wsparciem-unijnym/",
+            "previous": "goldenexpert.pl/pozyczka-plynnosciowa-dla-mikroprzedsiebiorcow-tarcza-antykryzysowa/"
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          }
+        }
+      },
+      {
+        "keyword": "pożyczka dla firmy jednoosobowej bez bik",
+        "keyword_id": 14408912,
+        "kid": "e001179262bfa7a0facbe417c05404c7",
+        "domain": "goldenexpert.pl",
+        "words_count": 6,
+        "brand": "bik",
+        "statistics": {
+          "position": {
+            "current": 41,
+            "previous": 48,
+            "diff": -7,
+            "changes": {
+              "wins": 1,
+              "losses": 0,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-18": 48,
+              "2026-02-07": 41
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "cpc": {
+            "current": 17.39
+          },
+          "searches": {
+            "current": 210
+          },
+          "difficulty": {
+            "current": 30
+          },
+          "trends": {
+            "history": [
+              260,
+              210,
+              260,
+              260,
+              210,
+              210,
+              260,
+              210,
+              170,
+              210,
+              170,
+              170
+            ],
+            "peak": []
+          },
+          "url": {
+            "current": "goldenexpert.pl/jak-uzyskac-kredyt-dla-spolki-z-o-o-bez-bik-u-prezesa-lub-udzialowcow/",
+            "previous": "goldenexpert.pl/kredyt-dla-spolki-z-o-o-bez-bik/"
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs"
+            ]
+          }
+        }
+      }
+    ],
+    "total": 3,
+    "domain": "goldenexpert.pl",
+    "endpoint": "get_cannibalization_keywords"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "domain": "habzafinanse.com.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "habzafinanse.com.pl": [
+          {
+            "text": "Habza finanse",
+            "size": 309,
+            "percent": 0.2861111111111111
+          },
+          {
+            "text": "https://habzafinanse.com.pl/",
+            "size": 51,
+            "percent": 0.04722222222222222
+          },
+          {
+            "text": "kredyt",
+            "size": 44,
+            "percent": 0.040740740740740744
+          },
+          {
+            "text": "Habza Finanse",
+            "size": 33,
+            "percent": 0.030555555555555555
+          },
+          {
+            "text": "https://habzafinanse.com.pl/konsolidacja-chwilowek/",
+            "size": 23,
+            "percent": 0.021296296296296296
+          },
+          {
+            "text": "kredyt konsolidacyjny",
+            "size": 22,
+            "percent": 0.020370370370370372
+          },
+          {
+            "text": "https://habzafinanse.com.pl/pozyczka-na-splate-zobowiazan/",
+            "size": 19,
+            "percent": 0.017592592592592594
+          },
+          {
+            "text": "https://habzafinanse.com.pl/kredyt-konsolidacyjny/",
+            "size": 16,
+            "percent": 0.014814814814814815
+          },
+          {
+            "text": "https://habzafinanse.com.pl/kredyt-na-dzialalnosc-gospodarcza/",
+            "size": 16,
+            "percent": 0.014814814814814815
+          },
+          {
+            "text": "konsolidacja chwilówek",
+            "size": 14,
+            "percent": 0.012962962962962963
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "habzafinanse.com.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

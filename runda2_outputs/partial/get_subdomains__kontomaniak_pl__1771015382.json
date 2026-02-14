@@ -1,0 +1,96 @@
+{
+  "domain": "kontomaniak.pl",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "kontomaniak.pl",
+        "keywords_count": 7820,
+        "visibility_percent": 100,
+        "statistics": {
+          "visibility": {
+            "current": 71894.89,
+            "previous": 71246.2,
+            "diff": 648.69,
+            "percent": 0.0091,
+            "history": null
+          },
+          "top3": {
+            "current": 1842,
+            "previous": 1834,
+            "diff": 8,
+            "percent": 0.0044,
+            "history": null
+          },
+          "top10": {
+            "current": 7820,
+            "previous": 7773,
+            "diff": 47,
+            "percent": 0.006,
+            "history": null
+          },
+          "top50": {
+            "current": 31028,
+            "previous": 30962,
+            "diff": 66,
+            "percent": 0.0021,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 100,
+            "previous": 100,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "wnioskiebroker.kontomaniak.pl",
+        "keywords_count": 0,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 2,
+            "previous": 3,
+            "diff": -1,
+            "percent": -0.3333,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 2,
+    "domain": "kontomaniak.pl",
+    "endpoint": "get_subdomains"
+  }
+}

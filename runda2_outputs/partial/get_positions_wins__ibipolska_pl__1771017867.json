@@ -1,0 +1,184 @@
+{
+  "domain": "ibipolska.pl",
+  "endpoint": "get_positions_wins",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "keyword_id": 3718164,
+        "kid": "501c52520dc794fc6e3b0909b834e575",
+        "domain": "ibipolska.pl",
+        "keyword": "biurowiec skylight",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 44,
+            "previous": 51,
+            "diff": -7,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 2
+            },
+            "history": {
+              "2025-12-22": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-05": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-22": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 44,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ibipolska.pl/kontakt/",
+            "previous": "",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 11.53
+          },
+          "searches": {
+            "current": 30
+          },
+          "trends": {
+            "history": [
+              30,
+              40,
+              20,
+              40,
+              40,
+              30,
+              30,
+              20,
+              30,
+              30,
+              20,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 32
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask",
+              "wiki_right"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "website",
+            "main_intent": "navigational",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 6516720,
+        "kid": "8e04140b9bb05e23608d35923e9a63dd",
+        "domain": "ibipolska.pl",
+        "keyword": "skylight złota 59",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 31,
+            "previous": 51,
+            "diff": -20,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-18": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-20": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 31,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ibipolska.pl/kontakt/",
+            "previous": "",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 1.39
+          },
+          "searches": {
+            "current": 30
+          },
+          "trends": {
+            "history": [
+              40,
+              20,
+              40,
+              30,
+              20,
+              10,
+              30,
+              30,
+              20,
+              30,
+              20,
+              20
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 27
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask",
+              "wiki_right"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "visit-in-person",
+            "main_intent": "local",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      }
+    ],
+    "total": 2,
+    "domain": "ibipolska.pl",
+    "endpoint": "get_positions_wins"
+  }
+}

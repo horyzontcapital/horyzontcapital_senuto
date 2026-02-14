@@ -1,0 +1,58 @@
+{
+  "domain": "akredo.pl",
+  "endpoint": "get_backlinks_tlds",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "tld": "pl",
+          "count": 81,
+          "percent": 0.7168141592920354
+        },
+        {
+          "tld": "org",
+          "count": 13,
+          "percent": 0.11504424778761062
+        },
+        {
+          "tld": "com",
+          "count": 12,
+          "percent": 0.10619469026548672
+        },
+        {
+          "tld": "net",
+          "count": 3,
+          "percent": 0.02654867256637168
+        },
+        {
+          "tld": "in",
+          "count": 2,
+          "percent": 0.017699115044247787
+        },
+        {
+          "tld": "tv",
+          "count": 1,
+          "percent": 0.008849557522123894
+        },
+        {
+          "tld": "fm",
+          "count": 1,
+          "percent": 0.008849557522123894
+        }
+      ],
+      "pagination": {
+        "page_count": 1,
+        "current_page": 1,
+        "has_next_page": false,
+        "has_prev_page": false,
+        "count": 7,
+        "limit": 10
+      }
+    },
+    "status": 200,
+    "domain": "akredo.pl",
+    "endpoint": "get_backlinks_tlds"
+  }
+}

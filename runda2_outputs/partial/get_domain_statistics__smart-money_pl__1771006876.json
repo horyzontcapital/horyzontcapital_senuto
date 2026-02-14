@@ -1,0 +1,74 @@
+{
+  "domain": "smart-money.pl",
+  "endpoint": "get_domain_statistics",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "statistics": {
+          "top3": {
+            "recent_value": 171,
+            "older_value": 171,
+            "diff": 0,
+            "percent": 0
+          },
+          "top10": {
+            "recent_value": 1808,
+            "older_value": 1808,
+            "diff": 0,
+            "percent": 0
+          },
+          "top50": {
+            "recent_value": 8165,
+            "older_value": 8165,
+            "diff": 0,
+            "percent": 0
+          },
+          "visibility": {
+            "recent_value": 14296,
+            "older_value": 14296,
+            "diff": 0,
+            "percent": 0
+          },
+          "domain_rank": {
+            "recent_value": 18205,
+            "older_value": 18202,
+            "diff": 3,
+            "percent": 0.0002
+          },
+          "ads_equivalent": {
+            "recent_value": 113814.28,
+            "older_value": 113814.28,
+            "diff": 0,
+            "percent": 0
+          },
+          "category": {
+            "name": "",
+            "statistics": {
+              "recent_value": 18205,
+              "older_value": 18205,
+              "diff": 0,
+              "percent": 0
+            }
+          },
+          "aio_keywords": {
+            "recent_value": 3712,
+            "older_value": 3712,
+            "diff": 0,
+            "percent": 0
+          },
+          "aio_visible_keywords": {
+            "recent_value": 2337,
+            "older_value": 2337,
+            "diff": 0,
+            "percent": 0
+          }
+        }
+      }
+    },
+    "status": 200,
+    "domain": "smart-money.pl",
+    "endpoint": "get_domain_statistics"
+  }
+}

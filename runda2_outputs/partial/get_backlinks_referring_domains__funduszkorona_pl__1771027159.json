@@ -1,0 +1,116 @@
+{
+  "domain": "funduszkorona.pl",
+  "endpoint": "get_backlinks_referring_domains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "ref_domain": "coolfinance.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.02323159867644677,
+        "backlinks_count": 4,
+        "links_external_count": 43217,
+        "percent_of_total": 0.5,
+        "count": {
+          "count": 4,
+          "percent_of_total": 0.5
+        },
+        "top3": 11,
+        "top10": 59,
+        "top50": 806,
+        "visibility": 187.51199999999994,
+        "domain_rank": 343265,
+        "ads_equivalent": 256.14467
+      },
+      {
+        "ref_domain": "100pozyczki.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.07537361923326835,
+        "backlinks_count": 1,
+        "links_external_count": 1539,
+        "percent_of_total": 0.125,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.125
+        },
+        "top3": 8,
+        "top10": 33,
+        "top50": 309,
+        "visibility": 139.05100000000004,
+        "domain_rank": 398643,
+        "ads_equivalent": 343.35242
+      },
+      {
+        "ref_domain": "portfel24.eu",
+        "available_whitepress_features": {
+          "article_price_dofollow": 161,
+          "article_price_nofollow": null,
+          "link_price_dofollow": null,
+          "link_price_nofollow": null,
+          "price_do_follow": 161,
+          "price_no_follow": null
+        },
+        "ratio_bl_ext": 0.638205499276411,
+        "backlinks_count": 1,
+        "links_external_count": 691,
+        "percent_of_total": 0.125,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.125
+        },
+        "top3": 1,
+        "top10": 2,
+        "top50": 63,
+        "visibility": 3.868,
+        "domain_rank": 1406101,
+        "ads_equivalent": 9.70508
+      },
+      {
+        "ref_domain": "cityon.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": 219.075,
+          "article_price_nofollow": 112.7,
+          "link_price_dofollow": 115,
+          "link_price_nofollow": null,
+          "price_do_follow": 219.075,
+          "price_no_follow": 112.7
+        },
+        "ratio_bl_ext": 0.005356827817012472,
+        "backlinks_count": 1,
+        "links_external_count": 1122306,
+        "percent_of_total": 0.125,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.125
+        },
+        "top3": 181,
+        "top10": 4396,
+        "top50": 66841,
+        "visibility": 7113.9500000001235,
+        "domain_rank": 31741,
+        "ads_equivalent": 2449.3513300000013
+      },
+      {
+        "ref_domain": "niezaleznaopinia.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.430627421409813,
+        "backlinks_count": 1,
+        "links_external_count": 76918,
+        "percent_of_total": 0.125,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.125
+        },
+        "top3": 179,
+        "top10": 1235,
+        "top50": 6014,
+        "visibility": 19481.857000000004,
+        "domain_rank": 14085,
+        "ads_equivalent": 89398.75810999997
+      }
+    ],
+    "total": 5,
+    "domain": "funduszkorona.pl",
+    "endpoint": "get_backlinks_referring_domains"
+  }
+}

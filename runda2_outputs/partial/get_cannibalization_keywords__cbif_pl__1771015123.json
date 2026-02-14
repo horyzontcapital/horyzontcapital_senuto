@@ -1,0 +1,148 @@
+{
+  "domain": "cbif.pl",
+  "endpoint": "get_cannibalization_keywords",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "keyword": "kredyt konsolidacyjny dla zadłużonych w bik",
+        "keyword_id": 1118780,
+        "kid": "18017a31c0880527c032c937c34dde70",
+        "domain": "cbif.pl",
+        "words_count": 6,
+        "brand": "bik",
+        "statistics": {
+          "position": {
+            "current": 8,
+            "previous": 9,
+            "diff": -1,
+            "changes": {
+              "wins": 3,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-20": 0,
+              "2025-12-26": 21,
+              "2026-01-02": 6,
+              "2026-01-09": 8,
+              "2026-01-29": 9,
+              "2026-02-08": 8
+            }
+          },
+          "visibility": {
+            "current": 3.79,
+            "previous": 3.06,
+            "diff": 0.73,
+            "percent": 0.2386,
+            "history": null
+          },
+          "cpc": {
+            "current": 4.97
+          },
+          "searches": {
+            "current": 170
+          },
+          "difficulty": {
+            "current": 35
+          },
+          "trends": {
+            "history": [
+              210,
+              170,
+              210,
+              170,
+              210,
+              210,
+              260,
+              140,
+              110,
+              170,
+              170,
+              140
+            ],
+            "peak": []
+          },
+          "url": {
+            "current": "cbif.pl/kredyty-indywidualne/kredyt-z-opoznieniami-w-bik/",
+            "previous": "cbif.pl/2025/12/15/konsolidacja-chwilowek-bez-bik/"
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          }
+        }
+      },
+      {
+        "keyword": "kredyty dla rolników bez bik",
+        "keyword_id": 11124654,
+        "kid": "f6095f2d71af1b0592df2d612e65e289",
+        "domain": "cbif.pl",
+        "words_count": 5,
+        "brand": "bik",
+        "statistics": {
+          "position": {
+            "current": 5,
+            "previous": 6,
+            "diff": -1,
+            "changes": {
+              "wins": 1,
+              "losses": 0,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-18": 6,
+              "2026-02-06": 5
+            }
+          },
+          "visibility": {
+            "current": 1.01,
+            "previous": 0.37,
+            "diff": 0.64,
+            "percent": 1.7297,
+            "history": null
+          },
+          "cpc": {
+            "current": 24.68
+          },
+          "searches": {
+            "current": 10
+          },
+          "difficulty": {
+            "current": 18
+          },
+          "trends": {
+            "history": [
+              20,
+              10,
+              20,
+              10,
+              10,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              10
+            ],
+            "peak": []
+          },
+          "url": {
+            "current": "cbif.pl/kredyty-indywidualne/kredyty-dla-zadluzonych-rolnikow/",
+            "previous": "cbif.pl/kredyt-dla-rolnika/kredyt-dla-rolnika-bez-faktur/"
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          }
+        }
+      }
+    ],
+    "total": 2,
+    "domain": "cbif.pl",
+    "endpoint": "get_cannibalization_keywords"
+  }
+}

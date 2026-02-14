@@ -1,0 +1,67 @@
+{
+  "domain": "finea.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "finea.pl": [
+          {
+            "text": "Sfinansuj fakturę !",
+            "size": 122,
+            "percent": 0.32972972972972975
+          },
+          {
+            "text": "Sprawdź",
+            "size": 53,
+            "percent": 0.14324324324324325
+          },
+          {
+            "text": "Gosia",
+            "size": 51,
+            "percent": 0.13783783783783785
+          },
+          {
+            "text": "",
+            "size": 14,
+            "percent": 0.03783783783783784
+          },
+          {
+            "text": "Finea",
+            "size": 12,
+            "percent": 0.032432432432432434
+          },
+          {
+            "text": "FINEA BANNER",
+            "size": 11,
+            "percent": 0.02972972972972973
+          },
+          {
+            "text": "https://finea.pl/",
+            "size": 9,
+            "percent": 0.024324324324324326
+          },
+          {
+            "text": "finea.pl",
+            "size": 8,
+            "percent": 0.021621621621621623
+          },
+          {
+            "text": "Złóż wniosek",
+            "size": 4,
+            "percent": 0.010810810810810811
+          },
+          {
+            "text": "Finea faktoring – recenzja i opinie",
+            "size": 3,
+            "percent": 0.008108108108108109
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "finea.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

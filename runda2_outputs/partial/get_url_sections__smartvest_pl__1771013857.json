@@ -1,0 +1,117 @@
+{
+  "domain": "smartvest.pl",
+  "endpoint": "get_url_sections",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "url_section": "smartvest.pl/pozyczki-pod-zastaw/",
+        "keywords_count": 19,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 209.77,
+            "previous": 189.64,
+            "diff": 20.13,
+            "percent": 0.1061,
+            "history": null
+          },
+          "top3": {
+            "current": 9,
+            "previous": 9,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 19,
+            "previous": 19,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 54,
+            "previous": 56,
+            "diff": -2,
+            "percent": -0.0357,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "smartvest.pl/blog/",
+        "keywords_count": 17,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 42.53,
+            "previous": 42.09,
+            "diff": 0.44,
+            "percent": 0.0105,
+            "history": null
+          },
+          "top3": {
+            "current": 3,
+            "previous": 3,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 17,
+            "previous": 16,
+            "diff": 1,
+            "percent": 0.0625,
+            "history": null
+          },
+          "top50": {
+            "current": 65,
+            "previous": 59,
+            "diff": 6,
+            "percent": 0.1017,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "smartvest.pl/",
+        "keywords_count": 2,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 1.16,
+            "previous": 1.16,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 2,
+            "previous": 2,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 24,
+            "previous": 20,
+            "diff": 4,
+            "percent": 0.2,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 3,
+    "domain": "smartvest.pl",
+    "endpoint": "get_url_sections"
+  }
+}

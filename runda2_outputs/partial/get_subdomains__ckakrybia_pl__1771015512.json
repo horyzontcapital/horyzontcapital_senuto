@@ -1,0 +1,54 @@
+{
+  "domain": "ckakrybia.pl",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "ckakrybia.pl",
+        "keywords_count": 127,
+        "visibility_percent": 100,
+        "statistics": {
+          "visibility": {
+            "current": 2289.88,
+            "previous": 1939.14,
+            "diff": 350.74,
+            "percent": 0.1809,
+            "history": null
+          },
+          "top3": {
+            "current": 27,
+            "previous": 28,
+            "diff": -1,
+            "percent": -0.0357,
+            "history": null
+          },
+          "top10": {
+            "current": 127,
+            "previous": 131,
+            "diff": -4,
+            "percent": -0.0305,
+            "history": null
+          },
+          "top50": {
+            "current": 694,
+            "previous": 699,
+            "diff": -5,
+            "percent": -0.0072,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 100,
+            "previous": 100,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "ckakrybia.pl",
+    "endpoint": "get_subdomains"
+  }
+}

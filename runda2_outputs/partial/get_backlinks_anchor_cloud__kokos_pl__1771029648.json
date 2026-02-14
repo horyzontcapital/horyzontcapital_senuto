@@ -1,0 +1,67 @@
+{
+  "domain": "kokos.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "kokos.pl": [
+          {
+            "text": "https://kokos.pl/",
+            "size": 104,
+            "percent": 0.13885180240320427
+          },
+          {
+            "text": "Kokos.pl",
+            "size": 60,
+            "percent": 0.0801068090787717
+          },
+          {
+            "text": "kokos.pl",
+            "size": 34,
+            "percent": 0.04539385847797063
+          },
+          {
+            "text": "https://kokos.pl/pozyczka-ratalna/",
+            "size": 31,
+            "percent": 0.04138851802403204
+          },
+          {
+            "text": "kokosie",
+            "size": 15,
+            "percent": 0.020026702269692925
+          },
+          {
+            "text": "kredyt na dowod osobisty",
+            "size": 15,
+            "percent": 0.020026702269692925
+          },
+          {
+            "text": "https://kokos.pl/pozyczka-ratalna",
+            "size": 14,
+            "percent": 0.018691588785046728
+          },
+          {
+            "text": "https://kokos.pl",
+            "size": 13,
+            "percent": 0.017356475300400534
+          },
+          {
+            "text": "Kokos",
+            "size": 12,
+            "percent": 0.01602136181575434
+          },
+          {
+            "text": "https://kokos.pl/pozyczka-online/",
+            "size": 11,
+            "percent": 0.014686248331108143
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "kokos.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

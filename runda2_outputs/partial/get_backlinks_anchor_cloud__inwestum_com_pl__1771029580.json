@@ -1,0 +1,67 @@
+{
+  "domain": "inwestum.com.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "inwestum.com.pl": [
+          {
+            "text": "inwestum.com.pl",
+            "size": 16,
+            "percent": 0.15841584158415842
+          },
+          {
+            "text": "www.inwestum.com.pl",
+            "size": 8,
+            "percent": 0.07920792079207921
+          },
+          {
+            "text": "https://inwestum.com.pl/",
+            "size": 8,
+            "percent": 0.07920792079207921
+          },
+          {
+            "text": "http://inwestum.com.pl",
+            "size": 7,
+            "percent": 0.06930693069306931
+          },
+          {
+            "text": "https://inwestum.com.pl/pozyczki-hipoteczne-dla-nowych-firm/",
+            "size": 5,
+            "percent": 0.04950495049504951
+          },
+          {
+            "text": "Pożyczka pod zastaw mieszkania",
+            "size": 4,
+            "percent": 0.039603960396039604
+          },
+          {
+            "text": "Pożyczka pozabankowa",
+            "size": 3,
+            "percent": 0.0297029702970297
+          },
+          {
+            "text": "Kredyty pod zastaw nieruchomości",
+            "size": 3,
+            "percent": 0.0297029702970297
+          },
+          {
+            "text": "https://inwestum.com.pl",
+            "size": 3,
+            "percent": 0.0297029702970297
+          },
+          {
+            "text": "pożyczki pod zastaw bez bik",
+            "size": 2,
+            "percent": 0.019801980198019802
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "inwestum.com.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

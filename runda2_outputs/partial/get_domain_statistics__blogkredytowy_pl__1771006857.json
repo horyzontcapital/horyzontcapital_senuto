@@ -1,0 +1,74 @@
+{
+  "domain": "blogkredytowy.pl",
+  "endpoint": "get_domain_statistics",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "statistics": {
+          "top3": {
+            "recent_value": 89,
+            "older_value": 89,
+            "diff": 0,
+            "percent": 0
+          },
+          "top10": {
+            "recent_value": 322,
+            "older_value": 322,
+            "diff": 0,
+            "percent": 0
+          },
+          "top50": {
+            "recent_value": 2627,
+            "older_value": 2627,
+            "diff": 0,
+            "percent": 0
+          },
+          "visibility": {
+            "recent_value": 662,
+            "older_value": 662,
+            "diff": 0,
+            "percent": 0
+          },
+          "domain_rank": {
+            "recent_value": 169673,
+            "older_value": 169677,
+            "diff": -4,
+            "percent": 0
+          },
+          "ads_equivalent": {
+            "recent_value": 725.86,
+            "older_value": 725.86,
+            "diff": 0,
+            "percent": 0
+          },
+          "category": {
+            "name": "",
+            "statistics": {
+              "recent_value": 169673,
+              "older_value": 169673,
+              "diff": 0,
+              "percent": 0
+            }
+          },
+          "aio_keywords": {
+            "recent_value": 563,
+            "older_value": 563,
+            "diff": 0,
+            "percent": 0
+          },
+          "aio_visible_keywords": {
+            "recent_value": 870,
+            "older_value": 870,
+            "diff": 0,
+            "percent": 0
+          }
+        }
+      }
+    },
+    "status": 200,
+    "domain": "blogkredytowy.pl",
+    "endpoint": "get_domain_statistics"
+  }
+}

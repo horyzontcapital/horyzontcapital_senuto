@@ -1,0 +1,48 @@
+{
+  "domain": "exfinder.pl",
+  "endpoint": "get_backlinks_referring_domains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "ref_domain": "findglocal.com",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.0026087950033006654,
+        "backlinks_count": 3,
+        "links_external_count": 157544,
+        "percent_of_total": 0.75,
+        "count": {
+          "count": 3,
+          "percent_of_total": 0.75
+        },
+        "top3": 1,
+        "top10": 10,
+        "top50": 1190,
+        "visibility": 53.04899999999999,
+        "domain_rank": 612215,
+        "ads_equivalent": 26.7228
+      },
+      {
+        "ref_domain": "novalend.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 11.846153846153847,
+        "backlinks_count": 1,
+        "links_external_count": 26,
+        "percent_of_total": 0.25,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.25
+        },
+        "top3": 17,
+        "top10": 77,
+        "top50": 242,
+        "visibility": 318.776,
+        "domain_rank": 259824,
+        "ads_equivalent": 4668.575030000001
+      }
+    ],
+    "total": 2,
+    "domain": "exfinder.pl",
+    "endpoint": "get_backlinks_referring_domains"
+  }
+}

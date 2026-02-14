@@ -1,0 +1,2338 @@
+{
+  "domain": "blogkredytowy.pl",
+  "endpoint": "get_history_keywords_losses",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "keyword_id": 12835023,
+        "kid": "534eb6035c43973c47a1bdf0e699572d",
+        "domain": "blogkredytowy.pl",
+        "keyword": "wibor wartość",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 47,
+            "previous": 31,
+            "diff": 16,
+            "changes": {
+              "wins": 0,
+              "losses": 0,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-02-07": {
+                "position": 47,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "blogkredytowy.pl/wibor-czym-jest-i-jak-jest-wyliczany/",
+            "previous": "blogkredytowy.pl/wibor-czym-jest-i-jak-jest-wyliczany/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 90
+          },
+          "trends": {
+            "history": [
+              140,
+              90,
+              140,
+              110,
+              90,
+              70,
+              140,
+              10,
+              40,
+              40,
+              40,
+              70
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 48
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 5415053,
+        "kid": "758b25813e22ab312eb1bcbed492c19b",
+        "domain": "blogkredytowy.pl",
+        "keyword": "rejestr katastralny",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 26,
+            "previous": 22,
+            "diff": 4,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-21": {
+                "position": 22,
+                "has_serp": true
+              },
+              "2026-02-02": {
+                "position": 26,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "blogkredytowy.pl/kataster-nieruchomosci/",
+            "previous": "blogkredytowy.pl/kataster-nieruchomosci/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              10,
+              20,
+              10,
+              30,
+              30,
+              10,
+              20,
+              10,
+              10,
+              20,
+              30,
+              30
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 43
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 12218088,
+        "kid": "1c4576cf1fedf127d5e5beb7cdf7ecd0",
+        "domain": "blogkredytowy.pl",
+        "keyword": "poziom wibor",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 24,
+            "previous": 18,
+            "diff": 6,
+            "changes": {
+              "wins": 2,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-20": {
+                "position": 34,
+                "has_serp": true
+              },
+              "2026-01-03": {
+                "position": 31,
+                "has_serp": true
+              },
+              "2026-01-21": {
+                "position": 18,
+                "has_serp": true
+              },
+              "2026-02-10": {
+                "position": 24,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "blogkredytowy.pl/wibor-czym-jest-i-jak-jest-wyliczany/",
+            "previous": "blogkredytowy.pl/wibor-czym-jest-i-jak-jest-wyliczany/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 40
+          },
+          "trends": {
+            "history": [
+              70,
+              40,
+              50,
+              30,
+              40,
+              20,
+              20,
+              20,
+              30,
+              30,
+              30,
+              30
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 46
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 10187706,
+        "kid": "e0bb3474809ede77b123882f5a2b04ed",
+        "domain": "blogkredytowy.pl",
+        "keyword": "konsolidacja kredytu hipotecznego",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 32,
+            "previous": 21,
+            "diff": 11,
+            "changes": {
+              "wins": 2,
+              "losses": 3,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-19": {
+                "position": 27,
+                "has_serp": true
+              },
+              "2025-12-27": {
+                "position": 28,
+                "has_serp": true
+              },
+              "2026-01-05": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-12": {
+                "position": 26,
+                "has_serp": true
+              },
+              "2026-01-24": {
+                "position": 21,
+                "has_serp": true
+              },
+              "2026-02-03": {
+                "position": 32,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "blogkredytowy.pl/kredyt-hipoteczny-konsolidacyjny/",
+            "previous": "blogkredytowy.pl/kredyt-hipoteczny-konsolidacyjny/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 8.15
+          },
+          "searches": {
+            "current": 260
+          },
+          "trends": {
+            "history": [
+              320,
+              260,
+              260,
+              260,
+              320,
+              210,
+              260,
+              260,
+              260,
+              320,
+              260,
+              260
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 49
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 11043640,
+        "kid": "f43215571d7dba921bfc4ddaa5955d77",
+        "domain": "blogkredytowy.pl",
+        "keyword": "czym jest wibor",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 44,
+            "previous": 42,
+            "diff": 2,
+            "changes": {
+              "wins": 0,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-16": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-27": {
+                "position": 42,
+                "has_serp": true
+              },
+              "2026-02-05": {
+                "position": 44,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "blogkredytowy.pl/wibor-czym-jest-i-jak-jest-wyliczany/",
+            "previous": "blogkredytowy.pl/wibor-czym-jest-i-jak-jest-wyliczany/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 1
+          },
+          "searches": {
+            "current": 140
+          },
+          "trends": {
+            "history": [
+              170,
+              140,
+              140,
+              90,
+              90,
+              110,
+              110,
+              110,
+              90,
+              110,
+              390,
+              170
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 44
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 2227419,
+        "kid": "2fda8c1a98cfe14f4b51d7bbc46e3e6c",
+        "domain": "blogkredytowy.pl",
+        "keyword": "księgi katastralne",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 26,
+            "previous": 19,
+            "diff": 7,
+            "changes": {
+              "wins": 1,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-26": {
+                "position": 21,
+                "has_serp": true
+              },
+              "2026-01-11": {
+                "position": 19,
+                "has_serp": true
+              },
+              "2026-02-05": {
+                "position": 26,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "blogkredytowy.pl/kataster-nieruchomosci/",
+            "previous": "blogkredytowy.pl/kataster-nieruchomosci/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 30
+          },
+          "trends": {
+            "history": [
+              30,
+              30,
+              20,
+              30,
+              20,
+              10,
+              20,
+              20,
+              20,
+              20,
+              30,
+              30
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 26
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 4657444,
+        "kid": "64b67a650ee3de56e0e651a02ce790e4",
+        "domain": "blogkredytowy.pl",
+        "keyword": "wibor wysokość",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 29,
+            "previous": 23,
+            "diff": 6,
+            "changes": {
+              "wins": 2,
+              "losses": 3,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-22": {
+                "position": 19,
+                "has_serp": true
+              },
+              "2025-12-29": {
+                "position": 35,
+                "has_serp": true
+              },
+              "2026-01-07": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-14": {
+                "position": 35,
+                "has_serp": true
+              },
+              "2026-01-25": {
+                "position": 23,
+                "has_serp": true
+              },
+              "2026-02-04": {
+                "position": 29,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "blogkredytowy.pl/wibor-czym-jest-i-jak-jest-wyliczany/",
+            "previous": "blogkredytowy.pl/wibor-czym-jest-i-jak-jest-wyliczany/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 90
+          },
+          "trends": {
+            "history": [
+              140,
+              90,
+              110,
+              50,
+              50,
+              70,
+              140,
+              70,
+              90,
+              90,
+              110,
+              140
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 48
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 7893362,
+        "kid": "aceeacb1e18dd9757794f1b13e37c672",
+        "domain": "blogkredytowy.pl",
+        "keyword": "jaki dochód żeby dostać kredyt hipoteczny",
+        "words_count": 6,
+        "statistics": {
+          "position": {
+            "current": 44,
+            "previous": 23,
+            "diff": 21,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-26": {
+                "position": 23,
+                "has_serp": true
+              },
+              "2026-02-07": {
+                "position": 44,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "blogkredytowy.pl/wpisy_rozszerzone/ile-trzeba-zarabiac-zeby-dostac-kredyt-hipoteczny/",
+            "previous": "blogkredytowy.pl/kredyt-hipoteczny-1-milion/",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 1.46
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              20,
+              10,
+              20,
+              20,
+              20,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 28
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 2067052,
+        "kid": "2c67f3d3727c58f08d99979a0b2a3fe9",
+        "domain": "blogkredytowy.pl",
+        "keyword": "jakie dokumenty są potrzebne do kredytu hipotecznego",
+        "words_count": 7,
+        "statistics": {
+          "position": {
+            "current": 46,
+            "previous": 42,
+            "diff": 4,
+            "changes": {
+              "wins": 0,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-26": {
+                "position": 40,
+                "has_serp": true
+              },
+              "2026-01-11": {
+                "position": 42,
+                "has_serp": true
+              },
+              "2026-02-04": {
+                "position": 46,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "blogkredytowy.pl/lista-dokumentow-do-kredytu-hipotecznego/",
+            "previous": "blogkredytowy.pl/lista-dokumentow-do-kredytu-hipotecznego/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 1.47
+          },
+          "searches": {
+            "current": 90
+          },
+          "trends": {
+            "history": [
+              110,
+              110,
+              90,
+              70,
+              70,
+              70,
+              110,
+              90,
+              90,
+              90,
+              90,
+              70
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 41
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 7913850,
+        "kid": "ad66194c83eeb4c3bcbc8e9c7ad2975c",
+        "domain": "blogkredytowy.pl",
+        "keyword": "kredyt na umowę zlecenie santander",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 30,
+            "previous": 23,
+            "diff": 7,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-16": {
+                "position": 23,
+                "has_serp": true
+              },
+              "2026-02-03": {
+                "position": 30,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "blogkredytowy.pl/umowa-zlecenie-a-kredyt-hipoteczny/",
+            "previous": "blogkredytowy.pl/kredyt-hipoteczny-w-santander/",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 1.82
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              20,
+              20,
+              40,
+              30,
+              20,
+              20,
+              20,
+              10,
+              10,
+              20,
+              20,
+              20
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 35
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "buy",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 2335338,
+        "kid": "322fbfb106403d66c6406cd903024afa",
+        "domain": "blogkredytowy.pl",
+        "keyword": "umowa zlecenie a kredyt hipoteczny",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 36,
+            "previous": 34,
+            "diff": 2,
+            "changes": {
+              "wins": 1,
+              "losses": 3,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-22": {
+                "position": 37,
+                "has_serp": true
+              },
+              "2025-12-29": {
+                "position": 38,
+                "has_serp": true
+              },
+              "2026-01-06": {
+                "position": 33,
+                "has_serp": true
+              },
+              "2026-01-13": {
+                "position": 33,
+                "has_serp": true
+              },
+              "2026-01-24": {
+                "position": 34,
+                "has_serp": true
+              },
+              "2026-02-02": {
+                "position": 36,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "blogkredytowy.pl/umowa-zlecenie-a-kredyt-hipoteczny/",
+            "previous": "blogkredytowy.pl/umowa-zlecenie-a-kredyt-hipoteczny/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 1.13
+          },
+          "searches": {
+            "current": 210
+          },
+          "trends": {
+            "history": [
+              260,
+              210,
+              260,
+              260,
+              260,
+              320,
+              390,
+              70,
+              90,
+              90,
+              70,
+              110
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 31
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 6932977,
+        "kid": "97560fbc252be4b0d8b0810b716413fc",
+        "domain": "blogkredytowy.pl",
+        "keyword": "pożyczka dla lekarzy",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 27,
+            "previous": 20,
+            "diff": 7,
+            "changes": {
+              "wins": 1,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-20": {
+                "position": 35,
+                "has_serp": true
+              },
+              "2026-01-03": {
+                "position": 20,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 27,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "blogkredytowy.pl/kredyt-hipoteczny-dla-lekarza/",
+            "previous": "blogkredytowy.pl/kredyt-hipoteczny-dla-lekarza/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 8.93
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              20,
+              50,
+              40,
+              20,
+              30,
+              20,
+              10,
+              20,
+              20,
+              20,
+              20,
+              20
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 46
+          },
+          "snippets": {
+            "current": []
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 2186171,
+        "kid": "2ef6d28b0b4859340753b23785a20e10",
+        "domain": "blogkredytowy.pl",
+        "keyword": "jak zdobyć zdolność kredytową",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 44,
+            "previous": 35,
+            "diff": 9,
+            "changes": {
+              "wins": 3,
+              "losses": 3,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-22": {
+                "position": 37,
+                "has_serp": true
+              },
+              "2025-12-29": {
+                "position": 39,
+                "has_serp": true
+              },
+              "2026-01-06": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-13": {
+                "position": 48,
+                "has_serp": true
+              },
+              "2026-01-24": {
+                "position": 35,
+                "has_serp": true
+              },
+              "2026-02-02": {
+                "position": 44,
+                "has_serp": true
+              },
+              "2026-02-12": {
+                "position": 0,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "blogkredytowy.pl/jak-zbudowac-zdolnosc-kredytowa/",
+            "previous": "blogkredytowy.pl/jak-zbudowac-zdolnosc-kredytowa/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 3.59
+          },
+          "searches": {
+            "current": 170
+          },
+          "trends": {
+            "history": [
+              260,
+              170,
+              140,
+              170,
+              170,
+              140,
+              140,
+              140,
+              140,
+              140,
+              140,
+              110
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 31
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 5233000,
+        "kid": "71807ac880bdaa8ac6d32b17422e0b08",
+        "domain": "blogkredytowy.pl",
+        "keyword": "kataster nieruchomości",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 35,
+            "previous": 20,
+            "diff": 15,
+            "changes": {
+              "wins": 3,
+              "losses": 3,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-15": {
+                "position": 35,
+                "has_serp": false
+              },
+              "2025-12-23": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-26": {
+                "position": 30,
+                "has_serp": true
+              },
+              "2026-01-09": {
+                "position": 36,
+                "has_serp": true
+              },
+              "2026-01-19": {
+                "position": 33,
+                "has_serp": true
+              },
+              "2026-01-30": {
+                "position": 20,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 35,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "blogkredytowy.pl/kataster-nieruchomosci/",
+            "previous": "blogkredytowy.pl/kataster-nieruchomosci/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0.14
+          },
+          "searches": {
+            "current": 720
+          },
+          "trends": {
+            "history": [
+              880,
+              1000,
+              880,
+              880,
+              720,
+              720,
+              590,
+              480,
+              720,
+              720,
+              720,
+              590
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 37
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "people_also_ask",
+              "wiki_right"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 8046287,
+        "kid": "b062f51af56e9d8085a345691d6e514f",
+        "domain": "blogkredytowy.pl",
+        "keyword": "kosztorys na prace budowlane bank pekao",
+        "words_count": 6,
+        "statistics": {
+          "position": {
+            "current": 28,
+            "previous": 12,
+            "diff": 16,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-16": {
+                "position": 12,
+                "has_serp": true
+              },
+              "2026-02-03": {
+                "position": 28,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "blogkredytowy.pl/budowa-domu-a-bezpieczny-kredyt-2/",
+            "previous": "blogkredytowy.pl/kosztorys-budowlany-do-kredytu/",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              10,
+              20,
+              30,
+              30,
+              10,
+              20,
+              40,
+              10,
+              10,
+              20,
+              10,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 26
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 9918480,
+        "kid": "daa15c0f7524adf2793b9a699934c089",
+        "domain": "blogkredytowy.pl",
+        "keyword": "koszt kredytu 300 tys",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 33,
+            "previous": 23,
+            "diff": 10,
+            "changes": {
+              "wins": 0,
+              "losses": 0,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-02-06": {
+                "position": 33,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "blogkredytowy.pl/kredyt-hipoteczny-na-300-tys/",
+            "previous": "blogkredytowy.pl/nasze-kalkulatory/kalkulator-nadplaty/",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 0.86
+          },
+          "searches": {
+            "current": 30
+          },
+          "trends": {
+            "history": [
+              50,
+              40,
+              40,
+              30,
+              30,
+              20,
+              20,
+              30,
+              30,
+              30,
+              30,
+              50
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 46
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 17190807,
+        "kid": "6427053947b178e186e2d36a79065d58",
+        "domain": "blogkredytowy.pl",
+        "keyword": "kredyt hipoteczny 300 tys ile do spłaty",
+        "words_count": 7,
+        "statistics": {
+          "position": {
+            "current": 28,
+            "previous": 14,
+            "diff": 14,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-15": {
+                "position": 14,
+                "has_serp": true
+              },
+              "2026-02-02": {
+                "position": 28,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "blogkredytowy.pl/kredyt-hipoteczny-na-300-tys/",
+            "previous": "blogkredytowy.pl/nasze-kalkulatory/kalkulator-nadplaty/",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 0.79
+          },
+          "searches": {
+            "current": 50
+          },
+          "trends": {
+            "history": [
+              70,
+              70,
+              50,
+              70,
+              90,
+              70,
+              70,
+              90,
+              40,
+              20,
+              40,
+              30
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 29
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 10157663,
+        "kid": "e00c675d36d3d23e8d4ff05f73c08c61",
+        "domain": "blogkredytowy.pl",
+        "keyword": "ile trzeba zarabiac zeby miec zdolnosc kredytowa",
+        "words_count": 7,
+        "statistics": {
+          "position": {
+            "current": 42,
+            "previous": 33,
+            "diff": 9,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-18": {
+                "position": 33,
+                "has_serp": true
+              },
+              "2026-02-06": {
+                "position": 42,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "blogkredytowy.pl/wpisy_rozszerzone/ile-trzeba-zarabiac-zeby-dostac-kredyt-hipoteczny/",
+            "previous": "blogkredytowy.pl/wpisy_rozszerzone/ile-trzeba-zarabiac-zeby-dostac-kredyt-hipoteczny/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 1.01
+          },
+          "searches": {
+            "current": 30
+          },
+          "trends": {
+            "history": [
+              50,
+              40,
+              50,
+              50,
+              30,
+              40,
+              40,
+              10,
+              20,
+              10,
+              20,
+              30
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 23
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask",
+              "spell"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 5204479,
+        "kid": "70de852c2094a30b5e0acf6f3aa68de3",
+        "domain": "blogkredytowy.pl",
+        "keyword": "kredyt na materiały budowlane",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 32,
+            "previous": 19,
+            "diff": 13,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-20": {
+                "position": 19,
+                "has_serp": true
+              },
+              "2026-02-01": {
+                "position": 32,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "blogkredytowy.pl/wklad-wlasny-przy-budowie-domu-w-2026/",
+            "previous": "blogkredytowy.pl/kredyt-na-budowe-domu/",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 2.88
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              0,
+              10,
+              10,
+              10,
+              10,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 30
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 10656027,
+        "kid": "eb59623dabded20fabd25c8fea3409b6",
+        "domain": "blogkredytowy.pl",
+        "keyword": "kredyt hipoteczny 100 tys na 15 lat",
+        "words_count": 7,
+        "statistics": {
+          "position": {
+            "current": 29,
+            "previous": 23,
+            "diff": 6,
+            "changes": {
+              "wins": 1,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-20": {
+                "position": 24,
+                "has_serp": true
+              },
+              "2026-01-19": {
+                "position": 23,
+                "has_serp": true
+              },
+              "2026-02-07": {
+                "position": 29,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "blogkredytowy.pl/kredyt-hipoteczny-kompendium-wiedzy/",
+            "previous": "blogkredytowy.pl/kredyt-hipoteczny-1-milion/",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 1.25
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              40,
+              30,
+              10,
+              10,
+              30,
+              30,
+              30,
+              10,
+              30,
+              30,
+              20,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 36
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 143850,
+        "kid": "0314eeb45fce4b52336016a9539559c9",
+        "domain": "blogkredytowy.pl",
+        "keyword": "drugi kredyt hipoteczny",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 21,
+            "previous": 20,
+            "diff": 1,
+            "changes": {
+              "wins": 2,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-18": {
+                "position": 37,
+                "has_serp": true
+              },
+              "2025-12-25": {
+                "position": 18,
+                "has_serp": true
+              },
+              "2026-01-08": {
+                "position": 35,
+                "has_serp": true
+              },
+              "2026-01-29": {
+                "position": 20,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 21,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "blogkredytowy.pl/drugi-kredyt-hipoteczny/",
+            "previous": "blogkredytowy.pl/drugi-kredyt-hipoteczny/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 2.88
+          },
+          "searches": {
+            "current": 90
+          },
+          "trends": {
+            "history": [
+              110,
+              70,
+              70,
+              90,
+              110,
+              90,
+              90,
+              90,
+              90,
+              90,
+              90,
+              90
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 39
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 6310397,
+        "kid": "896c16f6bb5c178c2d1f1229b0b776bb",
+        "domain": "blogkredytowy.pl",
+        "keyword": "wibor 12m",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 39,
+            "previous": 24,
+            "diff": 15,
+            "changes": {
+              "wins": 2,
+              "losses": 1,
+              "no_changes": 2
+            },
+            "history": {
+              "2025-12-21": {
+                "position": 34,
+                "has_serp": true
+              },
+              "2025-12-28": {
+                "position": 33,
+                "has_serp": true
+              },
+              "2026-01-06": {
+                "position": 33,
+                "has_serp": true
+              },
+              "2026-01-13": {
+                "position": 33,
+                "has_serp": true
+              },
+              "2026-01-24": {
+                "position": 24,
+                "has_serp": true
+              },
+              "2026-02-02": {
+                "position": 39,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "blogkredytowy.pl/wibor-czym-jest-i-jak-jest-wyliczany/",
+            "previous": "blogkredytowy.pl/wibor-czym-jest-i-jak-jest-wyliczany/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 390
+          },
+          "trends": {
+            "history": [
+              720,
+              480,
+              390,
+              320,
+              320,
+              320,
+              320,
+              320,
+              320,
+              390,
+              480,
+              480
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 49
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 17094663,
+        "kid": "5533c26bf22e24ac098070349b5637c5",
+        "domain": "blogkredytowy.pl",
+        "keyword": "jak obliczyć wkład własny kalkulator",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 40,
+            "previous": 18,
+            "diff": 22,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-15": {
+                "position": 18,
+                "has_serp": true
+              },
+              "2026-02-01": {
+                "position": 40,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "blogkredytowy.pl/wpisy_rozszerzone/kalkulator-kredytu-hipotecznego/",
+            "previous": "blogkredytowy.pl/nasze-kalkulatory/kalkulator-nadplaty/",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 0.53
+          },
+          "searches": {
+            "current": 70
+          },
+          "trends": {
+            "history": [
+              40,
+              70,
+              110,
+              90,
+              90,
+              110,
+              70,
+              70,
+              20,
+              20,
+              20,
+              20
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 37
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 8112095,
+        "kid": "b1dcb2ec03ce816913abfe3be64bb1bb",
+        "domain": "blogkredytowy.pl",
+        "keyword": "kredyt na mieszkanie z rynku wtórnego",
+        "words_count": 6,
+        "statistics": {
+          "position": {
+            "current": 35,
+            "previous": 8,
+            "diff": 27,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-16": {
+                "position": 8,
+                "has_serp": true
+              },
+              "2026-02-03": {
+                "position": 35,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0.45,
+            "diff": -0.45,
+            "percent": -1,
+            "history": null
+          },
+          "url": {
+            "current": "blogkredytowy.pl/kategoria/rynek-wtorny/",
+            "previous": "blogkredytowy.pl/kredyt-na-dom-z-rynku-wtornego/",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 2.17
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              30,
+              40,
+              20,
+              30,
+              20,
+              20,
+              10,
+              20,
+              20,
+              20,
+              10,
+              20
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 37
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 2001527,
+        "kid": "2afcbdcbb85aa1528da52bf5b6a023d5",
+        "domain": "blogkredytowy.pl",
+        "keyword": "o co pytać przy kredycie hipotecznym",
+        "words_count": 6,
+        "statistics": {
+          "position": {
+            "current": 35,
+            "previous": 10,
+            "diff": 25,
+            "changes": {
+              "wins": 0,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-26": {
+                "position": 8,
+                "has_serp": true
+              },
+              "2026-01-11": {
+                "position": 10,
+                "has_serp": true
+              },
+              "2026-02-04": {
+                "position": 35,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0.62,
+            "diff": -0.62,
+            "percent": -1,
+            "history": null
+          },
+          "url": {
+            "current": "blogkredytowy.pl/pytania-do-eksperta-kredytowego/",
+            "previous": "blogkredytowy.pl/pytania-o-kredyt-hipoteczny/",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 1.37
+          },
+          "searches": {
+            "current": 40
+          },
+          "trends": {
+            "history": [
+              70,
+              30,
+              40,
+              40,
+              40,
+              30,
+              30,
+              40,
+              30,
+              30,
+              20,
+              20
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 19
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 5228279,
+        "kid": "716581d4ff75726be52d38f63486da54",
+        "domain": "blogkredytowy.pl",
+        "keyword": "budowanie zdolności kredytowej",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 24,
+            "previous": 8,
+            "diff": 16,
+            "changes": {
+              "wins": 2,
+              "losses": 2,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-15": {
+                "position": 15,
+                "has_serp": false
+              },
+              "2025-12-23": {
+                "position": 21,
+                "has_serp": true
+              },
+              "2026-01-14": {
+                "position": 21,
+                "has_serp": true
+              },
+              "2026-01-25": {
+                "position": 17,
+                "has_serp": true
+              },
+              "2026-01-26": {
+                "position": 8,
+                "has_serp": true
+              },
+              "2026-02-04": {
+                "position": 24,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 2.45,
+            "diff": -2.45,
+            "percent": -1,
+            "history": null
+          },
+          "url": {
+            "current": "blogkredytowy.pl/jak-zbudowac-zdolnosc-kredytowa/",
+            "previous": "blogkredytowy.pl/jak-zbudowac-zdolnosc-kredytowa/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 1.88
+          },
+          "searches": {
+            "current": 110
+          },
+          "trends": {
+            "history": [
+              140,
+              140,
+              140,
+              110,
+              90,
+              90,
+              90,
+              110,
+              90,
+              110,
+              90,
+              110
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 34
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 6072656,
+        "kid": "84288f10564220cf666a09c0988d2f8a",
+        "domain": "blogkredytowy.pl",
+        "keyword": "blog kredytowy",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 3,
+            "previous": 2,
+            "diff": 1,
+            "changes": {
+              "wins": 0,
+              "losses": 2,
+              "no_changes": 4
+            },
+            "history": {
+              "2025-12-20": {
+                "position": 1,
+                "has_serp": true
+              },
+              "2025-12-27": {
+                "position": 1,
+                "has_serp": true
+              },
+              "2026-01-05": {
+                "position": 1,
+                "has_serp": true
+              },
+              "2026-01-12": {
+                "position": 1,
+                "has_serp": true
+              },
+              "2026-01-22": {
+                "position": 2,
+                "has_serp": true
+              },
+              "2026-02-01": {
+                "position": 2,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 3,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 27.95,
+            "previous": 45.55,
+            "diff": -17.6,
+            "percent": -0.3864,
+            "history": null
+          },
+          "url": {
+            "current": "blogkredytowy.pl/kredyt-hipoteczny-kompendium-wiedzy/",
+            "previous": "blogkredytowy.pl/michal-dawidowicz/",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 2.93
+          },
+          "searches": {
+            "current": 260
+          },
+          "trends": {
+            "history": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 37
+          },
+          "snippets": {
+            "current": []
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      }
+    ],
+    "total": 27,
+    "domain": "blogkredytowy.pl",
+    "endpoint": "get_history_keywords_losses"
+  }
+}

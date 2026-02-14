@@ -1,0 +1,155 @@
+{
+  "domain": "cpf-pozyczki.pl",
+  "endpoint": "get_competitors_analysis",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "keyword": "pożyczka pod zastaw ziemi rolnej",
+          "cpc": 5.6,
+          "searches": 90,
+          "trends": [
+            110,
+            90,
+            110,
+            70,
+            90,
+            70,
+            170,
+            50,
+            40,
+            50,
+            70,
+            50
+          ],
+          "difficulty": 31,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 5,
+            "url": "horyzontcapital.com/oferta/pozyczka-pod-dzialke-lub-grunt"
+          },
+          "horyzontcapital.com_pos": 5,
+          "horyzontcapital.com_url": "horyzontcapital.com/oferta/pozyczka-pod-dzialke-lub-grunt",
+          "cpf-pozyczki.pl": {
+            "pos": 17,
+            "url": "cpf-pozyczki.pl/produkty/pozyczka-pod-zastaw-gruntow-rolnych/"
+          },
+          "cpf-pozyczki.pl_pos": 17,
+          "cpf-pozyczki.pl_url": "cpf-pozyczki.pl/produkty/pozyczka-pod-zastaw-gruntow-rolnych/"
+        },
+        {
+          "keyword": "pożyczka pod zastaw udziałów w nieruchomości",
+          "cpc": 11.53,
+          "searches": 20,
+          "trends": [
+            10,
+            50,
+            20,
+            20,
+            20,
+            10,
+            10,
+            10,
+            10,
+            10,
+            20,
+            20
+          ],
+          "difficulty": 28,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 4,
+            "url": "horyzontcapital.com/blog/pozyczka-pod-zastaw-nieruchomosci-o-czym-warto-wiedziec"
+          },
+          "horyzontcapital.com_pos": 4,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/pozyczka-pod-zastaw-nieruchomosci-o-czym-warto-wiedziec",
+          "cpf-pozyczki.pl": {
+            "pos": 30,
+            "url": "cpf-pozyczki.pl/produkty/pozyczka-pod-zastaw-gruntow-rolnych/"
+          },
+          "cpf-pozyczki.pl_pos": 30,
+          "cpf-pozyczki.pl_url": "cpf-pozyczki.pl/produkty/pozyczka-pod-zastaw-gruntow-rolnych/"
+        },
+        {
+          "keyword": "kredyt pod zastaw gruntów rolnych",
+          "cpc": 1.48,
+          "searches": 10,
+          "trends": [
+            30,
+            20,
+            20,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            20,
+            20,
+            10
+          ],
+          "difficulty": 25,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 17,
+            "url": "horyzontcapital.com/oferta/pozyczka-pod-dzialke-lub-grunt"
+          },
+          "horyzontcapital.com_pos": 17,
+          "horyzontcapital.com_url": "horyzontcapital.com/oferta/pozyczka-pod-dzialke-lub-grunt",
+          "cpf-pozyczki.pl": {
+            "pos": 21,
+            "url": "cpf-pozyczki.pl/produkty/pozyczka-pod-zastaw-gruntow-rolnych/"
+          },
+          "cpf-pozyczki.pl_pos": 21,
+          "cpf-pozyczki.pl_url": "cpf-pozyczki.pl/produkty/pozyczka-pod-zastaw-gruntow-rolnych/"
+        },
+        {
+          "keyword": "pożyczka pod zastaw gospodarstwa rolnego",
+          "cpc": 0,
+          "searches": 10,
+          "trends": [
+            10,
+            10,
+            10,
+            20,
+            20,
+            10,
+            20,
+            20,
+            10,
+            10,
+            20,
+            20
+          ],
+          "difficulty": 21,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 40,
+            "url": "horyzontcapital.com/oferta/pozyczka-pod-dzialke-lub-grunt"
+          },
+          "horyzontcapital.com_pos": 40,
+          "horyzontcapital.com_url": "horyzontcapital.com/oferta/pozyczka-pod-dzialke-lub-grunt",
+          "cpf-pozyczki.pl": {
+            "pos": 5,
+            "url": "cpf-pozyczki.pl/produkty/pozyczka-pod-zastaw-gruntow-rolnych/"
+          },
+          "cpf-pozyczki.pl_pos": 5,
+          "cpf-pozyczki.pl_url": "cpf-pozyczki.pl/produkty/pozyczka-pod-zastaw-gruntow-rolnych/"
+        }
+      ],
+      "pagination": {
+        "page_count": 1,
+        "current_page": 1,
+        "has_next_page": false,
+        "has_prev_page": false,
+        "count": 4,
+        "limit": 100
+      }
+    },
+    "status": 200,
+    "domain": "cpf-pozyczki.pl",
+    "endpoint": "get_competitors_analysis"
+  }
+}

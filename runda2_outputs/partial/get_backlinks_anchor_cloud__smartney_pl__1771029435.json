@@ -1,0 +1,67 @@
+{
+  "domain": "smartney.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "smartney.pl": [
+          {
+            "text": "",
+            "size": 68,
+            "percent": 0.17435897435897435
+          },
+          {
+            "text": "kontakt",
+            "size": 46,
+            "percent": 0.11794871794871795
+          },
+          {
+            "text": "o Smartney",
+            "size": 46,
+            "percent": 0.11794871794871795
+          },
+          {
+            "text": "www.smartney.pl",
+            "size": 25,
+            "percent": 0.0641025641025641
+          },
+          {
+            "text": "https://www.smartney.pl/",
+            "size": 22,
+            "percent": 0.05641025641025641
+          },
+          {
+            "text": "https://smartney.pl",
+            "size": 19,
+            "percent": 0.04871794871794872
+          },
+          {
+            "text": "smartney.pl",
+            "size": 13,
+            "percent": 0.03333333333333333
+          },
+          {
+            "text": "Smartney",
+            "size": 10,
+            "percent": 0.02564102564102564
+          },
+          {
+            "text": "pożyczka gotówkowa",
+            "size": 10,
+            "percent": 0.02564102564102564
+          },
+          {
+            "text": "pożyczki online",
+            "size": 9,
+            "percent": 0.023076923076923078
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "smartney.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

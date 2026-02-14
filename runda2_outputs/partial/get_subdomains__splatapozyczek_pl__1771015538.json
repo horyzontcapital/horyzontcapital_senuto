@@ -1,0 +1,54 @@
+{
+  "domain": "splatapozyczek.pl",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "splatapozyczek.pl",
+        "keywords_count": 359,
+        "visibility_percent": 100,
+        "statistics": {
+          "visibility": {
+            "current": 1280.92,
+            "previous": 1083.96,
+            "diff": 196.95,
+            "percent": 0.1817,
+            "history": null
+          },
+          "top3": {
+            "current": 46,
+            "previous": 41,
+            "diff": 5,
+            "percent": 0.122,
+            "history": null
+          },
+          "top10": {
+            "current": 359,
+            "previous": 351,
+            "diff": 8,
+            "percent": 0.0228,
+            "history": null
+          },
+          "top50": {
+            "current": 3552,
+            "previous": 3466,
+            "diff": 86,
+            "percent": 0.0248,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 100,
+            "previous": 100,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "splatapozyczek.pl",
+    "endpoint": "get_subdomains"
+  }
+}

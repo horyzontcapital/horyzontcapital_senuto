@@ -1,0 +1,56 @@
+{
+  "domain": "confronter.pl",
+  "endpoint": "get_competitors_analysis",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "keyword": "naprawa historii kredytowej",
+          "cpc": 3.75,
+          "searches": 70,
+          "trends": [
+            110,
+            70,
+            140,
+            90,
+            70,
+            30,
+            40,
+            50,
+            40,
+            50,
+            110,
+            50
+          ],
+          "difficulty": 34,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 26,
+            "url": "horyzontcapital.com/blog/jak-wyczyscic-bik-i-poprawic-scoring-kredytowy-poradnik-dla-przedsiebiorcow"
+          },
+          "horyzontcapital.com_pos": 26,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/jak-wyczyscic-bik-i-poprawic-scoring-kredytowy-poradnik-dla-przedsiebiorcow",
+          "confronter.pl": {
+            "pos": 37,
+            "url": "confronter.pl/pl/blog/kredyty-pozyczki/czyszczenie-biku-czyli-jak-wyczyscic-zla-historie-kredytowa"
+          },
+          "confronter.pl_pos": 37,
+          "confronter.pl_url": "confronter.pl/pl/blog/kredyty-pozyczki/czyszczenie-biku-czyli-jak-wyczyscic-zla-historie-kredytowa"
+        }
+      ],
+      "pagination": {
+        "page_count": 1,
+        "current_page": 1,
+        "has_next_page": false,
+        "has_prev_page": false,
+        "count": 1,
+        "limit": 100
+      }
+    },
+    "status": 200,
+    "domain": "confronter.pl",
+    "endpoint": "get_competitors_analysis"
+  }
+}

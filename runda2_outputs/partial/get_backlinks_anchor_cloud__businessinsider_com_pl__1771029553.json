@@ -1,0 +1,67 @@
+{
+  "domain": "businessinsider.com.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "businessinsider.com.pl": [
+          {
+            "text": "",
+            "size": 631818,
+            "percent": 0.43412102273195746
+          },
+          {
+            "text": "Biznes",
+            "size": 283543,
+            "percent": 0.19482189039958883
+          },
+          {
+            "text": "Polska PL",
+            "size": 247605,
+            "percent": 0.17012895459380128
+          },
+          {
+            "text": "najlepsi bukmacherzy",
+            "size": 92781,
+            "percent": 0.06374965988638144
+          },
+          {
+            "text": "Logo Business Insider",
+            "size": 77912,
+            "percent": 0.053533196463368043
+          },
+          {
+            "text": "Najlepsze zak�ady bukmacherskie",
+            "size": 62409,
+            "percent": 0.042881112769308144
+          },
+          {
+            "text": "Zakłady bukmacherskie ranking",
+            "size": 23074,
+            "percent": 0.015854104312503264
+          },
+          {
+            "text": "PL",
+            "size": 20153,
+            "percent": 0.013847090413880483
+          },
+          {
+            "text": "POLAND",
+            "size": 7311,
+            "percent": 0.005023375081421139
+          },
+          {
+            "text": "Business Insider",
+            "size": 5250,
+            "percent": 0.0036072656514103377
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "businessinsider.com.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

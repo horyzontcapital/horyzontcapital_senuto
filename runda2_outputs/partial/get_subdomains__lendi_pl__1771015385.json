@@ -1,0 +1,96 @@
+{
+  "domain": "lendi.pl",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "lendi.pl",
+        "keywords_count": 8735,
+        "visibility_percent": 100,
+        "statistics": {
+          "visibility": {
+            "current": 139749.42,
+            "previous": 121631.15,
+            "diff": 18118.27,
+            "percent": 0.149,
+            "history": null
+          },
+          "top3": {
+            "current": 3353,
+            "previous": 3449,
+            "diff": -96,
+            "percent": -0.0278,
+            "history": null
+          },
+          "top10": {
+            "current": 8735,
+            "previous": 8822,
+            "diff": -87,
+            "percent": -0.0099,
+            "history": null
+          },
+          "top50": {
+            "current": 24448,
+            "previous": 24961,
+            "diff": -513,
+            "percent": -0.0206,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 100,
+            "previous": 100,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "proptech.lendi.pl",
+        "keywords_count": 2,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 4.23,
+            "previous": 0.22,
+            "diff": 4,
+            "percent": 18.2273,
+            "history": null
+          },
+          "top3": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 2,
+            "previous": 1,
+            "diff": 1,
+            "percent": 1,
+            "history": null
+          },
+          "top50": {
+            "current": 3,
+            "previous": 2,
+            "diff": 1,
+            "percent": 0.5,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 2,
+    "domain": "lendi.pl",
+    "endpoint": "get_subdomains"
+  }
+}

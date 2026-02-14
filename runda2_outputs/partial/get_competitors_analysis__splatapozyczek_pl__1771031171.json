@@ -1,0 +1,460 @@
+{
+  "domain": "splatapozyczek.pl",
+  "endpoint": "get_competitors_analysis",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "keyword": "pożyczka pod zastaw nieruchomości na 10 lat",
+          "cpc": 10.82,
+          "searches": 590,
+          "trends": [
+            720,
+            590,
+            590,
+            590,
+            590,
+            480,
+            590,
+            590,
+            720,
+            590,
+            590,
+            480
+          ],
+          "difficulty": 44,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 11,
+            "url": "horyzontcapital.com/blog/pozyczka-pod-zastaw-nieruchomosci-dla-firmy-krok-po-kroku"
+          },
+          "horyzontcapital.com_pos": 11,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/pozyczka-pod-zastaw-nieruchomosci-dla-firmy-krok-po-kroku",
+          "splatapozyczek.pl": {
+            "pos": 37,
+            "url": "splatapozyczek.pl/blog/kredyt-lub-pozyczka-pod-zastaw-nieruchomosci-na-czym-polega/"
+          },
+          "splatapozyczek.pl_pos": 37,
+          "splatapozyczek.pl_url": "splatapozyczek.pl/blog/kredyt-lub-pozyczka-pod-zastaw-nieruchomosci-na-czym-polega/"
+        },
+        {
+          "keyword": "kredyty dla firm bez bik",
+          "cpc": 7.99,
+          "searches": 390,
+          "trends": [
+            390,
+            390,
+            480,
+            320,
+            390,
+            390,
+            480,
+            390,
+            260,
+            260,
+            260,
+            320
+          ],
+          "difficulty": 52,
+          "params": [
+            "brand"
+          ],
+          "horyzontcapital.com": {
+            "pos": 7,
+            "url": "horyzontcapital.com/blog/kredyt-dla-firm-bez-bik-czy-to-mozliwe-i-na-jakich-warunkach"
+          },
+          "horyzontcapital.com_pos": 7,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/kredyt-dla-firm-bez-bik-czy-to-mozliwe-i-na-jakich-warunkach",
+          "splatapozyczek.pl": {
+            "pos": 12,
+            "url": "splatapozyczek.pl/blog/czy-dostepny-jest-kredyt-dla-firm-bez-sprawdzania-bik/"
+          },
+          "splatapozyczek.pl_pos": 12,
+          "splatapozyczek.pl_url": "splatapozyczek.pl/blog/czy-dostepny-jest-kredyt-dla-firm-bez-sprawdzania-bik/"
+        },
+        {
+          "keyword": "pożyczka pod zastaw domu",
+          "cpc": 11.64,
+          "searches": 260,
+          "trends": [
+            320,
+            260,
+            390,
+            320,
+            320,
+            320,
+            260,
+            210,
+            170,
+            260,
+            210,
+            210
+          ],
+          "difficulty": 56,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 10,
+            "url": "horyzontcapital.com/pozyczka-pod-zastaw-nieruchomosci-szybka-decyzja-horyzont-capital/"
+          },
+          "horyzontcapital.com_pos": 10,
+          "horyzontcapital.com_url": "horyzontcapital.com/pozyczka-pod-zastaw-nieruchomosci-szybka-decyzja-horyzont-capital/",
+          "splatapozyczek.pl": {
+            "pos": 2,
+            "url": "splatapozyczek.pl/blog/kredyt-lub-pozyczka-pod-zastaw-nieruchomosci-na-czym-polega/"
+          },
+          "splatapozyczek.pl_pos": 2,
+          "splatapozyczek.pl_url": "splatapozyczek.pl/blog/kredyt-lub-pozyczka-pod-zastaw-nieruchomosci-na-czym-polega/"
+        },
+        {
+          "keyword": "pożyczka pod zastaw nieruchomości opinie",
+          "cpc": 1.04,
+          "searches": 110,
+          "trends": [
+            110,
+            90,
+            110,
+            140,
+            140,
+            140,
+            70,
+            70,
+            90,
+            90,
+            110,
+            70
+          ],
+          "difficulty": 28,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 30,
+            "url": "https://horyzontcapital.com/blog/pozyczka-pod-zastaw-nieruchomosci-kiedy-warto-skorzystac/"
+          },
+          "horyzontcapital.com_pos": 30,
+          "horyzontcapital.com_url": "https://horyzontcapital.com/blog/pozyczka-pod-zastaw-nieruchomosci-kiedy-warto-skorzystac/",
+          "splatapozyczek.pl": {
+            "pos": 14,
+            "url": "https://splatapozyczek.pl/blog/kredyt-lub-pozyczka-pod-zastaw-nieruchomosci-na-czym-polega/"
+          },
+          "splatapozyczek.pl_pos": 14,
+          "splatapozyczek.pl_url": "https://splatapozyczek.pl/blog/kredyt-lub-pozyczka-pod-zastaw-nieruchomosci-na-czym-polega/"
+        },
+        {
+          "keyword": "uczciwe pożyczki pod zastaw mieszkania",
+          "cpc": 1.71,
+          "searches": 90,
+          "trends": [
+            90,
+            30,
+            50,
+            50,
+            140,
+            90,
+            70,
+            70,
+            110,
+            110,
+            140,
+            70
+          ],
+          "difficulty": 27,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 26,
+            "url": "horyzontcapital.com/oferta/pozyczka-pod-zastaw-nieruchomosci"
+          },
+          "horyzontcapital.com_pos": 26,
+          "horyzontcapital.com_url": "horyzontcapital.com/oferta/pozyczka-pod-zastaw-nieruchomosci",
+          "splatapozyczek.pl": {
+            "pos": 50,
+            "url": "splatapozyczek.pl/blog/kredyt-lub-pozyczka-pod-zastaw-nieruchomosci-na-czym-polega/"
+          },
+          "splatapozyczek.pl_pos": 50,
+          "splatapozyczek.pl_url": "splatapozyczek.pl/blog/kredyt-lub-pozyczka-pod-zastaw-nieruchomosci-na-czym-polega/"
+        },
+        {
+          "keyword": "pozyczki dla zadluzonych firm bez zdolnosci kredytowej",
+          "cpc": 9.25,
+          "searches": 20,
+          "trends": [
+            30,
+            10,
+            20,
+            30,
+            40,
+            40,
+            30,
+            20,
+            10,
+            20,
+            30,
+            20
+          ],
+          "difficulty": 46,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 24,
+            "url": "horyzontcapital.com/oferta/pozyczka-dla-firm-bez-zdolnosci-kredytowej"
+          },
+          "horyzontcapital.com_pos": 24,
+          "horyzontcapital.com_url": "horyzontcapital.com/oferta/pozyczka-dla-firm-bez-zdolnosci-kredytowej",
+          "splatapozyczek.pl": {
+            "pos": 23,
+            "url": "splatapozyczek.pl/"
+          },
+          "splatapozyczek.pl_pos": 23,
+          "splatapozyczek.pl_url": "splatapozyczek.pl/"
+        },
+        {
+          "keyword": "pożyczki pod hipotekę dla zadłużonych",
+          "cpc": 2.88,
+          "searches": 20,
+          "trends": [
+            30,
+            30,
+            20,
+            30,
+            20,
+            10,
+            20,
+            20,
+            10,
+            20,
+            20,
+            10
+          ],
+          "difficulty": 37,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 30,
+            "url": "horyzontcapital.com/oferta/pozyczka-pod-zastaw-nieruchomosci"
+          },
+          "horyzontcapital.com_pos": 30,
+          "horyzontcapital.com_url": "horyzontcapital.com/oferta/pozyczka-pod-zastaw-nieruchomosci",
+          "splatapozyczek.pl": {
+            "pos": 41,
+            "url": "splatapozyczek.pl/blog/kredyt-lub-pozyczka-pod-zastaw-nieruchomosci-na-czym-polega/"
+          },
+          "splatapozyczek.pl_pos": 41,
+          "splatapozyczek.pl_url": "splatapozyczek.pl/blog/kredyt-lub-pozyczka-pod-zastaw-nieruchomosci-na-czym-polega/"
+        },
+        {
+          "keyword": "krd czy big",
+          "cpc": 5.01,
+          "searches": 10,
+          "trends": [
+            10,
+            20,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+          ],
+          "difficulty": 57,
+          "params": [
+            "brand"
+          ],
+          "horyzontcapital.com": {
+            "pos": 20,
+            "url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia"
+          },
+          "horyzontcapital.com_pos": 20,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia",
+          "splatapozyczek.pl": {
+            "pos": 34,
+            "url": "splatapozyczek.pl/blog/listy-dluznikow-w-polsce-2020-co-trzeba-wiedziec/"
+          },
+          "splatapozyczek.pl_pos": 34,
+          "splatapozyczek.pl_url": "splatapozyczek.pl/blog/listy-dluznikow-w-polsce-2020-co-trzeba-wiedziec/"
+        },
+        {
+          "keyword": "pożyczę pod zastaw",
+          "cpc": 0,
+          "searches": 10,
+          "trends": [
+            10,
+            10,
+            20,
+            40,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+          ],
+          "difficulty": 31,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 24,
+            "url": "horyzontcapital.com/oferta/pozyczka-pod-zastaw-nieruchomosci"
+          },
+          "horyzontcapital.com_pos": 24,
+          "horyzontcapital.com_url": "horyzontcapital.com/oferta/pozyczka-pod-zastaw-nieruchomosci",
+          "splatapozyczek.pl": {
+            "pos": 23,
+            "url": "splatapozyczek.pl/blog/pozyczki-pod-zastaw/"
+          },
+          "splatapozyczek.pl_pos": 23,
+          "splatapozyczek.pl_url": "splatapozyczek.pl/blog/pozyczki-pod-zastaw/"
+        },
+        {
+          "keyword": "krd infomonitor",
+          "cpc": 0,
+          "searches": 10,
+          "trends": [
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+          ],
+          "difficulty": 41,
+          "params": [
+            "brand"
+          ],
+          "horyzontcapital.com": {
+            "pos": 12,
+            "url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia"
+          },
+          "horyzontcapital.com_pos": 12,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia",
+          "splatapozyczek.pl": {
+            "pos": 44,
+            "url": "splatapozyczek.pl/blog/listy-dluznikow-w-polsce-2020-co-trzeba-wiedziec/"
+          },
+          "splatapozyczek.pl_pos": 44,
+          "splatapozyczek.pl_url": "splatapozyczek.pl/blog/listy-dluznikow-w-polsce-2020-co-trzeba-wiedziec/"
+        },
+        {
+          "keyword": "jak wziąć kredyt bez zdolności",
+          "cpc": 5.79,
+          "searches": 10,
+          "trends": [
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            0,
+            10
+          ],
+          "difficulty": 48,
+          "params": [
+            "question"
+          ],
+          "horyzontcapital.com": {
+            "pos": 16,
+            "url": "horyzontcapital.com/blog/gdzie-dostane-kredyt-bez-zdolnosci-kredytowej"
+          },
+          "horyzontcapital.com_pos": 16,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/gdzie-dostane-kredyt-bez-zdolnosci-kredytowej",
+          "splatapozyczek.pl": {
+            "pos": 31,
+            "url": "splatapozyczek.pl/blog/czy-kredyt-bez-zdolnosci-kredytowej-istnieje-jakie-sa-alternatywy/"
+          },
+          "splatapozyczek.pl_pos": 31,
+          "splatapozyczek.pl_url": "splatapozyczek.pl/blog/czy-kredyt-bez-zdolnosci-kredytowej-istnieje-jakie-sa-alternatywy/"
+        },
+        {
+          "keyword": "pożyczka na procent bez zastawu",
+          "cpc": 0.91,
+          "searches": 10,
+          "trends": [
+            20,
+            10,
+            20,
+            20,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+          ],
+          "difficulty": 27,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 16,
+            "url": "horyzontcapital.com/blog/bezpieczna-pozyczka-pod-zastaw-nieruchomosci-jak-nie-dac-sie-oszukac-i-zyskac-realne-wsparcie-dla-swojej-firmy"
+          },
+          "horyzontcapital.com_pos": 16,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/bezpieczna-pozyczka-pod-zastaw-nieruchomosci-jak-nie-dac-sie-oszukac-i-zyskac-realne-wsparcie-dla-swojej-firmy",
+          "splatapozyczek.pl": {
+            "pos": 24,
+            "url": "splatapozyczek.pl/blog/pozyczki-pod-zastaw/"
+          },
+          "splatapozyczek.pl_pos": 24,
+          "splatapozyczek.pl_url": "splatapozyczek.pl/blog/pozyczki-pod-zastaw/"
+        },
+        {
+          "keyword": "kredyt dla zadłużonych pod zastaw",
+          "cpc": 0,
+          "searches": 10,
+          "trends": [
+            10,
+            0,
+            0,
+            0,
+            0,
+            10,
+            0,
+            0,
+            0,
+            10,
+            0,
+            0
+          ],
+          "difficulty": 28,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 33,
+            "url": "horyzontcapital.com/oferta/pozyczka-pod-zastaw-nieruchomosci"
+          },
+          "horyzontcapital.com_pos": 33,
+          "horyzontcapital.com_url": "horyzontcapital.com/oferta/pozyczka-pod-zastaw-nieruchomosci",
+          "splatapozyczek.pl": {
+            "pos": 36,
+            "url": "splatapozyczek.pl/blog/pozyczki-pod-zastaw/"
+          },
+          "splatapozyczek.pl_pos": 36,
+          "splatapozyczek.pl_url": "splatapozyczek.pl/blog/pozyczki-pod-zastaw/"
+        }
+      ],
+      "pagination": {
+        "page_count": 1,
+        "current_page": 1,
+        "has_next_page": false,
+        "has_prev_page": false,
+        "count": 13,
+        "limit": 100
+      }
+    },
+    "status": 200,
+    "domain": "splatapozyczek.pl",
+    "endpoint": "get_competitors_analysis"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "domain": "smart-money.pl",
+  "endpoint": "suggest_domains",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "favourite": [],
+        "suggested": [
+          "smart-money.pl"
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "smart-money.pl",
+    "endpoint": "suggest_domains"
+  }
+}

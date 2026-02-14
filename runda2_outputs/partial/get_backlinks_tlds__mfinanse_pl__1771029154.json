@@ -1,0 +1,63 @@
+{
+  "domain": "mfinanse.pl",
+  "endpoint": "get_backlinks_tlds",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "tld": "pl",
+          "count": 1349,
+          "percent": 0.9493314567206192
+        },
+        {
+          "tld": "com",
+          "count": 30,
+          "percent": 0.0211118930330753
+        },
+        {
+          "tld": "ua",
+          "count": 28,
+          "percent": 0.019704433497536946
+        },
+        {
+          "tld": "in",
+          "count": 7,
+          "percent": 0.0049261083743842365
+        },
+        {
+          "tld": "info",
+          "count": 2,
+          "percent": 0.0014074595355383533
+        },
+        {
+          "tld": "nl",
+          "count": 2,
+          "percent": 0.0014074595355383533
+        },
+        {
+          "tld": "net",
+          "count": 2,
+          "percent": 0.0014074595355383533
+        },
+        {
+          "tld": "eu",
+          "count": 1,
+          "percent": 0.0007037297677691766
+        }
+      ],
+      "pagination": {
+        "page_count": 1,
+        "current_page": 1,
+        "has_next_page": false,
+        "has_prev_page": false,
+        "count": 8,
+        "limit": 10
+      }
+    },
+    "status": 200,
+    "domain": "mfinanse.pl",
+    "endpoint": "get_backlinks_tlds"
+  }
+}

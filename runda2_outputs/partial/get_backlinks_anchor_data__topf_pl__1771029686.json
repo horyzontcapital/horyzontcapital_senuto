@@ -1,0 +1,79 @@
+{
+  "domain": "topf.pl",
+  "endpoint": "get_backlinks_anchor_data",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "link_domain": "topf.pl",
+        "is_main_domain": true,
+        "anchor": "topf.pl",
+        "anchor_type": [],
+        "count": {
+          "count": 4,
+          "percent_of_total": 0.36363636363636365
+        },
+        "domains_with_anchor_count": 3,
+        "anchors_uniq_count": 4,
+        "percent_of_total": 0.36363636363636365
+      },
+      {
+        "link_domain": "topf.pl",
+        "is_main_domain": true,
+        "anchor": "Top Finance",
+        "anchor_type": [],
+        "count": {
+          "count": 3,
+          "percent_of_total": 0.2727272727272727
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 3,
+        "percent_of_total": 0.2727272727272727
+      },
+      {
+        "link_domain": "topf.pl",
+        "is_main_domain": true,
+        "anchor": "www",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.18181818181818182
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 0.18181818181818182
+      },
+      {
+        "link_domain": "topf.pl",
+        "is_main_domain": true,
+        "anchor": "Logo",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.09090909090909091
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.09090909090909091
+      },
+      {
+        "link_domain": "topf.pl",
+        "is_main_domain": true,
+        "anchor": "Zobacz online",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.09090909090909091
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.09090909090909091
+      }
+    ],
+    "total": 5,
+    "domain": "topf.pl",
+    "endpoint": "get_backlinks_anchor_data"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "domain": "firmowefinanse.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "firmowefinanse.pl": [
+          {
+            "text": "http://www.firmowefinanse.pl",
+            "size": 2,
+            "percent": 0.2222222222222222
+          },
+          {
+            "text": "https://firmowefinanse.pl/",
+            "size": 2,
+            "percent": 0.2222222222222222
+          },
+          {
+            "text": "www",
+            "size": 1,
+            "percent": 0.1111111111111111
+          },
+          {
+            "text": "&#127760;",
+            "size": 1,
+            "percent": 0.1111111111111111
+          },
+          {
+            "text": "Kredyt dla firm",
+            "size": 1,
+            "percent": 0.1111111111111111
+          },
+          {
+            "text": "FirmoweFinanse.pl",
+            "size": 1,
+            "percent": 0.1111111111111111
+          },
+          {
+            "text": "Kredyt pod terminal płatniczy",
+            "size": 1,
+            "percent": 0.1111111111111111
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "firmowefinanse.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

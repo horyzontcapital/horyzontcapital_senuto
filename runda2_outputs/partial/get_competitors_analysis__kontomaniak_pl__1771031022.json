@@ -1,0 +1,386 @@
+{
+  "domain": "kontomaniak.pl",
+  "endpoint": "get_competitors_analysis",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "keyword": "kredyt pod zastaw nieruchomości",
+          "cpc": 11.71,
+          "searches": 320,
+          "trends": [
+            390,
+            320,
+            320,
+            390,
+            320,
+            320,
+            320,
+            390,
+            320,
+            320,
+            260,
+            260
+          ],
+          "difficulty": 53,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 43,
+            "url": "horyzontcapital.com/blog/pozyczka-pod-zastaw-nieruchomosci-dla-firmy-krok-po-kroku"
+          },
+          "horyzontcapital.com_pos": 43,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/pozyczka-pod-zastaw-nieruchomosci-dla-firmy-krok-po-kroku",
+          "kontomaniak.pl": {
+            "pos": 25,
+            "url": "kontomaniak.pl/poradniki/kredyt-pod-zastaw-nieruchomosci"
+          },
+          "kontomaniak.pl_pos": 25,
+          "kontomaniak.pl_url": "kontomaniak.pl/poradniki/kredyt-pod-zastaw-nieruchomosci"
+        },
+        {
+          "keyword": "pożyczka pod zastaw domu",
+          "cpc": 11.64,
+          "searches": 260,
+          "trends": [
+            320,
+            260,
+            390,
+            320,
+            320,
+            320,
+            260,
+            210,
+            170,
+            260,
+            210,
+            210
+          ],
+          "difficulty": 56,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 10,
+            "url": "horyzontcapital.com/pozyczka-pod-zastaw-nieruchomosci-szybka-decyzja-horyzont-capital/"
+          },
+          "horyzontcapital.com_pos": 10,
+          "horyzontcapital.com_url": "horyzontcapital.com/pozyczka-pod-zastaw-nieruchomosci-szybka-decyzja-horyzont-capital/",
+          "kontomaniak.pl": {
+            "pos": 5,
+            "url": "kontomaniak.pl/poradniki/kredyt-pod-zastaw-nieruchomosci"
+          },
+          "kontomaniak.pl_pos": 5,
+          "kontomaniak.pl_url": "kontomaniak.pl/poradniki/kredyt-pod-zastaw-nieruchomosci"
+        },
+        {
+          "keyword": "kredyt pod zastaw ziemi rolnej",
+          "cpc": 4.29,
+          "searches": 140,
+          "trends": [
+            170,
+            210,
+            170,
+            210,
+            140,
+            140,
+            140,
+            140,
+            110,
+            110,
+            110,
+            110
+          ],
+          "difficulty": 33,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 21,
+            "url": "horyzontcapital.com/oferta/pozyczka-pod-dzialke-lub-grunt"
+          },
+          "horyzontcapital.com_pos": 21,
+          "horyzontcapital.com_url": "horyzontcapital.com/oferta/pozyczka-pod-dzialke-lub-grunt",
+          "kontomaniak.pl": {
+            "pos": 16,
+            "url": "kontomaniak.pl/poradniki/kredyt-pod-zastaw-nieruchomosci"
+          },
+          "kontomaniak.pl_pos": 16,
+          "kontomaniak.pl_url": "kontomaniak.pl/poradniki/kredyt-pod-zastaw-nieruchomosci"
+        },
+        {
+          "keyword": "kredyt hipoteczny pod zastaw ziemi rolnej",
+          "cpc": 4.28,
+          "searches": 50,
+          "trends": [
+            50,
+            50,
+            50,
+            70,
+            40,
+            70,
+            40,
+            50,
+            50,
+            50,
+            50,
+            70
+          ],
+          "difficulty": 30,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 43,
+            "url": "horyzontcapital.com/oferta/pozyczka-pod-dzialke-lub-grunt"
+          },
+          "horyzontcapital.com_pos": 43,
+          "horyzontcapital.com_url": "horyzontcapital.com/oferta/pozyczka-pod-dzialke-lub-grunt",
+          "kontomaniak.pl": {
+            "pos": 15,
+            "url": "kontomaniak.pl/poradniki/kredyt-pod-zastaw-nieruchomosci"
+          },
+          "kontomaniak.pl_pos": 15,
+          "kontomaniak.pl_url": "kontomaniak.pl/poradniki/kredyt-pod-zastaw-nieruchomosci"
+        },
+        {
+          "keyword": "pożyczka pod zastaw ziemi",
+          "cpc": 5.81,
+          "searches": 40,
+          "trends": [
+            30,
+            50,
+            50,
+            50,
+            50,
+            40,
+            40,
+            30,
+            30,
+            50,
+            50,
+            40
+          ],
+          "difficulty": 42,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 12,
+            "url": "horyzontcapital.com/oferta/pozyczka-pod-zastaw-gruntow-rolnych/"
+          },
+          "horyzontcapital.com_pos": 12,
+          "horyzontcapital.com_url": "horyzontcapital.com/oferta/pozyczka-pod-zastaw-gruntow-rolnych/",
+          "kontomaniak.pl": {
+            "pos": 50,
+            "url": "kontomaniak.pl/poradniki/kredyt-pod-zastaw-nieruchomosci"
+          },
+          "kontomaniak.pl_pos": 50,
+          "kontomaniak.pl_url": "kontomaniak.pl/poradniki/kredyt-pod-zastaw-nieruchomosci"
+        },
+        {
+          "keyword": "kredyt hipoteczny pod zastaw działki rolnej",
+          "cpc": 6.57,
+          "searches": 20,
+          "trends": [
+            10,
+            20,
+            20,
+            20,
+            20,
+            20,
+            10,
+            20,
+            10,
+            10,
+            10,
+            10
+          ],
+          "difficulty": 26,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 42,
+            "url": "https://horyzontcapital.com/oferta/pozyczka-pod-dzialke-lub-grunt"
+          },
+          "horyzontcapital.com_pos": 42,
+          "horyzontcapital.com_url": "https://horyzontcapital.com/oferta/pozyczka-pod-dzialke-lub-grunt",
+          "kontomaniak.pl": {
+            "pos": 18,
+            "url": "https://www.kontomaniak.pl/poradniki/kredyt-pod-zastaw-nieruchomosci"
+          },
+          "kontomaniak.pl_pos": 18,
+          "kontomaniak.pl_url": "https://www.kontomaniak.pl/poradniki/kredyt-pod-zastaw-nieruchomosci"
+        },
+        {
+          "keyword": "kredyt pod zastaw działki rolnej",
+          "cpc": 8.39,
+          "searches": 20,
+          "trends": [
+            40,
+            50,
+            20,
+            40,
+            30,
+            10,
+            20,
+            10,
+            10,
+            10,
+            10,
+            10
+          ],
+          "difficulty": 30,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 17,
+            "url": "horyzontcapital.com/oferta/pozyczka-pod-dzialke-lub-grunt"
+          },
+          "horyzontcapital.com_pos": 17,
+          "horyzontcapital.com_url": "horyzontcapital.com/oferta/pozyczka-pod-dzialke-lub-grunt",
+          "kontomaniak.pl": {
+            "pos": 13,
+            "url": "kontomaniak.pl/poradniki/kredyt-pod-zastaw-nieruchomosci"
+          },
+          "kontomaniak.pl_pos": 13,
+          "kontomaniak.pl_url": "kontomaniak.pl/poradniki/kredyt-pod-zastaw-nieruchomosci"
+        },
+        {
+          "keyword": "kredyt pod zastaw mieszkania warunki",
+          "cpc": 5.21,
+          "searches": 20,
+          "trends": [
+            10,
+            10,
+            20,
+            40,
+            30,
+            20,
+            20,
+            10,
+            10,
+            20,
+            10,
+            10
+          ],
+          "difficulty": 37,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 46,
+            "url": "horyzontcapital.com/blog/pozyczka-pod-zastaw-nieruchomosci-kiedy-warto-skorzystac"
+          },
+          "horyzontcapital.com_pos": 46,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/pozyczka-pod-zastaw-nieruchomosci-kiedy-warto-skorzystac",
+          "kontomaniak.pl": {
+            "pos": 29,
+            "url": "kontomaniak.pl/poradniki/kredyt-pod-zastaw-nieruchomosci"
+          },
+          "kontomaniak.pl_pos": 29,
+          "kontomaniak.pl_url": "kontomaniak.pl/poradniki/kredyt-pod-zastaw-nieruchomosci"
+        },
+        {
+          "keyword": "pożyczka pod zastaw gruntu",
+          "cpc": 0,
+          "searches": 10,
+          "trends": [
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+          ],
+          "difficulty": 27,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 12,
+            "url": "horyzontcapital.com/oferta/pozyczka-pod-dzialke-lub-grunt"
+          },
+          "horyzontcapital.com_pos": 12,
+          "horyzontcapital.com_url": "horyzontcapital.com/oferta/pozyczka-pod-dzialke-lub-grunt",
+          "kontomaniak.pl": {
+            "pos": 20,
+            "url": "kontomaniak.pl/poradniki/kredyt-pod-zastaw-nieruchomosci"
+          },
+          "kontomaniak.pl_pos": 20,
+          "kontomaniak.pl_url": "kontomaniak.pl/poradniki/kredyt-pod-zastaw-nieruchomosci"
+        },
+        {
+          "keyword": "kredyt pod zastaw udziałów",
+          "cpc": 0,
+          "searches": 10,
+          "trends": [
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            0,
+            10,
+            10,
+            10
+          ],
+          "difficulty": 33,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 26,
+            "url": "horyzontcapital.com/blog/pozyczka-pod-zastaw-nieruchomosci-o-czym-warto-wiedziec"
+          },
+          "horyzontcapital.com_pos": 26,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/pozyczka-pod-zastaw-nieruchomosci-o-czym-warto-wiedziec",
+          "kontomaniak.pl": {
+            "pos": 19,
+            "url": "kontomaniak.pl/poradniki/kredyt-pod-zastaw-nieruchomosci"
+          },
+          "kontomaniak.pl_pos": 19,
+          "kontomaniak.pl_url": "kontomaniak.pl/poradniki/kredyt-pod-zastaw-nieruchomosci"
+        },
+        {
+          "keyword": "kredyt pod zastaw gruntów rolnych",
+          "cpc": 1.48,
+          "searches": 10,
+          "trends": [
+            30,
+            20,
+            20,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            20,
+            20,
+            10
+          ],
+          "difficulty": 25,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 17,
+            "url": "horyzontcapital.com/oferta/pozyczka-pod-dzialke-lub-grunt"
+          },
+          "horyzontcapital.com_pos": 17,
+          "horyzontcapital.com_url": "horyzontcapital.com/oferta/pozyczka-pod-dzialke-lub-grunt",
+          "kontomaniak.pl": {
+            "pos": 25,
+            "url": "kontomaniak.pl/poradniki/kredyt-pod-zastaw-nieruchomosci"
+          },
+          "kontomaniak.pl_pos": 25,
+          "kontomaniak.pl_url": "kontomaniak.pl/poradniki/kredyt-pod-zastaw-nieruchomosci"
+        }
+      ],
+      "pagination": {
+        "page_count": 1,
+        "current_page": 1,
+        "has_next_page": false,
+        "has_prev_page": false,
+        "count": 11,
+        "limit": 100
+      }
+    },
+    "status": 200,
+    "domain": "kontomaniak.pl",
+    "endpoint": "get_competitors_analysis"
+  }
+}

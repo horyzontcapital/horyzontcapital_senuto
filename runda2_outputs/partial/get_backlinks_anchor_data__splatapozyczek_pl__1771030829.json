@@ -1,0 +1,871 @@
+{
+  "domain": "splatapozyczek.pl",
+  "endpoint": "get_backlinks_anchor_data",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "link_domain": "splatapozyczek.pl",
+        "is_main_domain": true,
+        "anchor": "Spłata Pożyczek",
+        "anchor_type": [],
+        "count": {
+          "count": 83,
+          "percent_of_total": 0.21502590673575128
+        },
+        "domains_with_anchor_count": 43,
+        "anchors_uniq_count": 55,
+        "percent_of_total": 0.21502590673575128
+      },
+      {
+        "link_domain": "splatapozyczek.pl",
+        "is_main_domain": true,
+        "anchor": "https://splatapozyczek.pl/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 24,
+          "percent_of_total": 0.06217616580310881
+        },
+        "domains_with_anchor_count": 19,
+        "anchors_uniq_count": 20,
+        "percent_of_total": 0.06217616580310881
+      },
+      {
+        "link_domain": "splatapozyczek.pl",
+        "is_main_domain": true,
+        "anchor": "https://splatapozyczek.pl/konsolidacja-chwilowek/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 23,
+          "percent_of_total": 0.05958549222797927
+        },
+        "domains_with_anchor_count": 16,
+        "anchors_uniq_count": 16,
+        "percent_of_total": 0.05958549222797927
+      },
+      {
+        "link_domain": "splatapozyczek.pl",
+        "is_main_domain": true,
+        "anchor": "https://splatapozyczek.pl/kredyt-gotowkowy/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 16,
+          "percent_of_total": 0.04145077720207254
+        },
+        "domains_with_anchor_count": 11,
+        "anchors_uniq_count": 12,
+        "percent_of_total": 0.04145077720207254
+      },
+      {
+        "link_domain": "splatapozyczek.pl",
+        "is_main_domain": true,
+        "anchor": "https://splatapozyczek.pl/kredyty-dla-firm/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 15,
+          "percent_of_total": 0.038860103626943004
+        },
+        "domains_with_anchor_count": 10,
+        "anchors_uniq_count": 10,
+        "percent_of_total": 0.038860103626943004
+      },
+      {
+        "link_domain": "splatapozyczek.pl",
+        "is_main_domain": true,
+        "anchor": "https://splatapozyczek.pl/kredyt-konsolidacyjny/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 13,
+          "percent_of_total": 0.03367875647668394
+        },
+        "domains_with_anchor_count": 9,
+        "anchors_uniq_count": 9,
+        "percent_of_total": 0.03367875647668394
+      },
+      {
+        "link_domain": "splatapozyczek.pl",
+        "is_main_domain": true,
+        "anchor": "https://splatapozyczek.pl/kredyt-refinansowy/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 13,
+          "percent_of_total": 0.03367875647668394
+        },
+        "domains_with_anchor_count": 7,
+        "anchors_uniq_count": 7,
+        "percent_of_total": 0.03367875647668394
+      },
+      {
+        "link_domain": "splatapozyczek.pl",
+        "is_main_domain": true,
+        "anchor": "https://splatapozyczek.pl/kredyt-oddluzeniowy/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 13,
+          "percent_of_total": 0.03367875647668394
+        },
+        "domains_with_anchor_count": 10,
+        "anchors_uniq_count": 10,
+        "percent_of_total": 0.03367875647668394
+      },
+      {
+        "link_domain": "splatapozyczek.pl",
+        "is_main_domain": true,
+        "anchor": "https://splatapozyczek.pl/kalkulator-kredytowy/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 11,
+          "percent_of_total": 0.02849740932642487
+        },
+        "domains_with_anchor_count": 7,
+        "anchors_uniq_count": 7,
+        "percent_of_total": 0.02849740932642487
+      },
+      {
+        "link_domain": "splatapozyczek.pl",
+        "is_main_domain": true,
+        "anchor": "kredyt konsolidacyjny",
+        "anchor_type": [],
+        "count": {
+          "count": 10,
+          "percent_of_total": 0.025906735751295335
+        },
+        "domains_with_anchor_count": 8,
+        "anchors_uniq_count": 8,
+        "percent_of_total": 0.025906735751295335
+      },
+      {
+        "link_domain": "splatapozyczek.pl",
+        "is_main_domain": true,
+        "anchor": "zdolność kredytowa",
+        "anchor_type": [],
+        "count": {
+          "count": 10,
+          "percent_of_total": 0.025906735751295335
+        },
+        "domains_with_anchor_count": 6,
+        "anchors_uniq_count": 6,
+        "percent_of_total": 0.025906735751295335
+      },
+      {
+        "link_domain": "splatapozyczek.pl",
+        "is_main_domain": true,
+        "anchor": "https://splatapozyczek.pl/zdolnosc-kredytowa/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 10,
+          "percent_of_total": 0.025906735751295335
+        },
+        "domains_with_anchor_count": 6,
+        "anchors_uniq_count": 6,
+        "percent_of_total": 0.025906735751295335
+      },
+      {
+        "link_domain": "splatapozyczek.pl",
+        "is_main_domain": true,
+        "anchor": "https://splatapozyczek.pl/pozyczki-dla-przedsiebiorcow/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 9,
+          "percent_of_total": 0.023316062176165803
+        },
+        "domains_with_anchor_count": 6,
+        "anchors_uniq_count": 6,
+        "percent_of_total": 0.023316062176165803
+      },
+      {
+        "link_domain": "splatapozyczek.pl",
+        "is_main_domain": true,
+        "anchor": "konsolidacja chwilówek",
+        "anchor_type": [],
+        "count": {
+          "count": 8,
+          "percent_of_total": 0.02072538860103627
+        },
+        "domains_with_anchor_count": 6,
+        "anchors_uniq_count": 6,
+        "percent_of_total": 0.02072538860103627
+      },
+      {
+        "link_domain": "splatapozyczek.pl",
+        "is_main_domain": true,
+        "anchor": "https://splatapozyczek.pl/kredyt-gotowkowy-dla-firm/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 7,
+          "percent_of_total": 0.018134715025906734
+        },
+        "domains_with_anchor_count": 4,
+        "anchors_uniq_count": 4,
+        "percent_of_total": 0.018134715025906734
+      },
+      {
+        "link_domain": "splatapozyczek.pl",
+        "is_main_domain": true,
+        "anchor": "https://splatapozyczek.pl/kredyt-konsumpcyjny/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 7,
+          "percent_of_total": 0.018134715025906734
+        },
+        "domains_with_anchor_count": 5,
+        "anchors_uniq_count": 5,
+        "percent_of_total": 0.018134715025906734
+      },
+      {
+        "link_domain": "splatapozyczek.pl",
+        "is_main_domain": true,
+        "anchor": "kredyt oddłużeniowy",
+        "anchor_type": [],
+        "count": {
+          "count": 6,
+          "percent_of_total": 0.015544041450777202
+        },
+        "domains_with_anchor_count": 5,
+        "anchors_uniq_count": 5,
+        "percent_of_total": 0.015544041450777202
+      },
+      {
+        "link_domain": "splatapozyczek.pl",
+        "is_main_domain": true,
+        "anchor": "splatapozyczek.pl",
+        "anchor_type": [],
+        "count": {
+          "count": 6,
+          "percent_of_total": 0.015544041450777202
+        },
+        "domains_with_anchor_count": 3,
+        "anchors_uniq_count": 4,
+        "percent_of_total": 0.015544041450777202
+      },
+      {
+        "link_domain": "splatapozyczek.pl",
+        "is_main_domain": true,
+        "anchor": "https://splatapozyczek.pl/kredyt-na-dzialalnosc-gospodarcza/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 6,
+          "percent_of_total": 0.015544041450777202
+        },
+        "domains_with_anchor_count": 4,
+        "anchors_uniq_count": 4,
+        "percent_of_total": 0.015544041450777202
+      },
+      {
+        "link_domain": "splatapozyczek.pl",
+        "is_main_domain": true,
+        "anchor": "Kredyt konsolidacyjny",
+        "anchor_type": [],
+        "count": {
+          "count": 5,
+          "percent_of_total": 0.012953367875647668
+        },
+        "domains_with_anchor_count": 4,
+        "anchors_uniq_count": 4,
+        "percent_of_total": 0.012953367875647668
+      },
+      {
+        "link_domain": "splatapozyczek.pl",
+        "is_main_domain": true,
+        "anchor": "Źródło",
+        "anchor_type": [],
+        "count": {
+          "count": 5,
+          "percent_of_total": 0.012953367875647668
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 4,
+        "percent_of_total": 0.012953367875647668
+      },
+      {
+        "link_domain": "splatapozyczek.pl",
+        "is_main_domain": true,
+        "anchor": "kredyt refinansowy",
+        "anchor_type": [],
+        "count": {
+          "count": 4,
+          "percent_of_total": 0.010362694300518135
+        },
+        "domains_with_anchor_count": 3,
+        "anchors_uniq_count": 3,
+        "percent_of_total": 0.010362694300518135
+      },
+      {
+        "link_domain": "splatapozyczek.pl",
+        "is_main_domain": true,
+        "anchor": "Konsolidacja chwilówek",
+        "anchor_type": [],
+        "count": {
+          "count": 4,
+          "percent_of_total": 0.010362694300518135
+        },
+        "domains_with_anchor_count": 3,
+        "anchors_uniq_count": 3,
+        "percent_of_total": 0.010362694300518135
+      },
+      {
+        "link_domain": "splatapozyczek.pl",
+        "is_main_domain": true,
+        "anchor": "https://splatapozyczek.pl/konsolidacja-kredytow/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 4,
+          "percent_of_total": 0.010362694300518135
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 0.010362694300518135
+      },
+      {
+        "link_domain": "splatapozyczek.pl",
+        "is_main_domain": true,
+        "anchor": "kredyt got&oacute;wkowy",
+        "anchor_type": [],
+        "count": {
+          "count": 4,
+          "percent_of_total": 0.010362694300518135
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 0.010362694300518135
+      },
+      {
+        "link_domain": "splatapozyczek.pl",
+        "is_main_domain": true,
+        "anchor": "sprawdź",
+        "anchor_type": [],
+        "count": {
+          "count": 4,
+          "percent_of_total": 0.010362694300518135
+        },
+        "domains_with_anchor_count": 3,
+        "anchors_uniq_count": 3,
+        "percent_of_total": 0.010362694300518135
+      },
+      {
+        "link_domain": "splatapozyczek.pl",
+        "is_main_domain": true,
+        "anchor": "kredyt gotówkowy",
+        "anchor_type": [],
+        "count": {
+          "count": 4,
+          "percent_of_total": 0.010362694300518135
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 0.010362694300518135
+      },
+      {
+        "link_domain": "splatapozyczek.pl",
+        "is_main_domain": true,
+        "anchor": "Kredyt oddłużeniowy",
+        "anchor_type": [],
+        "count": {
+          "count": 3,
+          "percent_of_total": 0.007772020725388601
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 3,
+        "percent_of_total": 0.007772020725388601
+      },
+      {
+        "link_domain": "splatapozyczek.pl",
+        "is_main_domain": true,
+        "anchor": "konsolidacja chwil&#xF3;wek online",
+        "anchor_type": [],
+        "count": {
+          "count": 3,
+          "percent_of_total": 0.007772020725388601
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.007772020725388601
+      },
+      {
+        "link_domain": "splatapozyczek.pl",
+        "is_main_domain": true,
+        "anchor": "Więcej",
+        "anchor_type": [],
+        "count": {
+          "count": 3,
+          "percent_of_total": 0.007772020725388601
+        },
+        "domains_with_anchor_count": 3,
+        "anchors_uniq_count": 3,
+        "percent_of_total": 0.007772020725388601
+      },
+      {
+        "link_domain": "splatapozyczek.pl",
+        "is_main_domain": true,
+        "anchor": "Doradcy Spłata Pożyczek",
+        "anchor_type": [],
+        "count": {
+          "count": 3,
+          "percent_of_total": 0.007772020725388601
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.007772020725388601
+      },
+      {
+        "link_domain": "splatapozyczek.pl",
+        "is_main_domain": true,
+        "anchor": "zdolność kredytową",
+        "anchor_type": [],
+        "count": {
+          "count": 3,
+          "percent_of_total": 0.007772020725388601
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.007772020725388601
+      },
+      {
+        "link_domain": "splatapozyczek.pl",
+        "is_main_domain": true,
+        "anchor": "kredyt na sp�at� ZUS",
+        "anchor_type": [],
+        "count": {
+          "count": 3,
+          "percent_of_total": 0.007772020725388601
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.007772020725388601
+      },
+      {
+        "link_domain": "splatapozyczek.pl",
+        "is_main_domain": true,
+        "anchor": "SplataPozyczek.pl",
+        "anchor_type": [],
+        "count": {
+          "count": 3,
+          "percent_of_total": 0.007772020725388601
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 3,
+        "percent_of_total": 0.007772020725388601
+      },
+      {
+        "link_domain": "splatapozyczek.pl",
+        "is_main_domain": true,
+        "anchor": "Zdolność kredytowa",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.0051813471502590676
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0051813471502590676
+      },
+      {
+        "link_domain": "splatapozyczek.pl",
+        "is_main_domain": true,
+        "anchor": "Habza Finanse",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.0051813471502590676
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0051813471502590676
+      },
+      {
+        "link_domain": "splatapozyczek.pl",
+        "is_main_domain": true,
+        "anchor": "Kredyt na spłatę ZUS",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.0051813471502590676
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0051813471502590676
+      },
+      {
+        "link_domain": "splatapozyczek.pl",
+        "is_main_domain": true,
+        "anchor": "Spłata Po",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.0051813471502590676
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0051813471502590676
+      },
+      {
+        "link_domain": "splatapozyczek.pl",
+        "is_main_domain": true,
+        "anchor": "Spłata Pożyczek PL",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.0051813471502590676
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 0.0051813471502590676
+      },
+      {
+        "link_domain": "splatapozyczek.pl",
+        "is_main_domain": true,
+        "anchor": "kredyt refinansowy .",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.0051813471502590676
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0051813471502590676
+      },
+      {
+        "link_domain": "splatapozyczek.pl",
+        "is_main_domain": true,
+        "anchor": "Web icon",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.0051813471502590676
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 0.0051813471502590676
+      },
+      {
+        "link_domain": "splatapozyczek.pl",
+        "is_main_domain": true,
+        "anchor": "https://splatapozyczek.pl/blog/kredyt-sposobem-na-zwiekszenie-przychodow-firmy/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.0051813471502590676
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0051813471502590676
+      },
+      {
+        "link_domain": "splatapozyczek.pl",
+        "is_main_domain": true,
+        "anchor": "Trudne kredyty",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.0051813471502590676
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0051813471502590676
+      },
+      {
+        "link_domain": "splatapozyczek.pl",
+        "is_main_domain": true,
+        "anchor": "Habza Konsolidacja Chwilówek",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.0051813471502590676
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0051813471502590676
+      },
+      {
+        "link_domain": "splatapozyczek.pl",
+        "is_main_domain": true,
+        "anchor": "https://splatapozyczek.pl/blog/kredyt-na-remont-hipoteczny-czy-gotowkowy/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.0051813471502590676
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0051813471502590676
+      },
+      {
+        "link_domain": "splatapozyczek.pl",
+        "is_main_domain": true,
+        "anchor": "więcej",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.0051813471502590676
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 0.0051813471502590676
+      },
+      {
+        "link_domain": "splatapozyczek.pl",
+        "is_main_domain": true,
+        "anchor": "https://splatapozyczek.pl/blog/kredyt-na-umowe-zlecenie-co-musisz-wiedziec/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0025906735751295338
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0025906735751295338
+      },
+      {
+        "link_domain": "splatapozyczek.pl",
+        "is_main_domain": true,
+        "anchor": "&nbsp; https://splatapozyczek.pl/kredyt-dla-rolnikow/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0025906735751295338
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0025906735751295338
+      },
+      {
+        "link_domain": "splatapozyczek.pl",
+        "is_main_domain": true,
+        "anchor": "&nbsp;https://splatapozyczek.pl/kredyt-konsolidacyjny/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0025906735751295338
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0025906735751295338
+      },
+      {
+        "link_domain": "splatapozyczek.pl",
+        "is_main_domain": true,
+        "anchor": "spłacanych kredytów i pożyczek",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0025906735751295338
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0025906735751295338
+      },
+      {
+        "link_domain": "splatapozyczek.pl",
+        "is_main_domain": true,
+        "anchor": "zobacz tu",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0025906735751295338
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0025906735751295338
+      },
+      {
+        "link_domain": "splatapozyczek.pl",
+        "is_main_domain": true,
+        "anchor": "kredyt konsolidacyjny dla firm",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0025906735751295338
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0025906735751295338
+      },
+      {
+        "link_domain": "splatapozyczek.pl",
+        "is_main_domain": true,
+        "anchor": "kalkulator kredytowy",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0025906735751295338
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0025906735751295338
+      },
+      {
+        "link_domain": "splatapozyczek.pl",
+        "is_main_domain": true,
+        "anchor": "https://splatapozyczek.pl/kredyt-na-splate-zus-i-us/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0025906735751295338
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0025906735751295338
+      },
+      {
+        "link_domain": "splatapozyczek.pl",
+        "is_main_domain": true,
+        "anchor": "Spłata",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0025906735751295338
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0025906735751295338
+      },
+      {
+        "link_domain": "splatapozyczek.pl",
+        "is_main_domain": true,
+        "anchor": "konsolidacja dla zadłużonych",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0025906735751295338
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0025906735751295338
+      },
+      {
+        "link_domain": "splatapozyczek.pl",
+        "is_main_domain": true,
+        "anchor": "ocena",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0025906735751295338
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0025906735751295338
+      },
+      {
+        "link_domain": "splatapozyczek.pl",
+        "is_main_domain": true,
+        "anchor": "kredyty dla firm",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0025906735751295338
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0025906735751295338
+      },
+      {
+        "link_domain": "splatapozyczek.pl",
+        "is_main_domain": true,
+        "anchor": "trudne kredyty",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0025906735751295338
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0025906735751295338
+      },
+      {
+        "link_domain": "splatapozyczek.pl",
+        "is_main_domain": true,
+        "anchor": "Kredyty dla firm",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0025906735751295338
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0025906735751295338
+      },
+      {
+        "link_domain": "splatapozyczek.pl",
+        "is_main_domain": true,
+        "anchor": "zdolność kredytową.",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0025906735751295338
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0025906735751295338
+      },
+      {
+        "link_domain": "splatapozyczek.pl",
+        "is_main_domain": true,
+        "anchor": "kredyt dla studentów",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0025906735751295338
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0025906735751295338
+      },
+      {
+        "link_domain": "splatapozyczek.pl",
+        "is_main_domain": true,
+        "anchor": "kredyty konsolidacyjne",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0025906735751295338
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0025906735751295338
+      }
+    ],
+    "total": 63,
+    "domain": "splatapozyczek.pl",
+    "endpoint": "get_backlinks_anchor_data"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "domain": "cbif.pl",
+  "endpoint": "get_domain_statistics",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "statistics": {
+          "top3": {
+            "recent_value": 37,
+            "older_value": 37,
+            "diff": 0,
+            "percent": 0
+          },
+          "top10": {
+            "recent_value": 197,
+            "older_value": 197,
+            "diff": 0,
+            "percent": 0
+          },
+          "top50": {
+            "recent_value": 676,
+            "older_value": 676,
+            "diff": 0,
+            "percent": 0
+          },
+          "visibility": {
+            "recent_value": 1299,
+            "older_value": 1299,
+            "diff": 0,
+            "percent": 0
+          },
+          "domain_rank": {
+            "recent_value": 109683,
+            "older_value": 109675,
+            "diff": 8,
+            "percent": 0.0001
+          },
+          "ads_equivalent": {
+            "recent_value": 29759.57,
+            "older_value": 29759.57,
+            "diff": 0,
+            "percent": 0
+          },
+          "category": {
+            "name": "",
+            "statistics": {
+              "recent_value": 109683,
+              "older_value": 109683,
+              "diff": 0,
+              "percent": 0
+            }
+          },
+          "aio_keywords": {
+            "recent_value": 87,
+            "older_value": 87,
+            "diff": 0,
+            "percent": 0
+          },
+          "aio_visible_keywords": {
+            "recent_value": 145,
+            "older_value": 145,
+            "diff": 0,
+            "percent": 0
+          }
+        }
+      }
+    },
+    "status": 200,
+    "domain": "cbif.pl",
+    "endpoint": "get_domain_statistics"
+  }
+}

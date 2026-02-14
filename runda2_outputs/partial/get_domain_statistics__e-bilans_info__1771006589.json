@@ -1,0 +1,65 @@
+{
+  "domain": "e-bilans.info",
+  "endpoint": "get_domain_statistics",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "statistics": {
+          "top3": {
+            "recent_value": 0,
+            "older_value": 0,
+            "diff": 0,
+            "percent": 0
+          },
+          "top10": {
+            "recent_value": 0,
+            "older_value": 0,
+            "diff": 0,
+            "percent": 0
+          },
+          "top50": {
+            "recent_value": 0,
+            "older_value": 0,
+            "diff": 0,
+            "percent": 0
+          },
+          "visibility": {
+            "recent_value": 0,
+            "older_value": 0,
+            "diff": 0,
+            "percent": 0
+          },
+          "domain_rank": {
+            "recent_value": 0,
+            "older_value": 0,
+            "diff": 0,
+            "percent": 0
+          },
+          "ads_equivalent": {
+            "recent_value": 0,
+            "older_value": 0,
+            "diff": 0,
+            "percent": 0
+          },
+          "aio_keywords": {
+            "recent_value": 0,
+            "older_value": 0,
+            "diff": 0,
+            "percent": 0
+          },
+          "aio_visible_keywords": {
+            "recent_value": 0,
+            "older_value": 0,
+            "diff": 0,
+            "percent": 0
+          }
+        }
+      }
+    },
+    "status": 200,
+    "domain": "e-bilans.info",
+    "endpoint": "get_domain_statistics"
+  }
+}

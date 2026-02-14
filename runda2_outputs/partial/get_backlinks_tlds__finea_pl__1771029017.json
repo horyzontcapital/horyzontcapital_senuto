@@ -1,0 +1,58 @@
+{
+  "domain": "finea.pl",
+  "endpoint": "get_backlinks_tlds",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "tld": "pl",
+          "count": 281,
+          "percent": 0.7594594594594595
+        },
+        {
+          "tld": "com",
+          "count": 79,
+          "percent": 0.21351351351351353
+        },
+        {
+          "tld": "ai",
+          "count": 3,
+          "percent": 0.008108108108108109
+        },
+        {
+          "tld": "eu",
+          "count": 3,
+          "percent": 0.008108108108108109
+        },
+        {
+          "tld": "io",
+          "count": 2,
+          "percent": 0.005405405405405406
+        },
+        {
+          "tld": "org",
+          "count": 1,
+          "percent": 0.002702702702702703
+        },
+        {
+          "tld": "net",
+          "count": 1,
+          "percent": 0.002702702702702703
+        }
+      ],
+      "pagination": {
+        "page_count": 1,
+        "current_page": 1,
+        "has_next_page": false,
+        "has_prev_page": false,
+        "count": 7,
+        "limit": 10
+      }
+    },
+    "status": 200,
+    "domain": "finea.pl",
+    "endpoint": "get_backlinks_tlds"
+  }
+}

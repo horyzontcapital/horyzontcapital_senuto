@@ -1,0 +1,68 @@
+{
+  "domain": "habzafinanse.com.pl",
+  "endpoint": "get_backlinks_tlds",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "tld": "pl",
+          "count": 1059,
+          "percent": 0.9805555555555555
+        },
+        {
+          "tld": "net",
+          "count": 7,
+          "percent": 0.006481481481481481
+        },
+        {
+          "tld": "com",
+          "count": 4,
+          "percent": 0.003703703703703704
+        },
+        {
+          "tld": "eu",
+          "count": 4,
+          "percent": 0.003703703703703704
+        },
+        {
+          "tld": "ovh",
+          "count": 2,
+          "percent": 0.001851851851851852
+        },
+        {
+          "tld": "info",
+          "count": 1,
+          "percent": 0.000925925925925926
+        },
+        {
+          "tld": "org",
+          "count": 1,
+          "percent": 0.000925925925925926
+        },
+        {
+          "tld": "biz",
+          "count": 1,
+          "percent": 0.000925925925925926
+        },
+        {
+          "tld": "in",
+          "count": 1,
+          "percent": 0.000925925925925926
+        }
+      ],
+      "pagination": {
+        "page_count": 1,
+        "current_page": 1,
+        "has_next_page": false,
+        "has_prev_page": false,
+        "count": 9,
+        "limit": 10
+      }
+    },
+    "status": 200,
+    "domain": "habzafinanse.com.pl",
+    "endpoint": "get_backlinks_tlds"
+  }
+}

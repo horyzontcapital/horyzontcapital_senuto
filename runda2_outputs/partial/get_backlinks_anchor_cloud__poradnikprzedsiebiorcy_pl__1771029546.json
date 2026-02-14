@@ -1,0 +1,67 @@
+{
+  "domain": "poradnikprzedsiebiorcy.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "poradnikprzedsiebiorcy.pl": [
+          {
+            "text": "PoradnikPrzedsiebiorcy.pl",
+            "size": 89478,
+            "percent": 0.721526949004935
+          },
+          {
+            "text": "Poradnik Przedsiębiorcy",
+            "size": 4209,
+            "percent": 0.03394026384543431
+          },
+          {
+            "text": "ODLICZ VAT",
+            "size": 3578,
+            "percent": 0.028852046576137793
+          },
+          {
+            "text": "Dowiedz się kto i&nbsp;jak przetwarza Twoje dane",
+            "size": 3053,
+            "percent": 0.024618585298196948
+          },
+          {
+            "text": "Oferty Pracy",
+            "size": 3001,
+            "percent": 0.02419927103828662
+          },
+          {
+            "text": "Porady online",
+            "size": 3001,
+            "percent": 0.02419927103828662
+          },
+          {
+            "text": "Kalkulatory",
+            "size": 3001,
+            "percent": 0.02419927103828662
+          },
+          {
+            "text": "poradnikprzedsiebiorcy.pl",
+            "size": 786,
+            "percent": 0.006338096313260007
+          },
+          {
+            "text": "Dowiedz się kto i&nbsp;jak przetwarza Twoje dane.",
+            "size": 769,
+            "percent": 0.006201012805212399
+          },
+          {
+            "text": "Poradnik Przedsiębiorcy Jeden z największych i najpopularniejszych portali dla prowadzących swój biznes, tworzony przez naszych ekspertów.",
+            "size": 508,
+            "percent": 0.004096377769893236
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "poradnikprzedsiebiorcy.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

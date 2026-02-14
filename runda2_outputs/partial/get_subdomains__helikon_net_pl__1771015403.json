@@ -1,0 +1,54 @@
+{
+  "domain": "helikon.net.pl",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "helikon.net.pl",
+        "keywords_count": 189,
+        "visibility_percent": 100,
+        "statistics": {
+          "visibility": {
+            "current": 4118.26,
+            "previous": 4117.17,
+            "diff": 1.09,
+            "percent": 0.0003,
+            "history": null
+          },
+          "top3": {
+            "current": 40,
+            "previous": 42,
+            "diff": -2,
+            "percent": -0.0476,
+            "history": null
+          },
+          "top10": {
+            "current": 189,
+            "previous": 188,
+            "diff": 1,
+            "percent": 0.0053,
+            "history": null
+          },
+          "top50": {
+            "current": 940,
+            "previous": 944,
+            "diff": -4,
+            "percent": -0.0042,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 100,
+            "previous": 100,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "helikon.net.pl",
+    "endpoint": "get_subdomains"
+  }
+}

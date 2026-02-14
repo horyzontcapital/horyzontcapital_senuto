@@ -1,0 +1,483 @@
+{
+  "domain": "yanokhipoteczny.pl",
+  "endpoint": "get_backlinks_anchor_data",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "link_domain": "yanokhipoteczny.pl",
+        "is_main_domain": true,
+        "anchor": "",
+        "anchor_type": [],
+        "count": {
+          "count": 34050,
+          "percent_of_total": 0.8947105657303518
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 33734,
+        "percent_of_total": 0.8947105657303518
+      },
+      {
+        "link_domain": "yanokhipoteczny.pl",
+        "is_main_domain": true,
+        "anchor": "fundusz inwestycyjny",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 3935,
+          "percent_of_total": 0.10339753527603332
+        },
+        "domains_with_anchor_count": 91,
+        "anchors_uniq_count": 2425,
+        "percent_of_total": 0.10339753527603332
+      },
+      {
+        "link_domain": "yanokhipoteczny.pl",
+        "is_main_domain": true,
+        "anchor": "yanokhipoteczny.pl",
+        "anchor_type": [],
+        "count": {
+          "count": 10,
+          "percent_of_total": 0.0002627637491131723
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 10,
+        "percent_of_total": 0.0002627637491131723
+      },
+      {
+        "link_domain": "yanokhipoteczny.pl",
+        "is_main_domain": true,
+        "anchor": "Yanok Hipoteczny",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 10,
+          "percent_of_total": 0.0002627637491131723
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 3,
+        "percent_of_total": 0.0002627637491131723
+      },
+      {
+        "link_domain": "yanokhipoteczny.pl",
+        "is_main_domain": true,
+        "anchor": "Fundusz Hipoteczny Yanok",
+        "anchor_type": [],
+        "count": {
+          "count": 8,
+          "percent_of_total": 0.00021021099929053789
+        },
+        "domains_with_anchor_count": 6,
+        "anchors_uniq_count": 6,
+        "percent_of_total": 0.00021021099929053789
+      },
+      {
+        "link_domain": "yanokhipoteczny.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.yanokhipoteczny.pl http://www.yanokhipoteczny.pl",
+        "anchor_type": [],
+        "count": {
+          "count": 5,
+          "percent_of_total": 0.00013138187455658616
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 4,
+        "percent_of_total": 0.00013138187455658616
+      },
+      {
+        "link_domain": "yanokhipoteczny.pl",
+        "is_main_domain": true,
+        "anchor": "Fundusz Hipoteczny Yanok Sp. z&nbsp;o.o.",
+        "anchor_type": [],
+        "count": {
+          "count": 3,
+          "percent_of_total": 7.882912473395171e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 3,
+        "percent_of_total": 7.882912473395171e-05
+      },
+      {
+        "link_domain": "yanokhipoteczny.pl",
+        "is_main_domain": true,
+        "anchor": "Weksle Inwestycyjne Nieruchomościowe",
+        "anchor_type": [],
+        "count": {
+          "count": 3,
+          "percent_of_total": 7.882912473395171e-05
+        },
+        "domains_with_anchor_count": 3,
+        "anchors_uniq_count": 3,
+        "percent_of_total": 7.882912473395171e-05
+      },
+      {
+        "link_domain": "yanokhipoteczny.pl",
+        "is_main_domain": true,
+        "anchor": "www.yanokhipoteczny.pl",
+        "anchor_type": [],
+        "count": {
+          "count": 3,
+          "percent_of_total": 7.882912473395171e-05
+        },
+        "domains_with_anchor_count": 3,
+        "anchors_uniq_count": 3,
+        "percent_of_total": 7.882912473395171e-05
+      },
+      {
+        "link_domain": "yanokhipoteczny.pl",
+        "is_main_domain": true,
+        "anchor": "Polityka Prywatości",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.255274982263447e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 5.255274982263447e-05
+      },
+      {
+        "link_domain": "yanokhipoteczny.pl",
+        "is_main_domain": true,
+        "anchor": "https://www.yanokhipoteczny.pl https://www.yanokhipoteczny.pl",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.255274982263447e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 5.255274982263447e-05
+      },
+      {
+        "link_domain": "yanokhipoteczny.pl",
+        "is_main_domain": true,
+        "anchor": "Odwiedź stronę autora",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.255274982263447e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 5.255274982263447e-05
+      },
+      {
+        "link_domain": "yanokhipoteczny.pl",
+        "is_main_domain": true,
+        "anchor": "Fundusz Hipoteczny Janok Fundusz Wyższego Zaufania",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.255274982263447e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 5.255274982263447e-05
+      },
+      {
+        "link_domain": "yanokhipoteczny.pl",
+        "is_main_domain": true,
+        "anchor": "raporty finansowe",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.6276374911317236e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.6276374911317236e-05
+      },
+      {
+        "link_domain": "yanokhipoteczny.pl",
+        "is_main_domain": true,
+        "anchor": "Polityką Prywatności",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.6276374911317236e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.6276374911317236e-05
+      },
+      {
+        "link_domain": "yanokhipoteczny.pl",
+        "is_main_domain": true,
+        "anchor": "Pożyczki hipoteczne dla firm",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.6276374911317236e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.6276374911317236e-05
+      },
+      {
+        "link_domain": "yanokhipoteczny.pl",
+        "is_main_domain": true,
+        "anchor": "zwanej popularnie lex deweloper",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.6276374911317236e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.6276374911317236e-05
+      },
+      {
+        "link_domain": "yanokhipoteczny.pl",
+        "is_main_domain": true,
+        "anchor": "weksli inwestycyjnych",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.6276374911317236e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.6276374911317236e-05
+      },
+      {
+        "link_domain": "yanokhipoteczny.pl",
+        "is_main_domain": true,
+        "anchor": "https://yanokhipoteczny.pl/inwestycja-jubileuszowa",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.6276374911317236e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.6276374911317236e-05
+      },
+      {
+        "link_domain": "yanokhipoteczny.pl",
+        "is_main_domain": true,
+        "anchor": "https://yanokhipoteczny.pl/raporty-finansowe/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.6276374911317236e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.6276374911317236e-05
+      },
+      {
+        "link_domain": "yanokhipoteczny.pl",
+        "is_main_domain": true,
+        "anchor": "inwestycje powiązane z rynkiem nieruchomości,",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.6276374911317236e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.6276374911317236e-05
+      },
+      {
+        "link_domain": "yanokhipoteczny.pl",
+        "is_main_domain": true,
+        "anchor": "Funduszu Hipotecznego Yanok",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.6276374911317236e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.6276374911317236e-05
+      },
+      {
+        "link_domain": "yanokhipoteczny.pl",
+        "is_main_domain": true,
+        "anchor": "https://yanokhipoteczny.pl/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.6276374911317236e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.6276374911317236e-05
+      },
+      {
+        "link_domain": "yanokhipoteczny.pl",
+        "is_main_domain": true,
+        "anchor": "inwestycja w nieruchomości",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.6276374911317236e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.6276374911317236e-05
+      },
+      {
+        "link_domain": "yanokhipoteczny.pl",
+        "is_main_domain": true,
+        "anchor": "Strona autora",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.6276374911317236e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.6276374911317236e-05
+      },
+      {
+        "link_domain": "yanokhipoteczny.pl",
+        "is_main_domain": true,
+        "anchor": "inwestycja 16% w skali pierwszego roku",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.6276374911317236e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.6276374911317236e-05
+      },
+      {
+        "link_domain": "yanokhipoteczny.pl",
+        "is_main_domain": true,
+        "anchor": "Inwestycje YANOK",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.6276374911317236e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.6276374911317236e-05
+      },
+      {
+        "link_domain": "yanokhipoteczny.pl",
+        "is_main_domain": true,
+        "anchor": "https://yanokhipoteczny.pl/hipoteka-10-rzeczy-ktore-warto-o-niej-wiedziec/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.6276374911317236e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.6276374911317236e-05
+      },
+      {
+        "link_domain": "yanokhipoteczny.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.yanokhipoteczny.pl",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.6276374911317236e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.6276374911317236e-05
+      },
+      {
+        "link_domain": "yanokhipoteczny.pl",
+        "is_main_domain": true,
+        "anchor": "Polityką Prywatości",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.6276374911317236e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.6276374911317236e-05
+      },
+      {
+        "link_domain": "yanokhipoteczny.pl",
+        "is_main_domain": true,
+        "anchor": "Inwestycje Yanok",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.6276374911317236e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.6276374911317236e-05
+      },
+      {
+        "link_domain": "yanokhipoteczny.pl",
+        "is_main_domain": true,
+        "anchor": "https://yanokhipoteczny.pl/wp-content/uploads/2023/04/Raport_2022_online.pdf",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.6276374911317236e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.6276374911317236e-05
+      },
+      {
+        "link_domain": "yanokhipoteczny.pl",
+        "is_main_domain": true,
+        "anchor": "Sprawdź nasze Raporty",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.6276374911317236e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.6276374911317236e-05
+      },
+      {
+        "link_domain": "yanokhipoteczny.pl",
+        "is_main_domain": true,
+        "anchor": "Strefie Wiedzy FH Yanok",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.6276374911317236e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.6276374911317236e-05
+      },
+      {
+        "link_domain": "yanokhipoteczny.pl",
+        "is_main_domain": true,
+        "anchor": "Weksel Yanok",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.6276374911317236e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.6276374911317236e-05
+      }
+    ],
+    "total": 35,
+    "domain": "yanokhipoteczny.pl",
+    "endpoint": "get_backlinks_anchor_data"
+  }
+}

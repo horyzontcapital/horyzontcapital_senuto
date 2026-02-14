@@ -1,0 +1,73 @@
+{
+  "domain": "rankomat.pl",
+  "endpoint": "get_backlinks_tlds",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "tld": "pl",
+          "count": 197928,
+          "percent": 0.9716069745523092
+        },
+        {
+          "tld": "info",
+          "count": 4592,
+          "percent": 0.0225416273955388
+        },
+        {
+          "tld": "com",
+          "count": 531,
+          "percent": 0.002606621112158341
+        },
+        {
+          "tld": "net",
+          "count": 270,
+          "percent": 0.0013254005655042413
+        },
+        {
+          "tld": "org",
+          "count": 226,
+          "percent": 0.0011094093622368835
+        },
+        {
+          "tld": "eu",
+          "count": 53,
+          "percent": 0.0002601712221174992
+        },
+        {
+          "tld": "fm",
+          "count": 21,
+          "percent": 0.00010308671065032988
+        },
+        {
+          "tld": "tv",
+          "count": 13,
+          "percent": 6.381558278353754e-05
+        },
+        {
+          "tld": "nl",
+          "count": 12,
+          "percent": 5.89066918001885e-05
+        },
+        {
+          "tld": "ly",
+          "count": 9,
+          "percent": 4.418001885014138e-05
+        }
+      ],
+      "pagination": {
+        "page_count": 4,
+        "current_page": 1,
+        "has_next_page": true,
+        "has_prev_page": false,
+        "count": 33,
+        "limit": 10
+      }
+    },
+    "status": 200,
+    "domain": "rankomat.pl",
+    "endpoint": "get_backlinks_tlds"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "domain": "newpoint-finance.pl",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "newpoint-finance.pl",
+        "keywords_count": 15,
+        "visibility_percent": 100,
+        "statistics": {
+          "visibility": {
+            "current": 80.66,
+            "previous": 59.72,
+            "diff": 20.94,
+            "percent": 0.3506,
+            "history": null
+          },
+          "top3": {
+            "current": 2,
+            "previous": 2,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 15,
+            "previous": 14,
+            "diff": 1,
+            "percent": 0.0714,
+            "history": null
+          },
+          "top50": {
+            "current": 70,
+            "previous": 71,
+            "diff": -1,
+            "percent": -0.0141,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 100,
+            "previous": 100,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "newpoint-finance.pl",
+    "endpoint": "get_subdomains"
+  }
+}

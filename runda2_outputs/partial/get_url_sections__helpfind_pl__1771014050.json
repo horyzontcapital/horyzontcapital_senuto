@@ -1,0 +1,222 @@
+{
+  "domain": "helpfind.pl",
+  "endpoint": "get_url_sections",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "url_section": "helpfind.pl/blog/",
+        "keywords_count": 6306,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 49124.6,
+            "previous": 48179.81,
+            "diff": 944.79,
+            "percent": 0.0196,
+            "history": null
+          },
+          "top3": {
+            "current": 705,
+            "previous": 695,
+            "diff": 10,
+            "percent": 0.0144,
+            "history": null
+          },
+          "top10": {
+            "current": 6306,
+            "previous": 6275,
+            "diff": 31,
+            "percent": 0.0049,
+            "history": null
+          },
+          "top50": {
+            "current": 26527,
+            "previous": 26265,
+            "diff": 262,
+            "percent": 0.01,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "helpfind.pl/",
+        "keywords_count": 1142,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 14646.73,
+            "previous": 14249.29,
+            "diff": 397.44,
+            "percent": 0.0279,
+            "history": null
+          },
+          "top3": {
+            "current": 296,
+            "previous": 298,
+            "diff": -2,
+            "percent": -0.0067,
+            "history": null
+          },
+          "top10": {
+            "current": 1142,
+            "previous": 1135,
+            "diff": 7,
+            "percent": 0.0062,
+            "history": null
+          },
+          "top50": {
+            "current": 3509,
+            "previous": 3486,
+            "diff": 23,
+            "percent": 0.0066,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "helpfind.pl/aktualnosci/",
+        "keywords_count": 1103,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 11668.31,
+            "previous": 9573.49,
+            "diff": 2094.81,
+            "percent": 0.2188,
+            "history": null
+          },
+          "top3": {
+            "current": 113,
+            "previous": 118,
+            "diff": -5,
+            "percent": -0.0424,
+            "history": null
+          },
+          "top10": {
+            "current": 1103,
+            "previous": 1143,
+            "diff": -40,
+            "percent": -0.035,
+            "history": null
+          },
+          "top50": {
+            "current": 9362,
+            "previous": 10751,
+            "diff": -1389,
+            "percent": -0.1292,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "helpfind.pl/data/",
+        "keywords_count": 1,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 4.68,
+            "previous": 4.68,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 1,
+            "previous": 1,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 10,
+            "previous": 9,
+            "diff": 1,
+            "percent": 0.1111,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "helpfind.pl/polityka-prywatnosci/",
+        "keywords_count": 0,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 5,
+            "previous": 4,
+            "diff": 1,
+            "percent": 0.25,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "helpfind.pl/redakcja/",
+        "keywords_count": 0,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 3,
+            "previous": 2,
+            "diff": 1,
+            "percent": 0.5,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 6,
+    "domain": "helpfind.pl",
+    "endpoint": "get_url_sections"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "domain": "helpfind.pl",
+  "endpoint": "suggest_domains",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "favourite": [],
+        "suggested": [
+          "helpfind.pl",
+          "helpfindemmafillipoff.ca"
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "helpfind.pl",
+    "endpoint": "suggest_domains"
+  }
+}

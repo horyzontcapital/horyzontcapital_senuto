@@ -1,0 +1,22 @@
+{
+  "domain": "ibipolska.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "ibipolska.pl": [
+          {
+            "text": "Poznaj nas bliżej!",
+            "size": 1,
+            "percent": 1
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "ibipolska.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "domain": "forum-kredytowe.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "forum-kredytowe.pl": [
+          {
+            "text": "Forum",
+            "size": 8635,
+            "percent": 0.878880407124682
+          },
+          {
+            "text": "Strona WWW",
+            "size": 67,
+            "percent": 0.006819338422391858
+          },
+          {
+            "text": "forum kredytowe",
+            "size": 51,
+            "percent": 0.005190839694656489
+          },
+          {
+            "text": "http://www.forum-kredytowe.pl/f125/",
+            "size": 50,
+            "percent": 0.005089058524173028
+          },
+          {
+            "text": "http://www.forum-kredytowe.pl/",
+            "size": 49,
+            "percent": 0.004987277353689567
+          },
+          {
+            "text": "http://www.forum-kredytowe.pl/f127/",
+            "size": 47,
+            "percent": 0.004783715012722647
+          },
+          {
+            "text": "http://www.forum-kredytowe.pl/f154/",
+            "size": 41,
+            "percent": 0.004173027989821883
+          },
+          {
+            "text": "http://www.forum-kredytowe.pl/f133/",
+            "size": 38,
+            "percent": 0.0038676844783715014
+          },
+          {
+            "text": "http://www.forum-kredytowe.pl/f117/",
+            "size": 33,
+            "percent": 0.0033587786259541984
+          },
+          {
+            "text": "http://www.forum-kredytowe.pl/f152/",
+            "size": 30,
+            "percent": 0.0030534351145038168
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "forum-kredytowe.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

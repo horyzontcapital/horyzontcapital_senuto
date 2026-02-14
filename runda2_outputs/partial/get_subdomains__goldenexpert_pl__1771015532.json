@@ -1,0 +1,54 @@
+{
+  "domain": "goldenexpert.pl",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "goldenexpert.pl",
+        "keywords_count": 98,
+        "visibility_percent": 100,
+        "statistics": {
+          "visibility": {
+            "current": 596.27,
+            "previous": 540.54,
+            "diff": 55.73,
+            "percent": 0.1031,
+            "history": null
+          },
+          "top3": {
+            "current": 31,
+            "previous": 31,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 98,
+            "previous": 101,
+            "diff": -3,
+            "percent": -0.0297,
+            "history": null
+          },
+          "top50": {
+            "current": 312,
+            "previous": 314,
+            "diff": -2,
+            "percent": -0.0064,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 100,
+            "previous": 100,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "goldenexpert.pl",
+    "endpoint": "get_subdomains"
+  }
+}

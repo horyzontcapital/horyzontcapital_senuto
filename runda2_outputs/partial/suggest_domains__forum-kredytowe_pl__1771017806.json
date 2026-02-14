@@ -1,0 +1,21 @@
+{
+  "domain": "forum-kredytowe.pl",
+  "endpoint": "suggest_domains",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "favourite": [],
+        "suggested": [
+          "forum-kredytowe.pl",
+          "forum-kredytowe.org",
+          "forum-kredytowe.iq24.pl"
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "forum-kredytowe.pl",
+    "endpoint": "suggest_domains"
+  }
+}

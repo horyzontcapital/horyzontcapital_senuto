@@ -1,0 +1,74 @@
+{
+  "domain": "strefabiznesu.pl",
+  "endpoint": "get_domain_statistics",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "statistics": {
+          "top3": {
+            "recent_value": 854,
+            "older_value": 853,
+            "diff": 1,
+            "percent": 0.0012
+          },
+          "top10": {
+            "recent_value": 5839,
+            "older_value": 5839,
+            "diff": 0,
+            "percent": 0
+          },
+          "top50": {
+            "recent_value": 81373,
+            "older_value": 81377,
+            "diff": -4,
+            "percent": 0
+          },
+          "visibility": {
+            "recent_value": 128807,
+            "older_value": 126476,
+            "diff": 2331,
+            "percent": 0.0184
+          },
+          "domain_rank": {
+            "recent_value": 2592,
+            "older_value": 2631,
+            "diff": -39,
+            "percent": -0.0148
+          },
+          "ads_equivalent": {
+            "recent_value": 549954.1,
+            "older_value": 517610.37,
+            "diff": 32343.73,
+            "percent": 0.0625
+          },
+          "category": {
+            "name": "",
+            "statistics": {
+              "recent_value": 2592,
+              "older_value": 2592,
+              "diff": 0,
+              "percent": 0
+            }
+          },
+          "aio_keywords": {
+            "recent_value": 36320,
+            "older_value": 36320,
+            "diff": 0,
+            "percent": 0
+          },
+          "aio_visible_keywords": {
+            "recent_value": 2817,
+            "older_value": 2817,
+            "diff": 0,
+            "percent": 0
+          }
+        }
+      }
+    },
+    "status": 200,
+    "domain": "strefabiznesu.pl",
+    "endpoint": "get_domain_statistics"
+  }
+}

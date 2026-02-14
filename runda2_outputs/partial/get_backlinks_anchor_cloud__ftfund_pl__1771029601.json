@@ -1,0 +1,42 @@
+{
+  "domain": "ftfund.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "ftfund.pl": [
+          {
+            "text": "https://ftfund.pl/pozyczka-pod-zastaw-mieszkania",
+            "size": 689,
+            "percent": 0.4479843953185956
+          },
+          {
+            "text": "https://ftfund.pl/pozyczki-dla-rolnikow",
+            "size": 599,
+            "percent": 0.3894668400520156
+          },
+          {
+            "text": "https://ftfund.pl/",
+            "size": 223,
+            "percent": 0.14499349804941483
+          },
+          {
+            "text": "Strona",
+            "size": 26,
+            "percent": 0.016905071521456438
+          },
+          {
+            "text": "",
+            "size": 1,
+            "percent": 0.0006501950585175553
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "ftfund.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

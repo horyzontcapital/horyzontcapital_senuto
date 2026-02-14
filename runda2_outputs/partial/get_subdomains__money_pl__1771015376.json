@@ -1,0 +1,390 @@
+{
+  "domain": "money.pl",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "money.pl",
+        "keywords_count": 91112,
+        "visibility_percent": 90.4,
+        "statistics": {
+          "visibility": {
+            "current": 4303121.33,
+            "previous": 3553594.55,
+            "diff": 749526.78,
+            "percent": 0.2109,
+            "history": null
+          },
+          "top3": {
+            "current": 22282,
+            "previous": 22333,
+            "diff": -51,
+            "percent": -0.0023,
+            "history": null
+          },
+          "top10": {
+            "current": 91112,
+            "previous": 91217,
+            "diff": -105,
+            "percent": -0.0012,
+            "history": null
+          },
+          "top50": {
+            "current": 403254,
+            "previous": 401509,
+            "diff": 1745,
+            "percent": 0.0043,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 90.4,
+            "previous": 88.18,
+            "diff": 0.02,
+            "percent": 0.0252,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "direct.money.pl",
+        "keywords_count": 26548,
+        "visibility_percent": 9.62,
+        "statistics": {
+          "visibility": {
+            "current": 387487.44,
+            "previous": 362210.85,
+            "diff": 25276.58,
+            "percent": 0.0698,
+            "history": null
+          },
+          "top3": {
+            "current": 6875,
+            "previous": 6871,
+            "diff": 4,
+            "percent": 0.0006,
+            "history": null
+          },
+          "top10": {
+            "current": 26548,
+            "previous": 26515,
+            "diff": 33,
+            "percent": 0.0012,
+            "history": null
+          },
+          "top50": {
+            "current": 76519,
+            "previous": 76806,
+            "diff": -287,
+            "percent": -0.0037,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 9.62,
+            "previous": 7.61,
+            "diff": 0.02,
+            "percent": 0.2641,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "praca.money.pl",
+        "keywords_count": 21049,
+        "visibility_percent": 1.94,
+        "statistics": {
+          "visibility": {
+            "current": 92313,
+            "previous": 86442.04,
+            "diff": 5870.97,
+            "percent": 0.0679,
+            "history": null
+          },
+          "top3": {
+            "current": 2027,
+            "previous": 2057,
+            "diff": -30,
+            "percent": -0.0146,
+            "history": null
+          },
+          "top10": {
+            "current": 21049,
+            "previous": 21396,
+            "diff": -347,
+            "percent": -0.0162,
+            "history": null
+          },
+          "top50": {
+            "current": 68622,
+            "previous": 69440,
+            "diff": -818,
+            "percent": -0.0118,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 1.94,
+            "previous": 2.14,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "static1.money.pl",
+        "keywords_count": 212,
+        "visibility_percent": 0.03,
+        "statistics": {
+          "visibility": {
+            "current": 1370.02,
+            "previous": 1272.36,
+            "diff": 97.66,
+            "percent": 0.0768,
+            "history": null
+          },
+          "top3": {
+            "current": 42,
+            "previous": 40,
+            "diff": 2,
+            "percent": 0.05,
+            "history": null
+          },
+          "top10": {
+            "current": 212,
+            "previous": 210,
+            "diff": 2,
+            "percent": 0.0095,
+            "history": null
+          },
+          "top50": {
+            "current": 1109,
+            "previous": 1101,
+            "diff": 8,
+            "percent": 0.0073,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 0.03,
+            "previous": 0.03,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "images.direct.money.pl",
+        "keywords_count": 90,
+        "visibility_percent": 0.02,
+        "statistics": {
+          "visibility": {
+            "current": 1153.38,
+            "previous": 1033.39,
+            "diff": 120,
+            "percent": 0.1161,
+            "history": null
+          },
+          "top3": {
+            "current": 40,
+            "previous": 41,
+            "diff": -1,
+            "percent": -0.0244,
+            "history": null
+          },
+          "top10": {
+            "current": 90,
+            "previous": 91,
+            "diff": -1,
+            "percent": -0.011,
+            "history": null
+          },
+          "top50": {
+            "current": 218,
+            "previous": 223,
+            "diff": -5,
+            "percent": -0.0224,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 0.02,
+            "previous": 0.03,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "msp.money.pl",
+        "keywords_count": 73,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 60.16,
+            "previous": 58.62,
+            "diff": 1.54,
+            "percent": 0.0263,
+            "history": null
+          },
+          "top3": {
+            "current": 6,
+            "previous": 6,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 73,
+            "previous": 59,
+            "diff": 14,
+            "percent": 0.2373,
+            "history": null
+          },
+          "top50": {
+            "current": 791,
+            "previous": 656,
+            "diff": 135,
+            "percent": 0.2058,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "wibor.money.pl",
+        "keywords_count": 4,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 19.47,
+            "previous": 1.26,
+            "diff": 18.22,
+            "percent": 14.4524,
+            "history": null
+          },
+          "top3": {
+            "current": 2,
+            "previous": 1,
+            "diff": 1,
+            "percent": 1,
+            "history": null
+          },
+          "top10": {
+            "current": 4,
+            "previous": 2,
+            "diff": 2,
+            "percent": 1,
+            "history": null
+          },
+          "top50": {
+            "current": 6,
+            "previous": 4,
+            "diff": 2,
+            "percent": 0.5,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "dodaj-ogloszenie.praca.money.pl",
+        "keywords_count": 2,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 2.25,
+            "previous": 2.25,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 2,
+            "previous": 2,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 5,
+            "previous": 5,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "obiznesieprzykawie.money.pl",
+        "keywords_count": 2,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 1.77,
+            "previous": 1.77,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 2,
+            "previous": 2,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 28,
+            "previous": 29,
+            "diff": -1,
+            "percent": -0.0345,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 9,
+    "domain": "money.pl",
+    "endpoint": "get_subdomains"
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "domain": "hipotecznapozyczka.com",
+  "endpoint": "get_url_sections",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "url_section": "hipotecznapozyczka.com/",
+        "keywords_count": 11,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 32.97,
+            "previous": 32.97,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 5,
+            "previous": 5,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 11,
+            "previous": 11,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 65,
+            "previous": 64,
+            "diff": 1,
+            "percent": 0.0156,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "hipotecznapozyczka.com/realizacje/",
+        "keywords_count": 0,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 1,
+            "previous": 1,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "hipotecznapozyczka.com/oferta/",
+        "keywords_count": 0,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 3,
+            "previous": 4,
+            "diff": -1,
+            "percent": -0.25,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 3,
+    "domain": "hipotecznapozyczka.com",
+    "endpoint": "get_url_sections"
+  }
+}

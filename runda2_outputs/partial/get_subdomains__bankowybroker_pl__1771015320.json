@@ -1,0 +1,54 @@
+{
+  "domain": "bankowybroker.pl",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "bankowybroker.pl",
+        "keywords_count": 15,
+        "visibility_percent": 100,
+        "statistics": {
+          "visibility": {
+            "current": 23,
+            "previous": 19.1,
+            "diff": 3.9,
+            "percent": 0.2042,
+            "history": null
+          },
+          "top3": {
+            "current": 1,
+            "previous": 1,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 15,
+            "previous": 15,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 76,
+            "previous": 78,
+            "diff": -2,
+            "percent": -0.0256,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 100,
+            "previous": 99.99,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "bankowybroker.pl",
+    "endpoint": "get_subdomains"
+  }
+}

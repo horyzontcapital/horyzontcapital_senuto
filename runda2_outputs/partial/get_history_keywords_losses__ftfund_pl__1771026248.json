@@ -1,0 +1,662 @@
+{
+  "domain": "ftfund.pl",
+  "endpoint": "get_history_keywords_losses",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "keyword_id": 10133839,
+        "kid": "df82a7d9cfb87db9c2024f834eb7817e",
+        "domain": "ftfund.pl",
+        "keyword": "pożyczki pod zastaw poznań",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 8,
+            "previous": 7,
+            "diff": 1,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-18": {
+                "position": 7,
+                "has_serp": true
+              },
+              "2026-02-07": {
+                "position": 8,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0.89,
+            "previous": 0.57,
+            "diff": 0.33,
+            "percent": 0.5614,
+            "history": null
+          },
+          "url": {
+            "current": "ftfund.pl/pozyczki-pod-zastaw-poznan",
+            "previous": "ftfund.pl/pozyczki-pod-zastaw-poznan",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              20,
+              20,
+              20,
+              30,
+              30,
+              20,
+              20,
+              20,
+              20,
+              10,
+              20,
+              20
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 20
+          },
+          "snippets": {
+            "current": [
+              "map",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "local",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 5064551,
+        "kid": "6dc2124f54c42e0caa947df08b456b12",
+        "domain": "ftfund.pl",
+        "keyword": "pożyczki gotówkowe opole",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 41,
+            "previous": 40,
+            "diff": 1,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-20": {
+                "position": 40,
+                "has_serp": true
+              },
+              "2026-02-01": {
+                "position": 41,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ftfund.pl/pozyczki-pod-zastaw-opole",
+            "previous": "ftfund.pl/pozyczki-pod-zastaw-opole",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 15
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask",
+              "wiki_right"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "buy",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 7682485,
+        "kid": "a83197710e11a13d05ea71b877131451",
+        "domain": "ftfund.pl",
+        "keyword": "pozabankowe instytucje finansowe przedsiębiorczość",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 41,
+            "previous": 38,
+            "diff": 3,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-16": {
+                "position": 38,
+                "has_serp": true
+              },
+              "2026-02-03": {
+                "position": 41,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ftfund.pl/wpisy/rodzaje-instytucji-bankowych-i-pozabankowych",
+            "previous": "ftfund.pl/wpisy/rodzaje-instytucji-bankowych-i-pozabankowych",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 50
+          },
+          "trends": {
+            "history": [
+              90,
+              70,
+              90,
+              50,
+              70,
+              40,
+              70,
+              20,
+              30,
+              30,
+              30,
+              50
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 24
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 3782222,
+        "kid": "517fcc4c9c74306a62e24fe82ca447f7",
+        "domain": "ftfund.pl",
+        "keyword": "prywatna pożyczka pod zastaw nieruchomości",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 24,
+            "previous": 22,
+            "diff": 2,
+            "changes": {
+              "wins": 2,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-22": {
+                "position": 24,
+                "has_serp": true
+              },
+              "2026-01-07": {
+                "position": 30,
+                "has_serp": true
+              },
+              "2026-01-14": {
+                "position": 23,
+                "has_serp": true
+              },
+              "2026-01-24": {
+                "position": 22,
+                "has_serp": true
+              },
+              "2026-02-02": {
+                "position": 24,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ftfund.pl/pozyczka-pod-zastaw-nieruchomosci",
+            "previous": "ftfund.pl/pozyczka-pod-zastaw-nieruchomosci",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 13.19
+          },
+          "searches": {
+            "current": 260
+          },
+          "trends": {
+            "history": [
+              320,
+              210,
+              260,
+              260,
+              320,
+              260,
+              210,
+              210,
+              260,
+              210,
+              210,
+              210
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 45
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 14063853,
+        "kid": "c0e1be48ae4fbe7e76c85aaf40b0b640",
+        "domain": "ftfund.pl",
+        "keyword": "dopasowana pożyczka opinie",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 49,
+            "previous": 47,
+            "diff": 2,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-18": {
+                "position": 47,
+                "has_serp": true
+              },
+              "2026-02-07": {
+                "position": 49,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ftfund.pl/",
+            "previous": "ftfund.pl/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 1.61
+          },
+          "searches": {
+            "current": 110
+          },
+          "trends": {
+            "history": [
+              140,
+              140,
+              140,
+              110,
+              90,
+              90,
+              110,
+              110,
+              90,
+              140,
+              140,
+              140
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 34
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 7718681,
+        "kid": "a9010789ffc72ef5e1f9a9aa02a3e68b",
+        "domain": "ftfund.pl",
+        "keyword": "kredyt hipoteczny pozabankowe",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 36,
+            "previous": 26,
+            "diff": 10,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-16": {
+                "position": 26,
+                "has_serp": true
+              },
+              "2026-02-03": {
+                "position": 36,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ftfund.pl/pozabankowa-pozyczka-hipoteczna",
+            "previous": "ftfund.pl/pozabankowa-pozyczka-hipoteczna",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 8.17
+          },
+          "searches": {
+            "current": 40
+          },
+          "trends": {
+            "history": [
+              40,
+              50,
+              50,
+              40,
+              50,
+              40,
+              40,
+              30,
+              10,
+              30,
+              40,
+              20
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 42
+          },
+          "snippets": {
+            "current": [
+              "map",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 4783745,
+        "kid": "6786f48364dc01a37139c6b61a606464",
+        "domain": "ftfund.pl",
+        "keyword": "pożyczka hipoteczna pozabankowa",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 12,
+            "previous": 8,
+            "diff": 4,
+            "changes": {
+              "wins": 1,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-29": {
+                "position": 10,
+                "has_serp": true
+              },
+              "2026-01-14": {
+                "position": 8,
+                "has_serp": true
+              },
+              "2026-02-01": {
+                "position": 12,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 1.12,
+            "diff": -1.12,
+            "percent": -1,
+            "history": null
+          },
+          "url": {
+            "current": "ftfund.pl/pozabankowa-pozyczka-hipoteczna",
+            "previous": "ftfund.pl/pozabankowa-pozyczka-hipoteczna",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 13.96
+          },
+          "searches": {
+            "current": 50
+          },
+          "trends": {
+            "history": [
+              50,
+              50,
+              30,
+              40,
+              50,
+              70,
+              50,
+              50,
+              50,
+              70,
+              40,
+              40
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 27
+          },
+          "snippets": {
+            "current": []
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 9596138,
+        "kid": "d3531b8be870555db20f063c3560c449",
+        "domain": "ftfund.pl",
+        "keyword": "pożyczki w domu klienta opole",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 11,
+            "previous": 7,
+            "diff": 4,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-17": {
+                "position": 7,
+                "has_serp": true
+              },
+              "2026-02-04": {
+                "position": 11,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 1.42,
+            "diff": -1.42,
+            "percent": -1,
+            "history": null
+          },
+          "url": {
+            "current": "ftfund.pl/pozyczki-pod-zastaw-opole",
+            "previous": "ftfund.pl/pozyczki-pod-zastaw-opole",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0.41
+          },
+          "searches": {
+            "current": 50
+          },
+          "trends": {
+            "history": [
+              70,
+              70,
+              50,
+              30,
+              50,
+              50,
+              40,
+              40,
+              30,
+              40,
+              70,
+              50
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 19
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      }
+    ],
+    "total": 8,
+    "domain": "ftfund.pl",
+    "endpoint": "get_history_keywords_losses"
+  }
+}

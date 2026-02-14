@@ -1,0 +1,332 @@
+{
+  "domain": "angfinanse.pl",
+  "endpoint": "get_backlinks_referring_domains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "ref_domain": "grupaang.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 92,
+        "links_external_count": 0,
+        "percent_of_total": 0.7301587301587301,
+        "count": {
+          "count": 92,
+          "percent_of_total": 0.7301587301587301
+        },
+        "top3": 0,
+        "top10": 1,
+        "top50": 2,
+        "visibility": 0.223,
+        "domain_rank": 2103117,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "fotopanel.com.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 6,
+        "links_external_count": 0,
+        "percent_of_total": 0.047619047619047616,
+        "count": {
+          "count": 6,
+          "percent_of_total": 0.047619047619047616
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 1,
+        "visibility": 0,
+        "domain_rank": 5014173,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "angkredyty.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 6,
+        "links_external_count": 0,
+        "percent_of_total": 0.047619047619047616,
+        "count": {
+          "count": 6,
+          "percent_of_total": 0.047619047619047616
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "gurugroup.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.01282051282051282,
+        "backlinks_count": 6,
+        "links_external_count": 156,
+        "percent_of_total": 0.047619047619047616,
+        "count": {
+          "count": 6,
+          "percent_of_total": 0.047619047619047616
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 5,
+        "visibility": 0,
+        "domain_rank": 5789550,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "magazynkontakt.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": 12880,
+          "article_price_nofollow": null,
+          "link_price_dofollow": null,
+          "link_price_nofollow": null,
+          "price_do_follow": 12880,
+          "price_no_follow": null
+        },
+        "ratio_bl_ext": 0.09564982437179141,
+        "backlinks_count": 2,
+        "links_external_count": 22206,
+        "percent_of_total": 0.015873015873015872,
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.015873015873015872
+        },
+        "top3": 203,
+        "top10": 1080,
+        "top50": 5561,
+        "visibility": 27723.94400000001,
+        "domain_rank": 10346,
+        "ads_equivalent": 42281.90634999997
+      },
+      {
+        "ref_domain": "blog.angkredyty.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 2,
+        "links_external_count": 0,
+        "percent_of_total": 0.015873015873015872,
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.015873015873015872
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "kalkulator-hipoteczny.com",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 2,
+        "links_external_count": 0,
+        "percent_of_total": 0.015873015873015872,
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.015873015873015872
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 6,
+        "visibility": 0,
+        "domain_rank": 2323668,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "tukio.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 1,
+        "links_external_count": 0,
+        "percent_of_total": 0.007936507936507936,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.007936507936507936
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "ezbud.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.22344322344322345,
+        "backlinks_count": 1,
+        "links_external_count": 273,
+        "percent_of_total": 0.007936507936507936,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.007936507936507936
+        },
+        "top3": 31,
+        "top10": 49,
+        "top50": 126,
+        "visibility": 638.1709999999997,
+        "domain_rank": 173469,
+        "ads_equivalent": 584.72673
+      },
+      {
+        "ref_domain": "konkurs-es.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 14.727272727272727,
+        "backlinks_count": 1,
+        "links_external_count": 121,
+        "percent_of_total": 0.007936507936507936,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.007936507936507936
+        },
+        "top3": 1,
+        "top10": 13,
+        "top50": 61,
+        "visibility": 596.145,
+        "domain_rank": 180921,
+        "ads_equivalent": 1039.8269
+      },
+      {
+        "ref_domain": "nno.tukio.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 1,
+        "links_external_count": 0,
+        "percent_of_total": 0.007936507936507936,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.007936507936507936
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "trojmiasto.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": 2254,
+          "article_price_nofollow": null,
+          "link_price_dofollow": null,
+          "link_price_nofollow": null,
+          "price_do_follow": 2254,
+          "price_no_follow": null
+        },
+        "ratio_bl_ext": 0.09133071896110848,
+        "backlinks_count": 1,
+        "links_external_count": 762197,
+        "percent_of_total": 0.007936507936507936,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.007936507936507936
+        },
+        "top3": 26454,
+        "top10": 100374,
+        "top50": 330034,
+        "visibility": 1799343.1410001067,
+        "domain_rank": 213,
+        "ads_equivalent": 2684522.110350005
+      },
+      {
+        "ref_domain": "raport2015.angkredyty.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 1,
+        "links_external_count": 0,
+        "percent_of_total": 0.007936507936507936,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.007936507936507936
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "raport2014.angkredyty.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 1,
+        "links_external_count": 0,
+        "percent_of_total": 0.007936507936507936,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.007936507936507936
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "angspoldzielnia.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 1,
+        "links_external_count": 0,
+        "percent_of_total": 0.007936507936507936,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.007936507936507936
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "kalkulatorgotowkowy.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 1,
+        "links_external_count": 0,
+        "percent_of_total": 0.007936507936507936,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.007936507936507936
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "ciekawostkifinansowe.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.1111111111111111,
+        "backlinks_count": 1,
+        "links_external_count": 27,
+        "percent_of_total": 0.007936507936507936,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.007936507936507936
+        },
+        "top3": 0,
+        "top10": 5,
+        "top50": 33,
+        "visibility": 6.243,
+        "domain_rank": 1259172,
+        "ads_equivalent": 3.2434000000000003
+      }
+    ],
+    "total": 17,
+    "domain": "angfinanse.pl",
+    "endpoint": "get_backlinks_referring_domains"
+  }
+}

@@ -1,0 +1,382 @@
+{
+  "domain": "pod-zastaw.org",
+  "endpoint": "get_positions_wins",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "keyword_id": 1086763,
+        "kid": "1752802dc211c1583318ff61f675cfc8",
+        "domain": "pod-zastaw.org",
+        "keyword": "pożyczki pod zastaw mieszkania warszawa",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 5,
+            "previous": 6,
+            "diff": -1,
+            "changes": {
+              "wins": 1,
+              "losses": 0,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-26": {
+                "position": 6,
+                "has_serp": true
+              },
+              "2026-02-06": {
+                "position": 5,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 1.01,
+            "previous": 0.37,
+            "diff": 0.64,
+            "percent": 1.7297,
+            "history": null
+          },
+          "url": {
+            "current": "pod-zastaw.org/",
+            "previous": "pod-zastaw.org/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              10,
+              10,
+              10,
+              0,
+              0,
+              0,
+              0,
+              0,
+              10,
+              0
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 17
+          },
+          "snippets": {
+            "current": []
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 1698462,
+        "kid": "24733dd33b637315b7d93203ac1624cd",
+        "domain": "pod-zastaw.org",
+        "keyword": "pożyczki pod zastaw online",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 5,
+            "previous": 51,
+            "diff": -46,
+            "changes": {
+              "wins": 2,
+              "losses": 2,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-28": {
+                "position": 4,
+                "has_serp": true
+              },
+              "2026-01-05": {
+                "position": 13,
+                "has_serp": true
+              },
+              "2026-01-12": {
+                "position": 13,
+                "has_serp": true
+              },
+              "2026-01-22": {
+                "position": 12,
+                "has_serp": true
+              },
+              "2026-02-01": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 5,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 7.04,
+            "previous": 0,
+            "diff": 7.04,
+            "percent": 1,
+            "history": null
+          },
+          "url": {
+            "current": "pod-zastaw.org/",
+            "previous": "",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 8.73
+          },
+          "searches": {
+            "current": 140
+          },
+          "trends": {
+            "history": [
+              170,
+              170,
+              140,
+              170,
+              140,
+              110,
+              140,
+              140,
+              170,
+              140,
+              110,
+              110
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 44
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 8732778,
+        "kid": "bfd40a4488ad1b9cb9b39c011d824031",
+        "domain": "pod-zastaw.org",
+        "keyword": "kredyt hipoteczny pod zastaw domu",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 49,
+            "previous": 51,
+            "diff": -2,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 5
+            },
+            "history": {
+              "2025-12-19": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-26": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-04": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-11": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-21": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-31": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-10": {
+                "position": 49,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "pod-zastaw.org/kredyt-pod-zastaw-mieszkania/",
+            "previous": "",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 5.43
+          },
+          "searches": {
+            "current": 260
+          },
+          "trends": {
+            "history": [
+              390,
+              320,
+              320,
+              320,
+              260,
+              210,
+              260,
+              260,
+              260,
+              260,
+              210,
+              210
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 46
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 9410327,
+        "kid": "cf1e82b4260339c4e4944dd7a6db9720",
+        "domain": "pod-zastaw.org",
+        "keyword": "uczciwe pożyczki pod zastaw mieszkania",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 5,
+            "previous": 10,
+            "diff": -5,
+            "changes": {
+              "wins": 2,
+              "losses": 3,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-19": {
+                "position": 7,
+                "has_serp": true
+              },
+              "2025-12-26": {
+                "position": 7,
+                "has_serp": true
+              },
+              "2026-01-04": {
+                "position": 8,
+                "has_serp": true
+              },
+              "2026-01-11": {
+                "position": 10,
+                "has_serp": true
+              },
+              "2026-01-22": {
+                "position": 5,
+                "has_serp": true
+              },
+              "2026-02-01": {
+                "position": 10,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 5,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 4.53,
+            "previous": 1.39,
+            "diff": 3.14,
+            "percent": 2.259,
+            "history": null
+          },
+          "url": {
+            "current": "pod-zastaw.org/",
+            "previous": "pod-zastaw.org/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 1.71
+          },
+          "searches": {
+            "current": 90
+          },
+          "trends": {
+            "history": [
+              90,
+              30,
+              50,
+              50,
+              140,
+              90,
+              70,
+              70,
+              110,
+              110,
+              140,
+              70
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 27
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      }
+    ],
+    "total": 4,
+    "domain": "pod-zastaw.org",
+    "endpoint": "get_positions_wins"
+  }
+}

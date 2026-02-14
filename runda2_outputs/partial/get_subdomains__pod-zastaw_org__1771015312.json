@@ -1,0 +1,54 @@
+{
+  "domain": "pod-zastaw.org",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "pod-zastaw.org",
+        "keywords_count": 35,
+        "visibility_percent": 100,
+        "statistics": {
+          "visibility": {
+            "current": 330.66,
+            "previous": 300.93,
+            "diff": 29.74,
+            "percent": 0.0988,
+            "history": null
+          },
+          "top3": {
+            "current": 11,
+            "previous": 10,
+            "diff": 1,
+            "percent": 0.1,
+            "history": null
+          },
+          "top10": {
+            "current": 35,
+            "previous": 35,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 84,
+            "previous": 84,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 100,
+            "previous": 100,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "pod-zastaw.org",
+    "endpoint": "get_subdomains"
+  }
+}

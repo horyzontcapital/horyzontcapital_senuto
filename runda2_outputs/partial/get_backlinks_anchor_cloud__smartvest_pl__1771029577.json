@@ -1,0 +1,67 @@
+{
+  "domain": "smartvest.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "smartvest.pl": [
+          {
+            "text": "Smartvest",
+            "size": 32,
+            "percent": 0.11228070175438597
+          },
+          {
+            "text": "Smartvest Sp. z o.o.",
+            "size": 21,
+            "percent": 0.07368421052631578
+          },
+          {
+            "text": "smartvest.pl",
+            "size": 18,
+            "percent": 0.06315789473684211
+          },
+          {
+            "text": "www.smartvest.pl",
+            "size": 11,
+            "percent": 0.03859649122807018
+          },
+          {
+            "text": "pożyczka pod zastaw nieruchomości",
+            "size": 10,
+            "percent": 0.03508771929824561
+          },
+          {
+            "text": "pożyczka pod zastaw mieszkania",
+            "size": 8,
+            "percent": 0.028070175438596492
+          },
+          {
+            "text": "https://smartvest.pl/",
+            "size": 8,
+            "percent": 0.028070175438596492
+          },
+          {
+            "text": "pożyczki pod zastaw nieruchomości",
+            "size": 7,
+            "percent": 0.02456140350877193
+          },
+          {
+            "text": "https://www.smartvest.pl/",
+            "size": 7,
+            "percent": 0.02456140350877193
+          },
+          {
+            "text": "pożyczka pod zastaw ziemi rolnej",
+            "size": 6,
+            "percent": 0.021052631578947368
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "smartvest.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "domain": "expander.pl",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "expander.pl",
+        "keywords_count": 6045,
+        "visibility_percent": 99.89,
+        "statistics": {
+          "visibility": {
+            "current": 93395.07,
+            "previous": 85637.64,
+            "diff": 7757.43,
+            "percent": 0.0906,
+            "history": null
+          },
+          "top3": {
+            "current": 2325,
+            "previous": 2272,
+            "diff": 53,
+            "percent": 0.0233,
+            "history": null
+          },
+          "top10": {
+            "current": 6045,
+            "previous": 5940,
+            "diff": 105,
+            "percent": 0.0177,
+            "history": null
+          },
+          "top50": {
+            "current": 22537,
+            "previous": 22603,
+            "diff": -66,
+            "percent": -0.0029,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 99.89,
+            "previous": 99.87,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "nieruchomosci.expander.pl",
+        "keywords_count": 57,
+        "visibility_percent": 0.13,
+        "statistics": {
+          "visibility": {
+            "current": 112.36,
+            "previous": 104.29,
+            "diff": 8.07,
+            "percent": 0.0774,
+            "history": null
+          },
+          "top3": {
+            "current": 6,
+            "previous": 5,
+            "diff": 1,
+            "percent": 0.2,
+            "history": null
+          },
+          "top10": {
+            "current": 57,
+            "previous": 56,
+            "diff": 1,
+            "percent": 0.0179,
+            "history": null
+          },
+          "top50": {
+            "current": 283,
+            "previous": 276,
+            "diff": 7,
+            "percent": 0.0254,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 0.13,
+            "previous": 0.11,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 2,
+    "domain": "expander.pl",
+    "endpoint": "get_subdomains"
+  }
+}

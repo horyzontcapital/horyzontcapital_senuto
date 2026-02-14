@@ -1,0 +1,5918 @@
+{
+  "domain": "ckakrybia.pl",
+  "endpoint": "get_history_keywords_losses",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "keyword_id": 9457095,
+        "kid": "d02d95ba6db179c5224e002f82fd76cc",
+        "domain": "ckakrybia.pl",
+        "keyword": "pożyczka dla firm bez zdolności kredytowej",
+        "words_count": 6,
+        "statistics": {
+          "position": {
+            "current": 4,
+            "previous": 3,
+            "diff": 1,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-17": {
+                "position": 3,
+                "has_serp": true
+              },
+              "2026-02-04": {
+                "position": 4,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 18.46,
+            "previous": 11.83,
+            "diff": 6.64,
+            "percent": 0.5604,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/kredyt-dla-firm/",
+            "previous": "ckakrybia.pl/kredyt-dla-firm/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 13.11
+          },
+          "searches": {
+            "current": 110
+          },
+          "trends": {
+            "history": [
+              70,
+              90,
+              50,
+              70,
+              70,
+              110,
+              140,
+              110,
+              110,
+              210,
+              210,
+              170
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 41
+          },
+          "snippets": {
+            "current": []
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 14067419,
+        "kid": "c1346ef1cc46f90320b129b941742e78",
+        "domain": "ckakrybia.pl",
+        "keyword": "samochód bez bik i krd",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 28,
+            "previous": 15,
+            "diff": 13,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-18": {
+                "position": 15,
+                "has_serp": true
+              },
+              "2026-02-07": {
+                "position": 28,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/kredyt-samochodowy-bez-bik-i-krd-gdzie-go-szukac-i-jakie-sa-koszty/",
+            "previous": "ckakrybia.pl/kredyt-samochodowy-bez-bik-i-krd-gdzie-go-szukac-i-jakie-sa-koszty/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 3.83
+          },
+          "searches": {
+            "current": 170
+          },
+          "trends": {
+            "history": [
+              170,
+              110,
+              170,
+              210,
+              170,
+              210,
+              260,
+              140,
+              90,
+              140,
+              140,
+              140
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 48
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 13496989,
+        "kid": "8e35c827ac5cd8c8085d375e983ca7b9",
+        "domain": "ckakrybia.pl",
+        "keyword": "kredyt dla firm bez zus i us forum",
+        "words_count": 8,
+        "statistics": {
+          "position": {
+            "current": 30,
+            "previous": 22,
+            "diff": 8,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-19": {
+                "position": 22,
+                "has_serp": true
+              },
+              "2026-02-07": {
+                "position": 30,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/kredyt-dla-firm-bez-zus-i-us/",
+            "previous": "ckakrybia.pl/kredyt-dla-firm-bez-zus-i-us/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 2.92
+          },
+          "searches": {
+            "current": 40
+          },
+          "trends": {
+            "history": [
+              40,
+              30,
+              70,
+              50,
+              20,
+              50,
+              30,
+              20,
+              30,
+              30,
+              20,
+              20
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 19
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 6569285,
+        "kid": "8f312b796125c9092a0fd4509a947910",
+        "domain": "ckakrybia.pl",
+        "keyword": "biuro kredytowe łódź",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 21,
+            "previous": 20,
+            "diff": 1,
+            "changes": {
+              "wins": 1,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-18": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-01": {
+                "position": 23,
+                "has_serp": true
+              },
+              "2026-01-20": {
+                "position": 20,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 21,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/",
+            "previous": "ckakrybia.pl/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              20,
+              10,
+              10,
+              10,
+              40,
+              10,
+              10,
+              10,
+              10,
+              10,
+              20,
+              30
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 32
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "visit-in-person",
+            "main_intent": "local",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 15034488,
+        "kid": "a46922c405655de6926f36c8b26f0bf4",
+        "domain": "ckakrybia.pl",
+        "keyword": "grupa inwestorów pożyczki prywatne opinie",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 18,
+            "previous": 14,
+            "diff": 4,
+            "changes": {
+              "wins": 0,
+              "losses": 2,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-22": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-05": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-22": {
+                "position": 14,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 18,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/pozyczki-prywatne-pod-weksel-i-od-inwestorow-kiedy-to-jedyne-wyjscie/",
+            "previous": "ckakrybia.pl/pozyczki-prywatne-pod-weksel-i-od-inwestorow-kiedy-to-jedyne-wyjscie/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0.6
+          },
+          "searches": {
+            "current": 50
+          },
+          "trends": {
+            "history": [
+              0,
+              0,
+              390,
+              210,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 24
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 11790910,
+        "kid": "a72894275b05d661ad7d2d1867edced3",
+        "domain": "ckakrybia.pl",
+        "keyword": "jak poprawić bik",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 44,
+            "previous": 19,
+            "diff": 25,
+            "changes": {
+              "wins": 0,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-17": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-27": {
+                "position": 19,
+                "has_serp": true
+              },
+              "2026-02-06": {
+                "position": 44,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/jak-poprawic-scoring-bik-w-30-dni-konkretne-dzialania-ktore-naprawde-dzialaja/",
+            "previous": "ckakrybia.pl/jak-poprawic-scoring-bik-w-30-dni-konkretne-dzialania-ktore-naprawde-dzialaja/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 2.39
+          },
+          "searches": {
+            "current": 90
+          },
+          "trends": {
+            "history": [
+              140,
+              110,
+              90,
+              70,
+              70,
+              50,
+              70,
+              90,
+              70,
+              90,
+              90,
+              70
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 44
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 5193480,
+        "kid": "709ff744b01ee8f89aedcfe4a2bec8b6",
+        "domain": "ckakrybia.pl",
+        "keyword": "kredyt dla dłużników",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 28,
+            "previous": 22,
+            "diff": 6,
+            "changes": {
+              "wins": 0,
+              "losses": 2,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-15": {
+                "position": 0,
+                "has_serp": false
+              },
+              "2025-12-30": {
+                "position": 22,
+                "has_serp": true
+              },
+              "2026-01-14": {
+                "position": 22,
+                "has_serp": true
+              },
+              "2026-02-01": {
+                "position": 28,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/zalatwie-kredyt-dla-zadluzonych-czy-warto-ufac-takim-ogloszeniom/",
+            "previous": "ckakrybia.pl/zalatwie-kredyt-dla-zadluzonych-czy-warto-ufac-takim-ogloszeniom/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 13.62
+          },
+          "searches": {
+            "current": 50
+          },
+          "trends": {
+            "history": [
+              90,
+              90,
+              50,
+              40,
+              40,
+              30,
+              50,
+              40,
+              30,
+              40,
+              20,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 48
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 1205128,
+        "kid": "19da0f848ded7cf01a167dce5de2c8d4",
+        "domain": "ckakrybia.pl",
+        "keyword": "pożyczka dla osób z komornikiem",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 21,
+            "previous": 17,
+            "diff": 4,
+            "changes": {
+              "wins": 4,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-21": {
+                "position": 46,
+                "has_serp": true
+              },
+              "2026-01-05": {
+                "position": 24,
+                "has_serp": true
+              },
+              "2026-01-12": {
+                "position": 23,
+                "has_serp": true
+              },
+              "2026-01-22": {
+                "position": 17,
+                "has_serp": true
+              },
+              "2026-02-01": {
+                "position": 23,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 21,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/pozyczki-dla-zadluzonych-z-komornikiem-i-zlym-bik-gdzie-szukac-pomocy/",
+            "previous": "ckakrybia.pl/pozyczki-dla-zadluzonych-z-komornikiem-i-zlym-bik-gdzie-szukac-pomocy/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 8.75
+          },
+          "searches": {
+            "current": 320
+          },
+          "trends": {
+            "history": [
+              590,
+              390,
+              390,
+              320,
+              320,
+              320,
+              390,
+              320,
+              390,
+              320,
+              260,
+              170
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 48
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 3547902,
+        "kid": "4c687a62afa26d1b8314bf02ffcb3c79",
+        "domain": "ckakrybia.pl",
+        "keyword": "kredyt samochodowy bez bik",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 13,
+            "previous": 12,
+            "diff": 1,
+            "changes": {
+              "wins": 3,
+              "losses": 3,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-20": {
+                "position": 17,
+                "has_serp": true
+              },
+              "2025-12-27": {
+                "position": 14,
+                "has_serp": true
+              },
+              "2026-01-04": {
+                "position": 15,
+                "has_serp": true
+              },
+              "2026-01-11": {
+                "position": 12,
+                "has_serp": true
+              },
+              "2026-01-21": {
+                "position": 14,
+                "has_serp": true
+              },
+              "2026-01-31": {
+                "position": 12,
+                "has_serp": true
+              },
+              "2026-02-10": {
+                "position": 13,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/kredyt-samochodowy-bez-bik-i-krd-gdzie-go-szukac-i-jakie-sa-koszty/",
+            "previous": "ckakrybia.pl/kredyt-samochodowy-bez-bik-i-krd-gdzie-go-szukac-i-jakie-sa-koszty-2/",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 12.87
+          },
+          "searches": {
+            "current": 590
+          },
+          "trends": {
+            "history": [
+              720,
+              590,
+              590,
+              590,
+              590,
+              590,
+              590,
+              590,
+              480,
+              720,
+              880,
+              720
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 41
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 7864209,
+        "kid": "ac4707d6e6d46eef6a89c2c27509b115",
+        "domain": "ckakrybia.pl",
+        "keyword": "kredyt dla zadłużonych z komornikiem",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 15,
+            "previous": 11,
+            "diff": 4,
+            "changes": {
+              "wins": 2,
+              "losses": 3,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-19": {
+                "position": 17,
+                "has_serp": true
+              },
+              "2025-12-26": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-03": {
+                "position": 16,
+                "has_serp": true
+              },
+              "2026-01-10": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-21": {
+                "position": 11,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 15,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/pozyczki-dla-zadluzonych-z-komornikiem-i-zlym-bik-gdzie-szukac-pomocy/",
+            "previous": "ckakrybia.pl/pozyczki-dla-zadluzonych-z-komornikiem-i-zlym-bik-gdzie-szukac-pomocy/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 9.01
+          },
+          "searches": {
+            "current": 260
+          },
+          "trends": {
+            "history": [
+              480,
+              320,
+              390,
+              390,
+              390,
+              210,
+              140,
+              210,
+              210,
+              210,
+              170,
+              210
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 46
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 15961860,
+        "kid": "a69e9d73fba246e44b9bcda19524626c",
+        "domain": "ckakrybia.pl",
+        "keyword": "udzielę prywatnej pożyczki na zakup samochodu bez bik i krd",
+        "words_count": 10,
+        "statistics": {
+          "position": {
+            "current": 14,
+            "previous": 12,
+            "diff": 2,
+            "changes": {
+              "wins": 1,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-16": {
+                "position": 13,
+                "has_serp": true
+              },
+              "2026-01-27": {
+                "position": 12,
+                "has_serp": true
+              },
+              "2026-02-05": {
+                "position": 14,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/kredyt-samochodowy-bez-bik-i-krd-gdzie-go-szukac-i-jakie-sa-koszty/",
+            "previous": "ckakrybia.pl/kredyt-samochodowy-bez-bik-i-krd-gdzie-go-szukac-i-jakie-sa-koszty-2/",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 4.13
+          },
+          "searches": {
+            "current": 90
+          },
+          "trends": {
+            "history": [
+              140,
+              140,
+              90,
+              90,
+              110,
+              90,
+              140,
+              140,
+              90,
+              90,
+              70,
+              40
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 18
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "buy",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 6997024,
+        "kid": "98c6687c7b3bbff7a01889a4bb96a16b",
+        "domain": "ckakrybia.pl",
+        "keyword": "pożyczki dla osób zadłużonych z komornikiem",
+        "words_count": 6,
+        "statistics": {
+          "position": {
+            "current": 14,
+            "previous": 11,
+            "diff": 3,
+            "changes": {
+              "wins": 2,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-20": {
+                "position": 18,
+                "has_serp": true
+              },
+              "2026-01-03": {
+                "position": 16,
+                "has_serp": true
+              },
+              "2026-01-20": {
+                "position": 11,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 14,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/pozyczki-dla-zadluzonych-z-komornikiem-i-zlym-bik-gdzie-szukac-pomocy/",
+            "previous": "ckakrybia.pl/pozyczki-dla-zadluzonych-z-komornikiem-i-zlym-bik-gdzie-szukac-pomocy/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 3.57
+          },
+          "searches": {
+            "current": 30
+          },
+          "trends": {
+            "history": [
+              30,
+              30,
+              40,
+              30,
+              30,
+              30,
+              50,
+              20,
+              20,
+              20,
+              10,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 39
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 11009242,
+        "kid": "f36a3c4608fe98149574e82e7a1dad17",
+        "domain": "ckakrybia.pl",
+        "keyword": "ogłoszenia pożyczki prywatne pod weksel",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 43,
+            "previous": 42,
+            "diff": 1,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-28": {
+                "position": 42,
+                "has_serp": true
+              },
+              "2026-02-10": {
+                "position": 43,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/pozyczka-z-komornikiem-poradnik-2025-jak-legalnie-uzyskac-i-na-co-uwazac/",
+            "previous": "ckakrybia.pl/pozyczka-z-komornikiem-poradnik-2025-jak-legalnie-uzyskac-i-na-co-uwazac/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              10,
+              10,
+              10,
+              30,
+              20,
+              20,
+              10,
+              10,
+              10,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 14
+          },
+          "snippets": {
+            "current": []
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 6641488,
+        "kid": "90ceba629cb80b17954c94be54429b50",
+        "domain": "ckakrybia.pl",
+        "keyword": "rata kredytu 350 tys",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 46,
+            "previous": 44,
+            "diff": 2,
+            "changes": {
+              "wins": 0,
+              "losses": 2,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-18": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-01": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-20": {
+                "position": 44,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 46,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/ile-trzeba-zarabiac-na-kredyt-hipoteczny-300-400-i-500-tys-zl-kompletny-przewodnik/",
+            "previous": "ckakrybia.pl/ile-trzeba-zarabiac-na-kredyt-hipoteczny-300-400-i-500-tys-zl-kompletny-przewodnik/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0.46
+          },
+          "searches": {
+            "current": 30
+          },
+          "trends": {
+            "history": [
+              40,
+              20,
+              30,
+              30,
+              30,
+              30,
+              20,
+              20,
+              20,
+              30,
+              20,
+              20
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 28
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 13752250,
+        "kid": "a4e20a35bb78cb675ba34062dc2ffbb5",
+        "domain": "ckakrybia.pl",
+        "keyword": "pożyczki z komornikiem na czek giro",
+        "words_count": 6,
+        "statistics": {
+          "position": {
+            "current": 43,
+            "previous": 36,
+            "diff": 7,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-18": {
+                "position": 36,
+                "has_serp": true
+              },
+              "2026-02-07": {
+                "position": 43,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/pozyczki-dla-zadluzonych-z-komornikiem-i-zlym-bik-gdzie-szukac-pomocy/",
+            "previous": "ckakrybia.pl/pozyczki-dla-zadluzonych-z-komornikiem-i-zlym-bik-gdzie-szukac-pomocy/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 3.86
+          },
+          "searches": {
+            "current": 880
+          },
+          "trends": {
+            "history": [
+              880,
+              1000,
+              880,
+              720,
+              720,
+              720,
+              1000,
+              880,
+              720,
+              880,
+              1000,
+              880
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 33
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "buy",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 6643240,
+        "kid": "90d89ecead1b39fa659ea3e8af4a5327",
+        "domain": "ckakrybia.pl",
+        "keyword": "kredyt hipoteczny 250 tys jakie zarobki",
+        "words_count": 6,
+        "statistics": {
+          "position": {
+            "current": 29,
+            "previous": 24,
+            "diff": 5,
+            "changes": {
+              "wins": 0,
+              "losses": 2,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-18": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-01": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-20": {
+                "position": 24,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 29,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/ile-trzeba-zarabiac-na-kredyt-hipoteczny-300-400-i-500-tys-zl-kompletny-przewodnik/",
+            "previous": "ckakrybia.pl/ile-trzeba-zarabiac-na-kredyt-hipoteczny-300-400-i-500-tys-zl-kompletny-przewodnik/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0.37
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              30,
+              40,
+              40,
+              30,
+              10,
+              20,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 23
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 15932170,
+        "kid": "6aa80420a860e0bd343aa6e248860a45",
+        "domain": "ckakrybia.pl",
+        "keyword": "pożyczki z komornikiem i bazami na czek giro",
+        "words_count": 8,
+        "statistics": {
+          "position": {
+            "current": 19,
+            "previous": 16,
+            "diff": 3,
+            "changes": {
+              "wins": 1,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-16": {
+                "position": 17,
+                "has_serp": true
+              },
+              "2026-01-27": {
+                "position": 16,
+                "has_serp": true
+              },
+              "2026-02-05": {
+                "position": 19,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/pozyczki-dla-zadluzonych-z-komornikiem-i-zlym-bik-gdzie-szukac-pomocy/",
+            "previous": "ckakrybia.pl/pozyczki-dla-zadluzonych-z-komornikiem-i-zlym-bik-gdzie-szukac-pomocy/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0.51
+          },
+          "searches": {
+            "current": 140
+          },
+          "trends": {
+            "history": [
+              260,
+              170,
+              110,
+              40,
+              140,
+              140,
+              110,
+              170,
+              110,
+              140,
+              90,
+              210
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 22
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 13621277,
+        "kid": "993ac4824efb13c5d6be014180a4f5e9",
+        "domain": "ckakrybia.pl",
+        "keyword": "telefony dla zadłużonych",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 16,
+            "previous": 15,
+            "diff": 1,
+            "changes": {
+              "wins": 0,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-18": {
+                "position": 14,
+                "has_serp": true
+              },
+              "2026-01-28": {
+                "position": 15,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 16,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/jak-wziac-telefon-na-raty-bez-bik-sprawdzone-sposoby/",
+            "previous": "ckakrybia.pl/jak-wziac-telefon-na-raty-bez-bik-sprawdzone-sposoby/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 6.41
+          },
+          "searches": {
+            "current": 140
+          },
+          "trends": {
+            "history": [
+              210,
+              140,
+              170,
+              110,
+              170,
+              110,
+              110,
+              110,
+              140,
+              140,
+              140,
+              170
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 49
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 15883623,
+        "kid": "7dcf1a6fee593e1fb0cc5dd40d6175be",
+        "domain": "ckakrybia.pl",
+        "keyword": "prywatne pożyczki pod weksel lub umowę cywilno prawną",
+        "words_count": 8,
+        "statistics": {
+          "position": {
+            "current": 22,
+            "previous": 13,
+            "diff": 9,
+            "changes": {
+              "wins": 0,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-16": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-27": {
+                "position": 13,
+                "has_serp": true
+              },
+              "2026-02-05": {
+                "position": 22,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/pozyczki-prywatne-pod-weksel-i-od-inwestorow-kiedy-to-jedyne-wyjscie/",
+            "previous": "ckakrybia.pl/pozyczki-prywatne-pod-weksel-i-od-inwestorow-kiedy-to-jedyne-wyjscie/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 2.49
+          },
+          "searches": {
+            "current": 140
+          },
+          "trends": {
+            "history": [
+              320,
+              260,
+              140,
+              70,
+              90,
+              110,
+              170,
+              90,
+              110,
+              140,
+              110,
+              110
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 0
+          },
+          "snippets": {
+            "current": []
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 17671892,
+        "kid": "af8bc2191457fec6f4b27da2395be1c0",
+        "domain": "ckakrybia.pl",
+        "keyword": "gdzie kredyt konsolidacyjny dla zadłużonych",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 30,
+            "previous": 22,
+            "diff": 8,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-16": {
+                "position": 22,
+                "has_serp": true
+              },
+              "2026-02-03": {
+                "position": 30,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/kredyt-konsolidacyjny-dla-zadluzonych-jak-wyjsc-z-petli-chwilowek-kompletny-przewodnik/",
+            "previous": "ckakrybia.pl/kredyt-konsolidacyjny-dla-zadluzonych-jak-wyjsc-z-petli-chwilowek-kompletny-przewodnik/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 5.87
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              40,
+              20,
+              20,
+              30,
+              50,
+              10,
+              20,
+              20,
+              30,
+              20,
+              20,
+              20
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 43
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 7622857,
+        "kid": "a6d916428f8fd118a512726c8f726e2d",
+        "domain": "ckakrybia.pl",
+        "keyword": "pożyczka pod zastaw samochodu z możliwością użytkowania",
+        "words_count": 7,
+        "statistics": {
+          "position": {
+            "current": 45,
+            "previous": 32,
+            "diff": 13,
+            "changes": {
+              "wins": 2,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-20": {
+                "position": 35,
+                "has_serp": true
+              },
+              "2026-01-04": {
+                "position": 33,
+                "has_serp": true
+              },
+              "2026-01-21": {
+                "position": 32,
+                "has_serp": true
+              },
+              "2026-02-10": {
+                "position": 45,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/pozyczka-pod-zastaw-samochodu-warunki-wycena-procedura-krok-po-kroku/",
+            "previous": "ckakrybia.pl/pozyczka-pod-zastaw-samochodu-warunki-wycena-procedura-krok-po-kroku/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 2.75
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              30,
+              20,
+              40,
+              30,
+              10,
+              30
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 23
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 2392009,
+        "kid": "3367386ccef966421cf3cab4d86217c4",
+        "domain": "ckakrybia.pl",
+        "keyword": "pożyczka pod zastaw samochodu",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 32,
+            "previous": 27,
+            "diff": 5,
+            "changes": {
+              "wins": 1,
+              "losses": 2,
+              "no_changes": 2
+            },
+            "history": {
+              "2025-12-14": {
+                "position": 29,
+                "has_serp": false
+              },
+              "2025-12-22": {
+                "position": 26,
+                "has_serp": true
+              },
+              "2026-01-06": {
+                "position": 26,
+                "has_serp": true
+              },
+              "2026-01-13": {
+                "position": 27,
+                "has_serp": true
+              },
+              "2026-01-23": {
+                "position": 27,
+                "has_serp": true
+              },
+              "2026-02-02": {
+                "position": 32,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/pozyczka-pod-zastaw-samochodu-warunki-wycena-procedura-krok-po-kroku/",
+            "previous": "ckakrybia.pl/pozyczka-pod-zastaw-samochodu-warunki-wycena-procedura-krok-po-kroku/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 8.61
+          },
+          "searches": {
+            "current": 720
+          },
+          "trends": {
+            "history": [
+              880,
+              880,
+              880,
+              720,
+              720,
+              590,
+              720,
+              590,
+              590,
+              590,
+              480,
+              590
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 48
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 5179589,
+        "kid": "704fa69a7556cb3c6f39a8218ed261b9",
+        "domain": "ckakrybia.pl",
+        "keyword": "jak uzyskać kredyt hipoteczny bez wkładu własnego",
+        "words_count": 7,
+        "statistics": {
+          "position": {
+            "current": 27,
+            "previous": 20,
+            "diff": 7,
+            "changes": {
+              "wins": 1,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-15": {
+                "position": 0,
+                "has_serp": false
+              },
+              "2025-12-30": {
+                "position": 23,
+                "has_serp": true
+              },
+              "2026-01-14": {
+                "position": 20,
+                "has_serp": true
+              },
+              "2026-02-01": {
+                "position": 27,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/kredyt-hipoteczny-bez-wkladu-wlasnego/",
+            "previous": "ckakrybia.pl/kredyt-hipoteczny-bez-wkladu-wlasnego/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 1.36
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              40,
+              10,
+              20,
+              20,
+              20,
+              20,
+              10,
+              20,
+              10,
+              10,
+              10,
+              30
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 39
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 7850448,
+        "kid": "abf85d2a3ca0c3299eb5f62fdde9fda8",
+        "domain": "ckakrybia.pl",
+        "keyword": "kredyt hipoteczny 350 tys jaka rata",
+        "words_count": 6,
+        "statistics": {
+          "position": {
+            "current": 46,
+            "previous": 45,
+            "diff": 1,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-16": {
+                "position": 45,
+                "has_serp": true
+              },
+              "2026-02-04": {
+                "position": 46,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/ile-trzeba-zarabiac-na-kredyt-hipoteczny-300-400-i-500-tys-zl-kompletny-przewodnik/",
+            "previous": "ckakrybia.pl/ile-trzeba-zarabiac-na-kredyt-hipoteczny-300-400-i-500-tys-zl-kompletny-przewodnik/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0.76
+          },
+          "searches": {
+            "current": 50
+          },
+          "trends": {
+            "history": [
+              70,
+              50,
+              90,
+              70,
+              90,
+              70,
+              90,
+              10,
+              10,
+              10,
+              10,
+              20
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 31
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 2917169,
+        "kid": "3ebfd7183d5c1033ea174bc0a5241eb9",
+        "domain": "ckakrybia.pl",
+        "keyword": "pomoc dla zadłużonych z komornikiem",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 48,
+            "previous": 47,
+            "diff": 1,
+            "changes": {
+              "wins": 1,
+              "losses": 3,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-22": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-29": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-07": {
+                "position": 44,
+                "has_serp": true
+              },
+              "2026-01-14": {
+                "position": 39,
+                "has_serp": true
+              },
+              "2026-01-24": {
+                "position": 47,
+                "has_serp": true
+              },
+              "2026-02-03": {
+                "position": 48,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/pozyczki-dla-zadluzonych-z-komornikiem-i-zlym-bik-gdzie-szukac-pomocy/",
+            "previous": "ckakrybia.pl/pozyczki-dla-zadluzonych-z-komornikiem-i-zlym-bik-gdzie-szukac-pomocy/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 4.79
+          },
+          "searches": {
+            "current": 140
+          },
+          "trends": {
+            "history": [
+              170,
+              140,
+              140,
+              140,
+              140,
+              110,
+              140,
+              110,
+              210,
+              170,
+              210,
+              90
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 37
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 3118370,
+        "kid": "431a9260046e3d4f253dd4ba58b08b7d",
+        "domain": "ckakrybia.pl",
+        "keyword": "kredyt samochodowy pod zastaw kupowanego samochodu",
+        "words_count": 6,
+        "statistics": {
+          "position": {
+            "current": 22,
+            "previous": 20,
+            "diff": 2,
+            "changes": {
+              "wins": 2,
+              "losses": 3,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-22": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-26": {
+                "position": 21,
+                "has_serp": true
+              },
+              "2026-01-02": {
+                "position": 20,
+                "has_serp": true
+              },
+              "2026-01-09": {
+                "position": 19,
+                "has_serp": true
+              },
+              "2026-01-19": {
+                "position": 19,
+                "has_serp": true
+              },
+              "2026-01-29": {
+                "position": 20,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 22,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/pozyczka-pod-zastaw-samochodu-warunki-wycena-procedura-krok-po-kroku/",
+            "previous": "ckakrybia.pl/pozyczka-pod-zastaw-samochodu-warunki-wycena-procedura-krok-po-kroku/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 2.44
+          },
+          "searches": {
+            "current": 90
+          },
+          "trends": {
+            "history": [
+              110,
+              110,
+              90,
+              90,
+              140,
+              110,
+              70,
+              90,
+              50,
+              40,
+              70,
+              90
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 24
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 9569959,
+        "kid": "d2bc0e46ecd16c37fc6687651d18f910",
+        "domain": "ckakrybia.pl",
+        "keyword": "przedawnienie długu u komornika",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 39,
+            "previous": 29,
+            "diff": 10,
+            "changes": {
+              "wins": 2,
+              "losses": 4,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-19": {
+                "position": 24,
+                "has_serp": true
+              },
+              "2025-12-27": {
+                "position": 26,
+                "has_serp": true
+              },
+              "2026-01-05": {
+                "position": 10,
+                "has_serp": true
+              },
+              "2026-01-12": {
+                "position": 22,
+                "has_serp": true
+              },
+              "2026-01-22": {
+                "position": 29,
+                "has_serp": true
+              },
+              "2026-02-01": {
+                "position": 25,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 39,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/przedawnienie-dlugu-kiedy-komornik-nie-moze-juz-nic-zrobic/",
+            "previous": "ckakrybia.pl/przedawnienie-dlugu-kiedy-komornik-nie-moze-juz-nic-zrobic/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 1.42
+          },
+          "searches": {
+            "current": 260
+          },
+          "trends": {
+            "history": [
+              320,
+              320,
+              320,
+              320,
+              320,
+              320,
+              260,
+              260,
+              210,
+              260,
+              260,
+              260
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 42
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 13331388,
+        "kid": "7f5fac6f5e5ea2adf9e4af7c03523779",
+        "domain": "ckakrybia.pl",
+        "keyword": "pozyczki na oswiadczenie bez bik",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 33,
+            "previous": 17,
+            "diff": 16,
+            "changes": {
+              "wins": 1,
+              "losses": 1,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-21": {
+                "position": 18,
+                "has_serp": true
+              },
+              "2026-01-04": {
+                "position": 18,
+                "has_serp": true
+              },
+              "2026-01-21": {
+                "position": 17,
+                "has_serp": true
+              },
+              "2026-02-10": {
+                "position": 33,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/pozyczka-bez-bik-online-jak-wyglada-weryfikacja-i-jak-szybko-dostane-pieniadze/",
+            "previous": "ckakrybia.pl/pozyczka-bez-bik-online-jak-wyglada-weryfikacja-i-jak-szybko-dostane-pieniadze/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 6.13
+          },
+          "searches": {
+            "current": 40
+          },
+          "trends": {
+            "history": [
+              20,
+              30,
+              50,
+              50,
+              90,
+              70,
+              90,
+              20,
+              10,
+              10,
+              10,
+              20
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 45
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "buy",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 10058779,
+        "kid": "ddcee4f11e8d768535d845c335233eca",
+        "domain": "ckakrybia.pl",
+        "keyword": "kredyt bez zaświadczeń z zus i us",
+        "words_count": 7,
+        "statistics": {
+          "position": {
+            "current": 34,
+            "previous": 13,
+            "diff": 21,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-18": {
+                "position": 13,
+                "has_serp": true
+              },
+              "2026-02-06": {
+                "position": 34,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/kredyt-dla-firm-bez-zus-i-us/",
+            "previous": "ckakrybia.pl/kredyt-dla-firm-bez-zus-i-us/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 11.32
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              10,
+              20,
+              30,
+              30,
+              30,
+              20,
+              10,
+              10,
+              10,
+              20,
+              30,
+              20
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 40
+          },
+          "snippets": {
+            "current": []
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 10127590,
+        "kid": "df5e6b7c80ad008fd9e3fe087c78ee7f",
+        "domain": "ckakrybia.pl",
+        "keyword": "pożyczka gotówkowa bez bik i krd",
+        "words_count": 6,
+        "statistics": {
+          "position": {
+            "current": 25,
+            "previous": 21,
+            "diff": 4,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-18": {
+                "position": 21,
+                "has_serp": true
+              },
+              "2026-02-07": {
+                "position": 25,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/kredyt-dla-firm/",
+            "previous": "ckakrybia.pl/kredyt-dla-firm/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 9.59
+          },
+          "searches": {
+            "current": 30
+          },
+          "trends": {
+            "history": [
+              20,
+              20,
+              20,
+              10,
+              40,
+              20,
+              10,
+              40,
+              50,
+              10,
+              30,
+              30
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 43
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 14756522,
+        "kid": "ff88496163aef645c054425e5ab81ebe",
+        "domain": "ckakrybia.pl",
+        "keyword": "auto bez bik i krd",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 25,
+            "previous": 22,
+            "diff": 3,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-18": {
+                "position": 22,
+                "has_serp": true
+              },
+              "2026-02-07": {
+                "position": 25,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/kredyt-samochodowy-bez-bik-i-krd-gdzie-go-szukac-i-jakie-sa-koszty/",
+            "previous": "ckakrybia.pl/kredyt-samochodowy-bez-bik-i-krd-gdzie-go-szukac-i-jakie-sa-koszty/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 4.71
+          },
+          "searches": {
+            "current": 480
+          },
+          "trends": {
+            "history": [
+              590,
+              480,
+              480,
+              480,
+              480,
+              480,
+              590,
+              480,
+              390,
+              480,
+              590,
+              480
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 43
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 4721572,
+        "kid": "6621f6bf8efcfd579df9159531c43cf0",
+        "domain": "ckakrybia.pl",
+        "keyword": "pożyczka dla zadłużonych firm",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 27,
+            "previous": 23,
+            "diff": 4,
+            "changes": {
+              "wins": 3,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-22": {
+                "position": 39,
+                "has_serp": true
+              },
+              "2025-12-29": {
+                "position": 37,
+                "has_serp": true
+              },
+              "2026-01-07": {
+                "position": 27,
+                "has_serp": true
+              },
+              "2026-01-14": {
+                "position": 22,
+                "has_serp": true
+              },
+              "2026-01-25": {
+                "position": 23,
+                "has_serp": true
+              },
+              "2026-02-04": {
+                "position": 27,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/kredyt-dla-firm/",
+            "previous": "ckakrybia.pl/kredyt-dla-firm/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 7.85
+          },
+          "searches": {
+            "current": 90
+          },
+          "trends": {
+            "history": [
+              90,
+              110,
+              110,
+              70,
+              70,
+              70,
+              90,
+              50,
+              40,
+              90,
+              70,
+              90
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 51
+          },
+          "snippets": {
+            "current": []
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 7098624,
+        "kid": "9b0d615cae68d76a566fc7ce1133a59d",
+        "domain": "ckakrybia.pl",
+        "keyword": "chwilówki dla osób z komornikiem",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 19,
+            "previous": 13,
+            "diff": 6,
+            "changes": {
+              "wins": 2,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-20": {
+                "position": 22,
+                "has_serp": true
+              },
+              "2026-01-03": {
+                "position": 20,
+                "has_serp": true
+              },
+              "2026-01-20": {
+                "position": 13,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 19,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/pozyczki-dla-zadluzonych-z-komornikiem-i-zlym-bik-gdzie-szukac-pomocy/",
+            "previous": "ckakrybia.pl/pozyczki-dla-zadluzonych-z-komornikiem-i-zlym-bik-gdzie-szukac-pomocy/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 8.77
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              10,
+              30,
+              40,
+              40,
+              30,
+              30,
+              20,
+              20,
+              40,
+              20,
+              10,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 41
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "buy",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 5078520,
+        "kid": "6e10e5be421cd21112b6359c7a552aee",
+        "domain": "ckakrybia.pl",
+        "keyword": "kto moze wziac telefon na raty",
+        "words_count": 6,
+        "statistics": {
+          "position": {
+            "current": 23,
+            "previous": 21,
+            "diff": 2,
+            "changes": {
+              "wins": 0,
+              "losses": 3,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-15": {
+                "position": 12,
+                "has_serp": false
+              },
+              "2025-12-30": {
+                "position": 19,
+                "has_serp": true
+              },
+              "2026-01-14": {
+                "position": 21,
+                "has_serp": true
+              },
+              "2026-02-01": {
+                "position": 23,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/jak-wziac-telefon-na-raty-bez-bik-sprawdzone-sposoby/",
+            "previous": "ckakrybia.pl/jak-wziac-telefon-na-raty-bez-bik-sprawdzone-sposoby/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 7.07
+          },
+          "searches": {
+            "current": 70
+          },
+          "trends": {
+            "history": [
+              50,
+              50,
+              50,
+              50,
+              70,
+              50,
+              70,
+              50,
+              90,
+              70,
+              50,
+              70
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 48
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 11091165,
+        "kid": "f5479177f5f767e0b58f6f32adc056f8",
+        "domain": "ckakrybia.pl",
+        "keyword": "kredyt gotówkowy bez biku",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 28,
+            "previous": 27,
+            "diff": 1,
+            "changes": {
+              "wins": 0,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-17": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-27": {
+                "position": 27,
+                "has_serp": true
+              },
+              "2026-02-06": {
+                "position": 28,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/kredyt-dla-firm/",
+            "previous": "ckakrybia.pl/kredyt-dla-firm/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 10.95
+          },
+          "searches": {
+            "current": 480
+          },
+          "trends": {
+            "history": [
+              480,
+              390,
+              480,
+              480,
+              720,
+              480,
+              480,
+              390,
+              320,
+              320,
+              390,
+              390
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 59
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 10399685,
+        "kid": "e5892d04f94127647950050609daaf12",
+        "domain": "ckakrybia.pl",
+        "keyword": "kredyt na wyjście z długów",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 30,
+            "previous": 20,
+            "diff": 10,
+            "changes": {
+              "wins": 0,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-16": {
+                "position": 19,
+                "has_serp": true
+              },
+              "2026-01-27": {
+                "position": 20,
+                "has_serp": true
+              },
+              "2026-02-05": {
+                "position": 30,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/kredyt-konsolidacyjny-dla-zadluzonych-jak-wyjsc-z-petli-chwilowek-kompletny-przewodnik/",
+            "previous": "ckakrybia.pl/kredyt-konsolidacyjny-dla-zadluzonych-jak-wyjsc-z-petli-chwilowek-kompletny-przewodnik/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 1.3
+          },
+          "searches": {
+            "current": 90
+          },
+          "trends": {
+            "history": [
+              70,
+              50,
+              110,
+              110,
+              110,
+              90,
+              110,
+              90,
+              50,
+              70,
+              70,
+              40
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 34
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 11683800,
+        "kid": "5a01b4f2805a10d3bfa7d01c4641b2a9",
+        "domain": "ckakrybia.pl",
+        "keyword": "czy dostane telefon na abonament jak jestem w bik",
+        "words_count": 9,
+        "statistics": {
+          "position": {
+            "current": 34,
+            "previous": 30,
+            "diff": 4,
+            "changes": {
+              "wins": 0,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-20": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-20": {
+                "position": 30,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 34,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/jak-wziac-telefon-na-raty-bez-bik-sprawdzone-sposoby/",
+            "previous": "ckakrybia.pl/jak-wziac-telefon-na-raty-bez-bik-sprawdzone-sposoby/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 12.82
+          },
+          "searches": {
+            "current": 30
+          },
+          "trends": {
+            "history": [
+              40,
+              40,
+              30,
+              40,
+              20,
+              30,
+              30,
+              20,
+              30,
+              30,
+              50,
+              30
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 22
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 13022549,
+        "kid": "640677b24a0822d4c2f4cb93c1e3db4c",
+        "domain": "ckakrybia.pl",
+        "keyword": "pozyczki od inwestora",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 27,
+            "previous": 19,
+            "diff": 8,
+            "changes": {
+              "wins": 1,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-18": {
+                "position": 28,
+                "has_serp": true
+              },
+              "2026-01-28": {
+                "position": 19,
+                "has_serp": true
+              },
+              "2026-02-07": {
+                "position": 27,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/inwestor-prywatny-czy-firma-pozyczkowa-gdzie-pozyczyc-w-trudnej-sytuacji/",
+            "previous": "ckakrybia.pl/inwestor-prywatny-czy-firma-pozyczkowa-gdzie-pozyczyc-w-trudnej-sytuacji/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 4.36
+          },
+          "searches": {
+            "current": 210
+          },
+          "trends": {
+            "history": [
+              140,
+              320,
+              720,
+              170,
+              210,
+              110,
+              140,
+              170,
+              210,
+              140,
+              110,
+              140
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 47
+          },
+          "snippets": {
+            "current": []
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 184912,
+        "kid": "03f6458ac1dffda6e316bb3a839f28d8",
+        "domain": "ckakrybia.pl",
+        "keyword": "kredyt dla spółki bez bik prezesa",
+        "words_count": 6,
+        "statistics": {
+          "position": {
+            "current": 21,
+            "previous": 18,
+            "diff": 3,
+            "changes": {
+              "wins": 1,
+              "losses": 3,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-25": {
+                "position": 11,
+                "has_serp": true
+              },
+              "2026-01-01": {
+                "position": 18,
+                "has_serp": true
+              },
+              "2026-01-08": {
+                "position": 17,
+                "has_serp": true
+              },
+              "2026-01-29": {
+                "position": 18,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 21,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/kredyt-dla-firm/",
+            "previous": "ckakrybia.pl/kredyt-dla-firm/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 11.41
+          },
+          "searches": {
+            "current": 260
+          },
+          "trends": {
+            "history": [
+              210,
+              320,
+              390,
+              320,
+              260,
+              260,
+              260,
+              170,
+              170,
+              210,
+              170,
+              140
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 35
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 9181291,
+        "kid": "c9ef0fb8467e26722cbd13ddd29c793f",
+        "domain": "ckakrybia.pl",
+        "keyword": "czy dług u komornika się przedawnia",
+        "words_count": 6,
+        "statistics": {
+          "position": {
+            "current": 40,
+            "previous": 37,
+            "diff": 3,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-17": {
+                "position": 37,
+                "has_serp": true
+              },
+              "2026-02-04": {
+                "position": 40,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/przedawnienie-dlugu-kiedy-komornik-nie-moze-juz-nic-zrobic/",
+            "previous": "ckakrybia.pl/przedawnienie-dlugu-kiedy-komornik-nie-moze-juz-nic-zrobic/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 1.04
+          },
+          "searches": {
+            "current": 70
+          },
+          "trends": {
+            "history": [
+              90,
+              70,
+              90,
+              90,
+              50,
+              50,
+              50,
+              50,
+              50,
+              50,
+              50,
+              50
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 33
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 8199826,
+        "kid": "b3d60f8ad47928ca616cabe0601e7594",
+        "domain": "ckakrybia.pl",
+        "keyword": "kredyt hipoteczny 500 tys jakie zarobki",
+        "words_count": 6,
+        "statistics": {
+          "position": {
+            "current": 50,
+            "previous": 46,
+            "diff": 4,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-16": {
+                "position": 46,
+                "has_serp": true
+              },
+              "2026-02-03": {
+                "position": 50,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/ile-trzeba-zarabiac-na-kredyt-hipoteczny-300-400-i-500-tys-zl-kompletny-przewodnik/",
+            "previous": "ckakrybia.pl/ile-trzeba-zarabiac-na-kredyt-hipoteczny-300-400-i-500-tys-zl-kompletny-przewodnik/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0.33
+          },
+          "searches": {
+            "current": 40
+          },
+          "trends": {
+            "history": [
+              90,
+              50,
+              50,
+              20,
+              20,
+              20,
+              20,
+              30,
+              40,
+              40,
+              50,
+              50
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 21
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 17165319,
+        "kid": "60331bb9315563ebfef621f22c42a80f",
+        "domain": "ckakrybia.pl",
+        "keyword": "telefon na raty a umowa zlecenie",
+        "words_count": 6,
+        "statistics": {
+          "position": {
+            "current": 24,
+            "previous": 22,
+            "diff": 2,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-15": {
+                "position": 22,
+                "has_serp": true
+              },
+              "2026-02-02": {
+                "position": 24,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/jak-wziac-telefon-na-raty-bez-bik-sprawdzone-sposoby/",
+            "previous": "ckakrybia.pl/jak-wziac-telefon-na-raty-bez-bik-sprawdzone-sposoby/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 9.88
+          },
+          "searches": {
+            "current": 30
+          },
+          "trends": {
+            "history": [
+              20,
+              20,
+              30,
+              30,
+              40,
+              20,
+              30,
+              20,
+              10,
+              20,
+              30,
+              30
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 24
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 2350101,
+        "kid": "32814003bb86847548505d271c133a90",
+        "domain": "ckakrybia.pl",
+        "keyword": "telefony na abonament dla zadluzonych",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 16,
+            "previous": 14,
+            "diff": 2,
+            "changes": {
+              "wins": 1,
+              "losses": 2,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-22": {
+                "position": 13,
+                "has_serp": true
+              },
+              "2025-12-29": {
+                "position": 13,
+                "has_serp": true
+              },
+              "2026-01-13": {
+                "position": 17,
+                "has_serp": true
+              },
+              "2026-01-24": {
+                "position": 14,
+                "has_serp": true
+              },
+              "2026-02-02": {
+                "position": 16,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/jak-wziac-telefon-na-raty-bez-bik-sprawdzone-sposoby/",
+            "previous": "ckakrybia.pl/jak-wziac-telefon-na-raty-bez-bik-sprawdzone-sposoby/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 24.72
+          },
+          "searches": {
+            "current": 140
+          },
+          "trends": {
+            "history": [
+              110,
+              170,
+              110,
+              140,
+              110,
+              140,
+              140,
+              140,
+              110,
+              140,
+              170,
+              90
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 52
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 6773418,
+        "kid": "93c15d6ff84a8e2143e0953cda27d684",
+        "domain": "ckakrybia.pl",
+        "keyword": "kredyt hipoteczny 400 tys jaka rata",
+        "words_count": 6,
+        "statistics": {
+          "position": {
+            "current": 50,
+            "previous": 49,
+            "diff": 1,
+            "changes": {
+              "wins": 0,
+              "losses": 2,
+              "no_changes": 2
+            },
+            "history": {
+              "2025-12-21": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-28": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-13": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-24": {
+                "position": 49,
+                "has_serp": true
+              },
+              "2026-02-02": {
+                "position": 50,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/ile-trzeba-zarabiac-na-kredyt-hipoteczny-300-400-i-500-tys-zl-kompletny-przewodnik/",
+            "previous": "ckakrybia.pl/ile-trzeba-zarabiac-na-kredyt-hipoteczny-300-400-i-500-tys-zl-kompletny-przewodnik/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0.96
+          },
+          "searches": {
+            "current": 210
+          },
+          "trends": {
+            "history": [
+              260,
+              260,
+              210,
+              170,
+              210,
+              170,
+              210,
+              210,
+              170,
+              210,
+              210,
+              170
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 32
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 2618597,
+        "kid": "38479d0c3c216831634bf0a477ff0ffd",
+        "domain": "ckakrybia.pl",
+        "keyword": "pożyczki pozabankowe bez bik i krd",
+        "words_count": 6,
+        "statistics": {
+          "position": {
+            "current": 18,
+            "previous": 17,
+            "diff": 1,
+            "changes": {
+              "wins": 1,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-22": {
+                "position": 20,
+                "has_serp": true
+              },
+              "2026-01-05": {
+                "position": 21,
+                "has_serp": true
+              },
+              "2026-01-21": {
+                "position": 17,
+                "has_serp": true
+              },
+              "2026-02-10": {
+                "position": 18,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/kredyt-dla-firm/",
+            "previous": "ckakrybia.pl/kredyt-dla-firm/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 6.06
+          },
+          "searches": {
+            "current": 50
+          },
+          "trends": {
+            "history": [
+              50,
+              260,
+              140,
+              90,
+              10,
+              10,
+              10,
+              30,
+              10,
+              10,
+              10,
+              30
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 47
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 722142,
+        "kid": "0f7855add12fc0b1a6805fc139149b2e",
+        "domain": "ckakrybia.pl",
+        "keyword": "bardzo trudna konsolidacja",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 26,
+            "previous": 16,
+            "diff": 10,
+            "changes": {
+              "wins": 1,
+              "losses": 4,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-20": {
+                "position": 18,
+                "has_serp": true
+              },
+              "2025-12-27": {
+                "position": 29,
+                "has_serp": true
+              },
+              "2026-01-04": {
+                "position": 29,
+                "has_serp": true
+              },
+              "2026-01-11": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-21": {
+                "position": 14,
+                "has_serp": true
+              },
+              "2026-01-31": {
+                "position": 16,
+                "has_serp": true
+              },
+              "2026-02-10": {
+                "position": 26,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/kredyt-konsolidacyjny-co-to-jest-i-na-czym-polega/",
+            "previous": "ckakrybia.pl/kredyt-konsolidacyjny-co-to-jest-i-na-czym-polega/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 14.12
+          },
+          "searches": {
+            "current": 50
+          },
+          "trends": {
+            "history": [
+              110,
+              70,
+              70,
+              40,
+              70,
+              70,
+              40,
+              40,
+              50,
+              40,
+              30,
+              40
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 47
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 1118780,
+        "kid": "18017a31c0880527c032c937c34dde70",
+        "domain": "ckakrybia.pl",
+        "keyword": "kredyt konsolidacyjny dla zadłużonych w bik",
+        "words_count": 6,
+        "statistics": {
+          "position": {
+            "current": 17,
+            "previous": 15,
+            "diff": 2,
+            "changes": {
+              "wins": 1,
+              "losses": 2,
+              "no_changes": 2
+            },
+            "history": {
+              "2025-12-20": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-26": {
+                "position": 19,
+                "has_serp": true
+              },
+              "2026-01-02": {
+                "position": 19,
+                "has_serp": true
+              },
+              "2026-01-09": {
+                "position": 19,
+                "has_serp": true
+              },
+              "2026-01-29": {
+                "position": 15,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 17,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/kredyt-konsolidacyjny-dla-zadluzonych-jak-wyjsc-z-petli-chwilowek-kompletny-przewodnik/",
+            "previous": "ckakrybia.pl/kredyt-konsolidacyjny-dla-zadluzonych-jak-wyjsc-z-petli-chwilowek-kompletny-przewodnik/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 4.97
+          },
+          "searches": {
+            "current": 170
+          },
+          "trends": {
+            "history": [
+              210,
+              170,
+              210,
+              170,
+              210,
+              210,
+              260,
+              140,
+              110,
+              170,
+              170,
+              140
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 35
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 7706489,
+        "kid": "a8ba68dbd60771c2d12d3500c1c38894",
+        "domain": "ckakrybia.pl",
+        "keyword": "banki bez bik",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 22,
+            "previous": 12,
+            "diff": 10,
+            "changes": {
+              "wins": 1,
+              "losses": 5,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-19": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-26": {
+                "position": 22,
+                "has_serp": true
+              },
+              "2026-01-04": {
+                "position": 23,
+                "has_serp": true
+              },
+              "2026-01-11": {
+                "position": 26,
+                "has_serp": true
+              },
+              "2026-01-21": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-31": {
+                "position": 12,
+                "has_serp": true
+              },
+              "2026-02-10": {
+                "position": 22,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/kredyt-dla-firm/",
+            "previous": "ckakrybia.pl/kredyt-bez-bik/",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 6.79
+          },
+          "searches": {
+            "current": 90
+          },
+          "trends": {
+            "history": [
+              50,
+              70,
+              70,
+              90,
+              90,
+              110,
+              90,
+              110,
+              90,
+              90,
+              70,
+              70
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 60
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 17503335,
+        "kid": "94f4c0c7a65bf29516ba457d867dfbd8",
+        "domain": "ckakrybia.pl",
+        "keyword": "jak uzyskać pożyczkę z komornikiem",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 9,
+            "previous": 8,
+            "diff": 1,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-16": {
+                "position": 8,
+                "has_serp": true
+              },
+              "2026-02-02": {
+                "position": 9,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0.18,
+            "previous": 0.22,
+            "diff": -0.04,
+            "percent": -0.1818,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/pozyczka-z-komornikiem-poradnik-2025-jak-legalnie-uzyskac-i-na-co-uwazac/",
+            "previous": "ckakrybia.pl/pozyczka-z-komornikiem-poradnik-2025-jak-legalnie-uzyskac-i-na-co-uwazac/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              0,
+              0,
+              10,
+              10,
+              10,
+              0,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 41
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 12717180,
+        "kid": "48c327013a3a0ad902fcabe6d24b265d",
+        "domain": "ckakrybia.pl",
+        "keyword": "kredyty dla firm bez zus i us",
+        "words_count": 7,
+        "statistics": {
+          "position": {
+            "current": 10,
+            "previous": 9,
+            "diff": 1,
+            "changes": {
+              "wins": 1,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-20": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-03": {
+                "position": 15,
+                "has_serp": true
+              },
+              "2026-01-21": {
+                "position": 9,
+                "has_serp": true
+              },
+              "2026-02-10": {
+                "position": 10,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0.77,
+            "previous": 0.9,
+            "diff": -0.13,
+            "percent": -0.1444,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/kredyt-dla-firm-bez-zus-i-us/",
+            "previous": "ckakrybia.pl/kredyt-dla-firm-bez-zus-i-us/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 5.75
+          },
+          "searches": {
+            "current": 50
+          },
+          "trends": {
+            "history": [
+              50,
+              40,
+              40,
+              50,
+              20,
+              30,
+              30,
+              70,
+              50,
+              50,
+              40,
+              50
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 32
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 7048634,
+        "kid": "99efc5829957609d2157ed9623ee9cba",
+        "domain": "ckakrybia.pl",
+        "keyword": "kredyt samochodowy z komornikiem",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 6,
+            "previous": 5,
+            "diff": 1,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-24": {
+                "position": 5,
+                "has_serp": true
+              },
+              "2026-02-04": {
+                "position": 6,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0.37,
+            "previous": 0.5,
+            "diff": -0.13,
+            "percent": -0.26,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/kredyt-samochodowy-bez-bik-i-krd-gdzie-go-szukac-i-jakie-sa-koszty/",
+            "previous": "ckakrybia.pl/kredyt-samochodowy-bez-bik-i-krd-gdzie-go-szukac-i-jakie-sa-koszty/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 4.64
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              10,
+              10,
+              10,
+              0,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 36
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 9308565,
+        "kid": "cccd5240bef338877f168652dabfe227",
+        "domain": "ckakrybia.pl",
+        "keyword": "linia kredytowa bez bik",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 6,
+            "previous": 5,
+            "diff": 1,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-25": {
+                "position": 5,
+                "has_serp": true
+              },
+              "2026-02-06": {
+                "position": 6,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0.37,
+            "previous": 0.5,
+            "diff": -0.13,
+            "percent": -0.26,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/kredyt-dla-firm/",
+            "previous": "ckakrybia.pl/kredyt-dla-firm/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 6.95
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              10,
+              20,
+              10,
+              20,
+              10,
+              10,
+              10,
+              10,
+              10,
+              20
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 41
+          },
+          "snippets": {
+            "current": []
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 17268645,
+        "kid": "704d8c9a6440a98e923550199d0ea3fe",
+        "domain": "ckakrybia.pl",
+        "keyword": "czy windykator terenowy może wejść do domu",
+        "words_count": 7,
+        "statistics": {
+          "position": {
+            "current": 10,
+            "previous": 8,
+            "diff": 2,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-15": {
+                "position": 8,
+                "has_serp": true
+              },
+              "2026-02-02": {
+                "position": 10,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0.46,
+            "previous": 0.67,
+            "diff": -0.21,
+            "percent": -0.3134,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/windykacja-terenowa-jakie-prawa-ma-windykator-a-czego-mu-nie-wolno/",
+            "previous": "ckakrybia.pl/windykacja-terenowa-jakie-prawa-ma-windykator-a-czego-mu-nie-wolno/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 1.28
+          },
+          "searches": {
+            "current": 30
+          },
+          "trends": {
+            "history": [
+              30,
+              20,
+              30,
+              30,
+              30,
+              30,
+              20,
+              20,
+              20,
+              20,
+              10,
+              40
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 17
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 4799996,
+        "kid": "67e383e0d7afaa9d8edbbf529dde8e09",
+        "domain": "ckakrybia.pl",
+        "keyword": "jak czytać raport bik",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 9,
+            "previous": 8,
+            "diff": 1,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-29": {
+                "position": 8,
+                "has_serp": true
+              },
+              "2026-01-14": {
+                "position": 8,
+                "has_serp": true
+              },
+              "2026-02-01": {
+                "position": 9,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 1.62,
+            "previous": 2.01,
+            "diff": -0.39,
+            "percent": -0.194,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/jak-czytac-raport-bik-praktyczny-poradnik-krok-po-kroku/",
+            "previous": "ckakrybia.pl/jak-czytac-raport-bik-praktyczny-poradnik-krok-po-kroku/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0.81
+          },
+          "searches": {
+            "current": 90
+          },
+          "trends": {
+            "history": [
+              110,
+              140,
+              90,
+              90,
+              90,
+              70,
+              90,
+              70,
+              70,
+              70,
+              70,
+              70
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 46
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 771090,
+        "kid": "108700b1ea75813f14dec97a5fff1642",
+        "domain": "ckakrybia.pl",
+        "keyword": "kredyt na auto dla zadłużonych",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 32,
+            "previous": 8,
+            "diff": 24,
+            "changes": {
+              "wins": 1,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-27": {
+                "position": 16,
+                "has_serp": true
+              },
+              "2026-01-11": {
+                "position": 8,
+                "has_serp": true
+              },
+              "2026-02-04": {
+                "position": 32,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0.45,
+            "diff": -0.45,
+            "percent": -1,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/kredyt-samochodowy-bez-bik-i-krd-gdzie-go-szukac-i-jakie-sa-koszty-2/",
+            "previous": "ckakrybia.pl/kredyt-samochodowy-bez-bik-i-krd-gdzie-go-szukac-i-jakie-sa-koszty/",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 6.04
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              30,
+              10,
+              10,
+              10,
+              10,
+              20,
+              40,
+              20,
+              20,
+              20,
+              20,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 38
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 4808294,
+        "kid": "68126bb826c0495d589193985abe1312",
+        "domain": "ckakrybia.pl",
+        "keyword": "pomoc finansowa dla zadłużonych z komornikiem",
+        "words_count": 6,
+        "statistics": {
+          "position": {
+            "current": 11,
+            "previous": 10,
+            "diff": 1,
+            "changes": {
+              "wins": 1,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-29": {
+                "position": 15,
+                "has_serp": true
+              },
+              "2026-01-14": {
+                "position": 10,
+                "has_serp": true
+              },
+              "2026-02-01": {
+                "position": 11,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0.62,
+            "diff": -0.62,
+            "percent": -1,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/pozyczki-dla-zadluzonych-z-komornikiem-i-zlym-bik-gdzie-szukac-pomocy/",
+            "previous": "ckakrybia.pl/pozyczki-dla-zadluzonych-z-komornikiem-i-zlym-bik-gdzie-szukac-pomocy/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 5.83
+          },
+          "searches": {
+            "current": 40
+          },
+          "trends": {
+            "history": [
+              20,
+              90,
+              30,
+              40,
+              50,
+              50,
+              50,
+              20,
+              10,
+              20,
+              20,
+              20
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 33
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 15219885,
+        "kid": "1d04e34cfd330ca40d7c7d96b1acd4a3",
+        "domain": "ckakrybia.pl",
+        "keyword": "grupa inwestorów pożyczki prywatne",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 16,
+            "previous": 8,
+            "diff": 8,
+            "changes": {
+              "wins": 0,
+              "losses": 2,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-21": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-05": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-22": {
+                "position": 8,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 16,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0.67,
+            "diff": -0.67,
+            "percent": -1,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/pozyczki-prywatne-pod-weksel-i-od-inwestorow-kiedy-to-jedyne-wyjscie/",
+            "previous": "ckakrybia.pl/pozyczki-prywatne-pod-weksel-i-od-inwestorow-kiedy-to-jedyne-wyjscie/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 2.37
+          },
+          "searches": {
+            "current": 30
+          },
+          "trends": {
+            "history": [
+              20,
+              20,
+              10,
+              10,
+              20,
+              70,
+              10,
+              10,
+              10,
+              50,
+              50,
+              70
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 29
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 8325628,
+        "kid": "b6a8fab06272c293faa0ce80de90da1f",
+        "domain": "ckakrybia.pl",
+        "keyword": "prywatny inwestor pożyczkowy",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 8,
+            "previous": 6,
+            "diff": 2,
+            "changes": {
+              "wins": 1,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-23": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-06": {
+                "position": 7,
+                "has_serp": true
+              },
+              "2026-01-22": {
+                "position": 6,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 8,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 1.12,
+            "previous": 1.86,
+            "diff": -0.74,
+            "percent": -0.3978,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/inwestor-prywatny-czy-firma-pozyczkowa-gdzie-pozyczyc-w-trudnej-sytuacji/",
+            "previous": "ckakrybia.pl/inwestor-prywatny-czy-firma-pozyczkowa-gdzie-pozyczyc-w-trudnej-sytuacji/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0.41
+          },
+          "searches": {
+            "current": 50
+          },
+          "trends": {
+            "history": [
+              50,
+              20,
+              10,
+              10,
+              30,
+              30,
+              10,
+              40,
+              20,
+              140,
+              110,
+              140
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 33
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask",
+              "spell"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "buy",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 12820543,
+        "kid": "5205d2f8e5928f29ac22bb7a5e708951",
+        "domain": "ckakrybia.pl",
+        "keyword": "załatwię kredyt bez zdolności",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 7,
+            "previous": 6,
+            "diff": 1,
+            "changes": {
+              "wins": 1,
+              "losses": 2,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-26": {
+                "position": 6,
+                "has_serp": true
+              },
+              "2026-01-03": {
+                "position": 6,
+                "has_serp": true
+              },
+              "2026-01-21": {
+                "position": 5,
+                "has_serp": true
+              },
+              "2026-01-31": {
+                "position": 6,
+                "has_serp": true
+              },
+              "2026-02-10": {
+                "position": 7,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 2.55,
+            "previous": 3.34,
+            "diff": -0.79,
+            "percent": -0.2365,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/zalatwie-kredyt-dla-zadluzonych-czy-warto-ufac-takim-ogloszeniom/",
+            "previous": "ckakrybia.pl/zalatwie-kredyt-dla-zadluzonych-czy-warto-ufac-takim-ogloszeniom/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0.74
+          },
+          "searches": {
+            "current": 90
+          },
+          "trends": {
+            "history": [
+              70,
+              50,
+              110,
+              110,
+              110,
+              110,
+              90,
+              90,
+              90,
+              50,
+              50,
+              70
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 31
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 2822683,
+        "kid": "3cb57e42520cf572df7025a637676e83",
+        "domain": "ckakrybia.pl",
+        "keyword": "kredyt na auto bez bik",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 10,
+            "previous": 7,
+            "diff": 3,
+            "changes": {
+              "wins": 4,
+              "losses": 3,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-14": {
+                "position": 13,
+                "has_serp": false
+              },
+              "2025-12-22": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-26": {
+                "position": 15,
+                "has_serp": true
+              },
+              "2026-01-02": {
+                "position": 12,
+                "has_serp": true
+              },
+              "2026-01-09": {
+                "position": 8,
+                "has_serp": true
+              },
+              "2026-01-19": {
+                "position": 11,
+                "has_serp": true
+              },
+              "2026-01-29": {
+                "position": 7,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 10,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 1.39,
+            "previous": 2.55,
+            "diff": -1.16,
+            "percent": -0.4549,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/kredyt-samochodowy-bez-bik-i-krd-gdzie-go-szukac-i-jakie-sa-koszty/",
+            "previous": "ckakrybia.pl/kredyt-samochodowy-bez-bik-i-krd-gdzie-go-szukac-i-jakie-sa-koszty-2/",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 6.08
+          },
+          "searches": {
+            "current": 90
+          },
+          "trends": {
+            "history": [
+              110,
+              90,
+              70,
+              110,
+              90,
+              90,
+              140,
+              90,
+              70,
+              50,
+              50,
+              90
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 43
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "buy",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 211338,
+        "kid": "048780fe12cbe7edb6bb6e9ee0d202e4",
+        "domain": "ckakrybia.pl",
+        "keyword": "kredyt na oswiadczenie bez bik i krd",
+        "words_count": 7,
+        "statistics": {
+          "position": {
+            "current": 7,
+            "previous": 6,
+            "diff": 1,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-11": {
+                "position": 6,
+                "has_serp": true
+              },
+              "2026-02-04": {
+                "position": 7,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0.57,
+            "previous": 1.86,
+            "diff": -1.29,
+            "percent": -0.6935,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/kredyt-dla-firm/",
+            "previous": "ckakrybia.pl/kredyt-dla-firm/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 8.55
+          },
+          "searches": {
+            "current": 50
+          },
+          "trends": {
+            "history": [
+              30,
+              40,
+              50,
+              90,
+              50,
+              90,
+              70,
+              10,
+              40,
+              20,
+              20,
+              20
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 40
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 689459,
+        "kid": "0ec56f52d794474b16ca35247eea43a6",
+        "domain": "ckakrybia.pl",
+        "keyword": "pożyczki pozabankowe z komornikiem",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 13,
+            "previous": 10,
+            "diff": 3,
+            "changes": {
+              "wins": 0,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-27": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-11": {
+                "position": 10,
+                "has_serp": true
+              },
+              "2026-02-04": {
+                "position": 13,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 1.69,
+            "diff": -1.69,
+            "percent": -1,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/pozyczki-dla-zadluzonych-z-komornikiem-i-zlym-bik-gdzie-szukac-pomocy/",
+            "previous": "ckakrybia.pl/pozyczki-dla-zadluzonych-z-komornikiem-i-zlym-bik-gdzie-szukac-pomocy/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 7.23
+          },
+          "searches": {
+            "current": 110
+          },
+          "trends": {
+            "history": [
+              210,
+              210,
+              140,
+              50,
+              50,
+              90,
+              70,
+              70,
+              90,
+              70,
+              110,
+              50
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 50
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 1483020,
+        "kid": "1fd55bdf73a142b25e1c0dae3821011a",
+        "domain": "ckakrybia.pl",
+        "keyword": "pożyczka dla firm bez baz",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 4,
+            "previous": 3,
+            "diff": 1,
+            "changes": {
+              "wins": 0,
+              "losses": 2,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-25": {
+                "position": 2,
+                "has_serp": true
+              },
+              "2025-12-26": {
+                "position": 2,
+                "has_serp": true
+              },
+              "2026-01-09": {
+                "position": 3,
+                "has_serp": true
+              },
+              "2026-02-04": {
+                "position": 4,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 3.55,
+            "previous": 5.38,
+            "diff": -1.83,
+            "percent": -0.3401,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/kredyt-dla-firm/",
+            "previous": "ckakrybia.pl/kredyt-dla-firm/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 11.75
+          },
+          "searches": {
+            "current": 50
+          },
+          "trends": {
+            "history": [
+              110,
+              70,
+              40,
+              40,
+              40,
+              40,
+              70,
+              40,
+              20,
+              20,
+              50,
+              50
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 36
+          },
+          "snippets": {
+            "current": []
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 2600308,
+        "kid": "37e2ae8e8cfe4f4285db5ee034cdfa75",
+        "domain": "ckakrybia.pl",
+        "keyword": "pożyczka z bik i komornikiem",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 12,
+            "previous": 10,
+            "diff": 2,
+            "changes": {
+              "wins": 2,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-22": {
+                "position": 13,
+                "has_serp": true
+              },
+              "2026-01-06": {
+                "position": 10,
+                "has_serp": true
+              },
+              "2026-01-13": {
+                "position": 6,
+                "has_serp": true
+              },
+              "2026-01-24": {
+                "position": 10,
+                "has_serp": true
+              },
+              "2026-02-02": {
+                "position": 12,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 2.16,
+            "diff": -2.16,
+            "percent": -1,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/pozyczki-dla-zadluzonych-z-komornikiem-i-zlym-bik-gdzie-szukac-pomocy/",
+            "previous": "ckakrybia.pl/pozyczki-dla-zadluzonych-z-komornikiem-i-zlym-bik-gdzie-szukac-pomocy/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 5.21
+          },
+          "searches": {
+            "current": 140
+          },
+          "trends": {
+            "history": [
+              170,
+              110,
+              140,
+              110,
+              140,
+              110,
+              110,
+              170,
+              90,
+              90,
+              140,
+              140
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 50
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 9548379,
+        "kid": "d23ebca579036d7ff562be09bb9fdbbd",
+        "domain": "ckakrybia.pl",
+        "keyword": "telefon na raty bez bik i krd",
+        "words_count": 7,
+        "statistics": {
+          "position": {
+            "current": 5,
+            "previous": 4,
+            "diff": 1,
+            "changes": {
+              "wins": 1,
+              "losses": 1,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-19": {
+                "position": 5,
+                "has_serp": true
+              },
+              "2025-12-27": {
+                "position": 5,
+                "has_serp": true
+              },
+              "2026-01-05": {
+                "position": 4,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 5,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 24.14,
+            "previous": 27.69,
+            "diff": -3.55,
+            "percent": -0.1282,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/jak-wziac-telefon-na-raty-bez-bik-sprawdzone-sposoby/",
+            "previous": "ckakrybia.pl/jak-wziac-telefon-na-raty-bez-bik-sprawdzone-sposoby/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 35.63
+          },
+          "searches": {
+            "current": 390
+          },
+          "trends": {
+            "history": [
+              480,
+              480,
+              480,
+              480,
+              390,
+              260,
+              390,
+              320,
+              390,
+              320,
+              390,
+              390
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 54
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "buy",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 12309826,
+        "kid": "246d3a9eeefddb10052006778850b08f",
+        "domain": "ckakrybia.pl",
+        "keyword": "pożyczki z komornikiem na telefon",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 13,
+            "previous": 9,
+            "diff": 4,
+            "changes": {
+              "wins": 1,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-18": {
+                "position": 13,
+                "has_serp": true
+              },
+              "2026-01-28": {
+                "position": 9,
+                "has_serp": true
+              },
+              "2026-02-07": {
+                "position": 13,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 5.76,
+            "diff": -5.76,
+            "percent": -1,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/pozyczki-dla-zadluzonych-z-komornikiem-i-zlym-bik-gdzie-szukac-pomocy/",
+            "previous": "ckakrybia.pl/pozyczki-dla-zadluzonych-z-komornikiem-i-zlym-bik-gdzie-szukac-pomocy/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 6.92
+          },
+          "searches": {
+            "current": 320
+          },
+          "trends": {
+            "history": [
+              390,
+              480,
+              480,
+              320,
+              320,
+              320,
+              320,
+              210,
+              210,
+              390,
+              320,
+              320
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 37
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "buy",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 16242321,
+        "kid": "d7dcf1dbfeea0fc4c3c5597f67e4cf15",
+        "domain": "ckakrybia.pl",
+        "keyword": "pożyczki z komornikiem i złym bikiem forum",
+        "words_count": 7,
+        "statistics": {
+          "position": {
+            "current": 4,
+            "previous": 3,
+            "diff": 1,
+            "changes": {
+              "wins": 3,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-20": {
+                "position": 27,
+                "has_serp": true
+              },
+              "2025-12-28": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-06": {
+                "position": 12,
+                "has_serp": true
+              },
+              "2026-01-13": {
+                "position": 11,
+                "has_serp": true
+              },
+              "2026-01-25": {
+                "position": 3,
+                "has_serp": true
+              },
+              "2026-02-04": {
+                "position": 4,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 18.46,
+            "previous": 27.95,
+            "diff": -9.49,
+            "percent": -0.3395,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/pozyczki-dla-zadluzonych-z-komornikiem-i-zlym-bik-gdzie-szukac-pomocy/",
+            "previous": "ckakrybia.pl/pozyczki-dla-zadluzonych-z-komornikiem-i-zlym-bik-gdzie-szukac-pomocy/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 2.21
+          },
+          "searches": {
+            "current": 260
+          },
+          "trends": {
+            "history": [
+              210,
+              320,
+              320,
+              320,
+              390,
+              210,
+              110,
+              320,
+              210,
+              210,
+              260,
+              260
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 23
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 6599652,
+        "kid": "8fde8644b9054f824dae9263a7915e96",
+        "domain": "ckakrybia.pl",
+        "keyword": "załatwię kredyt dla zadłużonych",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 2,
+            "previous": 1,
+            "diff": 1,
+            "changes": {
+              "wins": 3,
+              "losses": 3,
+              "no_changes": 3
+            },
+            "history": {
+              "2025-12-20": {
+                "position": 3,
+                "has_serp": true
+              },
+              "2025-12-25": {
+                "position": 4,
+                "has_serp": true
+              },
+              "2025-12-29": {
+                "position": 3,
+                "has_serp": true
+              },
+              "2026-01-03": {
+                "position": 1,
+                "has_serp": true
+              },
+              "2026-01-09": {
+                "position": 1,
+                "has_serp": true
+              },
+              "2026-01-12": {
+                "position": 1,
+                "has_serp": true
+              },
+              "2026-01-16": {
+                "position": 1,
+                "has_serp": true
+              },
+              "2026-01-20": {
+                "position": 2,
+                "has_serp": true
+              },
+              "2026-01-24": {
+                "position": 1,
+                "has_serp": true
+              },
+              "2026-02-05": {
+                "position": 2,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 126.14,
+            "previous": 210.04,
+            "diff": -83.9,
+            "percent": -0.3994,
+            "history": null
+          },
+          "url": {
+            "current": "ckakrybia.pl/zalatwie-kredyt-dla-zadluzonych-czy-warto-ufac-takim-ogloszeniom/",
+            "previous": "ckakrybia.pl/zalatwie-kredyt-dla-zadluzonych-czy-warto-ufac-takim-ogloszeniom/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 5.11
+          },
+          "searches": {
+            "current": 590
+          },
+          "trends": {
+            "history": [
+              1000,
+              880,
+              720,
+              590,
+              590,
+              390,
+              480,
+              390,
+              320,
+              390,
+              390,
+              480
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 43
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      }
+    ],
+    "total": 68,
+    "domain": "ckakrybia.pl",
+    "endpoint": "get_history_keywords_losses"
+  }
+}

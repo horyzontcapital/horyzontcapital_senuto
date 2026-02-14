@@ -1,0 +1,742 @@
+{
+  "domain": "businessinsider.com.pl",
+  "endpoint": "get_competitors_analysis",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "keyword": "krd big",
+          "cpc": 4.28,
+          "searches": 320,
+          "trends": [
+            390,
+            390,
+            320,
+            320,
+            390,
+            480,
+            480,
+            320,
+            320,
+            390,
+            390,
+            320
+          ],
+          "difficulty": 64,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 17,
+            "url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia"
+          },
+          "horyzontcapital.com_pos": 17,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia",
+          "businessinsider.com.pl": {
+            "pos": 22,
+            "url": "businessinsider.com.pl/prawo/podatki/krd-co-to-jest-i-czym-sie-rozni-od-bik-u/t1b2q81"
+          },
+          "businessinsider.com.pl_pos": 22,
+          "businessinsider.com.pl_url": "businessinsider.com.pl/prawo/podatki/krd-co-to-jest-i-czym-sie-rozni-od-bik-u/t1b2q81"
+        },
+        {
+          "keyword": "jednoosobową działalność gospodarczą kredyt gotówkowy",
+          "cpc": 7.42,
+          "searches": 260,
+          "trends": [
+            390,
+            320,
+            390,
+            320,
+            320,
+            320,
+            320,
+            140,
+            140,
+            170,
+            170,
+            170
+          ],
+          "difficulty": 39,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 42,
+            "url": "horyzontcapital.com/blog/pozyczka-dla-firmy-jednoosobowej-jak-uzyskac-finansowanie-gdy-bank-odmawia"
+          },
+          "horyzontcapital.com_pos": 42,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/pozyczka-dla-firmy-jednoosobowej-jak-uzyskac-finansowanie-gdy-bank-odmawia",
+          "businessinsider.com.pl": {
+            "pos": 16,
+            "url": "businessinsider.com.pl/poradnik-finansowy/kredyty/kredyt-gotowkowy-na-ryczalcie-jakie-sa-szanse-i-mozliwosci-jego-pozyskania/3hc31lr"
+          },
+          "businessinsider.com.pl_pos": 16,
+          "businessinsider.com.pl_url": "businessinsider.com.pl/poradnik-finansowy/kredyty/kredyt-gotowkowy-na-ryczalcie-jakie-sa-szanse-i-mozliwosci-jego-pozyskania/3hc31lr"
+        },
+        {
+          "keyword": "bik big krd",
+          "cpc": 1.69,
+          "searches": 140,
+          "trends": [
+            170,
+            170,
+            170,
+            210,
+            170,
+            140,
+            70,
+            140,
+            140,
+            170,
+            140,
+            170
+          ],
+          "difficulty": 53,
+          "params": [
+            "brand"
+          ],
+          "horyzontcapital.com": {
+            "pos": 26,
+            "url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia"
+          },
+          "horyzontcapital.com_pos": 26,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia",
+          "businessinsider.com.pl": {
+            "pos": 18,
+            "url": "businessinsider.com.pl/prawo/podatki/krd-co-to-jest-i-czym-sie-rozni-od-bik-u/t1b2q81"
+          },
+          "businessinsider.com.pl_pos": 18,
+          "businessinsider.com.pl_url": "businessinsider.com.pl/prawo/podatki/krd-co-to-jest-i-czym-sie-rozni-od-bik-u/t1b2q81"
+        },
+        {
+          "keyword": "bik krajowy rejestr długów",
+          "cpc": 1.82,
+          "searches": 90,
+          "trends": [
+            110,
+            90,
+            90,
+            50,
+            110,
+            110,
+            110,
+            70,
+            70,
+            70,
+            70,
+            50
+          ],
+          "difficulty": 46,
+          "params": [
+            "brand"
+          ],
+          "horyzontcapital.com": {
+            "pos": 34,
+            "url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia"
+          },
+          "horyzontcapital.com_pos": 34,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia",
+          "businessinsider.com.pl": {
+            "pos": 25,
+            "url": "businessinsider.com.pl/prawo/podatki/krd-co-to-jest-i-czym-sie-rozni-od-bik-u/t1b2q81"
+          },
+          "businessinsider.com.pl_pos": 25,
+          "businessinsider.com.pl_url": "businessinsider.com.pl/prawo/podatki/krd-co-to-jest-i-czym-sie-rozni-od-bik-u/t1b2q81"
+        },
+        {
+          "keyword": "pożycza pieniądze pod zastaw",
+          "cpc": 1.29,
+          "searches": 70,
+          "trends": [
+            50,
+            20,
+            50,
+            40,
+            10,
+            50,
+            320,
+            170,
+            90,
+            50,
+            30,
+            20
+          ],
+          "difficulty": 36,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 25,
+            "url": "horyzontcapital.com/oferta/pozyczka-pod-zastaw-nieruchomosci"
+          },
+          "horyzontcapital.com_pos": 25,
+          "horyzontcapital.com_url": "horyzontcapital.com/oferta/pozyczka-pod-zastaw-nieruchomosci",
+          "businessinsider.com.pl": {
+            "pos": 38,
+            "url": "businessinsider.com.pl/poradnik-finansowy/jak-dziala-pozyczka-pod-zastaw-auta/7vf5e0j"
+          },
+          "businessinsider.com.pl_pos": 38,
+          "businessinsider.com.pl_url": "businessinsider.com.pl/poradnik-finansowy/jak-dziala-pozyczka-pod-zastaw-auta/7vf5e0j"
+        },
+        {
+          "keyword": "jak poprawić scoring bik",
+          "cpc": 2.11,
+          "searches": 50,
+          "trends": [
+            70,
+            90,
+            90,
+            90,
+            90,
+            90,
+            110,
+            90,
+            110,
+            110,
+            140,
+            110
+          ],
+          "difficulty": 35,
+          "params": [
+            "is_question"
+          ],
+          "horyzontcapital.com": {
+            "pos": 2,
+            "url": "horyzontcapital.com/dowiedz-sie-jak-wyczyscic-bik-i-poprawic-scoring-kredytowy/"
+          },
+          "horyzontcapital.com_pos": 2,
+          "horyzontcapital.com_url": "horyzontcapital.com/dowiedz-sie-jak-wyczyscic-bik-i-poprawic-scoring-kredytowy/",
+          "businessinsider.com.pl": {
+            "pos": 8,
+            "url": "businessinsider.com.pl/poradnik-finansowy/kredyty/scoring-bik-czym-jest/yr8w6qj"
+          },
+          "businessinsider.com.pl_pos": 8,
+          "businessinsider.com.pl_url": "businessinsider.com.pl/poradnik-finansowy/kredyty/scoring-bik-czym-jest/yr8w6qj"
+        },
+        {
+          "keyword": "finansowanie pozabankowe",
+          "cpc": 13.65,
+          "searches": 40,
+          "trends": [
+            20,
+            30,
+            30,
+            30,
+            10,
+            10,
+            10,
+            10,
+            10,
+            20,
+            30,
+            20
+          ],
+          "difficulty": 38,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 22,
+            "url": "horyzontcapital.com/blog/czym-rozni-sie-finansowanie-pozabankowe-od-kredytu-bankowego"
+          },
+          "horyzontcapital.com_pos": 22,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/czym-rozni-sie-finansowanie-pozabankowe-od-kredytu-bankowego",
+          "businessinsider.com.pl": {
+            "pos": 26,
+            "url": "businessinsider.com.pl/poradnik-finansowy/oszczedzanie/czym-jest-pozyczka-pozabankowa/3e7r00h"
+          },
+          "businessinsider.com.pl_pos": 26,
+          "businessinsider.com.pl_url": "businessinsider.com.pl/poradnik-finansowy/oszczedzanie/czym-jest-pozyczka-pozabankowa/3e7r00h"
+        },
+        {
+          "keyword": "co to znaczy krd",
+          "cpc": 0,
+          "searches": 30,
+          "trends": [
+            10,
+            30,
+            40,
+            30,
+            30,
+            30,
+            20,
+            20,
+            30,
+            20,
+            20,
+            20
+          ],
+          "difficulty": 38,
+          "params": [
+            "question"
+          ],
+          "horyzontcapital.com": {
+            "pos": 23,
+            "url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia"
+          },
+          "horyzontcapital.com_pos": 23,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia",
+          "businessinsider.com.pl": {
+            "pos": 25,
+            "url": "businessinsider.com.pl/prawo/podatki/krd-co-to-jest-i-czym-sie-rozni-od-bik-u/t1b2q81"
+          },
+          "businessinsider.com.pl_pos": 25,
+          "businessinsider.com.pl_url": "businessinsider.com.pl/prawo/podatki/krd-co-to-jest-i-czym-sie-rozni-od-bik-u/t1b2q81"
+        },
+        {
+          "keyword": "jak sprawdzic czy jestem w bik i krd",
+          "cpc": 0.38,
+          "searches": 20,
+          "trends": [
+            20,
+            30,
+            20,
+            30,
+            40,
+            20,
+            40,
+            10,
+            20,
+            20,
+            20,
+            20
+          ],
+          "difficulty": 30,
+          "params": [
+            "brand"
+          ],
+          "horyzontcapital.com": {
+            "pos": 48,
+            "url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia"
+          },
+          "horyzontcapital.com_pos": 48,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia",
+          "businessinsider.com.pl": {
+            "pos": 16,
+            "url": "businessinsider.com.pl/prawo/podatki/krd-co-to-jest-i-czym-sie-rozni-od-bik-u/t1b2q81"
+          },
+          "businessinsider.com.pl_pos": 16,
+          "businessinsider.com.pl_url": "businessinsider.com.pl/prawo/podatki/krd-co-to-jest-i-czym-sie-rozni-od-bik-u/t1b2q81"
+        },
+        {
+          "keyword": "jak poprawić swój bik",
+          "cpc": 7.21,
+          "searches": 20,
+          "trends": [
+            20,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+          ],
+          "difficulty": 35,
+          "params": [
+            "is_question"
+          ],
+          "horyzontcapital.com": {
+            "pos": 34,
+            "url": "horyzontcapital.com/blog/jak-wyczyscic-bik-i-poprawic-scoring-kredytowy-poradnik-dla-przedsiebiorcow"
+          },
+          "horyzontcapital.com_pos": 34,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/jak-wyczyscic-bik-i-poprawic-scoring-kredytowy-poradnik-dla-przedsiebiorcow",
+          "businessinsider.com.pl": {
+            "pos": 38,
+            "url": "businessinsider.com.pl/poradnik-finansowy/oszczedzanie/jak-wyczyscic-bik/mxm8t01"
+          },
+          "businessinsider.com.pl_pos": 38,
+          "businessinsider.com.pl_url": "businessinsider.com.pl/poradnik-finansowy/oszczedzanie/jak-wyczyscic-bik/mxm8t01"
+        },
+        {
+          "keyword": "baza bik i krd",
+          "cpc": 1.93,
+          "searches": 20,
+          "trends": [
+            10,
+            10,
+            10,
+            20,
+            20,
+            20,
+            10,
+            10,
+            20,
+            30,
+            30,
+            10
+          ],
+          "difficulty": 43,
+          "params": [
+            "brand"
+          ],
+          "horyzontcapital.com": {
+            "pos": 11,
+            "url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia"
+          },
+          "horyzontcapital.com_pos": 11,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia",
+          "businessinsider.com.pl": {
+            "pos": 16,
+            "url": "businessinsider.com.pl/prawo/podatki/krd-co-to-jest-i-czym-sie-rozni-od-bik-u/t1b2q81"
+          },
+          "businessinsider.com.pl_pos": 16,
+          "businessinsider.com.pl_url": "businessinsider.com.pl/prawo/podatki/krd-co-to-jest-i-czym-sie-rozni-od-bik-u/t1b2q81"
+        },
+        {
+          "keyword": "krd czy bik",
+          "cpc": 4.91,
+          "searches": 20,
+          "trends": [
+            20,
+            30,
+            30,
+            20,
+            30,
+            20,
+            20,
+            10,
+            20,
+            20,
+            10,
+            10
+          ],
+          "difficulty": 52,
+          "params": [
+            "brand"
+          ],
+          "horyzontcapital.com": {
+            "pos": 1,
+            "url": "horyzontcapital.com/bik-i-krd-czym-sie-roznia/"
+          },
+          "horyzontcapital.com_pos": 1,
+          "horyzontcapital.com_url": "horyzontcapital.com/bik-i-krd-czym-sie-roznia/",
+          "businessinsider.com.pl": {
+            "pos": 9,
+            "url": "businessinsider.com.pl/prawo/podatki/krd-co-to-jest-i-czym-sie-rozni-od-bik-u/t1b2q81"
+          },
+          "businessinsider.com.pl_pos": 9,
+          "businessinsider.com.pl_url": "businessinsider.com.pl/prawo/podatki/krd-co-to-jest-i-czym-sie-rozni-od-bik-u/t1b2q81"
+        },
+        {
+          "keyword": "kredyty dla poczatkujacych firm",
+          "cpc": 9.74,
+          "searches": 10,
+          "trends": [
+            30,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            20
+          ],
+          "difficulty": 49,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 46,
+            "url": "horyzontcapital.com/ile-mozna-dostac-kredytu-start-firmy/"
+          },
+          "horyzontcapital.com_pos": 46,
+          "horyzontcapital.com_url": "horyzontcapital.com/ile-mozna-dostac-kredytu-start-firmy/",
+          "businessinsider.com.pl": {
+            "pos": 32,
+            "url": "businessinsider.com.pl/poradnik-finansowy/kredyt-dla-nowych-firm-gdzie-dostac-i-czy-da-sie-to-zrobic-online/b3ksxrn"
+          },
+          "businessinsider.com.pl_pos": 32,
+          "businessinsider.com.pl_url": "businessinsider.com.pl/poradnik-finansowy/kredyt-dla-nowych-firm-gdzie-dostac-i-czy-da-sie-to-zrobic-online/b3ksxrn"
+        },
+        {
+          "keyword": "horyzont nsfiz warszawa",
+          "cpc": 0,
+          "searches": 10,
+          "trends": [
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            30,
+            20,
+            10,
+            10,
+            10
+          ],
+          "difficulty": 22,
+          "params": [
+            "brand"
+          ],
+          "horyzontcapital.com": {
+            "pos": 32,
+            "url": "horyzontcapital.com/o-nas"
+          },
+          "horyzontcapital.com_pos": 32,
+          "horyzontcapital.com_url": "horyzontcapital.com/o-nas",
+          "businessinsider.com.pl": {
+            "pos": 16,
+            "url": "businessinsider.com.pl/poradnik-finansowy/inwestowanie/czym-jest-niestandaryzowany-sekurytyzacyjny-fundusz-inwestycyjny-zamkniety/9p9yb98"
+          },
+          "businessinsider.com.pl_pos": 16,
+          "businessinsider.com.pl_url": "businessinsider.com.pl/poradnik-finansowy/inwestowanie/czym-jest-niestandaryzowany-sekurytyzacyjny-fundusz-inwestycyjny-zamkniety/9p9yb98"
+        },
+        {
+          "keyword": "krd czy big",
+          "cpc": 5.01,
+          "searches": 10,
+          "trends": [
+            10,
+            20,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+          ],
+          "difficulty": 57,
+          "params": [
+            "brand"
+          ],
+          "horyzontcapital.com": {
+            "pos": 20,
+            "url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia"
+          },
+          "horyzontcapital.com_pos": 20,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia",
+          "businessinsider.com.pl": {
+            "pos": 8,
+            "url": "businessinsider.com.pl/prawo/podatki/krd-co-to-jest-i-czym-sie-rozni-od-bik-u/t1b2q81"
+          },
+          "businessinsider.com.pl_pos": 8,
+          "businessinsider.com.pl_url": "businessinsider.com.pl/prawo/podatki/krd-co-to-jest-i-czym-sie-rozni-od-bik-u/t1b2q81"
+        },
+        {
+          "keyword": "krd bik sa",
+          "cpc": 2.02,
+          "searches": 10,
+          "trends": [
+            10,
+            20,
+            10,
+            10,
+            10,
+            10,
+            10,
+            20,
+            10,
+            10,
+            10,
+            10
+          ],
+          "difficulty": 47,
+          "params": [
+            "brand"
+          ],
+          "horyzontcapital.com": {
+            "pos": 30,
+            "url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia"
+          },
+          "horyzontcapital.com_pos": 30,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia",
+          "businessinsider.com.pl": {
+            "pos": 11,
+            "url": "businessinsider.com.pl/prawo/podatki/krd-co-to-jest-i-czym-sie-rozni-od-bik-u/t1b2q81"
+          },
+          "businessinsider.com.pl_pos": 11,
+          "businessinsider.com.pl_url": "businessinsider.com.pl/prawo/podatki/krd-co-to-jest-i-czym-sie-rozni-od-bik-u/t1b2q81"
+        },
+        {
+          "keyword": "pożyczka komercyjna",
+          "cpc": 2.47,
+          "searches": 10,
+          "trends": [
+            20,
+            10,
+            10,
+            10,
+            10,
+            20,
+            20,
+            10,
+            30,
+            10,
+            10,
+            20
+          ],
+          "difficulty": 45,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 25,
+            "url": "horyzontcapital.com/dla-kogo/pozyczki-i-kredyty-dla-branzy-nieruchomosci-komercyjnych"
+          },
+          "horyzontcapital.com_pos": 25,
+          "horyzontcapital.com_url": "horyzontcapital.com/dla-kogo/pozyczki-i-kredyty-dla-branzy-nieruchomosci-komercyjnych",
+          "businessinsider.com.pl": {
+            "pos": 36,
+            "url": "businessinsider.com.pl/poradnik-finansowy/kalkulatory/kredyty-gotowkowe"
+          },
+          "businessinsider.com.pl_pos": 36,
+          "businessinsider.com.pl_url": "businessinsider.com.pl/poradnik-finansowy/kalkulatory/kredyty-gotowkowe"
+        },
+        {
+          "keyword": null,
+          "cpc": 0,
+          "searches": 10,
+          "trends": [
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+          ],
+          "difficulty": null,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 33,
+            "url": "horyzontcapital.com/"
+          },
+          "horyzontcapital.com_pos": 33,
+          "horyzontcapital.com_url": "horyzontcapital.com/",
+          "businessinsider.com.pl": {
+            "pos": 35,
+            "url": "businessinsider.com.pl/firmy/polskie-fabryki-samochodow-w-kryzysie-branza-motoryzacyjna-tnie-produkcje/v5fhznf"
+          },
+          "businessinsider.com.pl_pos": 35,
+          "businessinsider.com.pl_url": "businessinsider.com.pl/firmy/polskie-fabryki-samochodow-w-kryzysie-branza-motoryzacyjna-tnie-produkcje/v5fhznf"
+        },
+        {
+          "keyword": "jak poprawić scoring",
+          "cpc": 0.29,
+          "searches": 10,
+          "trends": [
+            10,
+            10,
+            20,
+            20,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+          ],
+          "difficulty": 34,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 31,
+            "url": "horyzontcapital.com/dowiedz-sie-jak-wyczyscic-bik-i-poprawic-scoring-kredytowy/"
+          },
+          "horyzontcapital.com_pos": 31,
+          "horyzontcapital.com_url": "horyzontcapital.com/dowiedz-sie-jak-wyczyscic-bik-i-poprawic-scoring-kredytowy/",
+          "businessinsider.com.pl": {
+            "pos": 49,
+            "url": "businessinsider.com.pl/poradnik-finansowy/kredyty/scoring-bik-czym-jest/yr8w6qj"
+          },
+          "businessinsider.com.pl_pos": 49,
+          "businessinsider.com.pl_url": "businessinsider.com.pl/poradnik-finansowy/kredyty/scoring-bik-czym-jest/yr8w6qj"
+        },
+        {
+          "keyword": "big infomonitor a krd",
+          "cpc": 0,
+          "searches": 10,
+          "trends": [
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+          ],
+          "difficulty": 34,
+          "params": [
+            "brand"
+          ],
+          "horyzontcapital.com": {
+            "pos": 4,
+            "url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia"
+          },
+          "horyzontcapital.com_pos": 4,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia",
+          "businessinsider.com.pl": {
+            "pos": 12,
+            "url": "businessinsider.com.pl/finanse/bik-big-info-monitor-krd-crif-tak-wygladaja-dlugi-polakow/jwxrqt8"
+          },
+          "businessinsider.com.pl_pos": 12,
+          "businessinsider.com.pl_url": "businessinsider.com.pl/finanse/bik-big-info-monitor-krd-crif-tak-wygladaja-dlugi-polakow/jwxrqt8"
+        },
+        {
+          "keyword": "czy krd i bik to to samo",
+          "cpc": 0,
+          "searches": 10,
+          "trends": [
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+          ],
+          "difficulty": 21,
+          "params": [
+            "brand"
+          ],
+          "horyzontcapital.com": {
+            "pos": 11,
+            "url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia"
+          },
+          "horyzontcapital.com_pos": 11,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia",
+          "businessinsider.com.pl": {
+            "pos": 6,
+            "url": "businessinsider.com.pl/prawo/podatki/krd-co-to-jest-i-czym-sie-rozni-od-bik-u/t1b2q81"
+          },
+          "businessinsider.com.pl_pos": 6,
+          "businessinsider.com.pl_url": "businessinsider.com.pl/prawo/podatki/krd-co-to-jest-i-czym-sie-rozni-od-bik-u/t1b2q81"
+        }
+      ],
+      "pagination": {
+        "page_count": 1,
+        "current_page": 1,
+        "has_next_page": false,
+        "has_prev_page": false,
+        "count": 21,
+        "limit": 100
+      }
+    },
+    "status": 200,
+    "domain": "businessinsider.com.pl",
+    "endpoint": "get_competitors_analysis"
+  }
+}

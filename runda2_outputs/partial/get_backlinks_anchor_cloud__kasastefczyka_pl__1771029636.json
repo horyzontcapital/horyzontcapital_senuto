@@ -1,0 +1,67 @@
+{
+  "domain": "kasastefczyka.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "kasastefczyka.pl": [
+          {
+            "text": "",
+            "size": 5777,
+            "percent": 0.3896007553277583
+          },
+          {
+            "text": "210 2023 STEFCZYK SF Żywiec FIT balon baner 600x250 DN",
+            "size": 2943,
+            "percent": 0.19847585648772592
+          },
+          {
+            "text": "172 2024 STEFCZYK SF Żywiec Fit Weź teraz 600x250 DD",
+            "size": 2371,
+            "percent": 0.15990018883193957
+          },
+          {
+            "text": "147 2024 STEFCZYK SF Zywiec Wakacyjny FIT baner 600x250px DD",
+            "size": 1969,
+            "percent": 0.1327893175074184
+          },
+          {
+            "text": "org",
+            "size": 681,
+            "percent": 0.0459266253034799
+          },
+          {
+            "text": "www.kasastefczyka.pl",
+            "size": 174,
+            "percent": 0.011734556244942
+          },
+          {
+            "text": "Kasa Stefczyka",
+            "size": 108,
+            "percent": 0.007283517669274346
+          },
+          {
+            "text": "Przejdz do strony",
+            "size": 71,
+            "percent": 0.00478823846776369
+          },
+          {
+            "text": "SKOK",
+            "size": 64,
+            "percent": 0.004316158618829242
+          },
+          {
+            "text": "kasa-stefczyka",
+            "size": 38,
+            "percent": 0.0025627191799298624
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "kasastefczyka.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

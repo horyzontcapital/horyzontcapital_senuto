@@ -1,0 +1,54 @@
+{
+  "domain": "bancovo.pl",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "bancovo.pl",
+        "keywords_count": 487,
+        "visibility_percent": 100,
+        "statistics": {
+          "visibility": {
+            "current": 3130.24,
+            "previous": 2987.73,
+            "diff": 142.51,
+            "percent": 0.0477,
+            "history": null
+          },
+          "top3": {
+            "current": 144,
+            "previous": 137,
+            "diff": 7,
+            "percent": 0.0511,
+            "history": null
+          },
+          "top10": {
+            "current": 487,
+            "previous": 494,
+            "diff": -7,
+            "percent": -0.0142,
+            "history": null
+          },
+          "top50": {
+            "current": 3371,
+            "previous": 3394,
+            "diff": -23,
+            "percent": -0.0068,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 100,
+            "previous": 100,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "bancovo.pl",
+    "endpoint": "get_subdomains"
+  }
+}

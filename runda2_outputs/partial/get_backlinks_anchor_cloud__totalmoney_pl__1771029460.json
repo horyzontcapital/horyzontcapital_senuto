@@ -1,0 +1,67 @@
+{
+  "domain": "totalmoney.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "totalmoney.pl": [
+          {
+            "text": "Konta firmowe",
+            "size": 550289,
+            "percent": 0.15911779376152094
+          },
+          {
+            "text": "TotalMoney.pl",
+            "size": 455910,
+            "percent": 0.13182780930350238
+          },
+          {
+            "text": "Kredyty firmowe",
+            "size": 386702,
+            "percent": 0.11181609860122167
+          },
+          {
+            "text": "Pożyczki online",
+            "size": 386699,
+            "percent": 0.11181523114179347
+          },
+          {
+            "text": "Kredyty dla firm",
+            "size": 200135,
+            "percent": 0.057869664220913004
+          },
+          {
+            "text": "Kredyty samochodowe",
+            "size": 200124,
+            "percent": 0.05786648353634294
+          },
+          {
+            "text": "Konta dla firm",
+            "size": 200123,
+            "percent": 0.057866194383200203
+          },
+          {
+            "text": "Kredyty gotówkowe",
+            "size": 199935,
+            "percent": 0.05781183359236636
+          },
+          {
+            "text": "Kredyty hipoteczne",
+            "size": 199417,
+            "percent": 0.05766205226443055
+          },
+          {
+            "text": "totalmoney.pl",
+            "size": 173643,
+            "percent": 0.050209419163624536
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "totalmoney.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

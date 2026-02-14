@@ -1,0 +1,531 @@
+{
+  "domain": "finergia.pl",
+  "endpoint": "get_history_keywords_losses",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "keyword_id": 4809642,
+        "kid": "681a130d9f75904218c445f2a574cc59",
+        "domain": "finergia.pl",
+        "keyword": "kredyt na spłatę zus i us",
+        "words_count": 6,
+        "statistics": {
+          "position": {
+            "current": 21,
+            "previous": 18,
+            "diff": 3,
+            "changes": {
+              "wins": 1,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-29": {
+                "position": 20,
+                "has_serp": true
+              },
+              "2026-01-14": {
+                "position": 18,
+                "has_serp": true
+              },
+              "2026-02-01": {
+                "position": 21,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "finergia.pl/kredyt-na-splate-zus-i-us/",
+            "previous": "finergia.pl/kredyt-na-splate-zus-i-us/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 35.94
+          },
+          "searches": {
+            "current": 170
+          },
+          "trends": {
+            "history": [
+              210,
+              390,
+              210,
+              140,
+              170,
+              110,
+              110,
+              70,
+              50,
+              70,
+              140,
+              210
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 29
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 10058779,
+        "kid": "ddcee4f11e8d768535d845c335233eca",
+        "domain": "finergia.pl",
+        "keyword": "kredyt bez zaświadczeń z zus i us",
+        "words_count": 7,
+        "statistics": {
+          "position": {
+            "current": 25,
+            "previous": 19,
+            "diff": 6,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-18": {
+                "position": 19,
+                "has_serp": true
+              },
+              "2026-02-06": {
+                "position": 25,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "finergia.pl/kredyt-na-splate-zus-i-us/",
+            "previous": "finergia.pl/kredyt-na-splate-zus-i-us/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 11.32
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              10,
+              20,
+              30,
+              30,
+              30,
+              20,
+              10,
+              10,
+              10,
+              20,
+              30,
+              20
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 40
+          },
+          "snippets": {
+            "current": []
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 5336712,
+        "kid": "73cf147347a3976b6392891ecee9cbe0",
+        "domain": "finergia.pl",
+        "keyword": "cechy pożyczki",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 24,
+            "previous": 23,
+            "diff": 1,
+            "changes": {
+              "wins": 0,
+              "losses": 4,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-16": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-23": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-14": {
+                "position": 18,
+                "has_serp": true
+              },
+              "2026-01-25": {
+                "position": 19,
+                "has_serp": true
+              },
+              "2026-01-27": {
+                "position": 23,
+                "has_serp": true
+              },
+              "2026-02-05": {
+                "position": 24,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "finergia.pl/pozyczka-na-podstawie-obrotow-a-tradycyjny-kredyt/",
+            "previous": "finergia.pl/pozyczka-na-podstawie-obrotow-a-tradycyjny-kredyt/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 4.28
+          },
+          "searches": {
+            "current": 390
+          },
+          "trends": {
+            "history": [
+              140,
+              260,
+              720,
+              880,
+              720,
+              140,
+              10,
+              10,
+              170,
+              880,
+              720,
+              260
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 39
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 11416337,
+        "kid": "fca90bf98a0003263cbdd7d1afd80638",
+        "domain": "finergia.pl",
+        "keyword": "kredyt na splate zus",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 21,
+            "previous": 19,
+            "diff": 2,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-18": {
+                "position": 19,
+                "has_serp": true
+              },
+              "2026-02-06": {
+                "position": 21,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "finergia.pl/kredyt-na-splate-zus-i-us-kiedy-warto-z-niego-skorzystac/",
+            "previous": "finergia.pl/kredyt-na-splate-zus-i-us/",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 16.57
+          },
+          "searches": {
+            "current": 40
+          },
+          "trends": {
+            "history": [
+              40,
+              70,
+              40,
+              70,
+              50,
+              40,
+              30,
+              40,
+              30,
+              30,
+              40,
+              40
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 43
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 3651913,
+        "kid": "4eacabfef32f05aec5fe217f1c23baf8",
+        "domain": "finergia.pl",
+        "keyword": "kredyt dla spółki z oo",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 48,
+            "previous": 30,
+            "diff": 18,
+            "changes": {
+              "wins": 2,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-22": {
+                "position": 44,
+                "has_serp": true
+              },
+              "2025-12-29": {
+                "position": 38,
+                "has_serp": true
+              },
+              "2026-01-14": {
+                "position": 29,
+                "has_serp": true
+              },
+              "2026-01-24": {
+                "position": 30,
+                "has_serp": true
+              },
+              "2026-02-03": {
+                "position": 48,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "finergia.pl/kredyt-dla-spolki-z-o-o/",
+            "previous": "finergia.pl/kredyt-dla-spolki-z-o-o/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 16.13
+          },
+          "searches": {
+            "current": 140
+          },
+          "trends": {
+            "history": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 58
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 2999104,
+        "kid": "40831251906c147e12e328916561d142",
+        "domain": "finergia.pl",
+        "keyword": "pożyczka dla firm na oświadczenie",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 17,
+            "previous": 7,
+            "diff": 10,
+            "changes": {
+              "wins": 2,
+              "losses": 2,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-22": {
+                "position": 17,
+                "has_serp": true
+              },
+              "2025-12-29": {
+                "position": 17,
+                "has_serp": true
+              },
+              "2026-01-06": {
+                "position": 18,
+                "has_serp": true
+              },
+              "2026-01-13": {
+                "position": 11,
+                "has_serp": true
+              },
+              "2026-01-24": {
+                "position": 7,
+                "has_serp": true
+              },
+              "2026-02-02": {
+                "position": 17,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0.85,
+            "diff": -0.85,
+            "percent": -1,
+            "history": null
+          },
+          "url": {
+            "current": "finergia.pl/kredyt-dla-firm-na-oswiadczenie/",
+            "previous": "finergia.pl/kredyt-dla-firm-na-oswiadczenie/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 30
+          },
+          "trends": {
+            "history": [
+              50,
+              50,
+              40,
+              40,
+              40,
+              30,
+              40,
+              10,
+              10,
+              10,
+              10,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 47
+          },
+          "snippets": {
+            "current": []
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      }
+    ],
+    "total": 6,
+    "domain": "finergia.pl",
+    "endpoint": "get_history_keywords_losses"
+  }
+}

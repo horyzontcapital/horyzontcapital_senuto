@@ -1,0 +1,96 @@
+{
+  "domain": "kokos.pl",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "kokos.pl",
+        "keywords_count": 856,
+        "visibility_percent": 100,
+        "statistics": {
+          "visibility": {
+            "current": 24987.43,
+            "previous": 17837.58,
+            "diff": 7149.85,
+            "percent": 0.4008,
+            "history": null
+          },
+          "top3": {
+            "current": 393,
+            "previous": 381,
+            "diff": 12,
+            "percent": 0.0315,
+            "history": null
+          },
+          "top10": {
+            "current": 856,
+            "previous": 858,
+            "diff": -2,
+            "percent": -0.0023,
+            "history": null
+          },
+          "top50": {
+            "current": 3240,
+            "previous": 3306,
+            "diff": -66,
+            "percent": -0.02,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 100,
+            "previous": 100,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "test.kokos.pl",
+        "keywords_count": 0,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 26,
+            "previous": 30,
+            "diff": -4,
+            "percent": -0.1333,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 2,
+    "domain": "kokos.pl",
+    "endpoint": "get_subdomains"
+  }
+}

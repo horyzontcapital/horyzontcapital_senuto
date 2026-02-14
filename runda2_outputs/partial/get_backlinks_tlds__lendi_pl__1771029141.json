@@ -1,0 +1,68 @@
+{
+  "domain": "lendi.pl",
+  "endpoint": "get_backlinks_tlds",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "tld": "pl",
+          "count": 839841,
+          "percent": 0.9961841296802829
+        },
+        {
+          "tld": "com",
+          "count": 3153,
+          "percent": 0.003739956207046253
+        },
+        {
+          "tld": "ua",
+          "count": 43,
+          "percent": 5.100479445067836e-05
+        },
+        {
+          "tld": "info",
+          "count": 15,
+          "percent": 1.779237015721338e-05
+        },
+        {
+          "tld": "io",
+          "count": 2,
+          "percent": 2.3723160209617845e-06
+        },
+        {
+          "tld": "nl",
+          "count": 1,
+          "percent": 1.1861580104808923e-06
+        },
+        {
+          "tld": "de",
+          "count": 1,
+          "percent": 1.1861580104808923e-06
+        },
+        {
+          "tld": "ly",
+          "count": 1,
+          "percent": 1.1861580104808923e-06
+        },
+        {
+          "tld": "in",
+          "count": 1,
+          "percent": 1.1861580104808923e-06
+        }
+      ],
+      "pagination": {
+        "page_count": 1,
+        "current_page": 1,
+        "has_next_page": false,
+        "has_prev_page": false,
+        "count": 9,
+        "limit": 10
+      }
+    },
+    "status": 200,
+    "domain": "lendi.pl",
+    "endpoint": "get_backlinks_tlds"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "domain": "finiata.pl",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "my.finiata.pl",
+        "keywords_count": 10,
+        "visibility_percent": 60.49,
+        "statistics": {
+          "visibility": {
+            "current": 380.2,
+            "previous": 379.66,
+            "diff": 0.54,
+            "percent": 0.0014,
+            "history": null
+          },
+          "top3": {
+            "current": 6,
+            "previous": 6,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 10,
+            "previous": 9,
+            "diff": 1,
+            "percent": 0.1111,
+            "history": null
+          },
+          "top50": {
+            "current": 168,
+            "previous": 123,
+            "diff": 45,
+            "percent": 0.3659,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 60.49,
+            "previous": 74.7,
+            "diff": -0.14,
+            "percent": -0.1902,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "finiata.pl",
+        "keywords_count": 11,
+        "visibility_percent": 39.51,
+        "statistics": {
+          "visibility": {
+            "current": 248.3,
+            "previous": 128.59,
+            "diff": 119.71,
+            "percent": 0.9309,
+            "history": null
+          },
+          "top3": {
+            "current": 1,
+            "previous": 1,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 11,
+            "previous": 11,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 21,
+            "previous": 27,
+            "diff": -6,
+            "percent": -0.2222,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 39.51,
+            "previous": 25.3,
+            "diff": 0.14,
+            "percent": 0.5617,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 2,
+    "domain": "finiata.pl",
+    "endpoint": "get_subdomains"
+  }
+}

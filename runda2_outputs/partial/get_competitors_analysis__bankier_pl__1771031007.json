@@ -1,0 +1,2414 @@
+{
+  "domain": "bankier.pl",
+  "endpoint": "get_competitors_analysis",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "keyword": "pożyczka pod zastaw nieruchomości na 10 lat",
+          "cpc": 10.82,
+          "searches": 590,
+          "trends": [
+            720,
+            590,
+            590,
+            590,
+            590,
+            480,
+            590,
+            590,
+            720,
+            590,
+            590,
+            480
+          ],
+          "difficulty": 44,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 11,
+            "url": "horyzontcapital.com/blog/pozyczka-pod-zastaw-nieruchomosci-dla-firmy-krok-po-kroku"
+          },
+          "horyzontcapital.com_pos": 11,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/pozyczka-pod-zastaw-nieruchomosci-dla-firmy-krok-po-kroku",
+          "bankier.pl": {
+            "pos": 20,
+            "url": "bankier.pl/smart/kredyt-pod-zastaw-mieszkania-co-musisz-wiedziec-zanim-wezmiesz-pozyczke-hipoteczna"
+          },
+          "bankier.pl_pos": 20,
+          "bankier.pl_url": "bankier.pl/smart/kredyt-pod-zastaw-mieszkania-co-musisz-wiedziec-zanim-wezmiesz-pozyczke-hipoteczna"
+        },
+        {
+          "keyword": "pożyczka dla firm bez bik",
+          "cpc": 21.72,
+          "searches": 480,
+          "trends": [
+            590,
+            390,
+            320,
+            480,
+            390,
+            590,
+            390,
+            390,
+            390,
+            390,
+            390,
+            390
+          ],
+          "difficulty": 50,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 14,
+            "url": "horyzontcapital.com/blog/kredyt-dla-firm-bez-bik-czy-to-mozliwe-i-na-jakich-warunkach"
+          },
+          "horyzontcapital.com_pos": 14,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/kredyt-dla-firm-bez-bik-czy-to-mozliwe-i-na-jakich-warunkach",
+          "bankier.pl": {
+            "pos": 29,
+            "url": "bankier.pl/smart/Chwilowki-bez-baz-i-zdolnosci-kredytowej"
+          },
+          "bankier.pl_pos": 29,
+          "bankier.pl_url": "bankier.pl/smart/Chwilowki-bez-baz-i-zdolnosci-kredytowej"
+        },
+        {
+          "keyword": "kredyty dla firm bez bik",
+          "cpc": 7.99,
+          "searches": 390,
+          "trends": [
+            390,
+            390,
+            480,
+            320,
+            390,
+            390,
+            480,
+            390,
+            260,
+            260,
+            260,
+            320
+          ],
+          "difficulty": 52,
+          "params": [
+            "brand"
+          ],
+          "horyzontcapital.com": {
+            "pos": 7,
+            "url": "horyzontcapital.com/blog/kredyt-dla-firm-bez-bik-czy-to-mozliwe-i-na-jakich-warunkach"
+          },
+          "horyzontcapital.com_pos": 7,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/kredyt-dla-firm-bez-bik-czy-to-mozliwe-i-na-jakich-warunkach",
+          "bankier.pl": {
+            "pos": 19,
+            "url": "bankier.pl/smart/Chwilowki-bez-baz-i-zdolnosci-kredytowej"
+          },
+          "bankier.pl_pos": 19,
+          "bankier.pl_url": "bankier.pl/smart/Chwilowki-bez-baz-i-zdolnosci-kredytowej"
+        },
+        {
+          "keyword": "krd big",
+          "cpc": 4.28,
+          "searches": 320,
+          "trends": [
+            390,
+            390,
+            320,
+            320,
+            390,
+            480,
+            480,
+            320,
+            320,
+            390,
+            390,
+            320
+          ],
+          "difficulty": 64,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 17,
+            "url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia"
+          },
+          "horyzontcapital.com_pos": 17,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia",
+          "bankier.pl": {
+            "pos": 8,
+            "url": "bankier.pl/smart/krajowy-rejestr-dluznikow-krd-jak-sprawdzic-baza-krd"
+          },
+          "bankier.pl_pos": 8,
+          "bankier.pl_url": "bankier.pl/smart/krajowy-rejestr-dluznikow-krd-jak-sprawdzic-baza-krd"
+        },
+        {
+          "keyword": "kredyt pod zastaw nieruchomości",
+          "cpc": 11.71,
+          "searches": 320,
+          "trends": [
+            390,
+            320,
+            320,
+            390,
+            320,
+            320,
+            320,
+            390,
+            320,
+            320,
+            260,
+            260
+          ],
+          "difficulty": 53,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 43,
+            "url": "horyzontcapital.com/blog/pozyczka-pod-zastaw-nieruchomosci-dla-firmy-krok-po-kroku"
+          },
+          "horyzontcapital.com_pos": 43,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/pozyczka-pod-zastaw-nieruchomosci-dla-firmy-krok-po-kroku",
+          "bankier.pl": {
+            "pos": 2,
+            "url": "bankier.pl/smart/kredyt-pod-zastaw-mieszkania-co-musisz-wiedziec-zanim-wezmiesz-pozyczke-hipoteczna"
+          },
+          "bankier.pl_pos": 2,
+          "bankier.pl_url": "bankier.pl/smart/kredyt-pod-zastaw-mieszkania-co-musisz-wiedziec-zanim-wezmiesz-pozyczke-hipoteczna"
+        },
+        {
+          "keyword": "pożyczka dla firm bez zdolności kredytowej",
+          "cpc": 16.04,
+          "searches": 260,
+          "trends": [
+            70,
+            90,
+            50,
+            70,
+            70,
+            110,
+            140,
+            110,
+            110,
+            210,
+            210,
+            170
+          ],
+          "difficulty": 41,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 25,
+            "url": "horyzontcapital.com/oferta/pozyczka-dla-firm-bez-zdolnosci-kredytowej"
+          },
+          "horyzontcapital.com_pos": 25,
+          "horyzontcapital.com_url": "horyzontcapital.com/oferta/pozyczka-dla-firm-bez-zdolnosci-kredytowej",
+          "bankier.pl": {
+            "pos": 10,
+            "url": "bankier.pl/smart/kredyt-bez-zdolnosci-kredytowej-jak-i-gdzie-dostac-kredyt-bez-zdolnosci"
+          },
+          "bankier.pl_pos": 10,
+          "bankier.pl_url": "bankier.pl/smart/kredyt-bez-zdolnosci-kredytowej-jak-i-gdzie-dostac-kredyt-bez-zdolnosci"
+        },
+        {
+          "keyword": "pożyczka pod zastaw domu",
+          "cpc": 11.64,
+          "searches": 260,
+          "trends": [
+            320,
+            260,
+            390,
+            320,
+            320,
+            320,
+            260,
+            210,
+            170,
+            260,
+            210,
+            210
+          ],
+          "difficulty": 56,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 10,
+            "url": "horyzontcapital.com/pozyczka-pod-zastaw-nieruchomosci-szybka-decyzja-horyzont-capital/"
+          },
+          "horyzontcapital.com_pos": 10,
+          "horyzontcapital.com_url": "horyzontcapital.com/pozyczka-pod-zastaw-nieruchomosci-szybka-decyzja-horyzont-capital/",
+          "bankier.pl": {
+            "pos": 9,
+            "url": "bankier.pl/smart/kredyt-pod-zastaw-mieszkania-co-musisz-wiedziec-zanim-wezmiesz-pozyczke-hipoteczna"
+          },
+          "bankier.pl_pos": 9,
+          "bankier.pl_url": "bankier.pl/smart/kredyt-pod-zastaw-mieszkania-co-musisz-wiedziec-zanim-wezmiesz-pozyczke-hipoteczna"
+        },
+        {
+          "keyword": "jednoosobową działalność gospodarczą kredyt gotówkowy",
+          "cpc": 7.42,
+          "searches": 260,
+          "trends": [
+            390,
+            320,
+            390,
+            320,
+            320,
+            320,
+            320,
+            140,
+            140,
+            170,
+            170,
+            170
+          ],
+          "difficulty": 39,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 42,
+            "url": "horyzontcapital.com/blog/pozyczka-dla-firmy-jednoosobowej-jak-uzyskac-finansowanie-gdy-bank-odmawia"
+          },
+          "horyzontcapital.com_pos": 42,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/pozyczka-dla-firmy-jednoosobowej-jak-uzyskac-finansowanie-gdy-bank-odmawia",
+          "bankier.pl": {
+            "pos": 13,
+            "url": "bankier.pl/smart/jak-otrzymac-kredyt-goto-wkowy-dla-prowadza-cych-dzialalnos-c-gospodarcza"
+          },
+          "bankier.pl_pos": 13,
+          "bankier.pl_url": "bankier.pl/smart/jak-otrzymac-kredyt-goto-wkowy-dla-prowadza-cych-dzialalnos-c-gospodarcza"
+        },
+        {
+          "keyword": "pożyczki pod zastaw działki",
+          "cpc": 1.68,
+          "searches": 170,
+          "trends": [
+            170,
+            210,
+            260,
+            210,
+            170,
+            110,
+            70,
+            110,
+            110,
+            170,
+            210,
+            170
+          ],
+          "difficulty": 41,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 49,
+            "url": "https://horyzontcapital.com/pozyczka-pod-zastaw-nieruchomosci-szybka-decyzja-horyzont-capital/"
+          },
+          "horyzontcapital.com_pos": 49,
+          "horyzontcapital.com_url": "https://horyzontcapital.com/pozyczka-pod-zastaw-nieruchomosci-szybka-decyzja-horyzont-capital/",
+          "bankier.pl": {
+            "pos": 2,
+            "url": "bankier.pl/smart/kredyt-pod-zastaw-dzialki"
+          },
+          "bankier.pl_pos": 2,
+          "bankier.pl_url": "bankier.pl/smart/kredyt-pod-zastaw-dzialki"
+        },
+        {
+          "keyword": "pożyczki pod zastaw nieruchomości bez bik",
+          "cpc": 13.41,
+          "searches": 170,
+          "trends": [
+            210,
+            210,
+            140,
+            110,
+            140,
+            170,
+            260,
+            140,
+            110,
+            210,
+            210,
+            260
+          ],
+          "difficulty": 46,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 8,
+            "url": "horyzontcapital.com/blog/pozyczka-pod-zastaw-mieszkania-elastyczne-finansowanie-dla-twojego-biznesu"
+          },
+          "horyzontcapital.com_pos": 8,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/pozyczka-pod-zastaw-mieszkania-elastyczne-finansowanie-dla-twojego-biznesu",
+          "bankier.pl": {
+            "pos": 36,
+            "url": "bankier.pl/smart/kredyty-hipoteczne"
+          },
+          "bankier.pl_pos": 36,
+          "bankier.pl_url": "bankier.pl/smart/kredyty-hipoteczne"
+        },
+        {
+          "keyword": "bezpieczne pożyczki pod zastaw nieruchomości",
+          "cpc": 11.15,
+          "searches": 140,
+          "trends": [
+            170,
+            170,
+            90,
+            110,
+            110,
+            170,
+            170,
+            140,
+            70,
+            110,
+            110,
+            110
+          ],
+          "difficulty": 51,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 7,
+            "url": "horyzontcapital.com/oferta/pozyczka-pod-zastaw-nieruchomosci"
+          },
+          "horyzontcapital.com_pos": 7,
+          "horyzontcapital.com_url": "horyzontcapital.com/oferta/pozyczka-pod-zastaw-nieruchomosci",
+          "bankier.pl": {
+            "pos": 24,
+            "url": "bankier.pl/smart/pozyczki-pod-zastaw-nieruchomosci-jak-dostac-taka-pozyczke"
+          },
+          "bankier.pl_pos": 24,
+          "bankier.pl_url": "bankier.pl/smart/pozyczki-pod-zastaw-nieruchomosci-jak-dostac-taka-pozyczke"
+        },
+        {
+          "keyword": "bik big krd",
+          "cpc": 1.69,
+          "searches": 140,
+          "trends": [
+            170,
+            170,
+            170,
+            210,
+            170,
+            140,
+            70,
+            140,
+            140,
+            170,
+            140,
+            170
+          ],
+          "difficulty": 53,
+          "params": [
+            "brand"
+          ],
+          "horyzontcapital.com": {
+            "pos": 26,
+            "url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia"
+          },
+          "horyzontcapital.com_pos": 26,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia",
+          "bankier.pl": {
+            "pos": 17,
+            "url": "bankier.pl/smart/bik-i-big-jakie-sa-kluczowe-roznice"
+          },
+          "bankier.pl_pos": 17,
+          "bankier.pl_url": "bankier.pl/smart/bik-i-big-jakie-sa-kluczowe-roznice"
+        },
+        {
+          "keyword": "kredyt pod zastaw ziemi rolnej",
+          "cpc": 4.29,
+          "searches": 140,
+          "trends": [
+            170,
+            210,
+            170,
+            210,
+            140,
+            140,
+            140,
+            140,
+            110,
+            110,
+            110,
+            110
+          ],
+          "difficulty": 33,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 21,
+            "url": "horyzontcapital.com/oferta/pozyczka-pod-dzialke-lub-grunt"
+          },
+          "horyzontcapital.com_pos": 21,
+          "horyzontcapital.com_url": "horyzontcapital.com/oferta/pozyczka-pod-dzialke-lub-grunt",
+          "bankier.pl": {
+            "pos": 9,
+            "url": "bankier.pl/smart/kredyt-pod-zastaw-dzialki"
+          },
+          "bankier.pl_pos": 9,
+          "bankier.pl_url": "bankier.pl/smart/kredyt-pod-zastaw-dzialki"
+        },
+        {
+          "keyword": "pożyczki pod zastaw online",
+          "cpc": 8.53,
+          "searches": 140,
+          "trends": [
+            170,
+            170,
+            140,
+            170,
+            140,
+            110,
+            140,
+            140,
+            170,
+            140,
+            110,
+            110
+          ],
+          "difficulty": 44,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 43,
+            "url": "horyzontcapital.com/blog/pozyczka-pod-zastaw-nieruchomosci-dla-firmy-krok-po-kroku"
+          },
+          "horyzontcapital.com_pos": 43,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/pozyczka-pod-zastaw-nieruchomosci-dla-firmy-krok-po-kroku",
+          "bankier.pl": {
+            "pos": 44,
+            "url": "bankier.pl/smart/narzedzia/kalkulator-zdolnosci-kredytowej"
+          },
+          "bankier.pl_pos": 44,
+          "bankier.pl_url": "bankier.pl/smart/narzedzia/kalkulator-zdolnosci-kredytowej"
+        },
+        {
+          "keyword": "pożyczka pod zastaw nieruchomości opinie",
+          "cpc": 1.04,
+          "searches": 110,
+          "trends": [
+            110,
+            90,
+            110,
+            140,
+            140,
+            140,
+            70,
+            70,
+            90,
+            90,
+            110,
+            70
+          ],
+          "difficulty": 28,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 30,
+            "url": "https://horyzontcapital.com/blog/pozyczka-pod-zastaw-nieruchomosci-kiedy-warto-skorzystac/"
+          },
+          "horyzontcapital.com_pos": 30,
+          "horyzontcapital.com_url": "https://horyzontcapital.com/blog/pozyczka-pod-zastaw-nieruchomosci-kiedy-warto-skorzystac/",
+          "bankier.pl": {
+            "pos": 2,
+            "url": "bankier.pl/smart/kredyt-pod-zastaw-mieszkania-co-musisz-wiedziec-zanim-wezmiesz-pozyczke-hipoteczna"
+          },
+          "bankier.pl_pos": 2,
+          "bankier.pl_url": "bankier.pl/smart/kredyt-pod-zastaw-mieszkania-co-musisz-wiedziec-zanim-wezmiesz-pozyczke-hipoteczna"
+        },
+        {
+          "keyword": "pożyczki pozabankowe bez zdolności kredytowej",
+          "cpc": 6.05,
+          "searches": 110,
+          "trends": [
+            110,
+            110,
+            110,
+            110,
+            140,
+            90,
+            140,
+            140,
+            90,
+            90,
+            140,
+            140
+          ],
+          "difficulty": 42,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 39,
+            "url": "horyzontcapital.com/blog/gdzie-dostane-kredyt-bez-zdolnosci-kredytowej"
+          },
+          "horyzontcapital.com_pos": 39,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/gdzie-dostane-kredyt-bez-zdolnosci-kredytowej",
+          "bankier.pl": {
+            "pos": 1,
+            "url": "bankier.pl/smart/Chwilowki-bez-baz-i-zdolnosci-kredytowej"
+          },
+          "bankier.pl_pos": 1,
+          "bankier.pl_url": "bankier.pl/smart/Chwilowki-bez-baz-i-zdolnosci-kredytowej"
+        },
+        {
+          "keyword": "pożyczka pod zastaw ziemi rolnej",
+          "cpc": 5.6,
+          "searches": 90,
+          "trends": [
+            110,
+            90,
+            110,
+            70,
+            90,
+            70,
+            170,
+            50,
+            40,
+            50,
+            70,
+            50
+          ],
+          "difficulty": 31,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 5,
+            "url": "horyzontcapital.com/oferta/pozyczka-pod-dzialke-lub-grunt"
+          },
+          "horyzontcapital.com_pos": 5,
+          "horyzontcapital.com_url": "horyzontcapital.com/oferta/pozyczka-pod-dzialke-lub-grunt",
+          "bankier.pl": {
+            "pos": 18,
+            "url": "bankier.pl/smart/kredyt-pod-zastaw-dzialki"
+          },
+          "bankier.pl_pos": 18,
+          "bankier.pl_url": "bankier.pl/smart/kredyt-pod-zastaw-dzialki"
+        },
+        {
+          "keyword": "uczciwe pożyczki pod zastaw mieszkania",
+          "cpc": 1.71,
+          "searches": 90,
+          "trends": [
+            90,
+            30,
+            50,
+            50,
+            140,
+            90,
+            70,
+            70,
+            110,
+            110,
+            140,
+            70
+          ],
+          "difficulty": 27,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 26,
+            "url": "horyzontcapital.com/oferta/pozyczka-pod-zastaw-nieruchomosci"
+          },
+          "horyzontcapital.com_pos": 26,
+          "horyzontcapital.com_url": "horyzontcapital.com/oferta/pozyczka-pod-zastaw-nieruchomosci",
+          "bankier.pl": {
+            "pos": 21,
+            "url": "bankier.pl/smart/kredyt-pod-zastaw-mieszkania-co-musisz-wiedziec-zanim-wezmiesz-pozyczke-hipoteczna"
+          },
+          "bankier.pl_pos": 21,
+          "bankier.pl_url": "bankier.pl/smart/kredyt-pod-zastaw-mieszkania-co-musisz-wiedziec-zanim-wezmiesz-pozyczke-hipoteczna"
+        },
+        {
+          "keyword": "bik krajowy rejestr długów",
+          "cpc": 1.82,
+          "searches": 90,
+          "trends": [
+            110,
+            90,
+            90,
+            50,
+            110,
+            110,
+            110,
+            70,
+            70,
+            70,
+            70,
+            50
+          ],
+          "difficulty": 46,
+          "params": [
+            "brand"
+          ],
+          "horyzontcapital.com": {
+            "pos": 34,
+            "url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia"
+          },
+          "horyzontcapital.com_pos": 34,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia",
+          "bankier.pl": {
+            "pos": 24,
+            "url": "bankier.pl/smart/rejestr-dluznikow-kompendium-wiedzy-w-pigulce"
+          },
+          "bankier.pl_pos": 24,
+          "bankier.pl_url": "bankier.pl/smart/rejestr-dluznikow-kompendium-wiedzy-w-pigulce"
+        },
+        {
+          "keyword": "pożycza pieniądze pod zastaw",
+          "cpc": 1.29,
+          "searches": 70,
+          "trends": [
+            50,
+            20,
+            50,
+            40,
+            10,
+            50,
+            320,
+            170,
+            90,
+            50,
+            30,
+            20
+          ],
+          "difficulty": 36,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 25,
+            "url": "horyzontcapital.com/oferta/pozyczka-pod-zastaw-nieruchomosci"
+          },
+          "horyzontcapital.com_pos": 25,
+          "horyzontcapital.com_url": "horyzontcapital.com/oferta/pozyczka-pod-zastaw-nieruchomosci",
+          "bankier.pl": {
+            "pos": 22,
+            "url": "bankier.pl/smart/kredyt-pod-zastaw-mieszkania-co-musisz-wiedziec-zanim-wezmiesz-pozyczke-hipoteczna"
+          },
+          "bankier.pl_pos": 22,
+          "bankier.pl_url": "bankier.pl/smart/kredyt-pod-zastaw-mieszkania-co-musisz-wiedziec-zanim-wezmiesz-pozyczke-hipoteczna"
+        },
+        {
+          "keyword": "kredyt firmowy bez bik",
+          "cpc": 23.47,
+          "searches": 70,
+          "trends": [
+            70,
+            50,
+            30,
+            30,
+            30,
+            50,
+            40,
+            40,
+            70,
+            50,
+            50,
+            40
+          ],
+          "difficulty": 48,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 9,
+            "url": "horyzontcapital.com/blog/kredyt-dla-firm-bez-bik-czy-to-mozliwe-i-na-jakich-warunkach"
+          },
+          "horyzontcapital.com_pos": 9,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/kredyt-dla-firm-bez-bik-czy-to-mozliwe-i-na-jakich-warunkach",
+          "bankier.pl": {
+            "pos": 22,
+            "url": "bankier.pl/smart/Chwilowki-bez-baz-i-zdolnosci-kredytowej"
+          },
+          "bankier.pl_pos": 22,
+          "bankier.pl_url": "bankier.pl/smart/Chwilowki-bez-baz-i-zdolnosci-kredytowej"
+        },
+        {
+          "keyword": "naprawa historii kredytowej",
+          "cpc": 3.75,
+          "searches": 70,
+          "trends": [
+            110,
+            70,
+            140,
+            90,
+            70,
+            30,
+            40,
+            50,
+            40,
+            50,
+            110,
+            50
+          ],
+          "difficulty": 34,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 26,
+            "url": "horyzontcapital.com/blog/jak-wyczyscic-bik-i-poprawic-scoring-kredytowy-poradnik-dla-przedsiebiorcow"
+          },
+          "horyzontcapital.com_pos": 26,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/jak-wyczyscic-bik-i-poprawic-scoring-kredytowy-poradnik-dla-przedsiebiorcow",
+          "bankier.pl": {
+            "pos": 17,
+            "url": "bankier.pl/smart/czym-jest-historia-kredytowa-i-jak-zadbac-o-jej-jakosc"
+          },
+          "bankier.pl_pos": 17,
+          "bankier.pl_url": "bankier.pl/smart/czym-jest-historia-kredytowa-i-jak-zadbac-o-jej-jakosc"
+        },
+        {
+          "keyword": "kredyt hipoteczny pod zastaw ziemi rolnej",
+          "cpc": 4.28,
+          "searches": 50,
+          "trends": [
+            50,
+            50,
+            50,
+            70,
+            40,
+            70,
+            40,
+            50,
+            50,
+            50,
+            50,
+            70
+          ],
+          "difficulty": 30,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 43,
+            "url": "horyzontcapital.com/oferta/pozyczka-pod-dzialke-lub-grunt"
+          },
+          "horyzontcapital.com_pos": 43,
+          "horyzontcapital.com_url": "horyzontcapital.com/oferta/pozyczka-pod-dzialke-lub-grunt",
+          "bankier.pl": {
+            "pos": 7,
+            "url": "bankier.pl/smart/kredyt-pod-zastaw-dzialki"
+          },
+          "bankier.pl_pos": 7,
+          "bankier.pl_url": "bankier.pl/smart/kredyt-pod-zastaw-dzialki"
+        },
+        {
+          "keyword": "jak poprawić scoring bik",
+          "cpc": 2.11,
+          "searches": 50,
+          "trends": [
+            70,
+            90,
+            90,
+            90,
+            90,
+            90,
+            110,
+            90,
+            110,
+            110,
+            140,
+            110
+          ],
+          "difficulty": 35,
+          "params": [
+            "is_question"
+          ],
+          "horyzontcapital.com": {
+            "pos": 2,
+            "url": "horyzontcapital.com/dowiedz-sie-jak-wyczyscic-bik-i-poprawic-scoring-kredytowy/"
+          },
+          "horyzontcapital.com_pos": 2,
+          "horyzontcapital.com_url": "horyzontcapital.com/dowiedz-sie-jak-wyczyscic-bik-i-poprawic-scoring-kredytowy/",
+          "bankier.pl": {
+            "pos": 4,
+            "url": "bankier.pl/smart/ocena-punktowa-bik-jak-wyglada-scoring-kredytowy"
+          },
+          "bankier.pl_pos": 4,
+          "bankier.pl_url": "bankier.pl/smart/ocena-punktowa-bik-jak-wyglada-scoring-kredytowy"
+        },
+        {
+          "keyword": "poprawa bik",
+          "cpc": 3.76,
+          "searches": 50,
+          "trends": [
+            40,
+            30,
+            30,
+            20,
+            20,
+            10,
+            20,
+            30,
+            20,
+            30,
+            10,
+            40
+          ],
+          "difficulty": 34,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 37,
+            "url": "horyzontcapital.com/blog/jak-wyczyscic-bik-i-poprawic-scoring-kredytowy-poradnik-dla-przedsiebiorcow"
+          },
+          "horyzontcapital.com_pos": 37,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/jak-wyczyscic-bik-i-poprawic-scoring-kredytowy-poradnik-dla-przedsiebiorcow",
+          "bankier.pl": {
+            "pos": 8,
+            "url": "bankier.pl/smart/czyszczenie-bik"
+          },
+          "bankier.pl_pos": 8,
+          "bankier.pl_url": "bankier.pl/smart/czyszczenie-bik"
+        },
+        {
+          "keyword": "pozabankowe instytucje finansowe",
+          "cpc": 0.11,
+          "searches": 50,
+          "trends": [
+            50,
+            50,
+            140,
+            90,
+            110,
+            70,
+            40,
+            20,
+            20,
+            20,
+            20,
+            50
+          ],
+          "difficulty": 30,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 22,
+            "url": "horyzontcapital.com/blog/czym-rozni-sie-finansowanie-pozabankowe-od-kredytu-bankowego"
+          },
+          "horyzontcapital.com_pos": 22,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/czym-rozni-sie-finansowanie-pozabankowe-od-kredytu-bankowego",
+          "bankier.pl": {
+            "pos": 9,
+            "url": "bankier.pl/smart/pozyczki-na-raty"
+          },
+          "bankier.pl_pos": 9,
+          "bankier.pl_url": "bankier.pl/smart/pozyczki-na-raty"
+        },
+        {
+          "keyword": "pożyczka dla jednoosobowej działalności gospodarczej",
+          "cpc": 7.97,
+          "searches": 40,
+          "trends": [
+            40,
+            50,
+            30,
+            70,
+            40,
+            50,
+            20,
+            50,
+            30,
+            20,
+            40,
+            30
+          ],
+          "difficulty": 46,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 26,
+            "url": "https://horyzontcapital.com/blog/pozyczka-dla-firmy-jednoosobowej-jak-uzyskac-finansowanie-gdy-bank-odmawia"
+          },
+          "horyzontcapital.com_pos": 26,
+          "horyzontcapital.com_url": "https://horyzontcapital.com/blog/pozyczka-dla-firmy-jednoosobowej-jak-uzyskac-finansowanie-gdy-bank-odmawia",
+          "bankier.pl": {
+            "pos": 4,
+            "url": "bankier.pl/smart/Pozyczka-dla-firm-jednoosobowych"
+          },
+          "bankier.pl_pos": 4,
+          "bankier.pl_url": "bankier.pl/smart/Pozyczka-dla-firm-jednoosobowych"
+        },
+        {
+          "keyword": "finansowanie pozabankowe",
+          "cpc": 13.65,
+          "searches": 40,
+          "trends": [
+            20,
+            30,
+            30,
+            30,
+            10,
+            10,
+            10,
+            10,
+            10,
+            20,
+            30,
+            20
+          ],
+          "difficulty": 38,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 22,
+            "url": "horyzontcapital.com/blog/czym-rozni-sie-finansowanie-pozabankowe-od-kredytu-bankowego"
+          },
+          "horyzontcapital.com_pos": 22,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/czym-rozni-sie-finansowanie-pozabankowe-od-kredytu-bankowego",
+          "bankier.pl": {
+            "pos": 2,
+            "url": "bankier.pl/smart/Pozyczka-pozabankowa-Oferty-i-praktyczne-porady"
+          },
+          "bankier.pl_pos": 2,
+          "bankier.pl_url": "bankier.pl/smart/Pozyczka-pozabankowa-Oferty-i-praktyczne-porady"
+        },
+        {
+          "keyword": "pożyczka pod zastaw ziemi",
+          "cpc": 5.81,
+          "searches": 40,
+          "trends": [
+            30,
+            50,
+            50,
+            50,
+            50,
+            40,
+            40,
+            30,
+            30,
+            50,
+            50,
+            40
+          ],
+          "difficulty": 42,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 12,
+            "url": "horyzontcapital.com/oferta/pozyczka-pod-zastaw-gruntow-rolnych/"
+          },
+          "horyzontcapital.com_pos": 12,
+          "horyzontcapital.com_url": "horyzontcapital.com/oferta/pozyczka-pod-zastaw-gruntow-rolnych/",
+          "bankier.pl": {
+            "pos": 1,
+            "url": "bankier.pl/smart/kredyt-pod-zastaw-dzialki"
+          },
+          "bankier.pl_pos": 1,
+          "bankier.pl_url": "bankier.pl/smart/kredyt-pod-zastaw-dzialki"
+        },
+        {
+          "keyword": "pożyczki pod zastaw działki budowlanej",
+          "cpc": 7.37,
+          "searches": 40,
+          "trends": [
+            40,
+            30,
+            40,
+            30,
+            30,
+            40,
+            40,
+            40,
+            40,
+            50,
+            50,
+            50
+          ],
+          "difficulty": 41,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 46,
+            "url": "horyzontcapital.com/oferta/pozyczka-pod-dzialke-lub-grunt"
+          },
+          "horyzontcapital.com_pos": 46,
+          "horyzontcapital.com_url": "horyzontcapital.com/oferta/pozyczka-pod-dzialke-lub-grunt",
+          "bankier.pl": {
+            "pos": 4,
+            "url": "bankier.pl/smart/kredyt-pod-zastaw-dzialki"
+          },
+          "bankier.pl_pos": 4,
+          "bankier.pl_url": "bankier.pl/smart/kredyt-pod-zastaw-dzialki"
+        },
+        {
+          "keyword": "pożyczki na działalność gospodarczą bez bik",
+          "cpc": 6.72,
+          "searches": 30,
+          "trends": [
+            40,
+            30,
+            50,
+            30,
+            10,
+            20,
+            20,
+            30,
+            20,
+            30,
+            40,
+            30
+          ],
+          "difficulty": 38,
+          "params": [
+            "brand"
+          ],
+          "horyzontcapital.com": {
+            "pos": 9,
+            "url": "horyzontcapital.com/blog/kredyt-dla-firm-bez-bik-czy-to-mozliwe-i-na-jakich-warunkach"
+          },
+          "horyzontcapital.com_pos": 9,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/kredyt-dla-firm-bez-bik-czy-to-mozliwe-i-na-jakich-warunkach",
+          "bankier.pl": {
+            "pos": 35,
+            "url": "bankier.pl/smart/kredyty-gotowkowe"
+          },
+          "bankier.pl_pos": 35,
+          "bankier.pl_url": "bankier.pl/smart/kredyty-gotowkowe"
+        },
+        {
+          "keyword": "co to znaczy krd",
+          "cpc": 0,
+          "searches": 30,
+          "trends": [
+            10,
+            30,
+            40,
+            30,
+            30,
+            30,
+            20,
+            20,
+            30,
+            20,
+            20,
+            20
+          ],
+          "difficulty": 38,
+          "params": [
+            "question"
+          ],
+          "horyzontcapital.com": {
+            "pos": 23,
+            "url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia"
+          },
+          "horyzontcapital.com_pos": 23,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia",
+          "bankier.pl": {
+            "pos": 28,
+            "url": "bankier.pl/smart/krajowy-rejestr-dluznikow-krd-jak-sprawdzic-baza-krd"
+          },
+          "bankier.pl_pos": 28,
+          "bankier.pl_url": "bankier.pl/smart/krajowy-rejestr-dluznikow-krd-jak-sprawdzic-baza-krd"
+        },
+        {
+          "keyword": "pozyczki dla zadluzonych firm bez zdolnosci kredytowej",
+          "cpc": 9.25,
+          "searches": 20,
+          "trends": [
+            30,
+            10,
+            20,
+            30,
+            40,
+            40,
+            30,
+            20,
+            10,
+            20,
+            30,
+            20
+          ],
+          "difficulty": 46,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 24,
+            "url": "horyzontcapital.com/oferta/pozyczka-dla-firm-bez-zdolnosci-kredytowej"
+          },
+          "horyzontcapital.com_pos": 24,
+          "horyzontcapital.com_url": "horyzontcapital.com/oferta/pozyczka-dla-firm-bez-zdolnosci-kredytowej",
+          "bankier.pl": {
+            "pos": 10,
+            "url": "bankier.pl/smart/Chwilowki-bez-baz-i-zdolnosci-kredytowej"
+          },
+          "bankier.pl_pos": 10,
+          "bankier.pl_url": "bankier.pl/smart/Chwilowki-bez-baz-i-zdolnosci-kredytowej"
+        },
+        {
+          "keyword": "jak sprawdzic czy jestem w bik i krd",
+          "cpc": 0.38,
+          "searches": 20,
+          "trends": [
+            20,
+            30,
+            20,
+            30,
+            40,
+            20,
+            40,
+            10,
+            20,
+            20,
+            20,
+            20
+          ],
+          "difficulty": 30,
+          "params": [
+            "brand"
+          ],
+          "horyzontcapital.com": {
+            "pos": 48,
+            "url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia"
+          },
+          "horyzontcapital.com_pos": 48,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia",
+          "bankier.pl": {
+            "pos": 7,
+            "url": "bankier.pl/smart/jak-sprawdzic-raport-bik-za-darmo"
+          },
+          "bankier.pl_pos": 7,
+          "bankier.pl_url": "bankier.pl/smart/jak-sprawdzic-raport-bik-za-darmo"
+        },
+        {
+          "keyword": "co to jest bik i krd",
+          "cpc": 1.43,
+          "searches": 20,
+          "trends": [
+            20,
+            20,
+            20,
+            10,
+            20,
+            10,
+            20,
+            20,
+            30,
+            30,
+            30,
+            20
+          ],
+          "difficulty": 34,
+          "params": [
+            "question"
+          ],
+          "horyzontcapital.com": {
+            "pos": 20,
+            "url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia"
+          },
+          "horyzontcapital.com_pos": 20,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia",
+          "bankier.pl": {
+            "pos": 27,
+            "url": "bankier.pl/smart/czy-pozyczki-pozabankowe-sa-widoczne-w-bik"
+          },
+          "bankier.pl_pos": 27,
+          "bankier.pl_url": "bankier.pl/smart/czy-pozyczki-pozabankowe-sa-widoczne-w-bik"
+        },
+        {
+          "keyword": "jak poprawic ocene bik",
+          "cpc": 2.35,
+          "searches": 20,
+          "trends": [
+            30,
+            20,
+            30,
+            20,
+            30,
+            20,
+            40,
+            20,
+            20,
+            10,
+            20,
+            20
+          ],
+          "difficulty": 37,
+          "params": [
+            "brand"
+          ],
+          "horyzontcapital.com": {
+            "pos": 33,
+            "url": "https://horyzontcapital.com/blog/jak-wyczyscic-bik-i-poprawic-scoring-kredytowy-poradnik-dla-przedsiebiorcow"
+          },
+          "horyzontcapital.com_pos": 33,
+          "horyzontcapital.com_url": "https://horyzontcapital.com/blog/jak-wyczyscic-bik-i-poprawic-scoring-kredytowy-poradnik-dla-przedsiebiorcow",
+          "bankier.pl": {
+            "pos": 4,
+            "url": "bankier.pl/smart/ocena-punktowa-bik-jak-wyglada-scoring-kredytowy"
+          },
+          "bankier.pl_pos": 4,
+          "bankier.pl_url": "bankier.pl/smart/ocena-punktowa-bik-jak-wyglada-scoring-kredytowy"
+        },
+        {
+          "keyword": "pożyczka pod zastaw udziałów w nieruchomości",
+          "cpc": 11.53,
+          "searches": 20,
+          "trends": [
+            10,
+            50,
+            20,
+            20,
+            20,
+            10,
+            10,
+            10,
+            10,
+            10,
+            20,
+            20
+          ],
+          "difficulty": 28,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 4,
+            "url": "horyzontcapital.com/blog/pozyczka-pod-zastaw-nieruchomosci-o-czym-warto-wiedziec"
+          },
+          "horyzontcapital.com_pos": 4,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/pozyczka-pod-zastaw-nieruchomosci-o-czym-warto-wiedziec",
+          "bankier.pl": {
+            "pos": 8,
+            "url": "bankier.pl/smart/kredyt-pod-zastaw-dzialki"
+          },
+          "bankier.pl_pos": 8,
+          "bankier.pl_url": "bankier.pl/smart/kredyt-pod-zastaw-dzialki"
+        },
+        {
+          "keyword": "jak poprawić swój bik",
+          "cpc": 7.21,
+          "searches": 20,
+          "trends": [
+            20,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+          ],
+          "difficulty": 35,
+          "params": [
+            "is_question"
+          ],
+          "horyzontcapital.com": {
+            "pos": 34,
+            "url": "horyzontcapital.com/blog/jak-wyczyscic-bik-i-poprawic-scoring-kredytowy-poradnik-dla-przedsiebiorcow"
+          },
+          "horyzontcapital.com_pos": 34,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/jak-wyczyscic-bik-i-poprawic-scoring-kredytowy-poradnik-dla-przedsiebiorcow",
+          "bankier.pl": {
+            "pos": 5,
+            "url": "bankier.pl/smart/ocena-punktowa-bik-jak-wyglada-scoring-kredytowy"
+          },
+          "bankier.pl_pos": 5,
+          "bankier.pl_url": "bankier.pl/smart/ocena-punktowa-bik-jak-wyglada-scoring-kredytowy"
+        },
+        {
+          "keyword": "pożyczki pod hipotekę dla zadłużonych",
+          "cpc": 2.88,
+          "searches": 20,
+          "trends": [
+            30,
+            30,
+            20,
+            30,
+            20,
+            10,
+            20,
+            20,
+            10,
+            20,
+            20,
+            10
+          ],
+          "difficulty": 37,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 30,
+            "url": "horyzontcapital.com/oferta/pozyczka-pod-zastaw-nieruchomosci"
+          },
+          "horyzontcapital.com_pos": 30,
+          "horyzontcapital.com_url": "horyzontcapital.com/oferta/pozyczka-pod-zastaw-nieruchomosci",
+          "bankier.pl": {
+            "pos": 15,
+            "url": "bankier.pl/smart/pozyczki-pod-zastaw-nieruchomosci-jak-dostac-taka-pozyczke"
+          },
+          "bankier.pl_pos": 15,
+          "bankier.pl_url": "bankier.pl/smart/pozyczki-pod-zastaw-nieruchomosci-jak-dostac-taka-pozyczke"
+        },
+        {
+          "keyword": "kredyt hipoteczny pod zastaw działki rolnej",
+          "cpc": 6.57,
+          "searches": 20,
+          "trends": [
+            10,
+            20,
+            20,
+            20,
+            20,
+            20,
+            10,
+            20,
+            10,
+            10,
+            10,
+            10
+          ],
+          "difficulty": 26,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 42,
+            "url": "https://horyzontcapital.com/oferta/pozyczka-pod-dzialke-lub-grunt"
+          },
+          "horyzontcapital.com_pos": 42,
+          "horyzontcapital.com_url": "https://horyzontcapital.com/oferta/pozyczka-pod-dzialke-lub-grunt",
+          "bankier.pl": {
+            "pos": 4,
+            "url": "bankier.pl/smart/kredyt-pod-zastaw-dzialki"
+          },
+          "bankier.pl_pos": 4,
+          "bankier.pl_url": "bankier.pl/smart/kredyt-pod-zastaw-dzialki"
+        },
+        {
+          "keyword": "baza bik i krd",
+          "cpc": 1.93,
+          "searches": 20,
+          "trends": [
+            10,
+            10,
+            10,
+            20,
+            20,
+            20,
+            10,
+            10,
+            20,
+            30,
+            30,
+            10
+          ],
+          "difficulty": 43,
+          "params": [
+            "brand"
+          ],
+          "horyzontcapital.com": {
+            "pos": 11,
+            "url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia"
+          },
+          "horyzontcapital.com_pos": 11,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia",
+          "bankier.pl": {
+            "pos": 29,
+            "url": "bankier.pl/smart/rejestr-dluznikow-kompendium-wiedzy-w-pigulce"
+          },
+          "bankier.pl_pos": 29,
+          "bankier.pl_url": "bankier.pl/smart/rejestr-dluznikow-kompendium-wiedzy-w-pigulce"
+        },
+        {
+          "keyword": "kredyt pod zastaw działki rolnej",
+          "cpc": 8.39,
+          "searches": 20,
+          "trends": [
+            40,
+            50,
+            20,
+            40,
+            30,
+            10,
+            20,
+            10,
+            10,
+            10,
+            10,
+            10
+          ],
+          "difficulty": 30,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 17,
+            "url": "horyzontcapital.com/oferta/pozyczka-pod-dzialke-lub-grunt"
+          },
+          "horyzontcapital.com_pos": 17,
+          "horyzontcapital.com_url": "horyzontcapital.com/oferta/pozyczka-pod-dzialke-lub-grunt",
+          "bankier.pl": {
+            "pos": 4,
+            "url": "bankier.pl/smart/kredyt-pod-zastaw-dzialki"
+          },
+          "bankier.pl_pos": 4,
+          "bankier.pl_url": "bankier.pl/smart/kredyt-pod-zastaw-dzialki"
+        },
+        {
+          "keyword": "krd czy bik",
+          "cpc": 4.91,
+          "searches": 20,
+          "trends": [
+            20,
+            30,
+            30,
+            20,
+            30,
+            20,
+            20,
+            10,
+            20,
+            20,
+            10,
+            10
+          ],
+          "difficulty": 52,
+          "params": [
+            "brand"
+          ],
+          "horyzontcapital.com": {
+            "pos": 1,
+            "url": "horyzontcapital.com/bik-i-krd-czym-sie-roznia/"
+          },
+          "horyzontcapital.com_pos": 1,
+          "horyzontcapital.com_url": "horyzontcapital.com/bik-i-krd-czym-sie-roznia/",
+          "bankier.pl": {
+            "pos": 7,
+            "url": "bankier.pl/smart/rejestr-dluznikow-kompendium-wiedzy-w-pigulce"
+          },
+          "bankier.pl_pos": 7,
+          "bankier.pl_url": "bankier.pl/smart/rejestr-dluznikow-kompendium-wiedzy-w-pigulce"
+        },
+        {
+          "keyword": "kredyt pod zastaw mieszkania warunki",
+          "cpc": 5.21,
+          "searches": 20,
+          "trends": [
+            10,
+            10,
+            20,
+            40,
+            30,
+            20,
+            20,
+            10,
+            10,
+            20,
+            10,
+            10
+          ],
+          "difficulty": 37,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 46,
+            "url": "horyzontcapital.com/blog/pozyczka-pod-zastaw-nieruchomosci-kiedy-warto-skorzystac"
+          },
+          "horyzontcapital.com_pos": 46,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/pozyczka-pod-zastaw-nieruchomosci-kiedy-warto-skorzystac",
+          "bankier.pl": {
+            "pos": 2,
+            "url": "bankier.pl/smart/kredyt-pod-zastaw-mieszkania-co-musisz-wiedziec-zanim-wezmiesz-pozyczke-hipoteczna"
+          },
+          "bankier.pl_pos": 2,
+          "bankier.pl_url": "bankier.pl/smart/kredyt-pod-zastaw-mieszkania-co-musisz-wiedziec-zanim-wezmiesz-pozyczke-hipoteczna"
+        },
+        {
+          "keyword": "pożyczka na 500 dla osób ze złą historią kredytową inowrocław",
+          "cpc": 0,
+          "searches": 20,
+          "trends": [
+            40,
+            30,
+            30,
+            20,
+            10,
+            0,
+            0,
+            10,
+            10,
+            30,
+            20,
+            40
+          ],
+          "difficulty": 15,
+          "params": [
+            "city"
+          ],
+          "horyzontcapital.com": {
+            "pos": 22,
+            "url": "horyzontcapital.com/oferta/pozyczka-dla-firm-bez-zdolnosci-kredytowej"
+          },
+          "horyzontcapital.com_pos": 22,
+          "horyzontcapital.com_url": "horyzontcapital.com/oferta/pozyczka-dla-firm-bez-zdolnosci-kredytowej",
+          "bankier.pl": {
+            "pos": 1,
+            "url": "bankier.pl/smart/Pozyczka-500-zl-przez-internet-Ranking-pozyczek-na-500-zlotych"
+          },
+          "bankier.pl_pos": 1,
+          "bankier.pl_url": "bankier.pl/smart/Pozyczka-500-zl-przez-internet-Ranking-pozyczek-na-500-zlotych"
+        },
+        {
+          "keyword": "jak zwiększyć scoring bik",
+          "cpc": 2.83,
+          "searches": 20,
+          "trends": [
+            20,
+            10,
+            20,
+            20,
+            20,
+            30,
+            10,
+            10,
+            10,
+            20,
+            10,
+            10
+          ],
+          "difficulty": 33,
+          "params": [
+            "brand"
+          ],
+          "horyzontcapital.com": {
+            "pos": 43,
+            "url": "horyzontcapital.com/blog/jak-wyczyscic-bik-i-poprawic-scoring-kredytowy-poradnik-dla-przedsiebiorcow"
+          },
+          "horyzontcapital.com_pos": 43,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/jak-wyczyscic-bik-i-poprawic-scoring-kredytowy-poradnik-dla-przedsiebiorcow",
+          "bankier.pl": {
+            "pos": 4,
+            "url": "bankier.pl/smart/ocena-punktowa-bik-jak-wyglada-scoring-kredytowy"
+          },
+          "bankier.pl_pos": 4,
+          "bankier.pl_url": "bankier.pl/smart/ocena-punktowa-bik-jak-wyglada-scoring-kredytowy"
+        },
+        {
+          "keyword": "kredyty dla poczatkujacych firm",
+          "cpc": 9.74,
+          "searches": 10,
+          "trends": [
+            30,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            20
+          ],
+          "difficulty": 49,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 46,
+            "url": "horyzontcapital.com/ile-mozna-dostac-kredytu-start-firmy/"
+          },
+          "horyzontcapital.com_pos": 46,
+          "horyzontcapital.com_url": "horyzontcapital.com/ile-mozna-dostac-kredytu-start-firmy/",
+          "bankier.pl": {
+            "pos": 5,
+            "url": "bankier.pl/smart/kredyty-dla-firm-na-start-juz-od-pierwszego-dnia-prowadzenia-biznesu"
+          },
+          "bankier.pl_pos": 5,
+          "bankier.pl_url": "bankier.pl/smart/kredyty-dla-firm-na-start-juz-od-pierwszego-dnia-prowadzenia-biznesu"
+        },
+        {
+          "keyword": "jak podwyższyć scoring w bik",
+          "cpc": 1.72,
+          "searches": 10,
+          "trends": [
+            20,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+          ],
+          "difficulty": 28,
+          "params": [
+            "brand"
+          ],
+          "horyzontcapital.com": {
+            "pos": 38,
+            "url": "horyzontcapital.com/blog/jak-wyczyscic-bik-i-poprawic-scoring-kredytowy-poradnik-dla-przedsiebiorcow"
+          },
+          "horyzontcapital.com_pos": 38,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/jak-wyczyscic-bik-i-poprawic-scoring-kredytowy-poradnik-dla-przedsiebiorcow",
+          "bankier.pl": {
+            "pos": 5,
+            "url": "bankier.pl/smart/ocena-punktowa-bik-jak-wyglada-scoring-kredytowy"
+          },
+          "bankier.pl_pos": 5,
+          "bankier.pl_url": "bankier.pl/smart/ocena-punktowa-bik-jak-wyglada-scoring-kredytowy"
+        },
+        {
+          "keyword": "krd czy big",
+          "cpc": 5.01,
+          "searches": 10,
+          "trends": [
+            10,
+            20,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+          ],
+          "difficulty": 57,
+          "params": [
+            "brand"
+          ],
+          "horyzontcapital.com": {
+            "pos": 20,
+            "url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia"
+          },
+          "horyzontcapital.com_pos": 20,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia",
+          "bankier.pl": {
+            "pos": 15,
+            "url": "bankier.pl/smart/krajowy-rejestr-dluznikow-krd-jak-sprawdzic-baza-krd"
+          },
+          "bankier.pl_pos": 15,
+          "bankier.pl_url": "bankier.pl/smart/krajowy-rejestr-dluznikow-krd-jak-sprawdzic-baza-krd"
+        },
+        {
+          "keyword": "pożyczę pod zastaw",
+          "cpc": 0,
+          "searches": 10,
+          "trends": [
+            10,
+            10,
+            20,
+            40,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+          ],
+          "difficulty": 31,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 24,
+            "url": "horyzontcapital.com/oferta/pozyczka-pod-zastaw-nieruchomosci"
+          },
+          "horyzontcapital.com_pos": 24,
+          "horyzontcapital.com_url": "horyzontcapital.com/oferta/pozyczka-pod-zastaw-nieruchomosci",
+          "bankier.pl": {
+            "pos": 5,
+            "url": "bankier.pl/smart/pozyczka-pod-zastaw-na-czym-polega-zasady"
+          },
+          "bankier.pl_pos": 5,
+          "bankier.pl_url": "bankier.pl/smart/pozyczka-pod-zastaw-na-czym-polega-zasady"
+        },
+        {
+          "keyword": "jak poprawić ocenę punktową w bik",
+          "cpc": 0,
+          "searches": 10,
+          "trends": [
+            20,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            20,
+            10,
+            10
+          ],
+          "difficulty": 30,
+          "params": [
+            "question"
+          ],
+          "horyzontcapital.com": {
+            "pos": 45,
+            "url": "horyzontcapital.com/blog/jak-wyczyscic-bik-i-poprawic-scoring-kredytowy-poradnik-dla-przedsiebiorcow"
+          },
+          "horyzontcapital.com_pos": 45,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/jak-wyczyscic-bik-i-poprawic-scoring-kredytowy-poradnik-dla-przedsiebiorcow",
+          "bankier.pl": {
+            "pos": 2,
+            "url": "bankier.pl/smart/ocena-punktowa-bik-jak-wyglada-scoring-kredytowy"
+          },
+          "bankier.pl_pos": 2,
+          "bankier.pl_url": "bankier.pl/smart/ocena-punktowa-bik-jak-wyglada-scoring-kredytowy"
+        },
+        {
+          "keyword": "krd bik sa",
+          "cpc": 2.02,
+          "searches": 10,
+          "trends": [
+            10,
+            20,
+            10,
+            10,
+            10,
+            10,
+            10,
+            20,
+            10,
+            10,
+            10,
+            10
+          ],
+          "difficulty": 47,
+          "params": [
+            "brand"
+          ],
+          "horyzontcapital.com": {
+            "pos": 30,
+            "url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia"
+          },
+          "horyzontcapital.com_pos": 30,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia",
+          "bankier.pl": {
+            "pos": 26,
+            "url": "bankier.pl/smart/krajowy-rejestr-dluznikow-krd-jak-sprawdzic-baza-krd"
+          },
+          "bankier.pl_pos": 26,
+          "bankier.pl_url": "bankier.pl/smart/krajowy-rejestr-dluznikow-krd-jak-sprawdzic-baza-krd"
+        },
+        {
+          "keyword": "pożyczka pod zastaw gruntu",
+          "cpc": 0,
+          "searches": 10,
+          "trends": [
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+          ],
+          "difficulty": 27,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 12,
+            "url": "horyzontcapital.com/oferta/pozyczka-pod-dzialke-lub-grunt"
+          },
+          "horyzontcapital.com_pos": 12,
+          "horyzontcapital.com_url": "horyzontcapital.com/oferta/pozyczka-pod-dzialke-lub-grunt",
+          "bankier.pl": {
+            "pos": 2,
+            "url": "bankier.pl/smart/kredyt-pod-zastaw-dzialki"
+          },
+          "bankier.pl_pos": 2,
+          "bankier.pl_url": "bankier.pl/smart/kredyt-pod-zastaw-dzialki"
+        },
+        {
+          "keyword": "spis dłużników bankowych",
+          "cpc": 0,
+          "searches": 10,
+          "trends": [
+            10,
+            10,
+            10,
+            20,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+          ],
+          "difficulty": 40,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 37,
+            "url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia"
+          },
+          "horyzontcapital.com_pos": 37,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia",
+          "bankier.pl": {
+            "pos": 8,
+            "url": "bankier.pl/smart/rejestr-dluznikow-kompendium-wiedzy-w-pigulce"
+          },
+          "bankier.pl_pos": 8,
+          "bankier.pl_url": "bankier.pl/smart/rejestr-dluznikow-kompendium-wiedzy-w-pigulce"
+        },
+        {
+          "keyword": "kredyt pod zastaw udziałów",
+          "cpc": 0,
+          "searches": 10,
+          "trends": [
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            0,
+            10,
+            10,
+            10
+          ],
+          "difficulty": 33,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 26,
+            "url": "horyzontcapital.com/blog/pozyczka-pod-zastaw-nieruchomosci-o-czym-warto-wiedziec"
+          },
+          "horyzontcapital.com_pos": 26,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/pozyczka-pod-zastaw-nieruchomosci-o-czym-warto-wiedziec",
+          "bankier.pl": {
+            "pos": 4,
+            "url": "bankier.pl/smart/kredyt-pod-zastaw-dzialki"
+          },
+          "bankier.pl_pos": 4,
+          "bankier.pl_url": "bankier.pl/smart/kredyt-pod-zastaw-dzialki"
+        },
+        {
+          "keyword": "szybka pozyczka pod zastaw",
+          "cpc": 0,
+          "searches": 10,
+          "trends": [
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+          ],
+          "difficulty": 31,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 30,
+            "url": "horyzontcapital.com/blog/pozyczka-pod-zastaw-nieruchomosci-o-czym-warto-wiedziec"
+          },
+          "horyzontcapital.com_pos": 30,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/pozyczka-pod-zastaw-nieruchomosci-o-czym-warto-wiedziec",
+          "bankier.pl": {
+            "pos": 28,
+            "url": "bankier.pl/smart/pozyczka-pod-zastaw-na-czym-polega-zasady"
+          },
+          "bankier.pl_pos": 28,
+          "bankier.pl_url": "bankier.pl/smart/pozyczka-pod-zastaw-na-czym-polega-zasady"
+        },
+        {
+          "keyword": "krd infomonitor",
+          "cpc": 0,
+          "searches": 10,
+          "trends": [
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+          ],
+          "difficulty": 41,
+          "params": [
+            "brand"
+          ],
+          "horyzontcapital.com": {
+            "pos": 12,
+            "url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia"
+          },
+          "horyzontcapital.com_pos": 12,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia",
+          "bankier.pl": {
+            "pos": 6,
+            "url": "bankier.pl/smart/big-infomonitor-jak-sprawdzic-siebie-rejestr-dluznikow"
+          },
+          "bankier.pl_pos": 6,
+          "bankier.pl_url": "bankier.pl/smart/big-infomonitor-jak-sprawdzic-siebie-rejestr-dluznikow"
+        },
+        {
+          "keyword": "pożyczka pod zastaw gospodarstwa rolnego",
+          "cpc": 0,
+          "searches": 10,
+          "trends": [
+            10,
+            10,
+            10,
+            20,
+            20,
+            10,
+            20,
+            20,
+            10,
+            10,
+            20,
+            20
+          ],
+          "difficulty": 21,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 40,
+            "url": "horyzontcapital.com/oferta/pozyczka-pod-dzialke-lub-grunt"
+          },
+          "horyzontcapital.com_pos": 40,
+          "horyzontcapital.com_url": "horyzontcapital.com/oferta/pozyczka-pod-dzialke-lub-grunt",
+          "bankier.pl": {
+            "pos": 15,
+            "url": "bankier.pl/smart/kredyt-pod-zastaw-dzialki"
+          },
+          "bankier.pl_pos": 15,
+          "bankier.pl_url": "bankier.pl/smart/kredyt-pod-zastaw-dzialki"
+        },
+        {
+          "keyword": "szybka pożyczka pod zastaw nieruchomości",
+          "cpc": 36.38,
+          "searches": 10,
+          "trends": [
+            20,
+            10,
+            10,
+            20,
+            20,
+            10,
+            20,
+            20,
+            10,
+            10,
+            20,
+            20
+          ],
+          "difficulty": 47,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 42,
+            "url": "horyzontcapital.com/blog/pozyczka-pod-zastaw-nieruchomosci-o-czym-warto-wiedziec"
+          },
+          "horyzontcapital.com_pos": 42,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/pozyczka-pod-zastaw-nieruchomosci-o-czym-warto-wiedziec",
+          "bankier.pl": {
+            "pos": 21,
+            "url": "bankier.pl/smart/kredyt-pod-zastaw-mieszkania-co-musisz-wiedziec-zanim-wezmiesz-pozyczke-hipoteczna"
+          },
+          "bankier.pl_pos": 21,
+          "bankier.pl_url": "bankier.pl/smart/kredyt-pod-zastaw-mieszkania-co-musisz-wiedziec-zanim-wezmiesz-pozyczke-hipoteczna"
+        },
+        {
+          "keyword": "pożyczka komercyjna",
+          "cpc": 2.47,
+          "searches": 10,
+          "trends": [
+            20,
+            10,
+            10,
+            10,
+            10,
+            20,
+            20,
+            10,
+            30,
+            10,
+            10,
+            20
+          ],
+          "difficulty": 45,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 25,
+            "url": "horyzontcapital.com/dla-kogo/pozyczki-i-kredyty-dla-branzy-nieruchomosci-komercyjnych"
+          },
+          "horyzontcapital.com_pos": 25,
+          "horyzontcapital.com_url": "horyzontcapital.com/dla-kogo/pozyczki-i-kredyty-dla-branzy-nieruchomosci-komercyjnych",
+          "bankier.pl": {
+            "pos": 13,
+            "url": "bankier.pl/smart/kredyty-firmowe"
+          },
+          "bankier.pl_pos": 13,
+          "bankier.pl_url": "bankier.pl/smart/kredyty-firmowe"
+        },
+        {
+          "keyword": "jak poprawić punktację w bik",
+          "cpc": 2.16,
+          "searches": 10,
+          "trends": [
+            10,
+            20,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+          ],
+          "difficulty": 28,
+          "params": [
+            "brand"
+          ],
+          "horyzontcapital.com": {
+            "pos": 37,
+            "url": "horyzontcapital.com/blog/jak-wyczyscic-bik-i-poprawic-scoring-kredytowy-poradnik-dla-przedsiebiorcow"
+          },
+          "horyzontcapital.com_pos": 37,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/jak-wyczyscic-bik-i-poprawic-scoring-kredytowy-poradnik-dla-przedsiebiorcow",
+          "bankier.pl": {
+            "pos": 5,
+            "url": "bankier.pl/smart/ocena-punktowa-bik-jak-wyglada-scoring-kredytowy"
+          },
+          "bankier.pl_pos": 5,
+          "bankier.pl_url": "bankier.pl/smart/ocena-punktowa-bik-jak-wyglada-scoring-kredytowy"
+        },
+        {
+          "keyword": "finansowanie firm bez bik",
+          "cpc": 11.58,
+          "searches": 10,
+          "trends": [
+            10,
+            10,
+            10,
+            10,
+            20,
+            10,
+            50,
+            10,
+            10,
+            10,
+            10,
+            10
+          ],
+          "difficulty": 47,
+          "params": [
+            "brand"
+          ],
+          "horyzontcapital.com": {
+            "pos": 48,
+            "url": "horyzontcapital.com/blog/kredyt-dla-firm-bez-bik-czy-to-mozliwe-i-na-jakich-warunkach"
+          },
+          "horyzontcapital.com_pos": 48,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/kredyt-dla-firm-bez-bik-czy-to-mozliwe-i-na-jakich-warunkach",
+          "bankier.pl": {
+            "pos": 16,
+            "url": "bankier.pl/smart/Chwilowki-bez-baz-i-zdolnosci-kredytowej"
+          },
+          "bankier.pl_pos": 16,
+          "bankier.pl_url": "bankier.pl/smart/Chwilowki-bez-baz-i-zdolnosci-kredytowej"
+        },
+        {
+          "keyword": "szybkie finansowanie dla firm",
+          "cpc": 5.23,
+          "searches": 10,
+          "trends": [
+            30,
+            20,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            20,
+            10,
+            20,
+            20
+          ],
+          "difficulty": 50,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 36,
+            "url": "horyzontcapital.com/oferta/pozyczka-dla-firm"
+          },
+          "horyzontcapital.com_pos": 36,
+          "horyzontcapital.com_url": "horyzontcapital.com/oferta/pozyczka-dla-firm",
+          "bankier.pl": {
+            "pos": 12,
+            "url": "bankier.pl/smart/Kredyty-dla-firm-online-pozyskaj-szybkie-pieniadze-dla-firm-na-najlepszych-warunkach"
+          },
+          "bankier.pl_pos": 12,
+          "bankier.pl_url": "bankier.pl/smart/Kredyty-dla-firm-online-pozyskaj-szybkie-pieniadze-dla-firm-na-najlepszych-warunkach"
+        },
+        {
+          "keyword": "jak wziąć kredyt bez zdolności",
+          "cpc": 5.79,
+          "searches": 10,
+          "trends": [
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            0,
+            10
+          ],
+          "difficulty": 48,
+          "params": [
+            "question"
+          ],
+          "horyzontcapital.com": {
+            "pos": 16,
+            "url": "horyzontcapital.com/blog/gdzie-dostane-kredyt-bez-zdolnosci-kredytowej"
+          },
+          "horyzontcapital.com_pos": 16,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/gdzie-dostane-kredyt-bez-zdolnosci-kredytowej",
+          "bankier.pl": {
+            "pos": 2,
+            "url": "bankier.pl/smart/kredyt-bez-zdolnosci-kredytowej-jak-i-gdzie-dostac-kredyt-bez-zdolnosci"
+          },
+          "bankier.pl_pos": 2,
+          "bankier.pl_url": "bankier.pl/smart/kredyt-bez-zdolnosci-kredytowej-jak-i-gdzie-dostac-kredyt-bez-zdolnosci"
+        },
+        {
+          "keyword": "jak poprawić scoring",
+          "cpc": 0.29,
+          "searches": 10,
+          "trends": [
+            10,
+            10,
+            20,
+            20,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+          ],
+          "difficulty": 34,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 31,
+            "url": "horyzontcapital.com/dowiedz-sie-jak-wyczyscic-bik-i-poprawic-scoring-kredytowy/"
+          },
+          "horyzontcapital.com_pos": 31,
+          "horyzontcapital.com_url": "horyzontcapital.com/dowiedz-sie-jak-wyczyscic-bik-i-poprawic-scoring-kredytowy/",
+          "bankier.pl": {
+            "pos": 1,
+            "url": "bankier.pl/smart/ocena-punktowa-bik-jak-wyglada-scoring-kredytowy"
+          },
+          "bankier.pl_pos": 1,
+          "bankier.pl_url": "bankier.pl/smart/ocena-punktowa-bik-jak-wyglada-scoring-kredytowy"
+        },
+        {
+          "keyword": "kredyt pod zastaw gruntów rolnych",
+          "cpc": 1.48,
+          "searches": 10,
+          "trends": [
+            30,
+            20,
+            20,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            20,
+            20,
+            10
+          ],
+          "difficulty": 25,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 17,
+            "url": "horyzontcapital.com/oferta/pozyczka-pod-dzialke-lub-grunt"
+          },
+          "horyzontcapital.com_pos": 17,
+          "horyzontcapital.com_url": "horyzontcapital.com/oferta/pozyczka-pod-dzialke-lub-grunt",
+          "bankier.pl": {
+            "pos": 8,
+            "url": "bankier.pl/smart/kredyt-pod-zastaw-dzialki"
+          },
+          "bankier.pl_pos": 8,
+          "bankier.pl_url": "bankier.pl/smart/kredyt-pod-zastaw-dzialki"
+        },
+        {
+          "keyword": "pożyczki pozabankowe inowrocław",
+          "cpc": 5.34,
+          "searches": 10,
+          "trends": [
+            10,
+            10,
+            10,
+            0,
+            0,
+            10,
+            10,
+            10,
+            0,
+            10,
+            0,
+            20
+          ],
+          "difficulty": 24,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 45,
+            "url": "horyzontcapital.com/oferta/pozyczka-pod-dzialke-lub-grunt"
+          },
+          "horyzontcapital.com_pos": 45,
+          "horyzontcapital.com_url": "horyzontcapital.com/oferta/pozyczka-pod-dzialke-lub-grunt",
+          "bankier.pl": {
+            "pos": 32,
+            "url": "bankier.pl/smart/Chwilowki-bez-baz-i-zdolnosci-kredytowej"
+          },
+          "bankier.pl_pos": 32,
+          "bankier.pl_url": "bankier.pl/smart/Chwilowki-bez-baz-i-zdolnosci-kredytowej"
+        },
+        {
+          "keyword": "pożyczka na procent bez zastawu",
+          "cpc": 0.91,
+          "searches": 10,
+          "trends": [
+            20,
+            10,
+            20,
+            20,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+          ],
+          "difficulty": 27,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 16,
+            "url": "horyzontcapital.com/blog/bezpieczna-pozyczka-pod-zastaw-nieruchomosci-jak-nie-dac-sie-oszukac-i-zyskac-realne-wsparcie-dla-swojej-firmy"
+          },
+          "horyzontcapital.com_pos": 16,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/bezpieczna-pozyczka-pod-zastaw-nieruchomosci-jak-nie-dac-sie-oszukac-i-zyskac-realne-wsparcie-dla-swojej-firmy",
+          "bankier.pl": {
+            "pos": 1,
+            "url": "bankier.pl/smart/Ranking-Pozyczki-pozabankowe-bez-weryfikacji"
+          },
+          "bankier.pl_pos": 1,
+          "bankier.pl_url": "bankier.pl/smart/Ranking-Pozyczki-pozabankowe-bez-weryfikacji"
+        },
+        {
+          "keyword": "kredyt dla zadłużonych pod zastaw",
+          "cpc": 0,
+          "searches": 10,
+          "trends": [
+            10,
+            0,
+            0,
+            0,
+            0,
+            10,
+            0,
+            0,
+            0,
+            10,
+            0,
+            0
+          ],
+          "difficulty": 28,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 33,
+            "url": "horyzontcapital.com/oferta/pozyczka-pod-zastaw-nieruchomosci"
+          },
+          "horyzontcapital.com_pos": 33,
+          "horyzontcapital.com_url": "horyzontcapital.com/oferta/pozyczka-pod-zastaw-nieruchomosci",
+          "bankier.pl": {
+            "pos": 26,
+            "url": "bankier.pl/smart/pozyczki-pod-zastaw-nieruchomosci-jak-dostac-taka-pozyczke"
+          },
+          "bankier.pl_pos": 26,
+          "bankier.pl_url": "bankier.pl/smart/pozyczki-pod-zastaw-nieruchomosci-jak-dostac-taka-pozyczke"
+        },
+        {
+          "keyword": "big infomonitor a krd",
+          "cpc": 0,
+          "searches": 10,
+          "trends": [
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+          ],
+          "difficulty": 34,
+          "params": [
+            "brand"
+          ],
+          "horyzontcapital.com": {
+            "pos": 4,
+            "url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia"
+          },
+          "horyzontcapital.com_pos": 4,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia",
+          "bankier.pl": {
+            "pos": 11,
+            "url": "bankier.pl/smart/rejestr-dluznikow-kompendium-wiedzy-w-pigulce"
+          },
+          "bankier.pl_pos": 11,
+          "bankier.pl_url": "bankier.pl/smart/rejestr-dluznikow-kompendium-wiedzy-w-pigulce"
+        },
+        {
+          "keyword": "czy krd i bik to to samo",
+          "cpc": 0,
+          "searches": 10,
+          "trends": [
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+          ],
+          "difficulty": 21,
+          "params": [
+            "brand"
+          ],
+          "horyzontcapital.com": {
+            "pos": 11,
+            "url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia"
+          },
+          "horyzontcapital.com_pos": 11,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia",
+          "bankier.pl": {
+            "pos": 23,
+            "url": "bankier.pl/smart/krajowy-rejestr-dluznikow-krd-jak-sprawdzic-baza-krd"
+          },
+          "bankier.pl_pos": 23,
+          "bankier.pl_url": "bankier.pl/smart/krajowy-rejestr-dluznikow-krd-jak-sprawdzic-baza-krd"
+        }
+      ],
+      "pagination": {
+        "page_count": 1,
+        "current_page": 1,
+        "has_next_page": false,
+        "has_prev_page": false,
+        "count": 71,
+        "limit": 100
+      }
+    },
+    "status": 200,
+    "domain": "bankier.pl",
+    "endpoint": "get_competitors_analysis"
+  }
+}

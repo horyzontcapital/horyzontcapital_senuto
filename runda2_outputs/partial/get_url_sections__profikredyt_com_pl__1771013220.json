@@ -1,0 +1,47 @@
+{
+  "domain": "profikredyt.com.pl",
+  "endpoint": "get_url_sections",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "url_section": "profikredyt.com.pl/",
+        "keywords_count": 7,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 632.76,
+            "previous": 16.89,
+            "diff": 615.87,
+            "percent": 36.4636,
+            "history": null
+          },
+          "top3": {
+            "current": 1,
+            "previous": 1,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 7,
+            "previous": 6,
+            "diff": 1,
+            "percent": 0.1667,
+            "history": null
+          },
+          "top50": {
+            "current": 49,
+            "previous": 52,
+            "diff": -3,
+            "percent": -0.0577,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "profikredyt.com.pl",
+    "endpoint": "get_url_sections"
+  }
+}

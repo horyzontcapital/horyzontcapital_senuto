@@ -1,0 +1,263 @@
+{
+  "domain": "platinum-financial.pl",
+  "endpoint": "get_history_keywords_losses",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "keyword_id": 12425445,
+        "kid": "2ebce73040215161e73ac9e1d060fbe9",
+        "domain": "platinum-financial.pl",
+        "keyword": "nasi ludzie",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 22,
+            "previous": 12,
+            "diff": 10,
+            "changes": {
+              "wins": 1,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-20": {
+                "position": 11,
+                "has_serp": true
+              },
+              "2026-01-03": {
+                "position": 19,
+                "has_serp": true
+              },
+              "2026-01-21": {
+                "position": 12,
+                "has_serp": true
+              },
+              "2026-02-10": {
+                "position": 22,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "platinum-financial.pl/nasi-ludzie/",
+            "previous": "platinum-financial.pl/nasi-ludzie/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              20,
+              20,
+              20,
+              30,
+              20,
+              30,
+              20,
+              20,
+              30,
+              40,
+              20,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 41
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 9202891,
+        "kid": "ca6af2a57476b27390dc9ee2c0919eab",
+        "domain": "platinum-financial.pl",
+        "keyword": "kim warszawa postępu",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 28,
+            "previous": 21,
+            "diff": 7,
+            "changes": {
+              "wins": 0,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-25": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-26": {
+                "position": 21,
+                "has_serp": true
+              },
+              "2026-02-07": {
+                "position": 28,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "platinum-financial.pl/nasi-ludzie/",
+            "previous": "platinum-financial.pl/nasi-ludzie/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              30,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 32
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "map"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "website",
+            "main_intent": "navigational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 11924210,
+        "kid": "0224fe3fccb54610069853f881d66709",
+        "domain": "platinum-financial.pl",
+        "keyword": "pekaobiznes24 platinum",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 37,
+            "previous": 30,
+            "diff": 7,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-18": {
+                "position": 30,
+                "has_serp": true
+              },
+              "2026-02-06": {
+                "position": 37,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "platinum-financial.pl/partnerzy/",
+            "previous": "platinum-financial.pl/partnerzy/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              20,
+              20,
+              30,
+              10,
+              20,
+              30,
+              20,
+              30,
+              20,
+              20,
+              10,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 32
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "website",
+            "main_intent": "navigational",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      }
+    ],
+    "total": 3,
+    "domain": "platinum-financial.pl",
+    "endpoint": "get_history_keywords_losses"
+  }
+}

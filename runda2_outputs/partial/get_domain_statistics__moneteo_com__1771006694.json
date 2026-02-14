@@ -1,0 +1,74 @@
+{
+  "domain": "moneteo.com",
+  "endpoint": "get_domain_statistics",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "statistics": {
+          "top3": {
+            "recent_value": 2972,
+            "older_value": 2971,
+            "diff": 1,
+            "percent": 0.0003
+          },
+          "top10": {
+            "recent_value": 13360,
+            "older_value": 13360,
+            "diff": 0,
+            "percent": 0
+          },
+          "top50": {
+            "recent_value": 44124,
+            "older_value": 44122,
+            "diff": 2,
+            "percent": 0
+          },
+          "visibility": {
+            "recent_value": 168310,
+            "older_value": 168203,
+            "diff": 107,
+            "percent": 0.0006
+          },
+          "domain_rank": {
+            "recent_value": 2020,
+            "older_value": 2019,
+            "diff": 1,
+            "percent": 0.0005
+          },
+          "ads_equivalent": {
+            "recent_value": 1215810.16,
+            "older_value": 1212151.64,
+            "diff": 3658.52,
+            "percent": 0.003
+          },
+          "category": {
+            "name": "",
+            "statistics": {
+              "recent_value": 2020,
+              "older_value": 2020,
+              "diff": 0,
+              "percent": 0
+            }
+          },
+          "aio_keywords": {
+            "recent_value": 18600,
+            "older_value": 18600,
+            "diff": 0,
+            "percent": 0
+          },
+          "aio_visible_keywords": {
+            "recent_value": 11101,
+            "older_value": 11101,
+            "diff": 0,
+            "percent": 0
+          }
+        }
+      }
+    },
+    "status": 200,
+    "domain": "moneteo.com",
+    "endpoint": "get_domain_statistics"
+  }
+}

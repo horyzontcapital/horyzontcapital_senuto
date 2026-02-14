@@ -1,0 +1,62 @@
+{
+  "domain": "platinum-financial.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "platinum-financial.pl": [
+          {
+            "text": "",
+            "size": 7,
+            "percent": 0.3181818181818182
+          },
+          {
+            "text": "Platinum Financial",
+            "size": 6,
+            "percent": 0.2727272727272727
+          },
+          {
+            "text": "www.platinum-financial.pl",
+            "size": 3,
+            "percent": 0.13636363636363635
+          },
+          {
+            "text": "Image",
+            "size": 1,
+            "percent": 0.045454545454545456
+          },
+          {
+            "text": "Visit the site",
+            "size": 1,
+            "percent": 0.045454545454545456
+          },
+          {
+            "text": "fmg finance",
+            "size": 1,
+            "percent": 0.045454545454545456
+          },
+          {
+            "text": "https://www.platinum-financial.pl/dla-klienta",
+            "size": 1,
+            "percent": 0.045454545454545456
+          },
+          {
+            "text": "http://www.platinum-financial.pl",
+            "size": 1,
+            "percent": 0.045454545454545456
+          },
+          {
+            "text": "https://platinum-financial.pl/",
+            "size": 1,
+            "percent": 0.045454545454545456
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "platinum-financial.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

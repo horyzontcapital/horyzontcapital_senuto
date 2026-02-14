@@ -1,0 +1,57 @@
+{
+  "domain": "krk-partners.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "krk-partners.pl": [
+          {
+            "text": "https://krk-partners.pl/",
+            "size": 9,
+            "percent": 0.5294117647058824
+          },
+          {
+            "text": "krk-partners.pl/",
+            "size": 2,
+            "percent": 0.11764705882352941
+          },
+          {
+            "text": "krk-partners.pl",
+            "size": 1,
+            "percent": 0.058823529411764705
+          },
+          {
+            "text": "kredyty dla firm bez bik",
+            "size": 1,
+            "percent": 0.058823529411764705
+          },
+          {
+            "text": "doradca kredytowy krak�w",
+            "size": 1,
+            "percent": 0.058823529411764705
+          },
+          {
+            "text": "https://krk-partners.pl/finansowanie",
+            "size": 1,
+            "percent": 0.058823529411764705
+          },
+          {
+            "text": "Finansowanie przedsiębiorstw",
+            "size": 1,
+            "percent": 0.058823529411764705
+          },
+          {
+            "text": "thumb Weź pożyczkę Monument Fund",
+            "size": 1,
+            "percent": 0.058823529411764705
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "krk-partners.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

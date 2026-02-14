@@ -1,0 +1,67 @@
+{
+  "domain": "rankomat.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "rankomat.pl": [
+          {
+            "text": "Rankomat.pl",
+            "size": 103815,
+            "percent": 0.5096165174363808
+          },
+          {
+            "text": "Kalkulator OC AC Rankomat.pl",
+            "size": 77421,
+            "percent": 0.38005124882186614
+          },
+          {
+            "text": "Ubezpieczenia",
+            "size": 5884,
+            "percent": 0.028883914546025763
+          },
+          {
+            "text": "Rankomat",
+            "size": 4942,
+            "percent": 0.024259739239710965
+          },
+          {
+            "text": "",
+            "size": 951,
+            "percent": 0.004668355325164939
+          },
+          {
+            "text": ">> OC",
+            "size": 885,
+            "percent": 0.004344368520263902
+          },
+          {
+            "text": "Rankomat Sp. z o.o. Sp. k.",
+            "size": 617,
+            "percent": 0.0030287857367263587
+          },
+          {
+            "text": "rankomat.pl",
+            "size": 558,
+            "percent": 0.002739161168708765
+          },
+          {
+            "text": "Porównaj ceny",
+            "size": 431,
+            "percent": 0.002115732013823437
+          },
+          {
+            "text": "Ubezpieczenie turystyczne",
+            "size": 369,
+            "percent": 0.0018113807728557965
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "rankomat.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

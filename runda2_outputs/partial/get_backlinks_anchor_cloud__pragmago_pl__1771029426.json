@@ -1,0 +1,67 @@
+{
+  "domain": "pragmago.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "pragmago.pl": [
+          {
+            "text": "Kalkulator",
+            "size": 1562,
+            "percent": 0.5158520475561427
+          },
+          {
+            "text": "pl",
+            "size": 254,
+            "percent": 0.08388375165125496
+          },
+          {
+            "text": "Statute",
+            "size": 253,
+            "percent": 0.08355350066050198
+          },
+          {
+            "text": "",
+            "size": 212,
+            "percent": 0.07001321003963012
+          },
+          {
+            "text": "https://www.pragmago.pl/",
+            "size": 96,
+            "percent": 0.031704095112285335
+          },
+          {
+            "text": "https://pragmago.pl/",
+            "size": 65,
+            "percent": 0.021466314398943198
+          },
+          {
+            "text": "PragmaGO",
+            "size": 33,
+            "percent": 0.010898282694848084
+          },
+          {
+            "text": "https://pragmago.pl/porada/faktoring/",
+            "size": 27,
+            "percent": 0.00891677675033025
+          },
+          {
+            "text": "https://pragmago.pl",
+            "size": 23,
+            "percent": 0.007595772787318362
+          },
+          {
+            "text": "pragmago.pl",
+            "size": 23,
+            "percent": 0.007595772787318362
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "pragmago.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

@@ -1,0 +1,423 @@
+{
+  "domain": "newpoint-finance.pl",
+  "endpoint": "get_competitors_analysis",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "keyword": "kredyty dla firm bez bik",
+          "cpc": 7.99,
+          "searches": 390,
+          "trends": [
+            390,
+            390,
+            480,
+            320,
+            390,
+            390,
+            480,
+            390,
+            260,
+            260,
+            260,
+            320
+          ],
+          "difficulty": 52,
+          "params": [
+            "brand"
+          ],
+          "horyzontcapital.com": {
+            "pos": 7,
+            "url": "horyzontcapital.com/blog/kredyt-dla-firm-bez-bik-czy-to-mozliwe-i-na-jakich-warunkach"
+          },
+          "horyzontcapital.com_pos": 7,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/kredyt-dla-firm-bez-bik-czy-to-mozliwe-i-na-jakich-warunkach",
+          "newpoint-finance.pl": {
+            "pos": 20,
+            "url": "newpoint-finance.pl/kredyt-dla-spolki-bez-bik-prezesa/"
+          },
+          "newpoint-finance.pl_pos": 20,
+          "newpoint-finance.pl_url": "newpoint-finance.pl/kredyt-dla-spolki-bez-bik-prezesa/"
+        },
+        {
+          "keyword": "pożyczki pod zastaw działki",
+          "cpc": 1.68,
+          "searches": 170,
+          "trends": [
+            170,
+            210,
+            260,
+            210,
+            170,
+            110,
+            70,
+            110,
+            110,
+            170,
+            210,
+            170
+          ],
+          "difficulty": 41,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 49,
+            "url": "https://horyzontcapital.com/pozyczka-pod-zastaw-nieruchomosci-szybka-decyzja-horyzont-capital/"
+          },
+          "horyzontcapital.com_pos": 49,
+          "horyzontcapital.com_url": "https://horyzontcapital.com/pozyczka-pod-zastaw-nieruchomosci-szybka-decyzja-horyzont-capital/",
+          "newpoint-finance.pl": {
+            "pos": 9,
+            "url": "newpoint-finance.pl/oferta-kredytowa/pozyczka-dla-firm-pod-zastaw/pozyczka-dla-firm-pod-zastaw-dzialki/"
+          },
+          "newpoint-finance.pl_pos": 9,
+          "newpoint-finance.pl_url": "newpoint-finance.pl/oferta-kredytowa/pozyczka-dla-firm-pod-zastaw/pozyczka-dla-firm-pod-zastaw-dzialki/"
+        },
+        {
+          "keyword": "kredyt firmowy bez bik",
+          "cpc": 23.47,
+          "searches": 70,
+          "trends": [
+            70,
+            50,
+            30,
+            30,
+            30,
+            50,
+            40,
+            40,
+            70,
+            50,
+            50,
+            40
+          ],
+          "difficulty": 48,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 9,
+            "url": "horyzontcapital.com/blog/kredyt-dla-firm-bez-bik-czy-to-mozliwe-i-na-jakich-warunkach"
+          },
+          "horyzontcapital.com_pos": 9,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/kredyt-dla-firm-bez-bik-czy-to-mozliwe-i-na-jakich-warunkach",
+          "newpoint-finance.pl": {
+            "pos": 11,
+            "url": "newpoint-finance.pl/kredyt-dla-spolki-bez-bik-prezesa/"
+          },
+          "newpoint-finance.pl_pos": 11,
+          "newpoint-finance.pl_url": "newpoint-finance.pl/kredyt-dla-spolki-bez-bik-prezesa/"
+        },
+        {
+          "keyword": "pożyczka pod zastaw ziemi",
+          "cpc": 5.81,
+          "searches": 40,
+          "trends": [
+            30,
+            50,
+            50,
+            50,
+            50,
+            40,
+            40,
+            30,
+            30,
+            50,
+            50,
+            40
+          ],
+          "difficulty": 42,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 12,
+            "url": "horyzontcapital.com/oferta/pozyczka-pod-zastaw-gruntow-rolnych/"
+          },
+          "horyzontcapital.com_pos": 12,
+          "horyzontcapital.com_url": "horyzontcapital.com/oferta/pozyczka-pod-zastaw-gruntow-rolnych/",
+          "newpoint-finance.pl": {
+            "pos": 13,
+            "url": "newpoint-finance.pl/oferta-kredytowa/pozyczka-dla-firm-pod-zastaw/pozyczka-dla-firm-pod-zastaw-dzialki/"
+          },
+          "newpoint-finance.pl_pos": 13,
+          "newpoint-finance.pl_url": "newpoint-finance.pl/oferta-kredytowa/pozyczka-dla-firm-pod-zastaw/pozyczka-dla-firm-pod-zastaw-dzialki/"
+        },
+        {
+          "keyword": "pożyczki pod zastaw działki budowlanej",
+          "cpc": 7.37,
+          "searches": 40,
+          "trends": [
+            40,
+            30,
+            40,
+            30,
+            30,
+            40,
+            40,
+            40,
+            40,
+            50,
+            50,
+            50
+          ],
+          "difficulty": 41,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 46,
+            "url": "horyzontcapital.com/oferta/pozyczka-pod-dzialke-lub-grunt"
+          },
+          "horyzontcapital.com_pos": 46,
+          "horyzontcapital.com_url": "horyzontcapital.com/oferta/pozyczka-pod-dzialke-lub-grunt",
+          "newpoint-finance.pl": {
+            "pos": 8,
+            "url": "newpoint-finance.pl/oferta-kredytowa/pozyczka-dla-firm-pod-zastaw/pozyczka-dla-firm-pod-zastaw-dzialki/"
+          },
+          "newpoint-finance.pl_pos": 8,
+          "newpoint-finance.pl_url": "newpoint-finance.pl/oferta-kredytowa/pozyczka-dla-firm-pod-zastaw/pozyczka-dla-firm-pod-zastaw-dzialki/"
+        },
+        {
+          "keyword": "kredyt pod zastaw działki rolnej",
+          "cpc": 8.39,
+          "searches": 20,
+          "trends": [
+            40,
+            50,
+            20,
+            40,
+            30,
+            10,
+            20,
+            10,
+            10,
+            10,
+            10,
+            10
+          ],
+          "difficulty": 30,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 17,
+            "url": "horyzontcapital.com/oferta/pozyczka-pod-dzialke-lub-grunt"
+          },
+          "horyzontcapital.com_pos": 17,
+          "horyzontcapital.com_url": "horyzontcapital.com/oferta/pozyczka-pod-dzialke-lub-grunt",
+          "newpoint-finance.pl": {
+            "pos": 41,
+            "url": "newpoint-finance.pl/oferta-kredytowa/pozyczka-dla-firm-pod-zastaw/pozyczka-dla-firm-pod-zastaw-dzialki/"
+          },
+          "newpoint-finance.pl_pos": 41,
+          "newpoint-finance.pl_url": "newpoint-finance.pl/oferta-kredytowa/pozyczka-dla-firm-pod-zastaw/pozyczka-dla-firm-pod-zastaw-dzialki/"
+        },
+        {
+          "keyword": "pożyczka pod zastaw udziałów w nieruchomości",
+          "cpc": 11.53,
+          "searches": 20,
+          "trends": [
+            10,
+            50,
+            20,
+            20,
+            20,
+            10,
+            10,
+            10,
+            10,
+            10,
+            20,
+            20
+          ],
+          "difficulty": 28,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 4,
+            "url": "horyzontcapital.com/blog/pozyczka-pod-zastaw-nieruchomosci-o-czym-warto-wiedziec"
+          },
+          "horyzontcapital.com_pos": 4,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/pozyczka-pod-zastaw-nieruchomosci-o-czym-warto-wiedziec",
+          "newpoint-finance.pl": {
+            "pos": 13,
+            "url": "newpoint-finance.pl/oferta-kredytowa/pozyczka-dla-firm-pod-zastaw/"
+          },
+          "newpoint-finance.pl_pos": 13,
+          "newpoint-finance.pl_url": "newpoint-finance.pl/oferta-kredytowa/pozyczka-dla-firm-pod-zastaw/"
+        },
+        {
+          "keyword": "kredyt dla zadłużonych pod zastaw",
+          "cpc": 0,
+          "searches": 10,
+          "trends": [
+            10,
+            0,
+            0,
+            0,
+            0,
+            10,
+            0,
+            0,
+            0,
+            10,
+            0,
+            0
+          ],
+          "difficulty": 28,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 33,
+            "url": "horyzontcapital.com/oferta/pozyczka-pod-zastaw-nieruchomosci"
+          },
+          "horyzontcapital.com_pos": 33,
+          "horyzontcapital.com_url": "horyzontcapital.com/oferta/pozyczka-pod-zastaw-nieruchomosci",
+          "newpoint-finance.pl": {
+            "pos": 18,
+            "url": "newpoint-finance.pl/oferta-kredytowa/pozyczka-dla-firm-pod-zastaw/"
+          },
+          "newpoint-finance.pl_pos": 18,
+          "newpoint-finance.pl_url": "newpoint-finance.pl/oferta-kredytowa/pozyczka-dla-firm-pod-zastaw/"
+        },
+        {
+          "keyword": "pożyczka pod zastaw gruntu",
+          "cpc": 0,
+          "searches": 10,
+          "trends": [
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+          ],
+          "difficulty": 27,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 12,
+            "url": "horyzontcapital.com/oferta/pozyczka-pod-dzialke-lub-grunt"
+          },
+          "horyzontcapital.com_pos": 12,
+          "horyzontcapital.com_url": "horyzontcapital.com/oferta/pozyczka-pod-dzialke-lub-grunt",
+          "newpoint-finance.pl": {
+            "pos": 5,
+            "url": "newpoint-finance.pl/oferta-kredytowa/pozyczka-dla-firm-pod-zastaw/pozyczka-dla-firm-pod-zastaw-dzialki/"
+          },
+          "newpoint-finance.pl_pos": 5,
+          "newpoint-finance.pl_url": "newpoint-finance.pl/oferta-kredytowa/pozyczka-dla-firm-pod-zastaw/pozyczka-dla-firm-pod-zastaw-dzialki/"
+        },
+        {
+          "keyword": "kredyt pod zastaw udziałów",
+          "cpc": 0,
+          "searches": 10,
+          "trends": [
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            0,
+            10,
+            10,
+            10
+          ],
+          "difficulty": 33,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 26,
+            "url": "horyzontcapital.com/blog/pozyczka-pod-zastaw-nieruchomosci-o-czym-warto-wiedziec"
+          },
+          "horyzontcapital.com_pos": 26,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/pozyczka-pod-zastaw-nieruchomosci-o-czym-warto-wiedziec",
+          "newpoint-finance.pl": {
+            "pos": 7,
+            "url": "newpoint-finance.pl/oferta-kredytowa/pozyczka-dla-firm-pod-zastaw/"
+          },
+          "newpoint-finance.pl_pos": 7,
+          "newpoint-finance.pl_url": "newpoint-finance.pl/oferta-kredytowa/pozyczka-dla-firm-pod-zastaw/"
+        },
+        {
+          "keyword": "finansowanie firm bez bik",
+          "cpc": 11.58,
+          "searches": 10,
+          "trends": [
+            10,
+            10,
+            10,
+            10,
+            20,
+            10,
+            50,
+            10,
+            10,
+            10,
+            10,
+            10
+          ],
+          "difficulty": 47,
+          "params": [
+            "brand"
+          ],
+          "horyzontcapital.com": {
+            "pos": 48,
+            "url": "horyzontcapital.com/blog/kredyt-dla-firm-bez-bik-czy-to-mozliwe-i-na-jakich-warunkach"
+          },
+          "horyzontcapital.com_pos": 48,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/kredyt-dla-firm-bez-bik-czy-to-mozliwe-i-na-jakich-warunkach",
+          "newpoint-finance.pl": {
+            "pos": 7,
+            "url": "newpoint-finance.pl/kredyt-dla-spolki-bez-bik-prezesa/"
+          },
+          "newpoint-finance.pl_pos": 7,
+          "newpoint-finance.pl_url": "newpoint-finance.pl/kredyt-dla-spolki-bez-bik-prezesa/"
+        },
+        {
+          "keyword": "szybkie finansowanie dla firm",
+          "cpc": 5.23,
+          "searches": 10,
+          "trends": [
+            30,
+            20,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            20,
+            10,
+            20,
+            20
+          ],
+          "difficulty": 50,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 36,
+            "url": "horyzontcapital.com/oferta/pozyczka-dla-firm"
+          },
+          "horyzontcapital.com_pos": 36,
+          "horyzontcapital.com_url": "horyzontcapital.com/oferta/pozyczka-dla-firm",
+          "newpoint-finance.pl": {
+            "pos": 23,
+            "url": "newpoint-finance.pl/szybki-kredyt-online-dla-spolek/"
+          },
+          "newpoint-finance.pl_pos": 23,
+          "newpoint-finance.pl_url": "newpoint-finance.pl/szybki-kredyt-online-dla-spolek/"
+        }
+      ],
+      "pagination": {
+        "page_count": 1,
+        "current_page": 1,
+        "has_next_page": false,
+        "has_prev_page": false,
+        "count": 12,
+        "limit": 100
+      }
+    },
+    "status": 200,
+    "domain": "newpoint-finance.pl",
+    "endpoint": "get_competitors_analysis"
+  }
+}

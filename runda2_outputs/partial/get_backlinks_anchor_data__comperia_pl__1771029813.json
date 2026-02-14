@@ -1,0 +1,5749 @@
+{
+  "domain": "comperia.pl",
+  "endpoint": "get_backlinks_anchor_data",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Comperia.pl",
+        "anchor_type": [],
+        "count": {
+          "count": 107559,
+          "percent_of_total": 0.2971218470565161
+        },
+        "domains_with_anchor_count": 38,
+        "anchors_uniq_count": 105713,
+        "percent_of_total": 0.2971218470565161
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Regulamin",
+        "anchor_type": [],
+        "count": {
+          "count": 105810,
+          "percent_of_total": 0.2922903953834637
+        },
+        "domains_with_anchor_count": 3,
+        "anchors_uniq_count": 104125,
+        "percent_of_total": 0.2922903953834637
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Polityka poufności",
+        "anchor_type": [],
+        "count": {
+          "count": 105792,
+          "percent_of_total": 0.2922406720386295
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 104110,
+        "percent_of_total": 0.2922406720386295
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Telepolis jest częścią Comperia.pl S.A.",
+        "anchor_type": [],
+        "count": {
+          "count": 8550,
+          "percent_of_total": 0.023618588796225446
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 8415,
+        "percent_of_total": 0.023618588796225446
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Oblicz ratę",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 3774,
+          "percent_of_total": 0.010425327966895302
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 3626,
+        "percent_of_total": 0.010425327966895302
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Inwestowanie w nieruchomości, a kredyt hipoteczny. Wskazówki i strategie",
+        "anchor_type": [],
+        "count": {
+          "count": 3769,
+          "percent_of_total": 0.010411515926663591
+        },
+        "domains_with_anchor_count": 6,
+        "anchors_uniq_count": 3764,
+        "percent_of_total": 0.010411515926663591
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Zmiana stóp procentowych. Jak wpływa na różne rodzaje kredytów?",
+        "anchor_type": [],
+        "count": {
+          "count": 3769,
+          "percent_of_total": 0.010411515926663591
+        },
+        "domains_with_anchor_count": 6,
+        "anchors_uniq_count": 3764,
+        "percent_of_total": 0.010411515926663591
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Czy refinansowanie kredytu ma sens? Poradnik dla kredytobiorców",
+        "anchor_type": [],
+        "count": {
+          "count": 3769,
+          "percent_of_total": 0.010411515926663591
+        },
+        "domains_with_anchor_count": 6,
+        "anchors_uniq_count": 3764,
+        "percent_of_total": 0.010411515926663591
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Kredyty mieszkaniowe. Co jest istotne poza oprocentowaniem?",
+        "anchor_type": [],
+        "count": {
+          "count": 3762,
+          "percent_of_total": 0.010392179070339196
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 3758,
+        "percent_of_total": 0.010392179070339196
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Zdolność kredytowa. Jak jest obliczana? Co oznacza? I jak ją poprawić?",
+        "anchor_type": [],
+        "count": {
+          "count": 3762,
+          "percent_of_total": 0.010392179070339196
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 3758,
+        "percent_of_total": 0.010392179070339196
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Jak negocjować warunki kredytu z bankiem? Przewodnik krok po kroku",
+        "anchor_type": [],
+        "count": {
+          "count": 3760,
+          "percent_of_total": 0.010386654254246511
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 3757,
+        "percent_of_total": 0.010386654254246511
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Zabezpieczenia kredytowe. Co warto wiedzieć?",
+        "anchor_type": [],
+        "count": {
+          "count": 3760,
+          "percent_of_total": 0.010386654254246511
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 3757,
+        "percent_of_total": 0.010386654254246511
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Kredyty, lokaty, konta, pożyczki - porównywarka Comperia.pl",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 922,
+          "percent_of_total": 0.002546940218727469
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 821,
+        "percent_of_total": 0.002546940218727469
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Comperia",
+        "anchor_type": [],
+        "count": {
+          "count": 485,
+          "percent_of_total": 0.0013397679024759464
+        },
+        "domains_with_anchor_count": 73,
+        "anchors_uniq_count": 416,
+        "percent_of_total": 0.0013397679024759464
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Zapoznaj się z pełną informacją o przetwarzaniu danych osobowych.",
+        "anchor_type": [],
+        "count": {
+          "count": 374,
+          "percent_of_total": 0.001033140609331967
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 364,
+        "percent_of_total": 0.001033140609331967
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Forum finansowe",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 361,
+          "percent_of_total": 0.0009972293047295188
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 292,
+        "percent_of_total": 0.0009972293047295188
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Polityka prywatności",
+        "anchor_type": [],
+        "count": {
+          "count": 215,
+          "percent_of_total": 0.0005939177299635639
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 151,
+        "percent_of_total": 0.0005939177299635639
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "www.comperia.pl",
+        "anchor_type": [],
+        "count": {
+          "count": 73,
+          "percent_of_total": 0.0002016557873829775
+        },
+        "domains_with_anchor_count": 20,
+        "anchors_uniq_count": 59,
+        "percent_of_total": 0.0002016557873829775
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "comperia.pl",
+        "anchor_type": [],
+        "count": {
+          "count": 60,
+          "percent_of_total": 0.00016574448278052945
+        },
+        "domains_with_anchor_count": 12,
+        "anchors_uniq_count": 47,
+        "percent_of_total": 0.00016574448278052945
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/forum",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 57,
+          "percent_of_total": 0.00015745725864150297
+        },
+        "domains_with_anchor_count": 7,
+        "anchors_uniq_count": 52,
+        "percent_of_total": 0.00015745725864150297
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "<redirect>",
+        "anchor_type": [],
+        "count": {
+          "count": 49,
+          "percent_of_total": 0.00013535799427076572
+        },
+        "domains_with_anchor_count": 22,
+        "anchors_uniq_count": 49,
+        "percent_of_total": 0.00013535799427076572
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "kredyty samochodowe",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 43,
+          "percent_of_total": 0.00011878354599271277
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 29,
+        "percent_of_total": 0.00011878354599271277
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Comperia Analytics",
+        "anchor_type": [],
+        "count": {
+          "count": 41,
+          "percent_of_total": 0.00011325872990002846
+        },
+        "domains_with_anchor_count": 6,
+        "anchors_uniq_count": 37,
+        "percent_of_total": 0.00011325872990002846
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Kredyty gotówkowe",
+        "anchor_type": [],
+        "count": {
+          "count": 31,
+          "percent_of_total": 8.563464943660688e-05
+        },
+        "domains_with_anchor_count": 12,
+        "anchors_uniq_count": 20,
+        "percent_of_total": 8.563464943660688e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Czytaj więcej",
+        "anchor_type": [],
+        "count": {
+          "count": 30,
+          "percent_of_total": 8.287224139026473e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 18,
+        "percent_of_total": 8.287224139026473e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/kalkulator-zdolnosci-kredytowej.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 30,
+          "percent_of_total": 8.287224139026473e-05
+        },
+        "domains_with_anchor_count": 4,
+        "anchors_uniq_count": 28,
+        "percent_of_total": 8.287224139026473e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/szczegoly-kredyty-hipoteczne,1021-kredyt_konsolidacyjny.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 28,
+          "percent_of_total": 7.73474252975804e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 28,
+        "percent_of_total": 7.73474252975804e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "https://www.comperia.pl/szybkie_pozyczki/pozyczki-bez-bik",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 28,
+          "percent_of_total": 7.73474252975804e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 28,
+        "percent_of_total": 7.73474252975804e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Odwiedź WWW",
+        "anchor_type": [],
+        "count": {
+          "count": 27,
+          "percent_of_total": 7.458501725123824e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 27,
+        "percent_of_total": 7.458501725123824e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 24,
+          "percent_of_total": 6.629779311221178e-05
+        },
+        "domains_with_anchor_count": 7,
+        "anchors_uniq_count": 15,
+        "percent_of_total": 6.629779311221178e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Comperia",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 23,
+          "percent_of_total": 6.353538506586962e-05
+        },
+        "domains_with_anchor_count": 3,
+        "anchors_uniq_count": 11,
+        "percent_of_total": 6.353538506586962e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "https://www.comperia.pl/lokaty_bankowe",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 23,
+          "percent_of_total": 6.353538506586962e-05
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 23,
+        "percent_of_total": 6.353538506586962e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "tu",
+        "anchor_type": [],
+        "count": {
+          "count": 20,
+          "percent_of_total": 5.524816092684315e-05
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 20,
+        "percent_of_total": 5.524816092684315e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Tani kredyt hipoteczny",
+        "anchor_type": [],
+        "count": {
+          "count": 19,
+          "percent_of_total": 5.248575288050099e-05
+        },
+        "domains_with_anchor_count": 13,
+        "anchors_uniq_count": 13,
+        "percent_of_total": 5.248575288050099e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/fundusze_inwestycyjne",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 18,
+          "percent_of_total": 4.972334483415883e-05
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 18,
+        "percent_of_total": 4.972334483415883e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "bardzo dobre �r�d�o informacji",
+        "anchor_type": [],
+        "count": {
+          "count": 18,
+          "percent_of_total": 4.972334483415883e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 18,
+        "percent_of_total": 4.972334483415883e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/forum/kredyty/470-pilnie-pozyczka.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 17,
+          "percent_of_total": 4.6960936787816675e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 17,
+        "percent_of_total": 4.6960936787816675e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/szczegoly-fundusze-inwestycyjne,258-20000-3--1-1-1--4.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 17,
+          "percent_of_total": 4.6960936787816675e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 17,
+        "percent_of_total": 4.6960936787816675e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Ranking lokat",
+        "anchor_type": [],
+        "count": {
+          "count": 17,
+          "percent_of_total": 4.6960936787816675e-05
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 10,
+        "percent_of_total": 4.6960936787816675e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "https://www.comperia.pl/zobowiazanie.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 16,
+          "percent_of_total": 4.419852874147452e-05
+        },
+        "domains_with_anchor_count": 10,
+        "anchors_uniq_count": 16,
+        "percent_of_total": 4.419852874147452e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "",
+        "anchor_type": [],
+        "count": {
+          "count": 16,
+          "percent_of_total": 4.419852874147452e-05
+        },
+        "domains_with_anchor_count": 6,
+        "anchors_uniq_count": 9,
+        "percent_of_total": 4.419852874147452e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/forum/kredyty/86-chwilowka-czy-pozyczka-w-banku.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 15,
+          "percent_of_total": 4.143612069513236e-05
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 14,
+        "percent_of_total": 4.143612069513236e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/regulamin-comperia.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 15,
+          "percent_of_total": 4.143612069513236e-05
+        },
+        "domains_with_anchor_count": 3,
+        "anchors_uniq_count": 9,
+        "percent_of_total": 4.143612069513236e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Porównywarka kredytów hipotecznych",
+        "anchor_type": [],
+        "count": {
+          "count": 15,
+          "percent_of_total": 4.143612069513236e-05
+        },
+        "domains_with_anchor_count": 10,
+        "anchors_uniq_count": 10,
+        "percent_of_total": 4.143612069513236e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "<img src=\"https://www.poranafundusze.pl/wp-content/uploads/2020/02/forum-finansowe-comperia.png\" alt=\"forum finansowe\"",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 15,
+          "percent_of_total": 4.143612069513236e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 11,
+        "percent_of_total": 4.143612069513236e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Ranking kredytów gotówkowych",
+        "anchor_type": [],
+        "count": {
+          "count": 14,
+          "percent_of_total": 3.86737126487902e-05
+        },
+        "domains_with_anchor_count": 8,
+        "anchors_uniq_count": 8,
+        "percent_of_total": 3.86737126487902e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Porównywarka kredytów gotówkowych",
+        "anchor_type": [],
+        "count": {
+          "count": 14,
+          "percent_of_total": 3.86737126487902e-05
+        },
+        "domains_with_anchor_count": 9,
+        "anchors_uniq_count": 9,
+        "percent_of_total": 3.86737126487902e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Ranking kredytów hipotecznych",
+        "anchor_type": [],
+        "count": {
+          "count": 14,
+          "percent_of_total": 3.86737126487902e-05
+        },
+        "domains_with_anchor_count": 10,
+        "anchors_uniq_count": 10,
+        "percent_of_total": 3.86737126487902e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "COMPERIA.PL",
+        "anchor_type": [],
+        "count": {
+          "count": 13,
+          "percent_of_total": 3.5911304602448044e-05
+        },
+        "domains_with_anchor_count": 8,
+        "anchors_uniq_count": 12,
+        "percent_of_total": 3.5911304602448044e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Comperia.pl",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 13,
+          "percent_of_total": 3.5911304602448044e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 10,
+        "percent_of_total": 3.5911304602448044e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/forum/dla-firm/746-infakt-wasze-opinie.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 13,
+          "percent_of_total": 3.5911304602448044e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 12,
+        "percent_of_total": 3.5911304602448044e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Porównanie kredytów hipotecznych",
+        "anchor_type": [],
+        "count": {
+          "count": 12,
+          "percent_of_total": 3.314889655610589e-05
+        },
+        "domains_with_anchor_count": 9,
+        "anchors_uniq_count": 9,
+        "percent_of_total": 3.314889655610589e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "logo Autobaza",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 12,
+          "percent_of_total": 3.314889655610589e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 11,
+        "percent_of_total": 3.314889655610589e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "kredyt gotówkowy",
+        "anchor_type": [],
+        "count": {
+          "count": 12,
+          "percent_of_total": 3.314889655610589e-05
+        },
+        "domains_with_anchor_count": 10,
+        "anchors_uniq_count": 10,
+        "percent_of_total": 3.314889655610589e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "www.comperia.pl/fundusze_inwes...",
+        "anchor_type": [],
+        "count": {
+          "count": 11,
+          "percent_of_total": 3.038648850976373e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 10,
+        "percent_of_total": 3.038648850976373e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "RSS",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 10,
+          "percent_of_total": 2.7624080463421575e-05
+        },
+        "domains_with_anchor_count": 6,
+        "anchors_uniq_count": 8,
+        "percent_of_total": 2.7624080463421575e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Zdolność kredytowa",
+        "anchor_type": [],
+        "count": {
+          "count": 10,
+          "percent_of_total": 2.7624080463421575e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 5,
+        "percent_of_total": 2.7624080463421575e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Porównywarka kredytu hipotecznego",
+        "anchor_type": [],
+        "count": {
+          "count": 10,
+          "percent_of_total": 2.7624080463421575e-05
+        },
+        "domains_with_anchor_count": 8,
+        "anchors_uniq_count": 8,
+        "percent_of_total": 2.7624080463421575e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "https://www.comperia.pl/szybkie_pozyczki/11-1",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 10,
+          "percent_of_total": 2.7624080463421575e-05
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 10,
+        "percent_of_total": 2.7624080463421575e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Szybka pożyczka",
+        "anchor_type": [],
+        "count": {
+          "count": 10,
+          "percent_of_total": 2.7624080463421575e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 5,
+        "percent_of_total": 2.7624080463421575e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Lokaty bankowe",
+        "anchor_type": [],
+        "count": {
+          "count": 10,
+          "percent_of_total": 2.7624080463421575e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 5,
+        "percent_of_total": 2.7624080463421575e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/telekomunikacja/26324-jak-sprawdzic-swoj-numer-telefonu-w-play.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 10,
+          "percent_of_total": 2.7624080463421575e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 10,
+        "percent_of_total": 2.7624080463421575e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/slownik-leasing.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 10,
+          "percent_of_total": 2.7624080463421575e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 10,
+        "percent_of_total": 2.7624080463421575e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "opinie_floway_agencja_marketingowa_spzoo_comperia-300x300 opinie_floway_agencja_marketingowa_spzoo_comperia-300x300",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 9,
+          "percent_of_total": 2.4861672417079416e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 5,
+        "percent_of_total": 2.4861672417079416e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Zmiany w prawie bankowym i ich wpływ na kredyty konsumenckie",
+        "anchor_type": [],
+        "count": {
+          "count": 9,
+          "percent_of_total": 2.4861672417079416e-05
+        },
+        "domains_with_anchor_count": 5,
+        "anchors_uniq_count": 7,
+        "percent_of_total": 2.4861672417079416e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Jak uzyskać kredyt dla małej firmy? Przewodnik dla przedsiębiorców",
+        "anchor_type": [],
+        "count": {
+          "count": 9,
+          "percent_of_total": 2.4861672417079416e-05
+        },
+        "domains_with_anchor_count": 5,
+        "anchors_uniq_count": 7,
+        "percent_of_total": 2.4861672417079416e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Kredyty gotówkowe bez zaświadczeń. Plusy i minusy",
+        "anchor_type": [],
+        "count": {
+          "count": 9,
+          "percent_of_total": 2.4861672417079416e-05
+        },
+        "domains_with_anchor_count": 5,
+        "anchors_uniq_count": 7,
+        "percent_of_total": 2.4861672417079416e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Odrzucenie wniosku o kredyt. Co dalej?",
+        "anchor_type": [],
+        "count": {
+          "count": 9,
+          "percent_of_total": 2.4861672417079416e-05
+        },
+        "domains_with_anchor_count": 5,
+        "anchors_uniq_count": 7,
+        "percent_of_total": 2.4861672417079416e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Zadłużenie. Jak radzić sobie z długami i jak ich uniknąć?",
+        "anchor_type": [],
+        "count": {
+          "count": 9,
+          "percent_of_total": 2.4861672417079416e-05
+        },
+        "domains_with_anchor_count": 5,
+        "anchors_uniq_count": 7,
+        "percent_of_total": 2.4861672417079416e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl",
+        "anchor_type": [],
+        "count": {
+          "count": 8,
+          "percent_of_total": 2.209926437073726e-05
+        },
+        "domains_with_anchor_count": 5,
+        "anchors_uniq_count": 5,
+        "percent_of_total": 2.209926437073726e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "kapitalizacja definicja",
+        "anchor_type": [],
+        "count": {
+          "count": 8,
+          "percent_of_total": 2.209926437073726e-05
+        },
+        "domains_with_anchor_count": 5,
+        "anchors_uniq_count": 5,
+        "percent_of_total": 2.209926437073726e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "https://www.comperia.pl/kredyty_samochodowe",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 8,
+          "percent_of_total": 2.209926437073726e-05
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 8,
+        "percent_of_total": 2.209926437073726e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "https://www.comperia.pl/budowa-systemem-gospodarczym.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 8,
+          "percent_of_total": 2.209926437073726e-05
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 3,
+        "percent_of_total": 2.209926437073726e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Comperia.pl SA",
+        "anchor_type": [],
+        "count": {
+          "count": 8,
+          "percent_of_total": 2.209926437073726e-05
+        },
+        "domains_with_anchor_count": 4,
+        "anchors_uniq_count": 5,
+        "percent_of_total": 2.209926437073726e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Najlepsze kredyty hipoteczne",
+        "anchor_type": [],
+        "count": {
+          "count": 8,
+          "percent_of_total": 2.209926437073726e-05
+        },
+        "domains_with_anchor_count": 7,
+        "anchors_uniq_count": 7,
+        "percent_of_total": 2.209926437073726e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Porównywarka finansowa Comperia.pl",
+        "anchor_type": [],
+        "count": {
+          "count": 7,
+          "percent_of_total": 1.93368563243951e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 7,
+        "percent_of_total": 1.93368563243951e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/kredyty",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 7,
+          "percent_of_total": 1.93368563243951e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 7,
+        "percent_of_total": 1.93368563243951e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "co to kapitalizacja",
+        "anchor_type": [],
+        "count": {
+          "count": 7,
+          "percent_of_total": 1.93368563243951e-05
+        },
+        "domains_with_anchor_count": 4,
+        "anchors_uniq_count": 4,
+        "percent_of_total": 1.93368563243951e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/bezrobocie-rosnie-konsumpcja-spada-.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 7,
+          "percent_of_total": 1.93368563243951e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 7,
+        "percent_of_total": 1.93368563243951e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Przestań przepłacać za kredyt - dzięki tym konsolidacjom zaoszczędzisz najwięcej",
+        "anchor_type": [],
+        "count": {
+          "count": 7,
+          "percent_of_total": 1.93368563243951e-05
+        },
+        "domains_with_anchor_count": 4,
+        "anchors_uniq_count": 6,
+        "percent_of_total": 1.93368563243951e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Lokaty",
+        "anchor_type": [],
+        "count": {
+          "count": 7,
+          "percent_of_total": 1.93368563243951e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 5,
+        "percent_of_total": 1.93368563243951e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "co to jest kapitalizacja",
+        "anchor_type": [],
+        "count": {
+          "count": 7,
+          "percent_of_total": 1.93368563243951e-05
+        },
+        "domains_with_anchor_count": 4,
+        "anchors_uniq_count": 4,
+        "percent_of_total": 1.93368563243951e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "opinie o tych firmach i o samym oddłużaniu",
+        "anchor_type": [],
+        "count": {
+          "count": 7,
+          "percent_of_total": 1.93368563243951e-05
+        },
+        "domains_with_anchor_count": 3,
+        "anchors_uniq_count": 7,
+        "percent_of_total": 1.93368563243951e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "szybkie pożyczki",
+        "anchor_type": [],
+        "count": {
+          "count": 7,
+          "percent_of_total": 1.93368563243951e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 7,
+        "percent_of_total": 1.93368563243951e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Najlepsze kredyty gotówkowe",
+        "anchor_type": [],
+        "count": {
+          "count": 7,
+          "percent_of_total": 1.93368563243951e-05
+        },
+        "domains_with_anchor_count": 6,
+        "anchors_uniq_count": 6,
+        "percent_of_total": 1.93368563243951e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "https://www.comperia.pl/konta-za-0-zl-b ... -2018.html",
+        "anchor_type": [],
+        "count": {
+          "count": 7,
+          "percent_of_total": 1.93368563243951e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 7,
+        "percent_of_total": 1.93368563243951e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Na wyjazd spakuj krem z filtrem, okulary i aplikację VeloBanku",
+        "anchor_type": [],
+        "count": {
+          "count": 7,
+          "percent_of_total": 1.93368563243951e-05
+        },
+        "domains_with_anchor_count": 4,
+        "anchors_uniq_count": 6,
+        "percent_of_total": 1.93368563243951e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Comperia.pl &#8211; RSS",
+        "anchor_type": [],
+        "count": {
+          "count": 7,
+          "percent_of_total": 1.93368563243951e-05
+        },
+        "domains_with_anchor_count": 3,
+        "anchors_uniq_count": 5,
+        "percent_of_total": 1.93368563243951e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 7,
+          "percent_of_total": 1.93368563243951e-05
+        },
+        "domains_with_anchor_count": 6,
+        "anchors_uniq_count": 7,
+        "percent_of_total": 1.93368563243951e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "kapitalizacja co to",
+        "anchor_type": [],
+        "count": {
+          "count": 6,
+          "percent_of_total": 1.6574448278052944e-05
+        },
+        "domains_with_anchor_count": 5,
+        "anchors_uniq_count": 5,
+        "percent_of_total": 1.6574448278052944e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "<canonical>",
+        "anchor_type": [],
+        "count": {
+          "count": 6,
+          "percent_of_total": 1.6574448278052944e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 6,
+        "percent_of_total": 1.6574448278052944e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "comperia.pl",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 6,
+          "percent_of_total": 1.6574448278052944e-05
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 5,
+        "percent_of_total": 1.6574448278052944e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/blog-jacek-kasperczyk",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 6,
+          "percent_of_total": 1.6574448278052944e-05
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 4,
+        "percent_of_total": 1.6574448278052944e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/blog-natalia-skwierawska",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 6,
+          "percent_of_total": 1.6574448278052944e-05
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 4,
+        "percent_of_total": 1.6574448278052944e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/karta-platnicza-jak-nie-pomylic-karty-debetowej-z-kredytowa.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 6,
+          "percent_of_total": 1.6574448278052944e-05
+        },
+        "domains_with_anchor_count": 3,
+        "anchors_uniq_count": 5,
+        "percent_of_total": 1.6574448278052944e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/blog-marcin-malanowski",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 6,
+          "percent_of_total": 1.6574448278052944e-05
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 4,
+        "percent_of_total": 1.6574448278052944e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/blog-mikolaj-fidzinski",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 6,
+          "percent_of_total": 1.6574448278052944e-05
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 4,
+        "percent_of_total": 1.6574448278052944e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/blog-karol-wilczko",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 6,
+          "percent_of_total": 1.6574448278052944e-05
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 4,
+        "percent_of_total": 1.6574448278052944e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Forum finansowe Comperia.pl",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 6,
+          "percent_of_total": 1.6574448278052944e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 4,
+        "percent_of_total": 1.6574448278052944e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/blog-iwona-bielska",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 6,
+          "percent_of_total": 1.6574448278052944e-05
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 4,
+        "percent_of_total": 1.6574448278052944e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/blog-jacek-kasperczyk",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 6,
+          "percent_of_total": 1.6574448278052944e-05
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 4,
+        "percent_of_total": 1.6574448278052944e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "<canonical>",
+        "anchor_type": [],
+        "count": {
+          "count": 6,
+          "percent_of_total": 1.6574448278052944e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 6,
+        "percent_of_total": 1.6574448278052944e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "kapitalizacja",
+        "anchor_type": [],
+        "count": {
+          "count": 5,
+          "percent_of_total": 1.3812040231710788e-05
+        },
+        "domains_with_anchor_count": 5,
+        "anchors_uniq_count": 5,
+        "percent_of_total": 1.3812040231710788e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Finanse na żywo.",
+        "anchor_type": [],
+        "count": {
+          "count": 5,
+          "percent_of_total": 1.3812040231710788e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 3,
+        "percent_of_total": 1.3812040231710788e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "porównywarki finansowej Comperia.pl",
+        "anchor_type": [],
+        "count": {
+          "count": 5,
+          "percent_of_total": 1.3812040231710788e-05
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 5,
+        "percent_of_total": 1.3812040231710788e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "https://www.comperia.pl/kredyty_gotowkowe",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 5,
+          "percent_of_total": 1.3812040231710788e-05
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 5,
+        "percent_of_total": 1.3812040231710788e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "https://www.comperia.pl/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 5,
+          "percent_of_total": 1.3812040231710788e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 3,
+        "percent_of_total": 1.3812040231710788e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "lokaty bez konta",
+        "anchor_type": [],
+        "count": {
+          "count": 5,
+          "percent_of_total": 1.3812040231710788e-05
+        },
+        "domains_with_anchor_count": 4,
+        "anchors_uniq_count": 4,
+        "percent_of_total": 1.3812040231710788e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/forum/kredyty/6414-planowanie-budzetu-domowego-a-spirala-kredytowa.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 5,
+          "percent_of_total": 1.3812040231710788e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 4,
+        "percent_of_total": 1.3812040231710788e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "https://www.comperia.pl/egzekucja-wierzytelnosci.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 5,
+          "percent_of_total": 1.3812040231710788e-05
+        },
+        "domains_with_anchor_count": 4,
+        "anchors_uniq_count": 5,
+        "percent_of_total": 1.3812040231710788e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "entuzjastycznego artykułu",
+        "anchor_type": [],
+        "count": {
+          "count": 4,
+          "percent_of_total": 1.104963218536863e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 4,
+        "percent_of_total": 1.104963218536863e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/bon-skarbowy.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 4,
+          "percent_of_total": 1.104963218536863e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 4,
+        "percent_of_total": 1.104963218536863e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://comperia.pl/konta_osobiste/konta-walutowe",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 4,
+          "percent_of_total": 1.104963218536863e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 1.104963218536863e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Grupa Comperia",
+        "anchor_type": [],
+        "count": {
+          "count": 4,
+          "percent_of_total": 1.104963218536863e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 4,
+        "percent_of_total": 1.104963218536863e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://comperia.pl",
+        "anchor_type": [],
+        "count": {
+          "count": 4,
+          "percent_of_total": 1.104963218536863e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 3,
+        "percent_of_total": 1.104963218536863e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "link",
+        "anchor_type": [],
+        "count": {
+          "count": 4,
+          "percent_of_total": 1.104963218536863e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 1.104963218536863e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "tego adresu",
+        "anchor_type": [],
+        "count": {
+          "count": 4,
+          "percent_of_total": 1.104963218536863e-05
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 4,
+        "percent_of_total": 1.104963218536863e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "LINK",
+        "anchor_type": [],
+        "count": {
+          "count": 4,
+          "percent_of_total": 1.104963218536863e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 4,
+        "percent_of_total": 1.104963218536863e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Kredyty, lokaty, ubezpieczenia, konta, poĹĽyczki - porĂłwnywarka Comperia.pl",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 4,
+          "percent_of_total": 1.104963218536863e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 1.104963218536863e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Porównywarka kredytów",
+        "anchor_type": [],
+        "count": {
+          "count": 4,
+          "percent_of_total": 1.104963218536863e-05
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 1.104963218536863e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/lokaty_bankowe",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 4,
+          "percent_of_total": 1.104963218536863e-05
+        },
+        "domains_with_anchor_count": 4,
+        "anchors_uniq_count": 4,
+        "percent_of_total": 1.104963218536863e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "https://www.comperia.pl/konta_osobiste",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 4,
+          "percent_of_total": 1.104963218536863e-05
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 4,
+        "percent_of_total": 1.104963218536863e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "leasing samochodowy",
+        "anchor_type": [],
+        "count": {
+          "count": 4,
+          "percent_of_total": 1.104963218536863e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 4,
+        "percent_of_total": 1.104963218536863e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/forum/kredyty/20-mdm-dla-posiadaczy-kredytu.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 4,
+          "percent_of_total": 1.104963218536863e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 4,
+        "percent_of_total": 1.104963218536863e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "W tym linku",
+        "anchor_type": [],
+        "count": {
+          "count": 4,
+          "percent_of_total": 1.104963218536863e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 4,
+        "percent_of_total": 1.104963218536863e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "https://www.comperia.pl/artykuly/o_kred ... nosci.html",
+        "anchor_type": [],
+        "count": {
+          "count": 4,
+          "percent_of_total": 1.104963218536863e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 4,
+        "percent_of_total": 1.104963218536863e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/kalkulator-zdoln ... towej.html",
+        "anchor_type": [],
+        "count": {
+          "count": 4,
+          "percent_of_total": 1.104963218536863e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 4,
+        "percent_of_total": 1.104963218536863e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "tutaj",
+        "anchor_type": [],
+        "count": {
+          "count": 4,
+          "percent_of_total": 1.104963218536863e-05
+        },
+        "domains_with_anchor_count": 4,
+        "anchors_uniq_count": 4,
+        "percent_of_total": 1.104963218536863e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Oferty lokat można porównać w internecie",
+        "anchor_type": [],
+        "count": {
+          "count": 4,
+          "percent_of_total": 1.104963218536863e-05
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 4,
+        "percent_of_total": 1.104963218536863e-05
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/forum/kredyty/72-kredyt-na-samochod.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 3,
+          "percent_of_total": 8.287224139026472e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 3,
+        "percent_of_total": 8.287224139026472e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Comperia.pl S.A.",
+        "anchor_type": [],
+        "count": {
+          "count": 3,
+          "percent_of_total": 8.287224139026472e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 8.287224139026472e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "comperia",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 3,
+          "percent_of_total": 8.287224139026472e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 8.287224139026472e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "ranking Comperia.pl",
+        "anchor_type": [],
+        "count": {
+          "count": 3,
+          "percent_of_total": 8.287224139026472e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 8.287224139026472e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Grupa Comperia.pl SA",
+        "anchor_type": [],
+        "count": {
+          "count": 3,
+          "percent_of_total": 8.287224139026472e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 8.287224139026472e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "linkiem",
+        "anchor_type": [],
+        "count": {
+          "count": 3,
+          "percent_of_total": 8.287224139026472e-06
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 3,
+        "percent_of_total": 8.287224139026472e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "ranking lokat bez konta",
+        "anchor_type": [],
+        "count": {
+          "count": 3,
+          "percent_of_total": 8.287224139026472e-06
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 8.287224139026472e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "www.Comperia.pl",
+        "anchor_type": [],
+        "count": {
+          "count": 3,
+          "percent_of_total": 8.287224139026472e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 8.287224139026472e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "co to jest promesa",
+        "anchor_type": [],
+        "count": {
+          "count": 3,
+          "percent_of_total": 8.287224139026472e-06
+        },
+        "domains_with_anchor_count": 3,
+        "anchors_uniq_count": 3,
+        "percent_of_total": 8.287224139026472e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "https://www.comperia.pl/high-net-worth-individuals-hnwi.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 3,
+          "percent_of_total": 8.287224139026472e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 8.287224139026472e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Comperia.pl SA",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 3,
+          "percent_of_total": 8.287224139026472e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 8.287224139026472e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Zobacz to miejsce",
+        "anchor_type": [],
+        "count": {
+          "count": 3,
+          "percent_of_total": 8.287224139026472e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 8.287224139026472e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "www.comperia.pl/pozyczki_hipoteczne",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 3,
+          "percent_of_total": 8.287224139026472e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 8.287224139026472e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "www.comperia.pl/ranking-kont-m...",
+        "anchor_type": [],
+        "count": {
+          "count": 3,
+          "percent_of_total": 8.287224139026472e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 3,
+        "percent_of_total": 8.287224139026472e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "z takich narzędzi",
+        "anchor_type": [],
+        "count": {
+          "count": 3,
+          "percent_of_total": 8.287224139026472e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 3,
+        "percent_of_total": 8.287224139026472e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "https://www.comperia.pl/artykuly/o_karta...le-ub.html",
+        "anchor_type": [],
+        "count": {
+          "count": 3,
+          "percent_of_total": 8.287224139026472e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 3,
+        "percent_of_total": 8.287224139026472e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://comperia.pl/regulamin-comperia.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 3,
+          "percent_of_total": 8.287224139026472e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 8.287224139026472e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "pożyczki przez internet bez zaświadczeń",
+        "anchor_type": [],
+        "count": {
+          "count": 3,
+          "percent_of_total": 8.287224139026472e-06
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 3,
+        "percent_of_total": 8.287224139026472e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "https://www.comperia.pl/1884-bida-z-nedza",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 3,
+          "percent_of_total": 8.287224139026472e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 8.287224139026472e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/szczegoly-lokaty-bankowe,1269-lokata_rentierska_gold.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 3,
+          "percent_of_total": 8.287224139026472e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 8.287224139026472e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "rankingu lokat bankowych Comperia.pl",
+        "anchor_type": [],
+        "count": {
+          "count": 3,
+          "percent_of_total": 8.287224139026472e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 3,
+        "percent_of_total": 8.287224139026472e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/kredyty_hipoteczne",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 3,
+          "percent_of_total": 8.287224139026472e-06
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 8.287224139026472e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "https://www.comperia.pl/telekomunika...em-google.html",
+        "anchor_type": [],
+        "count": {
+          "count": 3,
+          "percent_of_total": 8.287224139026472e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 3,
+        "percent_of_total": 8.287224139026472e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/w-banku-czy-w-salonie-ranking-kredytow-samochodowych.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 3,
+          "percent_of_total": 8.287224139026472e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 8.287224139026472e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/artykuly/o_ubezpi...znosc.html",
+        "anchor_type": [],
+        "count": {
+          "count": 3,
+          "percent_of_total": 8.287224139026472e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 3,
+        "percent_of_total": 8.287224139026472e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "https://www.comperia.pl/pozyczki_hipoteczne",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 3,
+          "percent_of_total": 8.287224139026472e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 3,
+        "percent_of_total": 8.287224139026472e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/ja...comperiapl.html",
+        "anchor_type": [],
+        "count": {
+          "count": 3,
+          "percent_of_total": 8.287224139026472e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 3,
+        "percent_of_total": 8.287224139026472e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "O kredytach samochodowych",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Comperia.pl. S.A.",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "https://www.comperia.pl/libor.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "spread-ów walutowych",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/programator-php.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "https://www.comperia.pl/a...ie-pojazdu.html",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/ranking-na-najlepsze-konto-internetowe-kwiecien-2013.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/k...sobiste/konta-z-cashback",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "www.comperia.pl/oddzial-online...",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/droga-po-kredyt-hipoteczny-od-czego-zaczac.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "www.comperia.pl/karta-czy-konto-za-granica-wielki-raport-comperiapl.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Comperia.pl - forum finansowe",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "comperia.pl/mundialokaty-czyli-co-polski-rynek-lokat-ma-wspolnego-z-mistrzostwami.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Kredyt hipoteczny - transza",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Jak poprawnie obliczyć zdolność kredytową?",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Źródło",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "https://www.comperia.pl/kredyty_samochodowe/porownanie-kredytow-samochodowych-2012---20000-30000-pln-48-5-1.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/ra...potecznych.html",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://comperia.pl/forum",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Oferta lokat bankowych",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Na czym polega 30-dniowe ubezpieczenie samochodu?",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "skorzystaj z porównywarki ofert leasingowych",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Najlepszą ofertę kredytu gotówkowego",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "kredytów bankowych",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "By Comperia.pl",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Comperii",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/ranking-kredytow ... owych.html",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "comperia.pl/ranking-lokat-3-miesiecznych-lipiec-2014.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "https://www.comperia.pl/kredyty_gotowkowe/porownanie-kredytow-gotowkowych,65000-86-0-1-0--10.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/kontakt.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "comperia.pl/archiwalny-ranking-kredytow-hipotecznych-lipiec-2014.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/zarabiaj-na-polecaniu.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "https://www.comperia.pl",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/skad-wziac-1000-zl-na-wyprawke-szkolna-raport-comperiapl.html ,",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "ranking lokat",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "comperia.pl/ranking-kredytow-samochodowych-lipiec-2014.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "comperia.pl/lokaty_bankowe",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "&bdquo;Wyliczanie rat kredyt&oacute;w &ndash; wielka zmyłka bank&oacute;w?&rdquo;",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "O kredytach hipotecznych",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/kara-za-zamkniecie-konta-banki-bronia-sie-przed-ucieczka-klientow.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Więcej informacji",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Konto Oszczędnościowe",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "tym adresem",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "https://www.comperia.pl/szybkie_pozyczki",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "https://www.comperia.pl",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "ranking lokat",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "comperia.pl/archiwalny-ranking-kredytow-hipotecznych-lipiec-2014.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/telekomunikacja/15170-jak-zglaszac-reklamacje-w-t-mobile.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "kalkulator zdolności kredytowej",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "comperia.pl/ranking-kredytow-samochodowych-lipiec-2014.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Konto Oszczędnościowe",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "tym adresem",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "https://www.comperia.pl/artykuly/o_szybkich_pozyczkach/32132-pierwsza-chwilowka-za-0-zl-przeglad-najlepszych-promocji-pozyczkowych.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/ranking-kredytow-hipotecznych.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "comperia.pl/kredyty_gotowkowe",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/ranking-kredytow ... owych.html",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/comperiapl-sprawdza-mity-dotyczace-oszczedzania.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "comperia.pl/kredyty_samochodowe",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "https://www.comperia.pl/visa-czy-mastercard-jaka-jest-roznica",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/ranking-kredytow-gotowkowych.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Mieszkanie dla Młodych: obliczamy wysokość dofinansowania dla 3-osobowej rodziny",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "najlepszy kredyt hipoteczny",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Jak przedluzyc waznosc konta na rok w Play na kartę?",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/konta_oszczednosciowe",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "https://www.comperia.pl/artykuly/o_kontach_osobistych/23306-nieoczekiwany-przelew-czy-trzeba-oddac-pieniadze-nadawcy.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://comperia.pl/kredyty_hipoteczne",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "kredytów bankowych",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "W takim razie jak sprawdzić swój numer telefonu w plush?",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "comperia.pl/kredyt-we-frankach-czy-na-pewno-to-petla-na-szyi.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "www.comperia.pl/blog-mikolaj-fidzinski",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Jak sprawdzić stan konta w Plusie abonament?",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "comperia.pl/lokaty_bankowe",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "bloga porównywarki finansowej Comperia.pl",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "comperia.pl/kredyty",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "oblicz, o ile obniżą się zobowiązania, jeżeli połączysz kilka spłacanych kredytów",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "comperia.pl/kredyty_hipoteczne",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Tutaj",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "www.comperia.pl/lokaty_bankowe/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "O kredytach hipotecznych",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "https://www.comperia.pl/kalkulator-zdolnosci-kredytowej.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "www.comperia.pl/index/?id=639d79cc857a6c76c2723b7e014fccb0&show_=1&ref=886385a4d2254d07ee0ac",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Oferta lokat bankowych",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/artykuly/o_szybkich_pozyczkach/12018-o-konsekwencjach-niesplacania-chwilowek.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.524816092684315e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 5.524816092684315e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Ranking lokat - sierpień 2022",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/forum/dla-firm/5894-sniadania-biznesowe.html#p73066",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Kredyty dla firm finansowanie działalności bieżącej",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Kredytowa pętla na szyję?",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "www. comperia wt., 15-09-2015 Forum: Developerzy: Polska",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "https://www.comperia.pl/artykuly/o_kredytach_hipotecznych/32308-od-2019-r-koniec-uzytkowania-wieczystego-ile-wyniesie-oplata-przeksztalceniowa.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "www.comperia.pl/kredyty_samochodowe/?p=1",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "sprawdź zdolność kredytową",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/forum/ubezpieczenia/13-kiedy-u bezpieczyc-sie-na-zycie.html",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/hipoteka-kaucyjna.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/letni-ranking-bankow-oszczednosciowo-inwestycyjnych.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/artykuly/o_konta ... 10-zl.html",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "ranking na najlepszy rachunek maklerski",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "lokaty bankowe bez konta",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Temat frankowiczów rozpoczął dyskusje nad rozwiązaniem tego problemu. Niemniej do dnia dzisiejszego nie weszło w życie żadne systemowe rozwiązanie kwestii frankowiczów. Obecnie w Kancelarii Prezydenta trwają prace nad ustawą „o sposobach przywrócenia równości stron niektórych umów kredytu”. Rekordowo niskie stopy Powodów do narzekań z pewnością nie miały osoby z kredytami w polskiej walucie. W 2015 r. Polacy weszli z rekordowo niskimi stopami procentowymi oraz tanimi kredytami, a sytuacja dodatkowo polepszyła się w marcu, gdy Rada Polityki Pieniężnej przy Narodowym Banku Polskim kolejny raz obniżyła stopy. Od tego czasu referencyjna stopa NBP wynosi 1,50 proc., a WIBOR 3M (rynkowa stopa, na której oparte jest oprocentowanie kredytów mieszkaniowych w złotych) od pół roku 1,72-1,73 proc. Zmianę tę przedstawia poniższy wykres.",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "www.comperia.pl/ranking-funduszy-emerytalnych-zestawienie-comperii.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Po�yczka na zakup domu",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Przenieś się tutaj",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/transza.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "po&#380;yczki hipoteczne",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "na zestawienie kont oszczędnościowych Comperia.pl &raquo;",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "kredyty samochodowe",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Gdzie zainwestowa� oszcz�dno�ci",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "lokat bankowych",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "informacjami w sieci",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "comperia.pl/telekomunikacja/14306-jak-sprawdzic-swoj-numer-telefonu.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Już pięć banków daje zarobić po 8% na lokacie. Gdzie jest haczyk?",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "www.comperia.pl/szczegoly- deweloper,SGI wt., 15-09-2015 Forum: Developerzy: Polska",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Lokaty strukturyzowane",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "co to jest stopa referencyjna",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Comperia.pl SA Logo",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Kliknij tę stronę",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Jak wynika z danych Comperia.pl",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Lokaty bankowe",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "https://www.comperia.pl/artykuly-polecane/32592-ranking-pozyczek-100-online.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Artykuły finansowe",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "www. comperia .pl/forum/gsm/1656-jaka-siec.html",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "https://www.comperia.pl/faktoring",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Auto na kredyt",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "tym artykule",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Zdolność kredytowa jest wyliczana na podstawie dochod&oacute;w",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/szybkie_pozyczki ... aswiadczen",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "OnePlus One jest dostępny m.in. w ofercie Orange",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Chcę przejść",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "O lokatach bankowych",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Konfiguracja MMS'ów w Play krok po kroku »",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Jak obliczy� wysoko�� dop�aty Mieszkanie dla M�odych?",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/naleznosci-krotkoterminowe.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/kredyty_samochodowe",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/pozyczka-pod-zastaw-mieszkania-rodzicow-to-mozliwe.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "BNP Paribas",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/karty_kredytowe",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Jak sprawdzić numer karty SIM nju?",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/ranking-kont-osobistych-eurobank-i-t-mobile-uslugi-bankowe-najtansze-i-z-bonusami.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "https://www.comperia.pl/polityka-prywatnosci-comperia",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "[26]",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "www.comperia.pl/konta_oszczednosciowe",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "www.comperia.pl/konta-bankowe-dla-dzieci-czyli-edukacja-finansowa-od-malego.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/forum/kredyty/47 ... yczka.html",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "co to jest zaliczka?",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "W dalszej kolejności, jak zrobić zastrzeżony numer w plusie?",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/ranking-kredytow-gotowkowych-liczy-sie-nie-tylko-cena-pozyczki.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/kredyt-bez-zaswiadczen-w-banku-juz-niemozliwe.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Comperia.pl - informacje i nowości o finansach",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Artykuły na temat finansów",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Auto na kredyt",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/ranking-bankow-metodologia.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "W konsekwencji, jak sprawdzić swój numer telefonu w plush?",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Ranking lokat - sierpień 2021",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/karta-zblizeniowa-szybka-platnosc-ale-tylko-w-wybranych-sklepach.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "www.comperia.pl/allianz-bank-przedluza-zlota-hipoteke.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Strona internetowa",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/szybkie_pozyczki ... aswiadczen",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "OnePlus One jest dostępny m.in. w ofercie Orange",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Oferty kredyt&oacute;w na samochody",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Co zrobić, gdy zaginie dokument tożsamości?",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Porównanie kredytów hipotecznych może odbywać się pod wieloma aspektami",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Źródło: www.comperia.pl",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Konta osobiste",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Już pięć banków daje zarobić po 8% na lokacie. Gdzie jest haczyk?",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Konfiguracja MMS'ów w Play krok po kroku »",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "O kredytach gotókowych",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Serwis Comperia.pl",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "https://www.comperia.pl/faktoring/faktoring_odwrotny",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "tutaj.",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/kredyty_samochodowe",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/pozyczka-pod-zastaw-mieszkania-rodzicow-to-mozliwe.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Artykuły na temat lokat bankowych",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Jak wynika z danych Comperia.pl",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/forum/kredyty/2-trudnosci-w-usyzkaniu-dofinansowania-w-mdm.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "sprawdź zdolność kredytową",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/forum/ubezpieczenia/13-kiedy-u bezpieczyc-sie-na-zycie.html",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "lokat bankowych",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Chcę przejść",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "na zestawienie kont oszczędnościowych Comperia.pl &raquo;",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Comperia - Porównywarka finansowa",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "[26]",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Pełny artykuł",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "www.comperia.pl/konta_oszczednosciowe",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "www.comperia.pl/konta-bankowe-dla-dzieci-czyli-edukacja-finansowa-od-malego.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "kredyty samochodowe",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "co to jest zaliczka?",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "https://www.comperia.pl/ubezpieczenie-pomostowe.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Jak sprawdzić numer karty SIM nju?",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "www.comperia.pl/ranking-funduszy-emerytalnych-zestawienie-comperii.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Fundusze inwestycyjne",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "BNP Paribas",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Comperia.pl/analytics",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/filmy.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "www.comperia.pl/nie-daj-sie-nabic-w-butelke-czyli-haczyki-w-polisach-ac.html.",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "ranking lokat maj-czerwiec Comperia.pl",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Comperia.pl w informatorze kredytów gotówkowych",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Pożyczka pod zastaw mieszkania rodziców? To możliwe!",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "www.comperia.pl/warszawski-zjazd-europejskich-lobbystow-bankowych.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "https://www.comperia.pl/31512-pozaodsetkowe-czyli-jakie-o-rodzajach-kosztow-kredytowych",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Rekomendacja S - druga odsłona, ale nie lepsza",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Jak obliczy� wysoko�� dop�aty Mieszkanie dla M�odych?",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "www. comperia wt., 15-09-2015 Forum: Developerzy: Polska",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "https://www.comperia.pl/artykuly/o_kredytach_hipotecznych/32308-od-2019-r-koniec-uzytkowania-wieczystego-ile-wyniesie-oplata-przeksztalceniowa.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Politykę Prywatności",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "www.comperia.pl/doradztwo-finansowe-bezcenny-skarb-czy-smutna-koniecznosc.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "www.comperia.pl/forum/lokaty/98-lokata.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Lokaty strukturyzowane",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "co to jest stopa referencyjna",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Comperia.pl SA Logo",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "www.comperia.pl/forum/kredyty/1242-szybka-pozyczka-przez-internet.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "O lokatach bankowych",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www .comperia. pl/ranking -lokat.htm l",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Lokaty bankowe",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Przenieś się tutaj",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Gdzie zainwestowa� oszcz�dno�ci",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "www. comperia .pl",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "wskaźniku LTV",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Zobacz pełen ranking kredytów hipotecznych",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/naleznosci-krotkoterminowe.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/kredyt-samochodowy-na-uzywane-auto-co-nalezy-wiedziec.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Koniec pioniera bankowości elektronicznej. PKO BP wycofał z oferty konta Inteligo",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/nbp-nowa-projekcja-inflacji-i-pkb.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Jak wyłączyć zawieszanie połączeń?",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Porównywarka finansowa Comperia.pl",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "www.comperia.pl/kredyty_gotowkowe/?p=1",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "comperia.p",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Kredyty hipoteczne",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/konta_oszczednosciowe/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Kredyty samochodowe",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Ile kosztuje dzwonienie za granicę?",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Ujemne oprocentowanie kont i lokat? UOKiK mówi stanowcze NIE",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "forum",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "www.comperia.pl/forum/kredyty/88-kredyt-hipot eczny.html",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "rankingu .",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/ranking-kont-osobistych-eurobank-i-t-mobile-uslugi-bankowe-najtansze-i-z-bonusami.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Jak wybrać dobrą ofertę leasingu",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "https://www.comperia.pl/polityka-prywatnosci-comperia",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Kredyty inwestycyjne",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "www.comperia.pl",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/wyniki-kredyty-hipo...0-----1---.html",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Zobacz pełen ranking lokat bankowych",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/forum/kredyty/47 ... yczka.html",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/karty_kredytowe",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Kredyty dla firm kredyty hipoteczne",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Kredyty dla firm kredyty samochodowe",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Zobacz pełen ranking kredytów hipotecznych",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Gdzie zainwestowa� oszcz�dno�ci",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Rekomendacja S - druga odsłona, ale nie lepsza",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Kliknij tę stronę",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "ranking lokat maj-czerwiec Comperia.pl",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "https://www.comperia.pl/ubezpieczenie-pomostowe.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Koniec pioniera bankowości elektronicznej. PKO BP wycofał z oferty konta Inteligo",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/nbp-nowa-projekcja-inflacji-i-pkb.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Jak wyłączyć zawieszanie połączeń?",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Porównywarka finansowa Comperia.pl",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Pełny artykuł",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/karta-zblizeniowa-szybka-platnosc-ale-tylko-w-wybranych-sklepach.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.comperia.pl/hipoteka-kaucyjna.html",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Źródło: www.comperia.pl",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      },
+      {
+        "link_domain": "comperia.pl",
+        "is_main_domain": true,
+        "anchor": "Kredyty dla firm kredyty hipoteczne",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.7624080463421575e-06
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 2.7624080463421575e-06
+      }
+    ],
+    "total": 415,
+    "domain": "comperia.pl",
+    "endpoint": "get_backlinks_anchor_data"
+  }
+}

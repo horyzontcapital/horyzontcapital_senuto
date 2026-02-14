@@ -1,0 +1,386 @@
+{
+  "domain": "bankowybroker.pl",
+  "endpoint": "get_competitors_analysis",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "keyword": "pożyczki pod zastaw nieruchomości pozabankowe",
+          "cpc": 13.3,
+          "searches": 210,
+          "trends": [
+            390,
+            390,
+            320,
+            320,
+            260,
+            320,
+            390,
+            320,
+            210,
+            170,
+            210,
+            320
+          ],
+          "difficulty": 35,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 34,
+            "url": "horyzontcapital.com/blog/pozyczka-pod-zastaw-nieruchomosci-dla-firmy-krok-po-kroku"
+          },
+          "horyzontcapital.com_pos": 34,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/pozyczka-pod-zastaw-nieruchomosci-dla-firmy-krok-po-kroku",
+          "bankowybroker.pl": {
+            "pos": 10,
+            "url": "bankowybroker.pl/oferta/pozyczki-indywidualne/"
+          },
+          "bankowybroker.pl_pos": 10,
+          "bankowybroker.pl_url": "bankowybroker.pl/oferta/pozyczki-indywidualne/"
+        },
+        {
+          "keyword": "pożyczki pod zastaw nieruchomości bez bik",
+          "cpc": 13.41,
+          "searches": 170,
+          "trends": [
+            210,
+            210,
+            140,
+            110,
+            140,
+            170,
+            260,
+            140,
+            110,
+            210,
+            210,
+            260
+          ],
+          "difficulty": 46,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 8,
+            "url": "horyzontcapital.com/blog/pozyczka-pod-zastaw-mieszkania-elastyczne-finansowanie-dla-twojego-biznesu"
+          },
+          "horyzontcapital.com_pos": 8,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/pozyczka-pod-zastaw-mieszkania-elastyczne-finansowanie-dla-twojego-biznesu",
+          "bankowybroker.pl": {
+            "pos": 26,
+            "url": "bankowybroker.pl/oferta/pozyczki-indywidualne/"
+          },
+          "bankowybroker.pl_pos": 26,
+          "bankowybroker.pl_url": "bankowybroker.pl/oferta/pozyczki-indywidualne/"
+        },
+        {
+          "keyword": "pożycza pieniądze pod zastaw",
+          "cpc": 1.29,
+          "searches": 70,
+          "trends": [
+            50,
+            20,
+            50,
+            40,
+            10,
+            50,
+            320,
+            170,
+            90,
+            50,
+            30,
+            20
+          ],
+          "difficulty": 36,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 25,
+            "url": "horyzontcapital.com/oferta/pozyczka-pod-zastaw-nieruchomosci"
+          },
+          "horyzontcapital.com_pos": 25,
+          "horyzontcapital.com_url": "horyzontcapital.com/oferta/pozyczka-pod-zastaw-nieruchomosci",
+          "bankowybroker.pl": {
+            "pos": 36,
+            "url": "bankowybroker.pl/poradnik-pozyczkowy/pozyczka-pod-zastaw-jako-sposob-na-przetrwanie-zatoru-platniczego-w-budowlance/"
+          },
+          "bankowybroker.pl_pos": 36,
+          "bankowybroker.pl_url": "bankowybroker.pl/poradnik-pozyczkowy/pozyczka-pod-zastaw-jako-sposob-na-przetrwanie-zatoru-platniczego-w-budowlance/"
+        },
+        {
+          "keyword": "pożyczki pod zastaw działki budowlanej",
+          "cpc": 7.37,
+          "searches": 40,
+          "trends": [
+            40,
+            30,
+            40,
+            30,
+            30,
+            40,
+            40,
+            40,
+            40,
+            50,
+            50,
+            50
+          ],
+          "difficulty": 41,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 46,
+            "url": "horyzontcapital.com/oferta/pozyczka-pod-dzialke-lub-grunt"
+          },
+          "horyzontcapital.com_pos": 46,
+          "horyzontcapital.com_url": "horyzontcapital.com/oferta/pozyczka-pod-dzialke-lub-grunt",
+          "bankowybroker.pl": {
+            "pos": 11,
+            "url": "bankowybroker.pl/oferta/pozyczki-dla-firm-pod-zastaw/dzialki/"
+          },
+          "bankowybroker.pl_pos": 11,
+          "bankowybroker.pl_url": "bankowybroker.pl/oferta/pozyczki-dla-firm-pod-zastaw/dzialki/"
+        },
+        {
+          "keyword": "pożyczka pod zastaw udziałów w nieruchomości",
+          "cpc": 11.53,
+          "searches": 20,
+          "trends": [
+            10,
+            50,
+            20,
+            20,
+            20,
+            10,
+            10,
+            10,
+            10,
+            10,
+            20,
+            20
+          ],
+          "difficulty": 28,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 4,
+            "url": "horyzontcapital.com/blog/pozyczka-pod-zastaw-nieruchomosci-o-czym-warto-wiedziec"
+          },
+          "horyzontcapital.com_pos": 4,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/pozyczka-pod-zastaw-nieruchomosci-o-czym-warto-wiedziec",
+          "bankowybroker.pl": {
+            "pos": 10,
+            "url": "bankowybroker.pl/poradnik-pozyczkowy/pozyczka-pod-zastaw-nieruchomosci-jako-skuteczna-dzwignia-finansowa-w-przetargach-publicznych/"
+          },
+          "bankowybroker.pl_pos": 10,
+          "bankowybroker.pl_url": "bankowybroker.pl/poradnik-pozyczkowy/pozyczka-pod-zastaw-nieruchomosci-jako-skuteczna-dzwignia-finansowa-w-przetargach-publicznych/"
+        },
+        {
+          "keyword": "pożyczki pod hipotekę dla zadłużonych",
+          "cpc": 2.88,
+          "searches": 20,
+          "trends": [
+            30,
+            30,
+            20,
+            30,
+            20,
+            10,
+            20,
+            20,
+            10,
+            20,
+            20,
+            10
+          ],
+          "difficulty": 37,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 30,
+            "url": "horyzontcapital.com/oferta/pozyczka-pod-zastaw-nieruchomosci"
+          },
+          "horyzontcapital.com_pos": 30,
+          "horyzontcapital.com_url": "horyzontcapital.com/oferta/pozyczka-pod-zastaw-nieruchomosci",
+          "bankowybroker.pl": {
+            "pos": 7,
+            "url": "bankowybroker.pl/oferta/pozyczki-indywidualne/"
+          },
+          "bankowybroker.pl_pos": 7,
+          "bankowybroker.pl_url": "bankowybroker.pl/oferta/pozyczki-indywidualne/"
+        },
+        {
+          "keyword": "kredyt dla zadłużonych pod zastaw",
+          "cpc": 0,
+          "searches": 10,
+          "trends": [
+            10,
+            0,
+            0,
+            0,
+            0,
+            10,
+            0,
+            0,
+            0,
+            10,
+            0,
+            0
+          ],
+          "difficulty": 28,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 33,
+            "url": "horyzontcapital.com/oferta/pozyczka-pod-zastaw-nieruchomosci"
+          },
+          "horyzontcapital.com_pos": 33,
+          "horyzontcapital.com_url": "horyzontcapital.com/oferta/pozyczka-pod-zastaw-nieruchomosci",
+          "bankowybroker.pl": {
+            "pos": 9,
+            "url": "bankowybroker.pl/oferta/pozyczki-indywidualne/"
+          },
+          "bankowybroker.pl_pos": 9,
+          "bankowybroker.pl_url": "bankowybroker.pl/oferta/pozyczki-indywidualne/"
+        },
+        {
+          "keyword": "pożyczka pod zastaw gruntu",
+          "cpc": 0,
+          "searches": 10,
+          "trends": [
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+          ],
+          "difficulty": 27,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 12,
+            "url": "horyzontcapital.com/oferta/pozyczka-pod-dzialke-lub-grunt"
+          },
+          "horyzontcapital.com_pos": 12,
+          "horyzontcapital.com_url": "horyzontcapital.com/oferta/pozyczka-pod-dzialke-lub-grunt",
+          "bankowybroker.pl": {
+            "pos": 19,
+            "url": "bankowybroker.pl/oferta/pozyczki-dla-firm-pod-zastaw/dzialki/"
+          },
+          "bankowybroker.pl_pos": 19,
+          "bankowybroker.pl_url": "bankowybroker.pl/oferta/pozyczki-dla-firm-pod-zastaw/dzialki/"
+        },
+        {
+          "keyword": "kredyt pod zastaw udziałów",
+          "cpc": 0,
+          "searches": 10,
+          "trends": [
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            0,
+            10,
+            10,
+            10
+          ],
+          "difficulty": 33,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 26,
+            "url": "horyzontcapital.com/blog/pozyczka-pod-zastaw-nieruchomosci-o-czym-warto-wiedziec"
+          },
+          "horyzontcapital.com_pos": 26,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/pozyczka-pod-zastaw-nieruchomosci-o-czym-warto-wiedziec",
+          "bankowybroker.pl": {
+            "pos": 13,
+            "url": "bankowybroker.pl/oferta/pozyczki-dla-firm-pod-zastaw/"
+          },
+          "bankowybroker.pl_pos": 13,
+          "bankowybroker.pl_url": "bankowybroker.pl/oferta/pozyczki-dla-firm-pod-zastaw/"
+        },
+        {
+          "keyword": "szybka pozyczka pod zastaw",
+          "cpc": 0,
+          "searches": 10,
+          "trends": [
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+          ],
+          "difficulty": 31,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 30,
+            "url": "horyzontcapital.com/blog/pozyczka-pod-zastaw-nieruchomosci-o-czym-warto-wiedziec"
+          },
+          "horyzontcapital.com_pos": 30,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/pozyczka-pod-zastaw-nieruchomosci-o-czym-warto-wiedziec",
+          "bankowybroker.pl": {
+            "pos": 24,
+            "url": "bankowybroker.pl/oferta/pozyczki-dla-firm-pod-zastaw/"
+          },
+          "bankowybroker.pl_pos": 24,
+          "bankowybroker.pl_url": "bankowybroker.pl/oferta/pozyczki-dla-firm-pod-zastaw/"
+        },
+        {
+          "keyword": "szybka pożyczka pod zastaw nieruchomości",
+          "cpc": 36.38,
+          "searches": 10,
+          "trends": [
+            20,
+            10,
+            10,
+            20,
+            20,
+            10,
+            20,
+            20,
+            10,
+            10,
+            20,
+            20
+          ],
+          "difficulty": 47,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 42,
+            "url": "horyzontcapital.com/blog/pozyczka-pod-zastaw-nieruchomosci-o-czym-warto-wiedziec"
+          },
+          "horyzontcapital.com_pos": 42,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/pozyczka-pod-zastaw-nieruchomosci-o-czym-warto-wiedziec",
+          "bankowybroker.pl": {
+            "pos": 19,
+            "url": "bankowybroker.pl/oferta/pozyczki-dla-firm-pod-zastaw/"
+          },
+          "bankowybroker.pl_pos": 19,
+          "bankowybroker.pl_url": "bankowybroker.pl/oferta/pozyczki-dla-firm-pod-zastaw/"
+        }
+      ],
+      "pagination": {
+        "page_count": 1,
+        "current_page": 1,
+        "has_next_page": false,
+        "has_prev_page": false,
+        "count": 11,
+        "limit": 100
+      }
+    },
+    "status": 200,
+    "domain": "bankowybroker.pl",
+    "endpoint": "get_competitors_analysis"
+  }
+}

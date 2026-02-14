@@ -1,0 +1,48 @@
+{
+  "domain": "forsel.pl",
+  "endpoint": "get_backlinks_tlds",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "tld": "pl",
+          "count": 181,
+          "percent": 0.8960396039603961
+        },
+        {
+          "tld": "com",
+          "count": 16,
+          "percent": 0.07920792079207921
+        },
+        {
+          "tld": "org",
+          "count": 3,
+          "percent": 0.01485148514851485
+        },
+        {
+          "tld": "166",
+          "count": 1,
+          "percent": 0.0049504950495049506
+        },
+        {
+          "tld": "63",
+          "count": 1,
+          "percent": 0.0049504950495049506
+        }
+      ],
+      "pagination": {
+        "page_count": 1,
+        "current_page": 1,
+        "has_next_page": false,
+        "has_prev_page": false,
+        "count": 5,
+        "limit": 10
+      }
+    },
+    "status": 200,
+    "domain": "forsel.pl",
+    "endpoint": "get_backlinks_tlds"
+  }
+}

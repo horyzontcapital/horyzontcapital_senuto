@@ -1,0 +1,382 @@
+{
+  "domain": "ibipolska.pl",
+  "endpoint": "get_history_keywords_wins",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "keyword_id": 16437872,
+        "kid": "c46158f4d14f794240916c4ddaf3dc2e",
+        "domain": "ibipolska.pl",
+        "keyword": "house holding",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 31,
+            "previous": 33,
+            "diff": -2,
+            "changes": {
+              "wins": 3,
+              "losses": 7,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-19": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-24": {
+                "position": 25,
+                "has_serp": true
+              },
+              "2025-12-28": {
+                "position": 25,
+                "has_serp": true
+              },
+              "2026-01-02": {
+                "position": 26,
+                "has_serp": true
+              },
+              "2026-01-05": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-08": {
+                "position": 24,
+                "has_serp": true
+              },
+              "2026-01-11": {
+                "position": 27,
+                "has_serp": true
+              },
+              "2026-01-17": {
+                "position": 26,
+                "has_serp": true
+              },
+              "2026-01-22": {
+                "position": 28,
+                "has_serp": true
+              },
+              "2026-01-31": {
+                "position": 33,
+                "has_serp": true
+              },
+              "2026-02-05": {
+                "position": 25,
+                "has_serp": true
+              },
+              "2026-02-10": {
+                "position": 31,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ibipolska.pl/",
+            "previous": "ibipolska.pl/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 1300
+          },
+          "trends": {
+            "history": [
+              1600,
+              1300,
+              1600,
+              1300,
+              1300,
+              1000,
+              880,
+              880,
+              1300,
+              1600,
+              1600,
+              1300
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 46
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 15960699,
+        "kid": "a449e029d2025ac99a3c294ce6a8dbb7",
+        "domain": "ibipolska.pl",
+        "keyword": "peninsula property",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 32,
+            "previous": 51,
+            "diff": -19,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-15": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-04": {
+                "position": 32,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ibipolska.pl/en/investments-completed/dzwirzyno-peninnsula/",
+            "previous": "",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 1.65
+          },
+          "searches": {
+            "current": 170
+          },
+          "trends": {
+            "history": [
+              140,
+              170,
+              210,
+              210,
+              170,
+              170,
+              210,
+              40,
+              70,
+              170,
+              170,
+              90
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 50
+          },
+          "snippets": {
+            "current": []
+          },
+          "intentions": {
+            "primary_intent": "website",
+            "main_intent": "navigational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 3718164,
+        "kid": "501c52520dc794fc6e3b0909b834e575",
+        "domain": "ibipolska.pl",
+        "keyword": "biurowiec skylight",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 44,
+            "previous": 51,
+            "diff": -7,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 2
+            },
+            "history": {
+              "2025-12-22": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-05": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-22": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 44,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ibipolska.pl/kontakt/",
+            "previous": "",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 11.53
+          },
+          "searches": {
+            "current": 30
+          },
+          "trends": {
+            "history": [
+              30,
+              40,
+              20,
+              40,
+              40,
+              30,
+              30,
+              20,
+              30,
+              30,
+              20,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 32
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask",
+              "wiki_right"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "website",
+            "main_intent": "navigational",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 6516720,
+        "kid": "8e04140b9bb05e23608d35923e9a63dd",
+        "domain": "ibipolska.pl",
+        "keyword": "skylight złota 59",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 31,
+            "previous": 51,
+            "diff": -20,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-18": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-20": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 31,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "ibipolska.pl/kontakt/",
+            "previous": "",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 1.39
+          },
+          "searches": {
+            "current": 30
+          },
+          "trends": {
+            "history": [
+              40,
+              20,
+              40,
+              30,
+              20,
+              10,
+              30,
+              30,
+              20,
+              30,
+              20,
+              20
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 27
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask",
+              "wiki_right"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "visit-in-person",
+            "main_intent": "local",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      }
+    ],
+    "total": 4,
+    "domain": "ibipolska.pl",
+    "endpoint": "get_history_keywords_wins"
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "domain": "brsonline.pl",
+  "endpoint": "get_url_sections",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "url_section": "brsonline.pl/",
+        "keywords_count": 4,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 719.12,
+            "previous": 719.12,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 4,
+            "previous": 4,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 4,
+            "previous": 4,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 4,
+            "previous": 5,
+            "diff": -1,
+            "percent": -0.2,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "brsonline.pl/ebrs/",
+        "keywords_count": 1,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 19.27,
+            "previous": 19.27,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 1,
+            "previous": 1,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 1,
+            "previous": 1,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 1,
+            "previous": 1,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "brsonline.pl/knf/",
+        "keywords_count": 9,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 6.45,
+            "previous": 6.45,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 1,
+            "previous": 1,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 9,
+            "previous": 9,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 19,
+            "previous": 18,
+            "diff": 1,
+            "percent": 0.0556,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "brsonline.pl/bezpieczenstwo-dla-klienta/",
+        "keywords_count": 0,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 4,
+            "previous": 4,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "brsonline.pl/zespol-wsparcia/",
+        "keywords_count": 0,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 1,
+            "previous": 1,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "brsonline.pl/konsekwencje-prawne/",
+        "keywords_count": 0,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 10,
+            "previous": 9,
+            "diff": 1,
+            "percent": 0.1111,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 6,
+    "domain": "brsonline.pl",
+    "endpoint": "get_url_sections"
+  }
+}

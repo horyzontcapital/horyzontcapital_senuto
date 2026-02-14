@@ -1,0 +1,337 @@
+{
+  "domain": "exfinder.pl",
+  "endpoint": "get_positions_data",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "keyword_id": 11006175,
+        "kid": "f35890bdf1467672d64edac306fd0b0a",
+        "domain": "exfinder.pl",
+        "keyword": "instytucje pozabankowe kredyt hipoteczny",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 31,
+            "previous": 31,
+            "diff": 0,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-20": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-03": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-21": {
+                "position": 31,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "exfinder.pl/nasze-produkty",
+            "previous": "exfinder.pl/nasze-produkty",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0.97
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              40,
+              20,
+              30,
+              30,
+              20,
+              20,
+              10,
+              10,
+              10,
+              20,
+              10,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 25
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 4404436,
+        "kid": "5f1ebd9d8d1b28456340a4141d63cc1c",
+        "domain": "exfinder.pl",
+        "keyword": "beata majewska bnp paribas",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 22,
+            "previous": 22,
+            "diff": 0,
+            "changes": {
+              "wins": 1,
+              "losses": 0,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-16": {
+                "position": 23,
+                "has_serp": true
+              },
+              "2026-01-31": {
+                "position": 22,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "exfinder.pl/dla-partnerow",
+            "previous": "exfinder.pl/dla-partnerow",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              20,
+              20,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 11
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "website",
+            "main_intent": "navigational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 18312387,
+        "kid": "cb001de4b25c44455f50d39655ce9e0a",
+        "domain": "exfinder.pl",
+        "keyword": "exfinder",
+        "words_count": 1,
+        "statistics": {
+          "position": {
+            "current": 1,
+            "previous": 1,
+            "diff": 0,
+            "changes": {
+              "wins": 0,
+              "losses": 0,
+              "no_changes": 1
+            },
+            "history": {
+              "2026-01-17": {
+                "position": 1,
+                "has_serp": true
+              },
+              "2026-02-05": {
+                "position": 1,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 17.8,
+            "previous": 17.8,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "exfinder.pl/",
+            "previous": "exfinder.pl/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 50
+          },
+          "trends": {
+            "history": [
+              50,
+              50,
+              50,
+              50,
+              40,
+              50,
+              50,
+              40,
+              70,
+              90,
+              50,
+              70
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 25
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "website",
+            "main_intent": "navigational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 5849534,
+        "kid": "7f3161f2a4c75be719e3867d16149459",
+        "domain": "exfinder.pl",
+        "keyword": "finder kontakt",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 24,
+            "previous": 24,
+            "diff": 0,
+            "changes": {
+              "wins": 1,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-17": {
+                "position": 23,
+                "has_serp": true
+              },
+              "2026-01-14": {
+                "position": 22,
+                "has_serp": true
+              },
+              "2026-01-31": {
+                "position": 24,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "exfinder.pl/kontakt",
+            "previous": "exfinder.pl/kontakt",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              20,
+              20,
+              20,
+              20,
+              20,
+              10,
+              20,
+              10,
+              10,
+              20,
+              10,
+              20
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 40
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "website",
+            "main_intent": "navigational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      }
+    ],
+    "total": 4,
+    "domain": "exfinder.pl",
+    "endpoint": "get_positions_data"
+  }
+}

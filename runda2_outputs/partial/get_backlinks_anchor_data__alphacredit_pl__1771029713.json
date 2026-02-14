@@ -1,0 +1,40 @@
+{
+  "domain": "alphacredit.pl",
+  "endpoint": "get_backlinks_anchor_data",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "link_domain": "alphacredit.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.alphacredit.pl",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.6666666666666666
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 0.6666666666666666
+      },
+      {
+        "link_domain": "alphacredit.pl",
+        "is_main_domain": true,
+        "anchor": "Alpha Credit",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.3333333333333333
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.3333333333333333
+      }
+    ],
+    "total": 2,
+    "domain": "alphacredit.pl",
+    "endpoint": "get_backlinks_anchor_data"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "domain": "yanokhipoteczny.pl",
+  "endpoint": "get_competitors_analysis",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "keyword": "kolejność zaspokajania wierzycieli hipotecznych",
+          "cpc": 0,
+          "searches": 40,
+          "trends": [
+            50,
+            70,
+            70,
+            50,
+            40,
+            40,
+            50,
+            40,
+            50,
+            50,
+            70,
+            40
+          ],
+          "difficulty": 17,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 10,
+            "url": "horyzontcapital.com/blog/kolejnosc-zaspokajania-wierzycieli-hipotecznych-co-warto-wiedziec-przed-podpisaniem-umowy-pozyczki"
+          },
+          "horyzontcapital.com_pos": 10,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/kolejnosc-zaspokajania-wierzycieli-hipotecznych-co-warto-wiedziec-przed-podpisaniem-umowy-pozyczki",
+          "yanokhipoteczny.pl": {
+            "pos": 4,
+            "url": "yanokhipoteczny.pl/windykacja-z-hipoteki-w-praktyce/"
+          },
+          "yanokhipoteczny.pl_pos": 4,
+          "yanokhipoteczny.pl_url": "yanokhipoteczny.pl/windykacja-z-hipoteki-w-praktyce/"
+        },
+        {
+          "keyword": "płynność inwestycji co to",
+          "cpc": 0,
+          "searches": 20,
+          "trends": [
+            30,
+            20,
+            20,
+            50,
+            40,
+            10,
+            10,
+            10,
+            10,
+            10,
+            40,
+            30
+          ],
+          "difficulty": 30,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 27,
+            "url": "horyzontcapital.com/blog/jak-zadbac-o-plynnosc-inwestycji-w-firmie-5-sposobow-na-finansowanie-bez-ryzyka-utraty-plynnosci"
+          },
+          "horyzontcapital.com_pos": 27,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/jak-zadbac-o-plynnosc-inwestycji-w-firmie-5-sposobow-na-finansowanie-bez-ryzyka-utraty-plynnosci",
+          "yanokhipoteczny.pl": {
+            "pos": 3,
+            "url": "yanokhipoteczny.pl/poradnik-bezpiecznego-i-swiadomego-inwestowania-cz-i-plynnosc-inwestycji/"
+          },
+          "yanokhipoteczny.pl_pos": 3,
+          "yanokhipoteczny.pl_url": "yanokhipoteczny.pl/poradnik-bezpiecznego-i-swiadomego-inwestowania-cz-i-plynnosc-inwestycji/"
+        }
+      ],
+      "pagination": {
+        "page_count": 1,
+        "current_page": 1,
+        "has_next_page": false,
+        "has_prev_page": false,
+        "count": 2,
+        "limit": 100
+      }
+    },
+    "status": 200,
+    "domain": "yanokhipoteczny.pl",
+    "endpoint": "get_competitors_analysis"
+  }
+}

@@ -1,0 +1,1143 @@
+{
+  "domain": "simplefinance.pl",
+  "endpoint": "get_history_keywords_losses",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "keyword_id": 4729242,
+        "kid": "664ce9d9f080ba56f2fdc44f4ee7fdce",
+        "domain": "simplefinance.pl",
+        "keyword": "leasing faktoring",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 22,
+            "previous": 20,
+            "diff": 2,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-19": {
+                "position": 20,
+                "has_serp": true
+              },
+              "2026-02-01": {
+                "position": 22,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "simplefinance.pl/leasing-i-faktoring",
+            "previous": "simplefinance.pl/leasing-i-faktoring",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 36
+          },
+          "snippets": {
+            "current": [
+              "map",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "compare",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 9654396,
+        "kid": "d4a2c998500bd5ff724e80298ec28f2c",
+        "domain": "simplefinance.pl",
+        "keyword": "raport bik przedsiębiorcy",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 23,
+            "previous": 20,
+            "diff": 3,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-26": {
+                "position": 20,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 23,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "simplefinance.pl/blog/jak-pobrac-raport-bik",
+            "previous": "simplefinance.pl/blog/jak-pobrac-raport-bik",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 7.61
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 39
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 14041551,
+        "kid": "bee479a3f3d3f6228d60ba43846fff90",
+        "domain": "simplefinance.pl",
+        "keyword": "trudna pożyczka",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 27,
+            "previous": 23,
+            "diff": 4,
+            "changes": {
+              "wins": 0,
+              "losses": 2,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-21": {
+                "position": 17,
+                "has_serp": true
+              },
+              "2026-01-04": {
+                "position": 17,
+                "has_serp": true
+              },
+              "2026-01-21": {
+                "position": 23,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 27,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "simplefinance.pl/",
+            "previous": "simplefinance.pl/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 4.97
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              20,
+              10,
+              40,
+              10,
+              20,
+              20,
+              10,
+              20,
+              40,
+              10,
+              20,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 51
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "buy",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 2999104,
+        "kid": "40831251906c147e12e328916561d142",
+        "domain": "simplefinance.pl",
+        "keyword": "pożyczka dla firm na oświadczenie",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 25,
+            "previous": 15,
+            "diff": 10,
+            "changes": {
+              "wins": 2,
+              "losses": 3,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-22": {
+                "position": 23,
+                "has_serp": true
+              },
+              "2025-12-29": {
+                "position": 25,
+                "has_serp": true
+              },
+              "2026-01-06": {
+                "position": 26,
+                "has_serp": true
+              },
+              "2026-01-13": {
+                "position": 24,
+                "has_serp": true
+              },
+              "2026-01-24": {
+                "position": 15,
+                "has_serp": true
+              },
+              "2026-02-02": {
+                "position": 25,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "simplefinance.pl/blog/kredyt-dla-firm-na-oswiadczenie-czyli-wygodne-finansowanie-biznesu",
+            "previous": "simplefinance.pl/blog/kredyt-dla-firm-na-oswiadczenie-czyli-wygodne-finansowanie-biznesu",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 30
+          },
+          "trends": {
+            "history": [
+              50,
+              50,
+              40,
+              40,
+              40,
+              30,
+              40,
+              10,
+              10,
+              10,
+              10,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 47
+          },
+          "snippets": {
+            "current": []
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 11416337,
+        "kid": "fca90bf98a0003263cbdd7d1afd80638",
+        "domain": "simplefinance.pl",
+        "keyword": "kredyt na splate zus",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 23,
+            "previous": 18,
+            "diff": 5,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-18": {
+                "position": 18,
+                "has_serp": true
+              },
+              "2026-02-06": {
+                "position": 23,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "simplefinance.pl/blog/pozyczka-na-splate-zus-i-us",
+            "previous": "simplefinance.pl/pozyczki/pozyczka-pomostowa",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 16.57
+          },
+          "searches": {
+            "current": 40
+          },
+          "trends": {
+            "history": [
+              40,
+              70,
+              40,
+              70,
+              50,
+              40,
+              30,
+              40,
+              30,
+              30,
+              40,
+              40
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 43
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 10169784,
+        "kid": "e052deb7efe46379a3461867433fb955",
+        "domain": "simplefinance.pl",
+        "keyword": "kredyty gospodarcze rodzaje",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 22,
+            "previous": 17,
+            "diff": 5,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-18": {
+                "position": 17,
+                "has_serp": true
+              },
+              "2026-02-07": {
+                "position": 22,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "simplefinance.pl/blog/o-jakie-kredyty-moze-ubiegac-sie-przedsiebiorca-rodzaje-kredytow-dla-firm",
+            "previous": "simplefinance.pl/blog/o-jakie-kredyty-moze-ubiegac-sie-przedsiebiorca-rodzaje-kredytow-dla-firm",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              10,
+              20,
+              40,
+              30,
+              10,
+              20,
+              10,
+              10,
+              10,
+              10,
+              10,
+              20
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 38
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 6840482,
+        "kid": "9543d0b7603d678481cc0ac662b2ec2a",
+        "domain": "simplefinance.pl",
+        "keyword": "pożyczka pomostowa",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 23,
+            "previous": 18,
+            "diff": 5,
+            "changes": {
+              "wins": 0,
+              "losses": 4,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-21": {
+                "position": 13,
+                "has_serp": true
+              },
+              "2025-12-28": {
+                "position": 15,
+                "has_serp": true
+              },
+              "2026-01-06": {
+                "position": 17,
+                "has_serp": true
+              },
+              "2026-01-24": {
+                "position": 18,
+                "has_serp": true
+              },
+              "2026-02-02": {
+                "position": 23,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "simplefinance.pl/pozyczki/pozyczka-pomostowa",
+            "previous": "simplefinance.pl/pozyczki/pozyczka-pomostowa",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 5.6
+          },
+          "searches": {
+            "current": 90
+          },
+          "trends": {
+            "history": [
+              90,
+              90,
+              70,
+              110,
+              70,
+              110,
+              90,
+              110,
+              140,
+              110,
+              90,
+              90
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 42
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 8775894,
+        "kid": "c0cceb39fc2809d2286aa2c4cd313ae2",
+        "domain": "simplefinance.pl",
+        "keyword": "doradca kredytowy czy warto",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 41,
+            "previous": 36,
+            "diff": 5,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-17": {
+                "position": 36,
+                "has_serp": true
+              },
+              "2026-02-04": {
+                "position": 41,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "simplefinance.pl/blog/doradca-kredytowy-dla-firm-dlaczego-warto-skorzystac-z-jego-uslug",
+            "previous": "simplefinance.pl/blog/doradca-kredytowy-dla-firm-dlaczego-warto-skorzystac-z-jego-uslug",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0.93
+          },
+          "searches": {
+            "current": 40
+          },
+          "trends": {
+            "history": [
+              50,
+              50,
+              70,
+              90,
+              40,
+              20,
+              20,
+              20,
+              20,
+              20,
+              30,
+              20
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 33
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 3644180,
+        "kid": "4e818b1a01bbac89873c9357a888e65d",
+        "domain": "simplefinance.pl",
+        "keyword": "finance pożyczki",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 34,
+            "previous": 29,
+            "diff": 5,
+            "changes": {
+              "wins": 1,
+              "losses": 3,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-22": {
+                "position": 28,
+                "has_serp": true
+              },
+              "2025-12-29": {
+                "position": 28,
+                "has_serp": true
+              },
+              "2026-01-07": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-14": {
+                "position": 28,
+                "has_serp": true
+              },
+              "2026-01-24": {
+                "position": 29,
+                "has_serp": true
+              },
+              "2026-02-03": {
+                "position": 34,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "simplefinance.pl/",
+            "previous": "simplefinance.pl/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 7
+          },
+          "searches": {
+            "current": 40
+          },
+          "trends": {
+            "history": [
+              70,
+              50,
+              30,
+              20,
+              30,
+              10,
+              40,
+              20,
+              50,
+              30,
+              40,
+              30
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 52
+          },
+          "snippets": {
+            "current": [
+              "map",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "buy",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 9653523,
+        "kid": "d49df5d7cc3d10bb417a08fa414d8a9d",
+        "domain": "simplefinance.pl",
+        "keyword": "jak pobrac raport bik",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 46,
+            "previous": 42,
+            "diff": 4,
+            "changes": {
+              "wins": 0,
+              "losses": 2,
+              "no_changes": 4
+            },
+            "history": {
+              "2025-12-19": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-26": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-02": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-09": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-21": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-31": {
+                "position": 42,
+                "has_serp": true
+              },
+              "2026-02-10": {
+                "position": 46,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "simplefinance.pl/blog/jak-pobrac-raport-bik",
+            "previous": "simplefinance.pl/blog/jak-pobrac-raport-bik",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 2.61
+          },
+          "searches": {
+            "current": 320
+          },
+          "trends": {
+            "history": [
+              390,
+              390,
+              390,
+              390,
+              480,
+              480,
+              260,
+              260,
+              210,
+              260,
+              260,
+              260
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 45
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 184912,
+        "kid": "03f6458ac1dffda6e316bb3a839f28d8",
+        "domain": "simplefinance.pl",
+        "keyword": "kredyt dla spółki bez bik prezesa",
+        "words_count": 6,
+        "statistics": {
+          "position": {
+            "current": 17,
+            "previous": 14,
+            "diff": 3,
+            "changes": {
+              "wins": 1,
+              "losses": 3,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-25": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-01": {
+                "position": 15,
+                "has_serp": true
+              },
+              "2026-01-08": {
+                "position": 34,
+                "has_serp": true
+              },
+              "2026-01-29": {
+                "position": 14,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 17,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "simplefinance.pl/kredyty",
+            "previous": "simplefinance.pl/kredyty",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 11.41
+          },
+          "searches": {
+            "current": 260
+          },
+          "trends": {
+            "history": [
+              210,
+              320,
+              390,
+              320,
+              260,
+              260,
+              260,
+              170,
+              170,
+              210,
+              170,
+              140
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 35
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 11629522,
+        "kid": "42eefe14fc98e5dcb6d35f8fe2c10b8d",
+        "domain": "simplefinance.pl",
+        "keyword": "finance pl",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 39,
+            "previous": 18,
+            "diff": 21,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-18": {
+                "position": 18,
+                "has_serp": true
+              },
+              "2026-02-06": {
+                "position": 39,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "simplefinance.pl/",
+            "previous": "simplefinance.pl/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 2.55
+          },
+          "searches": {
+            "current": 50
+          },
+          "trends": {
+            "history": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 23
+          },
+          "snippets": {
+            "current": [
+              "spell"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "website",
+            "main_intent": "navigational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 1698462,
+        "kid": "24733dd33b637315b7d93203ac1624cd",
+        "domain": "simplefinance.pl",
+        "keyword": "pożyczki pod zastaw online",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 12,
+            "previous": 10,
+            "diff": 2,
+            "changes": {
+              "wins": 2,
+              "losses": 3,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-28": {
+                "position": 3,
+                "has_serp": true
+              },
+              "2026-01-05": {
+                "position": 4,
+                "has_serp": true
+              },
+              "2026-01-12": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-22": {
+                "position": 10,
+                "has_serp": true
+              },
+              "2026-02-01": {
+                "position": 9,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 12,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 2.16,
+            "diff": -2.16,
+            "percent": -1,
+            "history": null
+          },
+          "url": {
+            "current": "simplefinance.pl/pozyczki/pozyczka-pod-zastaw-nieruchomosci",
+            "previous": "simplefinance.pl/pozyczki/pozyczka-pod-zastaw-nieruchomosci",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 8.73
+          },
+          "searches": {
+            "current": 140
+          },
+          "trends": {
+            "history": [
+              170,
+              170,
+              140,
+              170,
+              140,
+              110,
+              140,
+              140,
+              170,
+              140,
+              110,
+              110
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 44
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      }
+    ],
+    "total": 13,
+    "domain": "simplefinance.pl",
+    "endpoint": "get_history_keywords_losses"
+  }
+}

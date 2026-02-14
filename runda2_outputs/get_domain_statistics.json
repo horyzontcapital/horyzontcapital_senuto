@@ -1,0 +1,7261 @@
+{
+  "endpoint": "get_domain_statistics",
+  "path": "/api/visibility_analysis/reports/dashboard/getDomainStatistics",
+  "desc": "Widocznosc, TOP3/10/50, domain rank",
+  "ok": 104,
+  "total": 106,
+  "fetched_at": "2026-02-13T18:21:19Z",
+  "country_id": "200",
+  "fetch_mode": "topLevelDomain",
+  "results": [
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 51,
+              "older_value": 51,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 191,
+              "older_value": 191,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 702,
+              "older_value": 702,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 1088,
+              "older_value": 1088,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 123517,
+              "older_value": 123503,
+              "diff": 14,
+              "percent": 0.0001
+            },
+            "ads_equivalent": {
+              "recent_value": 12434.83,
+              "older_value": 12434.83,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 123517,
+                "older_value": 123517,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 65,
+              "older_value": 65,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 217,
+              "older_value": 217,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "baltcredit.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 17,
+              "older_value": 17,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 77,
+              "older_value": 77,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 242,
+              "older_value": 242,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 319,
+              "older_value": 319,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 259824,
+              "older_value": 259824,
+              "diff": 0,
+              "percent": 0
+            },
+            "ads_equivalent": {
+              "recent_value": 4668.58,
+              "older_value": 4668.58,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 259824,
+                "older_value": 259824,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 36,
+              "older_value": 36,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 59,
+              "older_value": 59,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "novalend.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 27,
+              "older_value": 27,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 73,
+              "older_value": 73,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 239,
+              "older_value": 239,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 1250,
+              "older_value": 1250,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 112744,
+              "older_value": 112736,
+              "diff": 8,
+              "percent": 0.0001
+            },
+            "ads_equivalent": {
+              "recent_value": 11776.33,
+              "older_value": 11776.33,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 112744,
+                "older_value": 112744,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 16,
+              "older_value": 16,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 80,
+              "older_value": 80,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "pozyczkihipoteczne.eu",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 53,
+              "older_value": 53,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 119,
+              "older_value": 119,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 507,
+              "older_value": 507,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 997,
+              "older_value": 997,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 130925,
+              "older_value": 130920,
+              "diff": 5,
+              "percent": 0
+            },
+            "ads_equivalent": {
+              "recent_value": 5976.57,
+              "older_value": 5976.57,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 130925,
+                "older_value": 130925,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 273,
+              "older_value": 273,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 152,
+              "older_value": 152,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "yanokhipoteczny.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 3,
+              "older_value": 3,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 21,
+              "older_value": 21,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 4,
+              "older_value": 4,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 1454309,
+              "older_value": 1454300,
+              "diff": 9,
+              "percent": 0
+            },
+            "ads_equivalent": {
+              "recent_value": 12.81,
+              "older_value": 12.81,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 1454298,
+                "older_value": 1454298,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 5,
+              "older_value": 5,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 1,
+              "older_value": 1,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "capitalaccess.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 1,
+              "older_value": 1,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 7,
+              "older_value": 7,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 99,
+              "older_value": 99,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 36,
+              "older_value": 36,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 718447,
+              "older_value": 718416,
+              "diff": 31,
+              "percent": 0
+            },
+            "ads_equivalent": {
+              "recent_value": 357.03,
+              "older_value": 357.03,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 718447,
+                "older_value": 718447,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 8,
+              "older_value": 8,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 14,
+              "older_value": 14,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "businessfunds.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 5,
+              "older_value": 5,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 85,
+              "older_value": 85,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 3,
+              "older_value": 3,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 1578258,
+              "older_value": 1578253,
+              "diff": 5,
+              "percent": 0
+            },
+            "ads_equivalent": {
+              "recent_value": 17.79,
+              "older_value": 17.79,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 1578254,
+                "older_value": 1578254,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 4,
+              "older_value": 4,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 8,
+              "older_value": 8,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "forsel.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 1,
+              "older_value": 1,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 6,
+              "older_value": 6,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 51,
+              "older_value": 51,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 17,
+              "older_value": 17,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 938908,
+              "older_value": 938893,
+              "diff": 15,
+              "percent": 0
+            },
+            "ads_equivalent": {
+              "recent_value": 48.97,
+              "older_value": 48.97,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 938908,
+                "older_value": 938908,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 3,
+              "older_value": 3,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "profikredyt.com.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 9,
+              "older_value": 9,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 16,
+              "older_value": 16,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 43,
+              "older_value": 43,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 258,
+              "older_value": 258,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 291490,
+              "older_value": 291475,
+              "diff": 15,
+              "percent": 0.0001
+            },
+            "ads_equivalent": {
+              "recent_value": 3785.95,
+              "older_value": 3785.95,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 291490,
+                "older_value": 291490,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 2,
+              "older_value": 2,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 10,
+              "older_value": 10,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "topf.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 11,
+              "older_value": 11,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 70,
+              "older_value": 70,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 184,
+              "older_value": 184,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 279,
+              "older_value": 279,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 279609,
+              "older_value": 279599,
+              "diff": 10,
+              "percent": 0
+            },
+            "ads_equivalent": {
+              "recent_value": 2646.8,
+              "older_value": 2646.8,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 279609,
+                "older_value": 279609,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 7,
+              "older_value": 7,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 28,
+              "older_value": 28,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "krk-partners.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 1,
+              "older_value": 1,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 3,
+              "older_value": 3,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 8,
+              "older_value": 8,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 33,
+              "older_value": 33,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 739449,
+              "older_value": 739416,
+              "diff": 33,
+              "percent": 0
+            },
+            "ads_equivalent": {
+              "recent_value": 192.88,
+              "older_value": 192.88,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 739447,
+                "older_value": 739447,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 2,
+              "older_value": 2,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "trendcapital.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 8,
+              "older_value": 8,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 11,
+              "older_value": 11,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 12,
+              "older_value": 12,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 147,
+              "older_value": 147,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 387433,
+              "older_value": 387420,
+              "diff": 13,
+              "percent": 0
+            },
+            "ads_equivalent": {
+              "recent_value": 32.74,
+              "older_value": 32.74,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 387432,
+                "older_value": 387432,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 1,
+              "older_value": 1,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 1,
+              "older_value": 1,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "janvest.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            },
+            "ads_equivalent": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_keywords": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "e-bilans.info",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 1,
+              "older_value": 1,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 1,
+              "older_value": 1,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 1,
+              "older_value": 1,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 7,
+              "older_value": 7,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 1214350,
+              "older_value": 1219315,
+              "diff": -4965,
+              "percent": -0.0041
+            },
+            "ads_equivalent": {
+              "recent_value": 30.69,
+              "older_value": 30.69,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 1213609,
+                "older_value": 1213609,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "funduszkorona.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 3,
+              "older_value": 3,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 3,
+              "older_value": 3,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 12,
+              "older_value": 12,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 399,
+              "older_value": 399,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 229074,
+              "older_value": 229082,
+              "diff": -8,
+              "percent": 0
+            },
+            "ads_equivalent": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 229074,
+                "older_value": 229074,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 1,
+              "older_value": 1,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "ibipolska.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 12,
+              "older_value": 12,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 32,
+              "older_value": 32,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 118,
+              "older_value": 118,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 283,
+              "older_value": 283,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 277023,
+              "older_value": 277011,
+              "diff": 12,
+              "percent": 0
+            },
+            "ads_equivalent": {
+              "recent_value": 2445.29,
+              "older_value": 2445.29,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 277023,
+                "older_value": 277023,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 6,
+              "older_value": 6,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 33,
+              "older_value": 33,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "tadam-finanse.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 1,
+              "older_value": 1,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 2,
+              "older_value": 2,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 61,
+              "older_value": 61,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 8,
+              "older_value": 8,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 1172682,
+              "older_value": 1172666,
+              "diff": 16,
+              "percent": 0
+            },
+            "ads_equivalent": {
+              "recent_value": 2.92,
+              "older_value": 2.92,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 1172697,
+                "older_value": 1172697,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 13,
+              "older_value": 13,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "actius.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 5,
+              "older_value": 5,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 13,
+              "older_value": 13,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 30,
+              "older_value": 30,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 131,
+              "older_value": 131,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 410690,
+              "older_value": 410677,
+              "diff": 13,
+              "percent": 0
+            },
+            "ads_equivalent": {
+              "recent_value": 589.19,
+              "older_value": 589.19,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 410690,
+                "older_value": 410690,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 3,
+              "older_value": 3,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 8,
+              "older_value": 8,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "alphacredit.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 3,
+              "older_value": 3,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 35,
+              "older_value": 35,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 395,
+              "older_value": 395,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 92,
+              "older_value": 92,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 484390,
+              "older_value": 484366,
+              "diff": 24,
+              "percent": 0
+            },
+            "ads_equivalent": {
+              "recent_value": 788.82,
+              "older_value": 788.82,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 484390,
+                "older_value": 484390,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 86,
+              "older_value": 86,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 59,
+              "older_value": 59,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "credithub.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 10,
+              "older_value": 10,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 34,
+              "older_value": 34,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 82,
+              "older_value": 82,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 301,
+              "older_value": 301,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 268529,
+              "older_value": 268517,
+              "diff": 12,
+              "percent": 0
+            },
+            "ads_equivalent": {
+              "recent_value": 3574.87,
+              "older_value": 3574.87,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 268529,
+                "older_value": 268529,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 5,
+              "older_value": 5,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 11,
+              "older_value": 11,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "pod-zastaw.org",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 3,
+              "older_value": 3,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 2492878,
+              "older_value": 3965294,
+              "diff": -1472416,
+              "percent": -0.3713
+            },
+            "ads_equivalent": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 2805305,
+                "older_value": 2805305,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "pozyczka-pod-zastaw.com",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 4,
+              "older_value": 4,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 12,
+              "older_value": 12,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 5,
+              "older_value": 5,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 1308100,
+              "older_value": 1308100,
+              "diff": 0,
+              "percent": 0
+            },
+            "ads_equivalent": {
+              "recent_value": 15.03,
+              "older_value": 15.03,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 1308102,
+                "older_value": 1308102,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 1,
+              "older_value": 1,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 1,
+              "older_value": 1,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "cpf-pozyczki.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 1,
+              "older_value": 1,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 12,
+              "older_value": 12,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 74,
+              "older_value": 74,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 19,
+              "older_value": 19,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 903373,
+              "older_value": 903353,
+              "diff": 20,
+              "percent": 0
+            },
+            "ads_equivalent": {
+              "recent_value": 146.44,
+              "older_value": 146.44,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 903371,
+                "older_value": 903371,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 7,
+              "older_value": 7,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 20,
+              "older_value": 20,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "bankowybroker.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 6,
+              "older_value": 6,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 11,
+              "older_value": 11,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 18,
+              "older_value": 18,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 53,
+              "older_value": 53,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 611547,
+              "older_value": 611524,
+              "diff": 23,
+              "percent": 0
+            },
+            "ads_equivalent": {
+              "recent_value": 145.37,
+              "older_value": 145.37,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 611549,
+                "older_value": 611549,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 1,
+              "older_value": 1,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 1,
+              "older_value": 1,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "mldomfinansowy.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 2,
+              "older_value": 2,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 27,
+              "older_value": 27,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 2,
+              "older_value": 2,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 1593220,
+              "older_value": 1593214,
+              "diff": 6,
+              "percent": 0
+            },
+            "ads_equivalent": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 1593220,
+                "older_value": 1593220,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 10,
+              "older_value": 10,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "moneyrun.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            },
+            "ads_equivalent": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_keywords": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "khfinanse.com",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 4,
+              "older_value": 4,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 16,
+              "older_value": 16,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 56,
+              "older_value": 56,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 29,
+              "older_value": 29,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 774229,
+              "older_value": 774193,
+              "diff": 36,
+              "percent": 0
+            },
+            "ads_equivalent": {
+              "recent_value": 430.64,
+              "older_value": 430.64,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 774229,
+                "older_value": 774229,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 2,
+              "older_value": 2,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 21,
+              "older_value": 21,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "bankierkredyty.eu",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 245,
+              "older_value": 245,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 602,
+              "older_value": 602,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 3092,
+              "older_value": 3092,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 5697,
+              "older_value": 5697,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 37628,
+              "older_value": 37620,
+              "diff": 8,
+              "percent": 0.0002
+            },
+            "ads_equivalent": {
+              "recent_value": 22406.82,
+              "older_value": 22406.82,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 37628,
+                "older_value": 37628,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 1213,
+              "older_value": 1213,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 663,
+              "older_value": 663,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "smeo.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 29,
+              "older_value": 29,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 177,
+              "older_value": 177,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 1141,
+              "older_value": 1141,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 930,
+              "older_value": 930,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 136869,
+              "older_value": 136861,
+              "diff": 8,
+              "percent": 0.0001
+            },
+            "ads_equivalent": {
+              "recent_value": 5829.24,
+              "older_value": 5829.24,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 136869,
+                "older_value": 136869,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 456,
+              "older_value": 456,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 135,
+              "older_value": 135,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "finea.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 2349,
+              "older_value": 2349,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 8396,
+              "older_value": 8397,
+              "diff": -1,
+              "percent": -0.0001
+            },
+            "top50": {
+              "recent_value": 19409,
+              "older_value": 19408,
+              "diff": 1,
+              "percent": 0.0001
+            },
+            "visibility": {
+              "recent_value": 114255,
+              "older_value": 115810,
+              "diff": -1555,
+              "percent": -0.0134
+            },
+            "domain_rank": {
+              "recent_value": 2877,
+              "older_value": 2839,
+              "diff": 38,
+              "percent": 0.0134
+            },
+            "ads_equivalent": {
+              "recent_value": 352335.13,
+              "older_value": 353404.76,
+              "diff": -1069.63,
+              "percent": -0.003
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 2877,
+                "older_value": 2877,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 6851,
+              "older_value": 6851,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 4510,
+              "older_value": 4510,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "pragmago.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 71,
+              "older_value": 71,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 382,
+              "older_value": 382,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 1457,
+              "older_value": 1457,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 2597,
+              "older_value": 2597,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 67571,
+              "older_value": 67573,
+              "diff": -2,
+              "percent": 0
+            },
+            "ads_equivalent": {
+              "recent_value": 17038.26,
+              "older_value": 17038.26,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 67571,
+                "older_value": 67571,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 840,
+              "older_value": 840,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 264,
+              "older_value": 264,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "wealthon.com",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 1,
+              "older_value": 1,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 3,
+              "older_value": 3,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 2108992,
+              "older_value": 2117404,
+              "diff": -8412,
+              "percent": -0.004
+            },
+            "ads_equivalent": {
+              "recent_value": 2.48,
+              "older_value": 2.48,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 2124124,
+                "older_value": 2124124,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "bizlend.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 550,
+              "older_value": 550,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 1317,
+              "older_value": 1317,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 7006,
+              "older_value": 7006,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 81496,
+              "older_value": 81496,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 3933,
+              "older_value": 3929,
+              "diff": 4,
+              "percent": 0.001
+            },
+            "ads_equivalent": {
+              "recent_value": 1108646.04,
+              "older_value": 1108646.04,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 3933,
+                "older_value": 3933,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 1492,
+              "older_value": 1492,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 919,
+              "older_value": 919,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "smartney.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            },
+            "ads_equivalent": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_keywords": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "pl.finbee.com",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 10,
+              "older_value": 10,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 136,
+              "older_value": 136,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 4830,
+              "older_value": 4830,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 865,
+              "older_value": 865,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 143509,
+              "older_value": 143508,
+              "diff": 1,
+              "percent": 0
+            },
+            "ads_equivalent": {
+              "recent_value": 5739.92,
+              "older_value": 5739.92,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 143509,
+                "older_value": 143509,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 2010,
+              "older_value": 2010,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 85,
+              "older_value": 85,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "bankujesz.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 885,
+              "older_value": 886,
+              "diff": -1,
+              "percent": -0.0011
+            },
+            "top10": {
+              "recent_value": 3742,
+              "older_value": 3743,
+              "diff": -1,
+              "percent": -0.0003
+            },
+            "top50": {
+              "recent_value": 17568,
+              "older_value": 17568,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 50029,
+              "older_value": 50180,
+              "diff": -151,
+              "percent": -0.003
+            },
+            "domain_rank": {
+              "recent_value": 6047,
+              "older_value": 6030,
+              "diff": 17,
+              "percent": 0.0028
+            },
+            "ads_equivalent": {
+              "recent_value": 358675.89,
+              "older_value": 359856.49,
+              "diff": -1180.6,
+              "percent": -0.0033
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 6047,
+                "older_value": 6047,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 5592,
+              "older_value": 5592,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 1494,
+              "older_value": 1494,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "czerwona-skarbonka.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 1331,
+              "older_value": 1331,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 6339,
+              "older_value": 6339,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 26394,
+              "older_value": 26394,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 38164,
+              "older_value": 38159,
+              "diff": 5,
+              "percent": 0.0001
+            },
+            "domain_rank": {
+              "recent_value": 7788,
+              "older_value": 7785,
+              "diff": 3,
+              "percent": 0.0004
+            },
+            "ads_equivalent": {
+              "recent_value": 96694.01,
+              "older_value": 96677.76,
+              "diff": 16.25,
+              "percent": 0.0002
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 7788,
+                "older_value": 7788,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 14144,
+              "older_value": 14144,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 5126,
+              "older_value": 5126,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "comperia.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 646,
+              "older_value": 646,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 1806,
+              "older_value": 1806,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 4986,
+              "older_value": 4986,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 86747,
+              "older_value": 86747,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 3707,
+              "older_value": 3710,
+              "diff": -3,
+              "percent": -0.0008
+            },
+            "ads_equivalent": {
+              "recent_value": 827725.73,
+              "older_value": 827725.73,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 3707,
+                "older_value": 3707,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 867,
+              "older_value": 867,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 1769,
+              "older_value": 1769,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "loando.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 37585,
+              "older_value": 37586,
+              "diff": -1,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 100879,
+              "older_value": 100880,
+              "diff": -1,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 397062,
+              "older_value": 397064,
+              "diff": -2,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 6716702,
+              "older_value": 6712240,
+              "diff": 4462,
+              "percent": 0.0007
+            },
+            "domain_rank": {
+              "recent_value": 54,
+              "older_value": 54,
+              "diff": 0,
+              "percent": 0
+            },
+            "ads_equivalent": {
+              "recent_value": 25095877.47,
+              "older_value": 25085363.3,
+              "diff": 10514.17,
+              "percent": 0.0004
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 54,
+                "older_value": 54,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 153088,
+              "older_value": 153088,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 37225,
+              "older_value": 37225,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "bankier.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 4407,
+              "older_value": 4407,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 16255,
+              "older_value": 16254,
+              "diff": 1,
+              "percent": 0.0001
+            },
+            "top50": {
+              "recent_value": 61761,
+              "older_value": 61764,
+              "diff": -3,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 283395,
+              "older_value": 283365,
+              "diff": 30,
+              "percent": 0.0001
+            },
+            "domain_rank": {
+              "recent_value": 1229,
+              "older_value": 1230,
+              "diff": -1,
+              "percent": -0.0008
+            },
+            "ads_equivalent": {
+              "recent_value": 2172247.09,
+              "older_value": 2171382.75,
+              "diff": 864.34,
+              "percent": 0.0004
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 1229,
+                "older_value": 1229,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 21664,
+              "older_value": 21664,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 10910,
+              "older_value": 10910,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "totalmoney.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 394,
+              "older_value": 394,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 2043,
+              "older_value": 2043,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 16776,
+              "older_value": 16776,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 22124,
+              "older_value": 22124,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 12631,
+              "older_value": 12629,
+              "diff": 2,
+              "percent": 0.0002
+            },
+            "ads_equivalent": {
+              "recent_value": 159860.23,
+              "older_value": 159860.23,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 12631,
+                "older_value": 12631,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 4708,
+              "older_value": 4708,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 1348,
+              "older_value": 1348,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "wnioskomat.com",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 21441,
+              "older_value": 21438,
+              "diff": 3,
+              "percent": 0.0001
+            },
+            "top10": {
+              "recent_value": 87928,
+              "older_value": 87927,
+              "diff": 1,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 387360,
+              "older_value": 387344,
+              "diff": 16,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 3547607,
+              "older_value": 3518170,
+              "diff": 29437,
+              "percent": 0.0084
+            },
+            "domain_rank": {
+              "recent_value": 108,
+              "older_value": 108,
+              "diff": 0,
+              "percent": 0
+            },
+            "ads_equivalent": {
+              "recent_value": 7081859.63,
+              "older_value": 7065200.24,
+              "diff": 16659.39,
+              "percent": 0.0024
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 108,
+                "older_value": 108,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 164745,
+              "older_value": 164745,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 37218,
+              "older_value": 37218,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "money.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 242,
+              "older_value": 242,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 1219,
+              "older_value": 1219,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 8180,
+              "older_value": 8180,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 27877,
+              "older_value": 27877,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 10301,
+              "older_value": 10300,
+              "diff": 1,
+              "percent": 0.0001
+            },
+            "ads_equivalent": {
+              "recent_value": 121013.07,
+              "older_value": 121013.07,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 10301,
+                "older_value": 10301,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 2879,
+              "older_value": 2879,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 767,
+              "older_value": 767,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "odpowiedzialnybiznes.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 1797,
+              "older_value": 1798,
+              "diff": -1,
+              "percent": -0.0006
+            },
+            "top10": {
+              "recent_value": 7619,
+              "older_value": 7619,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 30232,
+              "older_value": 30232,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 71720,
+              "older_value": 71997,
+              "diff": -277,
+              "percent": -0.0038
+            },
+            "domain_rank": {
+              "recent_value": 4398,
+              "older_value": 4385,
+              "diff": 13,
+              "percent": 0.003
+            },
+            "ads_equivalent": {
+              "recent_value": 377548.55,
+              "older_value": 385121.34,
+              "diff": -7572.79,
+              "percent": -0.0197
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 4398,
+                "older_value": 4398,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 12605,
+              "older_value": 12605,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 6391,
+              "older_value": 6391,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "kontomaniak.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 3271,
+              "older_value": 3271,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 8509,
+              "older_value": 8509,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 23738,
+              "older_value": 23738,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 139491,
+              "older_value": 139456,
+              "diff": 35,
+              "percent": 0.0003
+            },
+            "domain_rank": {
+              "recent_value": 2413,
+              "older_value": 2412,
+              "diff": 1,
+              "percent": 0.0004
+            },
+            "ads_equivalent": {
+              "recent_value": 436254.96,
+              "older_value": 436175.8,
+              "diff": 79.16,
+              "percent": 0.0002
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 2413,
+                "older_value": 2413,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 5691,
+              "older_value": 5691,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 9922,
+              "older_value": 9922,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "lendi.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 2265,
+              "older_value": 2265,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 5880,
+              "older_value": 5880,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 21823,
+              "older_value": 21823,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 93133,
+              "older_value": 93133,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 3472,
+              "older_value": 3473,
+              "diff": -1,
+              "percent": -0.0003
+            },
+            "ads_equivalent": {
+              "recent_value": 184195.19,
+              "older_value": 184195.19,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 3472,
+                "older_value": 3472,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 8471,
+              "older_value": 8471,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 6666,
+              "older_value": 6666,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "expander.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 30017,
+              "older_value": 30017,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 88203,
+              "older_value": 88203,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 217075,
+              "older_value": 217075,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 1567375,
+              "older_value": 1562261,
+              "diff": 5114,
+              "percent": 0.0033
+            },
+            "domain_rank": {
+              "recent_value": 246,
+              "older_value": 246,
+              "diff": 0,
+              "percent": 0
+            },
+            "ads_equivalent": {
+              "recent_value": 8679861.08,
+              "older_value": 8605267.1,
+              "diff": 74593.98,
+              "percent": 0.0087
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 246,
+                "older_value": 246,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 115128,
+              "older_value": 115128,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 85219,
+              "older_value": 85219,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "rankomat.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 2972,
+              "older_value": 2971,
+              "diff": 1,
+              "percent": 0.0003
+            },
+            "top10": {
+              "recent_value": 13360,
+              "older_value": 13360,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 44124,
+              "older_value": 44122,
+              "diff": 2,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 168310,
+              "older_value": 168203,
+              "diff": 107,
+              "percent": 0.0006
+            },
+            "domain_rank": {
+              "recent_value": 2020,
+              "older_value": 2019,
+              "diff": 1,
+              "percent": 0.0005
+            },
+            "ads_equivalent": {
+              "recent_value": 1215810.16,
+              "older_value": 1212151.64,
+              "diff": 3658.52,
+              "percent": 0.003
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 2020,
+                "older_value": 2020,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 18600,
+              "older_value": 18600,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 11101,
+              "older_value": 11101,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "moneteo.com",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 2107,
+              "older_value": 2107,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 6287,
+              "older_value": 6288,
+              "diff": -1,
+              "percent": -0.0002
+            },
+            "top50": {
+              "recent_value": 22955,
+              "older_value": 22954,
+              "diff": 1,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 102822,
+              "older_value": 103334,
+              "diff": -512,
+              "percent": -0.005
+            },
+            "domain_rank": {
+              "recent_value": 3154,
+              "older_value": 3141,
+              "diff": 13,
+              "percent": 0.0041
+            },
+            "ads_equivalent": {
+              "recent_value": 251049.95,
+              "older_value": 251633.19,
+              "diff": -583.24,
+              "percent": -0.0023
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 3154,
+                "older_value": 3154,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 5066,
+              "older_value": 5066,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 4199,
+              "older_value": 4199,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "mfinanse.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 274,
+              "older_value": 274,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 1312,
+              "older_value": 1312,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 6716,
+              "older_value": 6716,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 8785,
+              "older_value": 8785,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 26953,
+              "older_value": 26955,
+              "diff": -2,
+              "percent": -0.0001
+            },
+            "ads_equivalent": {
+              "recent_value": 48685.27,
+              "older_value": 48685.27,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 26953,
+                "older_value": 26953,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 2643,
+              "older_value": 2643,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 1497,
+              "older_value": 1497,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "rekinfinansow.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 41,
+              "older_value": 41,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 179,
+              "older_value": 179,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 920,
+              "older_value": 920,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 4113,
+              "older_value": 4113,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 48167,
+              "older_value": 48168,
+              "diff": -1,
+              "percent": 0
+            },
+            "ads_equivalent": {
+              "recent_value": 6262.39,
+              "older_value": 6262.39,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 48167,
+                "older_value": 48167,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 152,
+              "older_value": 152,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 69,
+              "older_value": 69,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "helikon.net.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 5,
+              "older_value": 5,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 9,
+              "older_value": 9,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 86,
+              "older_value": 86,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 72,
+              "older_value": 72,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 537317,
+              "older_value": 537278,
+              "diff": 39,
+              "percent": 0.0001
+            },
+            "ads_equivalent": {
+              "recent_value": 3.66,
+              "older_value": 3.66,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 537317,
+                "older_value": 537317,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 36,
+              "older_value": 36,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 5,
+              "older_value": 5,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "feniksfinanse.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 133,
+              "older_value": 133,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 482,
+              "older_value": 482,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 3331,
+              "older_value": 3331,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 2979,
+              "older_value": 2979,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 61189,
+              "older_value": 61191,
+              "diff": -2,
+              "percent": 0
+            },
+            "ads_equivalent": {
+              "recent_value": 7534.01,
+              "older_value": 7534.01,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 61189,
+                "older_value": 61189,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 1647,
+              "older_value": 1647,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 512,
+              "older_value": 512,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "bancovo.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 883,
+              "older_value": 883,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 2993,
+              "older_value": 2992,
+              "diff": 1,
+              "percent": 0.0003
+            },
+            "top50": {
+              "recent_value": 13888,
+              "older_value": 13889,
+              "diff": -1,
+              "percent": -0.0001
+            },
+            "visibility": {
+              "recent_value": 41336,
+              "older_value": 41302,
+              "diff": 34,
+              "percent": 0.0008
+            },
+            "domain_rank": {
+              "recent_value": 7192,
+              "older_value": 7198,
+              "diff": -6,
+              "percent": -0.0008
+            },
+            "ads_equivalent": {
+              "recent_value": 310801.25,
+              "older_value": 310339.55,
+              "diff": 461.7,
+              "percent": 0.0015
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 7192,
+                "older_value": 7192,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 4765,
+              "older_value": 4765,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 1736,
+              "older_value": 1736,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "fintek.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 1579,
+              "older_value": 1579,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 6608,
+              "older_value": 6608,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 13758,
+              "older_value": 13758,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 60639,
+              "older_value": 60619,
+              "diff": 20,
+              "percent": 0.0003
+            },
+            "domain_rank": {
+              "recent_value": 5101,
+              "older_value": 5103,
+              "diff": -2,
+              "percent": -0.0004
+            },
+            "ads_equivalent": {
+              "recent_value": 198243.41,
+              "older_value": 198225.01,
+              "diff": 18.4,
+              "percent": 0.0001
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 5101,
+                "older_value": 5101,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 3511,
+              "older_value": 3511,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 5026,
+              "older_value": 5026,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "notus.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 8,
+              "older_value": 8,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 16,
+              "older_value": 16,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 584,
+              "older_value": 584,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 81,
+              "older_value": 81,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 512495,
+              "older_value": 512459,
+              "diff": 36,
+              "percent": 0.0001
+            },
+            "ads_equivalent": {
+              "recent_value": 140.41,
+              "older_value": 140.41,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 512495,
+                "older_value": 512495,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 241,
+              "older_value": 241,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 8,
+              "older_value": 8,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "confronter.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 86,
+              "older_value": 86,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 351,
+              "older_value": 351,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 1065,
+              "older_value": 1064,
+              "diff": 1,
+              "percent": 0.0009
+            },
+            "visibility": {
+              "recent_value": 1087,
+              "older_value": 1087,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 123579,
+              "older_value": 123565,
+              "diff": 14,
+              "percent": 0.0001
+            },
+            "ads_equivalent": {
+              "recent_value": 3072.41,
+              "older_value": 3072.41,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 123579,
+                "older_value": 123579,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 129,
+              "older_value": 129,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 96,
+              "older_value": 96,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "credipass.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 3,
+              "older_value": 3,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 41,
+              "older_value": 41,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 4,
+              "older_value": 4,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 1369857,
+              "older_value": 1369862,
+              "diff": -5,
+              "percent": 0
+            },
+            "ads_equivalent": {
+              "recent_value": 50.43,
+              "older_value": 50.43,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 1369853,
+                "older_value": 1369853,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 2,
+              "older_value": 2,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 10,
+              "older_value": 10,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "finergia.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            },
+            "ads_equivalent": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_keywords": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "grupasg.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 14,
+              "older_value": 14,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 238,
+              "older_value": 238,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 1296,
+              "older_value": 1296,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 2202,
+              "older_value": 2202,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 76089,
+              "older_value": 76079,
+              "diff": 10,
+              "percent": 0.0001
+            },
+            "ads_equivalent": {
+              "recent_value": 15333.15,
+              "older_value": 15333.15,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 76089,
+                "older_value": 76089,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 27,
+              "older_value": 27,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 8,
+              "older_value": 8,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "kredytomat.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 6,
+              "older_value": 6,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 8,
+              "older_value": 8,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 21,
+              "older_value": 21,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 197,
+              "older_value": 197,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 334946,
+              "older_value": 334938,
+              "diff": 8,
+              "percent": 0
+            },
+            "ads_equivalent": {
+              "recent_value": 804.94,
+              "older_value": 804.94,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 334946,
+                "older_value": 334946,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 1,
+              "older_value": 1,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 2,
+              "older_value": 2,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "platinum-financial.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 83,
+              "older_value": 83,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 227,
+              "older_value": 227,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 1074,
+              "older_value": 1074,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 1805,
+              "older_value": 1805,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 87578,
+              "older_value": 87577,
+              "diff": 1,
+              "percent": 0
+            },
+            "ads_equivalent": {
+              "recent_value": 10628.57,
+              "older_value": 10628.57,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 87577,
+                "older_value": 87577,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 402,
+              "older_value": 402,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 284,
+              "older_value": 284,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "monevia.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 29,
+              "older_value": 29,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 207,
+              "older_value": 207,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 1386,
+              "older_value": 1386,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 468,
+              "older_value": 468,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 208917,
+              "older_value": 208935,
+              "diff": -18,
+              "percent": -0.0001
+            },
+            "ads_equivalent": {
+              "recent_value": 2902.67,
+              "older_value": 2902.67,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 208917,
+                "older_value": 208917,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 103,
+              "older_value": 103,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 355,
+              "older_value": 355,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "dginwest.com.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 6,
+              "older_value": 6,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 14,
+              "older_value": 14,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 37,
+              "older_value": 37,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 745,
+              "older_value": 745,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 157678,
+              "older_value": 157675,
+              "diff": 3,
+              "percent": 0
+            },
+            "ads_equivalent": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 157678,
+                "older_value": 157678,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 15,
+              "older_value": 15,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 4,
+              "older_value": 4,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "brsonline.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 65,
+              "older_value": 65,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 205,
+              "older_value": 205,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 1576,
+              "older_value": 1576,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 1317,
+              "older_value": 1317,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 108563,
+              "older_value": 108566,
+              "diff": -3,
+              "percent": 0
+            },
+            "ads_equivalent": {
+              "recent_value": 1604.46,
+              "older_value": 1604.46,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 108563,
+                "older_value": 108563,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 82,
+              "older_value": 82,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 98,
+              "older_value": 98,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "hiponet.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 854,
+              "older_value": 853,
+              "diff": 1,
+              "percent": 0.0012
+            },
+            "top10": {
+              "recent_value": 5839,
+              "older_value": 5839,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 81373,
+              "older_value": 81377,
+              "diff": -4,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 128807,
+              "older_value": 126476,
+              "diff": 2331,
+              "percent": 0.0184
+            },
+            "domain_rank": {
+              "recent_value": 2592,
+              "older_value": 2631,
+              "diff": -39,
+              "percent": -0.0148
+            },
+            "ads_equivalent": {
+              "recent_value": 549954.1,
+              "older_value": 517610.37,
+              "diff": 32343.73,
+              "percent": 0.0625
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 2592,
+                "older_value": 2592,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 36320,
+              "older_value": 36320,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 2817,
+              "older_value": 2817,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "strefabiznesu.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 96736,
+              "older_value": 96735,
+              "diff": 1,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 185414,
+              "older_value": 185415,
+              "diff": -1,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 354293,
+              "older_value": 354291,
+              "diff": 2,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 2809931,
+              "older_value": 2801825,
+              "diff": 8106,
+              "percent": 0.0029
+            },
+            "domain_rank": {
+              "recent_value": 134,
+              "older_value": 134,
+              "diff": 0,
+              "percent": 0
+            },
+            "ads_equivalent": {
+              "recent_value": 5159974.85,
+              "older_value": 5155635.48,
+              "diff": 4339.37,
+              "percent": 0.0008
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 134,
+                "older_value": 134,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 198815,
+              "older_value": 198815,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 129099,
+              "older_value": 129099,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "poradnikprzedsiebiorcy.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 306,
+              "older_value": 306,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 1499,
+              "older_value": 1499,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 5201,
+              "older_value": 5201,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 53749,
+              "older_value": 53749,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 5686,
+              "older_value": 5686,
+              "diff": 0,
+              "percent": 0
+            },
+            "ads_equivalent": {
+              "recent_value": 582333.99,
+              "older_value": 582333.99,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 5686,
+                "older_value": 5686,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 1050,
+              "older_value": 1050,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 1111,
+              "older_value": 1111,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "fines.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 25583,
+              "older_value": 25585,
+              "diff": -2,
+              "percent": -0.0001
+            },
+            "top10": {
+              "recent_value": 83858,
+              "older_value": 83856,
+              "diff": 2,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 388048,
+              "older_value": 388045,
+              "diff": 3,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 5162651,
+              "older_value": 5160888,
+              "diff": 1763,
+              "percent": 0.0003
+            },
+            "domain_rank": {
+              "recent_value": 72,
+              "older_value": 72,
+              "diff": 0,
+              "percent": 0
+            },
+            "ads_equivalent": {
+              "recent_value": 32848135.07,
+              "older_value": 32849738.74,
+              "diff": -1603.67,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 72,
+                "older_value": 72,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 174713,
+              "older_value": 174713,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 50273,
+              "older_value": 50273,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "businessinsider.com.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 5,
+              "older_value": 5,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 10,
+              "older_value": 10,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 61,
+              "older_value": 61,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 179,
+              "older_value": 179,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 351860,
+              "older_value": 351849,
+              "diff": 11,
+              "percent": 0
+            },
+            "ads_equivalent": {
+              "recent_value": 2809.69,
+              "older_value": 2809.69,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 351860,
+                "older_value": 351860,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 4,
+              "older_value": 4,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 17,
+              "older_value": 17,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "janosikdlafirm.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 1,
+              "older_value": 1,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 1,
+              "older_value": 1,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 4,
+              "older_value": 4,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 18,
+              "older_value": 18,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 922668,
+              "older_value": 925535,
+              "diff": -2867,
+              "percent": -0.0031
+            },
+            "ads_equivalent": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 922231,
+                "older_value": 922231,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "exfinder.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 13,
+              "older_value": 13,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 102,
+              "older_value": 102,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 31,
+              "older_value": 31,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 754194,
+              "older_value": 754162,
+              "diff": 32,
+              "percent": 0
+            },
+            "ads_equivalent": {
+              "recent_value": 267.89,
+              "older_value": 267.89,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 754195,
+                "older_value": 754195,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 22,
+              "older_value": 22,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 17,
+              "older_value": 17,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "horyzontcapital.com",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            },
+            "ads_equivalent": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_keywords": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "# === RUNDA 1.5 - NOWE DOMENY ===",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": false,
+      "error": "HTTP 418: {\"success\":false,\"data\":{\"error\":{\"type\":\"invalid_data\",\"message\":\"Given data is invalid, please check the documentation or contact Administrator\",\"params\":{\"domain\":{\"invalid\":\"Incorrect input\"}}}}}",
+      "status": 418,
+      "domain": "# Grupa A - Bezpośrednia konkurencja (21)",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 1,
+              "older_value": 1,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 17,
+              "older_value": 17,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 33,
+              "older_value": 33,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 32,
+              "older_value": 32,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 741881,
+              "older_value": 741848,
+              "diff": 33,
+              "percent": 0
+            },
+            "ads_equivalent": {
+              "recent_value": 338,
+              "older_value": 338,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 741882,
+                "older_value": 741882,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 2,
+              "older_value": 2,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 15,
+              "older_value": 15,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "podzastaw.biz",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 8,
+              "older_value": 8,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 48,
+              "older_value": 48,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 163,
+              "older_value": 163,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 182,
+              "older_value": 182,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 348305,
+              "older_value": 348293,
+              "diff": 12,
+              "percent": 0
+            },
+            "ads_equivalent": {
+              "recent_value": 2016.69,
+              "older_value": 2016.69,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 348305,
+                "older_value": 348305,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 2,
+              "older_value": 2,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 30,
+              "older_value": 30,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "gotowka-podzastaw.letnet.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 11,
+              "older_value": 11,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 36,
+              "older_value": 36,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 132,
+              "older_value": 132,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 230,
+              "older_value": 230,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 309599,
+              "older_value": 309596,
+              "diff": 3,
+              "percent": 0
+            },
+            "ads_equivalent": {
+              "recent_value": 1655.28,
+              "older_value": 1655.28,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 309599,
+                "older_value": 309599,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 8,
+              "older_value": 8,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 19,
+              "older_value": 19,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "smartvest.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 1,
+              "older_value": 1,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 11,
+              "older_value": 11,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 44,
+              "older_value": 44,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 31,
+              "older_value": 31,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 758038,
+              "older_value": 758003,
+              "diff": 35,
+              "percent": 0
+            },
+            "ads_equivalent": {
+              "recent_value": 383.27,
+              "older_value": 383.27,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 758038,
+                "older_value": 758038,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 1,
+              "older_value": 1,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 19,
+              "older_value": 19,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "inwestum.com.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 298,
+              "older_value": 298,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 1389,
+              "older_value": 1389,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 6300,
+              "older_value": 6299,
+              "diff": 1,
+              "percent": 0.0002
+            },
+            "visibility": {
+              "recent_value": 6216,
+              "older_value": 6216,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 35243,
+              "older_value": 35237,
+              "diff": 6,
+              "percent": 0.0002
+            },
+            "ads_equivalent": {
+              "recent_value": 51971.45,
+              "older_value": 51971.45,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 35243,
+                "older_value": 35243,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 1254,
+              "older_value": 1254,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 2009,
+              "older_value": 2009,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "habzafinanse.com.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 2,
+              "older_value": 2,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 13,
+              "older_value": 13,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 68,
+              "older_value": 68,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 59,
+              "older_value": 59,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 586941,
+              "older_value": 586920,
+              "diff": 21,
+              "percent": 0
+            },
+            "ads_equivalent": {
+              "recent_value": 351.91,
+              "older_value": 351.91,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 586939,
+                "older_value": 586939,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 5,
+              "older_value": 5,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 14,
+              "older_value": 14,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "newpoint-finance.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 17,
+              "older_value": 17,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 33,
+              "older_value": 33,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 139,
+              "older_value": 139,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 197,
+              "older_value": 197,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 335452,
+              "older_value": 335445,
+              "diff": 7,
+              "percent": 0
+            },
+            "ads_equivalent": {
+              "recent_value": 2501.12,
+              "older_value": 2501.12,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 335452,
+                "older_value": 335452,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 7,
+              "older_value": 7,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 35,
+              "older_value": 35,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "fluxo.com.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 1,
+              "older_value": 1,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 11,
+              "older_value": 11,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 27,
+              "older_value": 27,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 129,
+              "older_value": 129,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 413757,
+              "older_value": 413743,
+              "diff": 14,
+              "percent": 0
+            },
+            "ads_equivalent": {
+              "recent_value": 180.45,
+              "older_value": 180.45,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 413757,
+                "older_value": 413757,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 2,
+              "older_value": 2,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 11,
+              "older_value": 11,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "finiata.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 4,
+              "older_value": 4,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 33,
+              "older_value": 33,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 113,
+              "older_value": 113,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 93,
+              "older_value": 93,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 480809,
+              "older_value": 480785,
+              "diff": 24,
+              "percent": 0
+            },
+            "ads_equivalent": {
+              "recent_value": 348.97,
+              "older_value": 348.97,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 480809,
+                "older_value": 480809,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 6,
+              "older_value": 6,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 15,
+              "older_value": 15,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "serwaczakowie.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 37,
+              "older_value": 37,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 197,
+              "older_value": 197,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 676,
+              "older_value": 676,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 1299,
+              "older_value": 1299,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 109683,
+              "older_value": 109675,
+              "diff": 8,
+              "percent": 0.0001
+            },
+            "ads_equivalent": {
+              "recent_value": 29759.57,
+              "older_value": 29759.57,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 109683,
+                "older_value": 109683,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 87,
+              "older_value": 87,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 145,
+              "older_value": 145,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "cbif.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 5,
+              "older_value": 5,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 19,
+              "older_value": 19,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 86,
+              "older_value": 86,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 67,
+              "older_value": 67,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 556658,
+              "older_value": 556634,
+              "diff": 24,
+              "percent": 0
+            },
+            "ads_equivalent": {
+              "recent_value": 616.09,
+              "older_value": 616.09,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 556658,
+                "older_value": 556658,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 1,
+              "older_value": 1,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 10,
+              "older_value": 10,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "ftfund.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 28,
+              "older_value": 28,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 127,
+              "older_value": 127,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 670,
+              "older_value": 670,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 1939,
+              "older_value": 1939,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 83367,
+              "older_value": 83358,
+              "diff": 9,
+              "percent": 0.0001
+            },
+            "ads_equivalent": {
+              "recent_value": 17656.61,
+              "older_value": 17656.61,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 83367,
+                "older_value": 83367,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 132,
+              "older_value": 132,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 155,
+              "older_value": 155,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "ckakrybia.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 50,
+              "older_value": 50,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 132,
+              "older_value": 132,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 469,
+              "older_value": 469,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 520,
+              "older_value": 520,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 196189,
+              "older_value": 196209,
+              "diff": -20,
+              "percent": -0.0001
+            },
+            "ads_equivalent": {
+              "recent_value": 2638.99,
+              "older_value": 2638.99,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 196189,
+                "older_value": 196189,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 48,
+              "older_value": 48,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 184,
+              "older_value": 184,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "firmowefinanse.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 5,
+              "older_value": 5,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 11,
+              "older_value": 11,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 66,
+              "older_value": 66,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 33,
+              "older_value": 33,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 737416,
+              "older_value": 737387,
+              "diff": 29,
+              "percent": 0
+            },
+            "ads_equivalent": {
+              "recent_value": 205.22,
+              "older_value": 205.22,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 737419,
+                "older_value": 737419,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 1,
+              "older_value": 1,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 8,
+              "older_value": 8,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "hipotecznapozyczka.com",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 2,
+              "older_value": 2,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 2,
+              "older_value": 2,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 39,
+              "older_value": 39,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 107,
+              "older_value": 107,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 451512,
+              "older_value": 451482,
+              "diff": 30,
+              "percent": 0.0001
+            },
+            "ads_equivalent": {
+              "recent_value": 1136.6,
+              "older_value": 1136.6,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 451510,
+                "older_value": 451510,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 2,
+              "older_value": 2,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 3,
+              "older_value": 3,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "pozyczkipodzastaw.com.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 12,
+              "older_value": 12,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 27,
+              "older_value": 27,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 140,
+              "older_value": 140,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 159,
+              "older_value": 159,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 373535,
+              "older_value": 373525,
+              "diff": 10,
+              "percent": 0
+            },
+            "ads_equivalent": {
+              "recent_value": 384.97,
+              "older_value": 384.97,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 373535,
+                "older_value": 373535,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 21,
+              "older_value": 21,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 21,
+              "older_value": 21,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "simplefinance.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 0,
+              "older_value": 0,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 21,
+              "older_value": 21,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 211,
+              "older_value": 211,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 18,
+              "older_value": 18,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 930884,
+              "older_value": 930867,
+              "diff": 17,
+              "percent": 0
+            },
+            "ads_equivalent": {
+              "recent_value": 168.58,
+              "older_value": 168.58,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 930886,
+                "older_value": 930886,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 101,
+              "older_value": 101,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 34,
+              "older_value": 34,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "mevior.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 29,
+              "older_value": 29,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 96,
+              "older_value": 96,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 296,
+              "older_value": 296,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 535,
+              "older_value": 535,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 192902,
+              "older_value": 192916,
+              "diff": -14,
+              "percent": -0.0001
+            },
+            "ads_equivalent": {
+              "recent_value": 4302.49,
+              "older_value": 4302.49,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 192902,
+                "older_value": 192902,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 32,
+              "older_value": 32,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 91,
+              "older_value": 91,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "goldenexpert.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 33,
+              "older_value": 33,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 183,
+              "older_value": 183,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 555,
+              "older_value": 555,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 1014,
+              "older_value": 1014,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 129462,
+              "older_value": 129455,
+              "diff": 7,
+              "percent": 0.0001
+            },
+            "ads_equivalent": {
+              "recent_value": 11662.36,
+              "older_value": 11662.36,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 129462,
+                "older_value": 129462,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 113,
+              "older_value": 113,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 128,
+              "older_value": 128,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "gawryszewskifinanse.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 45,
+              "older_value": 45,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 351,
+              "older_value": 351,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 3427,
+              "older_value": 3427,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 1273,
+              "older_value": 1273,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 111387,
+              "older_value": 111376,
+              "diff": 11,
+              "percent": 0.0001
+            },
+            "ads_equivalent": {
+              "recent_value": 15284.56,
+              "older_value": 15284.56,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 111387,
+                "older_value": 111387,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 568,
+              "older_value": 568,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 495,
+              "older_value": 495,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "splatapozyczek.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 91,
+              "older_value": 91,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 359,
+              "older_value": 359,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 1245,
+              "older_value": 1245,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 3101,
+              "older_value": 3101,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 59408,
+              "older_value": 59407,
+              "diff": 1,
+              "percent": 0
+            },
+            "ads_equivalent": {
+              "recent_value": 4645.53,
+              "older_value": 4645.53,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 59408,
+                "older_value": 59408,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 194,
+              "older_value": 194,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 347,
+              "older_value": 347,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "open.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": false,
+      "error": "HTTP 418: {\"success\":false,\"data\":{\"error\":{\"type\":\"invalid_data\",\"message\":\"Given data is invalid, please check the documentation or contact Administrator\",\"params\":{\"domain\":{\"invalid\":\"Incorrect input\"}}}}}",
+      "status": 418,
+      "domain": "# Grupa C - Porównywarki (10)",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 2212,
+              "older_value": 2212,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 6131,
+              "older_value": 6131,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 16268,
+              "older_value": 16270,
+              "diff": -2,
+              "percent": -0.0001
+            },
+            "visibility": {
+              "recent_value": 149658,
+              "older_value": 149658,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 2260,
+              "older_value": 2260,
+              "diff": 0,
+              "percent": 0
+            },
+            "ads_equivalent": {
+              "recent_value": 1218467.61,
+              "older_value": 1218467.61,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 2260,
+                "older_value": 2260,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 2969,
+              "older_value": 2969,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 3306,
+              "older_value": 3306,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "kasastefczyka.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 3172,
+              "older_value": 3172,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 6694,
+              "older_value": 6693,
+              "diff": 1,
+              "percent": 0.0001
+            },
+            "top50": {
+              "recent_value": 19366,
+              "older_value": 19366,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 79936,
+              "older_value": 79907,
+              "diff": 29,
+              "percent": 0.0004
+            },
+            "domain_rank": {
+              "recent_value": 4005,
+              "older_value": 4006,
+              "diff": -1,
+              "percent": -0.0002
+            },
+            "ads_equivalent": {
+              "recent_value": 564876.87,
+              "older_value": 564713.01,
+              "diff": 163.86,
+              "percent": 0.0003
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 4005,
+                "older_value": 4005,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 6541,
+              "older_value": 6541,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 44,
+              "older_value": 44,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "forum-kredytowe.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 89,
+              "older_value": 89,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 322,
+              "older_value": 322,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 2627,
+              "older_value": 2627,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 662,
+              "older_value": 662,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 169673,
+              "older_value": 169677,
+              "diff": -4,
+              "percent": 0
+            },
+            "ads_equivalent": {
+              "recent_value": 725.86,
+              "older_value": 725.86,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 169673,
+                "older_value": 169673,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 563,
+              "older_value": 563,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 870,
+              "older_value": 870,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "blogkredytowy.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 113,
+              "older_value": 113,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 916,
+              "older_value": 916,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 2613,
+              "older_value": 2613,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 4053,
+              "older_value": 4053,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 48697,
+              "older_value": 48698,
+              "diff": -1,
+              "percent": 0
+            },
+            "ads_equivalent": {
+              "recent_value": 19807.33,
+              "older_value": 19807.33,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 48697,
+                "older_value": 48697,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 674,
+              "older_value": 674,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 411,
+              "older_value": 411,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "angfinanse.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 367,
+              "older_value": 367,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 830,
+              "older_value": 831,
+              "diff": -1,
+              "percent": -0.0012
+            },
+            "top50": {
+              "recent_value": 3185,
+              "older_value": 3185,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 17799,
+              "older_value": 17787,
+              "diff": 12,
+              "percent": 0.0007
+            },
+            "domain_rank": {
+              "recent_value": 15187,
+              "older_value": 15198,
+              "diff": -11,
+              "percent": -0.0007
+            },
+            "ads_equivalent": {
+              "recent_value": 129232.81,
+              "older_value": 129396.93,
+              "diff": -164.12,
+              "percent": -0.0013
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 15187,
+                "older_value": 15187,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 466,
+              "older_value": 466,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 841,
+              "older_value": 841,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "kokos.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 226,
+              "older_value": 226,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 1846,
+              "older_value": 1846,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 14466,
+              "older_value": 14466,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 20731,
+              "older_value": 20731,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 13382,
+              "older_value": 13382,
+              "diff": 0,
+              "percent": 0
+            },
+            "ads_equivalent": {
+              "recent_value": 179391.68,
+              "older_value": 179391.68,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 13382,
+                "older_value": 13382,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 4608,
+              "older_value": 4608,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 1486,
+              "older_value": 1486,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "akredo.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 1078,
+              "older_value": 1078,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 5261,
+              "older_value": 5261,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 22733,
+              "older_value": 22733,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 40836,
+              "older_value": 40778,
+              "diff": 58,
+              "percent": 0.0014
+            },
+            "domain_rank": {
+              "recent_value": 7281,
+              "older_value": 7293,
+              "diff": -12,
+              "percent": -0.0016
+            },
+            "ads_equivalent": {
+              "recent_value": 250073.03,
+              "older_value": 249405.69,
+              "diff": 667.34,
+              "percent": 0.0027
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 7281,
+                "older_value": 7281,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 11656,
+              "older_value": 11656,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 7731,
+              "older_value": 7731,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "finhack.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 269,
+              "older_value": 269,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 2379,
+              "older_value": 2379,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 11711,
+              "older_value": 11712,
+              "diff": -1,
+              "percent": -0.0001
+            },
+            "visibility": {
+              "recent_value": 19679,
+              "older_value": 19679,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 13978,
+              "older_value": 13983,
+              "diff": -5,
+              "percent": -0.0004
+            },
+            "ads_equivalent": {
+              "recent_value": 225271.85,
+              "older_value": 225271.85,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 13978,
+                "older_value": 13978,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 5168,
+              "older_value": 5168,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 2298,
+              "older_value": 2298,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "bankoweabc.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 171,
+              "older_value": 171,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 1808,
+              "older_value": 1808,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 8165,
+              "older_value": 8165,
+              "diff": 0,
+              "percent": 0
+            },
+            "visibility": {
+              "recent_value": 14296,
+              "older_value": 14296,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 18205,
+              "older_value": 18202,
+              "diff": 3,
+              "percent": 0.0002
+            },
+            "ads_equivalent": {
+              "recent_value": 113814.28,
+              "older_value": 113814.28,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 18205,
+                "older_value": 18205,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 3712,
+              "older_value": 3712,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 2337,
+              "older_value": 2337,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "smart-money.pl",
+      "endpoint": "get_domain_statistics"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": {
+          "statistics": {
+            "top3": {
+              "recent_value": 1097,
+              "older_value": 1097,
+              "diff": 0,
+              "percent": 0
+            },
+            "top10": {
+              "recent_value": 8360,
+              "older_value": 8360,
+              "diff": 0,
+              "percent": 0
+            },
+            "top50": {
+              "recent_value": 39671,
+              "older_value": 39667,
+              "diff": 4,
+              "percent": 0.0001
+            },
+            "visibility": {
+              "recent_value": 72809,
+              "older_value": 72809,
+              "diff": 0,
+              "percent": 0
+            },
+            "domain_rank": {
+              "recent_value": 4342,
+              "older_value": 4343,
+              "diff": -1,
+              "percent": -0.0002
+            },
+            "ads_equivalent": {
+              "recent_value": 766393.53,
+              "older_value": 766393.53,
+              "diff": 0,
+              "percent": 0
+            },
+            "category": {
+              "name": "",
+              "statistics": {
+                "recent_value": 4342,
+                "older_value": 4342,
+                "diff": 0,
+                "percent": 0
+              }
+            },
+            "aio_keywords": {
+              "recent_value": 21364,
+              "older_value": 21364,
+              "diff": 0,
+              "percent": 0
+            },
+            "aio_visible_keywords": {
+              "recent_value": 9845,
+              "older_value": 9845,
+              "diff": 0,
+              "percent": 0
+            }
+          }
+        }
+      },
+      "status": 200,
+      "domain": "helpfind.pl",
+      "endpoint": "get_domain_statistics"
+    }
+  ]
+}

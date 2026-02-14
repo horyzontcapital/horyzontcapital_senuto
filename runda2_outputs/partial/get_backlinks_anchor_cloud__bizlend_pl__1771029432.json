@@ -1,0 +1,27 @@
+{
+  "domain": "bizlend.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "bizlend.pl": [
+          {
+            "text": "BizLend.pl",
+            "size": 2,
+            "percent": 0.6666666666666666
+          },
+          {
+            "text": "",
+            "size": 1,
+            "percent": 0.3333333333333333
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "bizlend.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

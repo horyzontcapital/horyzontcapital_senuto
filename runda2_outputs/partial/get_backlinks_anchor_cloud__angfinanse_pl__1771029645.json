@@ -1,0 +1,37 @@
+{
+  "domain": "angfinanse.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "angfinanse.pl": [
+          {
+            "text": "",
+            "size": 110,
+            "percent": 0.873015873015873
+          },
+          {
+            "text": "ANG Odpowiedzialne Finanse SA",
+            "size": 9,
+            "percent": 0.07142857142857142
+          },
+          {
+            "text": "logo firmy ANG",
+            "size": 6,
+            "percent": 0.047619047619047616
+          },
+          {
+            "text": "ANG Finanse",
+            "size": 1,
+            "percent": 0.007936507936507936
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "angfinanse.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

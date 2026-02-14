@@ -1,0 +1,73 @@
+{
+  "domain": "odpowiedzialnybiznes.pl",
+  "endpoint": "get_backlinks_tlds",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "tld": "pl",
+          "count": 2891,
+          "percent": 0.7845318860244234
+        },
+        {
+          "tld": "com",
+          "count": 271,
+          "percent": 0.07354138398914518
+        },
+        {
+          "tld": "blog",
+          "count": 256,
+          "percent": 0.06947082767978291
+        },
+        {
+          "tld": "org",
+          "count": 113,
+          "percent": 0.030664857530529173
+        },
+        {
+          "tld": "eu",
+          "count": 67,
+          "percent": 0.01818181818181818
+        },
+        {
+          "tld": "in",
+          "count": 20,
+          "percent": 0.005427408412483039
+        },
+        {
+          "tld": "ly",
+          "count": 11,
+          "percent": 0.0029850746268656717
+        },
+        {
+          "tld": "info",
+          "count": 10,
+          "percent": 0.0027137042062415195
+        },
+        {
+          "tld": "net",
+          "count": 7,
+          "percent": 0.0018995929443690637
+        },
+        {
+          "tld": "pt",
+          "count": 6,
+          "percent": 0.0016282225237449117
+        }
+      ],
+      "pagination": {
+        "page_count": 3,
+        "current_page": 1,
+        "has_next_page": true,
+        "has_prev_page": false,
+        "count": 28,
+        "limit": 10
+      }
+    },
+    "status": 200,
+    "domain": "odpowiedzialnybiznes.pl",
+    "endpoint": "get_backlinks_tlds"
+  }
+}

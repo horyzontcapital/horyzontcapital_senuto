@@ -1,0 +1,171 @@
+{
+  "domain": "topf.pl",
+  "endpoint": "get_positions_wins",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "keyword_id": 13496989,
+        "kid": "8e35c827ac5cd8c8085d375e983ca7b9",
+        "domain": "topf.pl",
+        "keyword": "kredyt dla firm bez zus i us forum",
+        "words_count": 8,
+        "statistics": {
+          "position": {
+            "current": 9,
+            "previous": 10,
+            "diff": -1,
+            "changes": {
+              "wins": 1,
+              "losses": 0,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-19": {
+                "position": 10,
+                "has_serp": true
+              },
+              "2026-02-07": {
+                "position": 9,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0.72,
+            "previous": 0.62,
+            "diff": 0.1,
+            "percent": 0.1613,
+            "history": null
+          },
+          "url": {
+            "current": "topf.pl/offer/kredyt-dla-firm-bez-zus-i-us/",
+            "previous": "topf.pl/offer/kredyt-dla-firm-bez-zus-i-us/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 2.92
+          },
+          "searches": {
+            "current": 40
+          },
+          "trends": {
+            "history": [
+              40,
+              30,
+              70,
+              50,
+              20,
+              50,
+              30,
+              20,
+              30,
+              30,
+              20,
+              20
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 19
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 14727255,
+        "kid": "fce9cb060b133058c73cd8b061e5a2b9",
+        "domain": "topf.pl",
+        "keyword": "pożyczka dla firm z funduszu bez bik zus i us",
+        "words_count": 10,
+        "statistics": {
+          "position": {
+            "current": 1,
+            "previous": 2,
+            "diff": -1,
+            "changes": {
+              "wins": 1,
+              "losses": 0,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-18": {
+                "position": 2,
+                "has_serp": true
+              },
+              "2026-02-07": {
+                "position": 1,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 170.88,
+            "previous": 84.1,
+            "diff": 86.78,
+            "percent": 1.0319,
+            "history": null
+          },
+          "url": {
+            "current": "topf.pl/offer/kredyt-dla-firm-bez-zus-i-us/",
+            "previous": "topf.pl/offer/kredyt-dla-firm-bez-zus-i-us/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 14.15
+          },
+          "searches": {
+            "current": 480
+          },
+          "trends": {
+            "history": [
+              720,
+              720,
+              590,
+              590,
+              590,
+              480,
+              480,
+              390,
+              390,
+              390,
+              390,
+              390
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 32
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      }
+    ],
+    "total": 2,
+    "domain": "topf.pl",
+    "endpoint": "get_positions_wins"
+  }
+}

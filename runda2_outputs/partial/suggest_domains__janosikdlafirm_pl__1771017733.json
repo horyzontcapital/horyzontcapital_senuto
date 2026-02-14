@@ -1,0 +1,19 @@
+{
+  "domain": "janosikdlafirm.pl",
+  "endpoint": "suggest_domains",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "favourite": [],
+        "suggested": [
+          "janosikdlafirm.pl"
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "janosikdlafirm.pl",
+    "endpoint": "suggest_domains"
+  }
+}

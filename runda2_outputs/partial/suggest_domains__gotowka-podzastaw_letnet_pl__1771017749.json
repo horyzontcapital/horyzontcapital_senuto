@@ -1,0 +1,19 @@
+{
+  "domain": "gotowka-podzastaw.letnet.pl",
+  "endpoint": "suggest_domains",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "favourite": [],
+        "suggested": [
+          "gotowka-podzastaw.letnet.pl"
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "gotowka-podzastaw.letnet.pl",
+    "endpoint": "suggest_domains"
+  }
+}

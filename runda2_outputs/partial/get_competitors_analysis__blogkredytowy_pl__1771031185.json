@@ -1,0 +1,155 @@
+{
+  "domain": "blogkredytowy.pl",
+  "endpoint": "get_competitors_analysis",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "keyword": "pożyczki pod zastaw działki",
+          "cpc": 1.68,
+          "searches": 170,
+          "trends": [
+            170,
+            210,
+            260,
+            210,
+            170,
+            110,
+            70,
+            110,
+            110,
+            170,
+            210,
+            170
+          ],
+          "difficulty": 41,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 49,
+            "url": "https://horyzontcapital.com/pozyczka-pod-zastaw-nieruchomosci-szybka-decyzja-horyzont-capital/"
+          },
+          "horyzontcapital.com_pos": 49,
+          "horyzontcapital.com_url": "https://horyzontcapital.com/pozyczka-pod-zastaw-nieruchomosci-szybka-decyzja-horyzont-capital/",
+          "blogkredytowy.pl": {
+            "pos": 11,
+            "url": "https://blogkredytowy.pl/kredyt-pod-zastaw-dzialki/"
+          },
+          "blogkredytowy.pl_pos": 11,
+          "blogkredytowy.pl_url": "https://blogkredytowy.pl/kredyt-pod-zastaw-dzialki/"
+        },
+        {
+          "keyword": "pożyczka pod zastaw ziemi",
+          "cpc": 5.81,
+          "searches": 40,
+          "trends": [
+            30,
+            50,
+            50,
+            50,
+            50,
+            40,
+            40,
+            30,
+            30,
+            50,
+            50,
+            40
+          ],
+          "difficulty": 42,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 12,
+            "url": "horyzontcapital.com/oferta/pozyczka-pod-zastaw-gruntow-rolnych/"
+          },
+          "horyzontcapital.com_pos": 12,
+          "horyzontcapital.com_url": "horyzontcapital.com/oferta/pozyczka-pod-zastaw-gruntow-rolnych/",
+          "blogkredytowy.pl": {
+            "pos": 10,
+            "url": "blogkredytowy.pl/kredyt-pod-zastaw-dzialki/"
+          },
+          "blogkredytowy.pl_pos": 10,
+          "blogkredytowy.pl_url": "blogkredytowy.pl/kredyt-pod-zastaw-dzialki/"
+        },
+        {
+          "keyword": "pożyczka pod zastaw gruntu",
+          "cpc": 0,
+          "searches": 10,
+          "trends": [
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+          ],
+          "difficulty": 27,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 12,
+            "url": "horyzontcapital.com/oferta/pozyczka-pod-dzialke-lub-grunt"
+          },
+          "horyzontcapital.com_pos": 12,
+          "horyzontcapital.com_url": "horyzontcapital.com/oferta/pozyczka-pod-dzialke-lub-grunt",
+          "blogkredytowy.pl": {
+            "pos": 22,
+            "url": "blogkredytowy.pl/kredyt-pod-zastaw-dzialki/"
+          },
+          "blogkredytowy.pl_pos": 22,
+          "blogkredytowy.pl_url": "blogkredytowy.pl/kredyt-pod-zastaw-dzialki/"
+        },
+        {
+          "keyword": "kredyt pod zastaw gruntów rolnych",
+          "cpc": 1.48,
+          "searches": 10,
+          "trends": [
+            30,
+            20,
+            20,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            20,
+            20,
+            10
+          ],
+          "difficulty": 25,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 17,
+            "url": "horyzontcapital.com/oferta/pozyczka-pod-dzialke-lub-grunt"
+          },
+          "horyzontcapital.com_pos": 17,
+          "horyzontcapital.com_url": "horyzontcapital.com/oferta/pozyczka-pod-dzialke-lub-grunt",
+          "blogkredytowy.pl": {
+            "pos": 16,
+            "url": "blogkredytowy.pl/kredyt-pod-zastaw-dzialki/"
+          },
+          "blogkredytowy.pl_pos": 16,
+          "blogkredytowy.pl_url": "blogkredytowy.pl/kredyt-pod-zastaw-dzialki/"
+        }
+      ],
+      "pagination": {
+        "page_count": 1,
+        "current_page": 1,
+        "has_next_page": false,
+        "has_prev_page": false,
+        "count": 4,
+        "limit": 100
+      }
+    },
+    "status": 200,
+    "domain": "blogkredytowy.pl",
+    "endpoint": "get_competitors_analysis"
+  }
+}

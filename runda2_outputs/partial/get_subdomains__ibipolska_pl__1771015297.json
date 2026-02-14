@@ -1,0 +1,54 @@
+{
+  "domain": "ibipolska.pl",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "ibipolska.pl",
+        "keywords_count": 3,
+        "visibility_percent": 100,
+        "statistics": {
+          "visibility": {
+            "current": 398.72,
+            "previous": 398.72,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 3,
+            "previous": 3,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 3,
+            "previous": 3,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 11,
+            "previous": 12,
+            "diff": -1,
+            "percent": -0.0833,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 100,
+            "previous": 100,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "ibipolska.pl",
+    "endpoint": "get_subdomains"
+  }
+}

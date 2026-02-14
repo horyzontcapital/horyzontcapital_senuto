@@ -1,0 +1,67 @@
+{
+  "domain": "open.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "open.pl": [
+          {
+            "text": "Open.pl",
+            "size": 740,
+            "percent": 0.2762224710712953
+          },
+          {
+            "text": "Open Finance",
+            "size": 738,
+            "percent": 0.27547592385218367
+          },
+          {
+            "text": "www.open.pl",
+            "size": 196,
+            "percent": 0.07316162747293767
+          },
+          {
+            "text": "OPEN FINANCE",
+            "size": 136,
+            "percent": 0.0507652108995894
+          },
+          {
+            "text": "refinansowanie kredyt�w",
+            "size": 98,
+            "percent": 0.036580813736468834
+          },
+          {
+            "text": "kredyt na dom",
+            "size": 98,
+            "percent": 0.036580813736468834
+          },
+          {
+            "text": "",
+            "size": 98,
+            "percent": 0.036580813736468834
+          },
+          {
+            "text": "18",
+            "size": 71,
+            "percent": 0.026502426278462114
+          },
+          {
+            "text": "open.pl",
+            "size": 60,
+            "percent": 0.022396416573348264
+          },
+          {
+            "text": "ktorydoradca.pl",
+            "size": 26,
+            "percent": 0.009705113848450915
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "open.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

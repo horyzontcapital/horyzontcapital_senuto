@@ -1,0 +1,16 @@
+{
+  "domain": "finergia.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "finergia.pl": []
+      }
+    },
+    "status": 200,
+    "domain": "finergia.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

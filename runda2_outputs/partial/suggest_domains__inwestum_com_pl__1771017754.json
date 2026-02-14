@@ -1,0 +1,20 @@
+{
+  "domain": "inwestum.com.pl",
+  "endpoint": "suggest_domains",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "favourite": [],
+        "suggested": [
+          "inwestum.pl",
+          "inwestum.com.pl"
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "inwestum.com.pl",
+    "endpoint": "suggest_domains"
+  }
+}

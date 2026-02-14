@@ -1,0 +1,3992 @@
+{
+  "domain": "confronter.pl",
+  "endpoint": "get_history_keywords_losses",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "keyword_id": 6416168,
+        "kid": "8bc23e9ac6c722f101da6bd6901e1527",
+        "domain": "confronter.pl",
+        "keyword": "telewizja internet telefon gdzie najtaniej",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 20,
+            "previous": 16,
+            "diff": 4,
+            "changes": {
+              "wins": 3,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-21": {
+                "position": 24,
+                "has_serp": true
+              },
+              "2025-12-28": {
+                "position": 22,
+                "has_serp": true
+              },
+              "2026-01-06": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-13": {
+                "position": 31,
+                "has_serp": true
+              },
+              "2026-01-24": {
+                "position": 16,
+                "has_serp": true
+              },
+              "2026-02-02": {
+                "position": 20,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "confronter.pl/pl/porownaj/pakiety-telefon-internet-tv",
+            "previous": "confronter.pl/pl/porownaj/pakiety-telefon-internet-tv",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 1.83
+          },
+          "searches": {
+            "current": 1000
+          },
+          "trends": {
+            "history": [
+              1600,
+              1000,
+              880,
+              880,
+              720,
+              880,
+              1000,
+              880,
+              1000,
+              1000,
+              1600,
+              1300
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 39
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "compare",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 2258589,
+        "kid": "308764c91369ff6f4f5b9bc2a3b45f0f",
+        "domain": "confronter.pl",
+        "keyword": "czy komornik może zająć alimenty",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 38,
+            "previous": 22,
+            "diff": 16,
+            "changes": {
+              "wins": 1,
+              "losses": 3,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-22": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-26": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-02": {
+                "position": 27,
+                "has_serp": true
+              },
+              "2026-01-19": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-29": {
+                "position": 22,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 38,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "confronter.pl/pl/blog/kredyty-pozyczki/czy-komornik-moze-zajac-alimenty",
+            "previous": "confronter.pl/pl/blog/kredyty-pozyczki/czy-komornik-moze-zajac-alimenty",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 210
+          },
+          "trends": {
+            "history": [
+              390,
+              320,
+              320,
+              210,
+              170,
+              140,
+              140,
+              110,
+              110,
+              140,
+              140,
+              170
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 35
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 2896226,
+        "kid": "3e4c901f155da633b08526d446d5b222",
+        "domain": "confronter.pl",
+        "keyword": "nest rodzinne oszczędności",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 22,
+            "previous": 21,
+            "diff": 1,
+            "changes": {
+              "wins": 2,
+              "losses": 4,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-14": {
+                "position": 16,
+                "has_serp": false
+              },
+              "2025-12-22": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-26": {
+                "position": 17,
+                "has_serp": true
+              },
+              "2026-01-02": {
+                "position": 17,
+                "has_serp": true
+              },
+              "2026-01-09": {
+                "position": 20,
+                "has_serp": true
+              },
+              "2026-01-19": {
+                "position": 19,
+                "has_serp": true
+              },
+              "2026-01-29": {
+                "position": 21,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 22,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "confronter.pl/pl/blog/doradca-klienta/nest-rodzinne-oszczednosci-konto-oszczednosciowe",
+            "previous": "confronter.pl/pl/blog/doradca-klienta/nest-rodzinne-oszczednosci-konto-oszczednosciowe",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0.46
+          },
+          "searches": {
+            "current": 40
+          },
+          "trends": {
+            "history": [
+              70,
+              70,
+              40,
+              40,
+              50,
+              50,
+              40,
+              30,
+              40,
+              40,
+              40,
+              30
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 22
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 3597727,
+        "kid": "4d7e8f38e1fa629385cf762bfb6ee659",
+        "domain": "confronter.pl",
+        "keyword": "porównywarka kredytów konsolidacyjnych",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 31,
+            "previous": 30,
+            "diff": 1,
+            "changes": {
+              "wins": 3,
+              "losses": 3,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-20": {
+                "position": 47,
+                "has_serp": true
+              },
+              "2025-12-27": {
+                "position": 20,
+                "has_serp": true
+              },
+              "2026-01-04": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-11": {
+                "position": 24,
+                "has_serp": true
+              },
+              "2026-01-21": {
+                "position": 23,
+                "has_serp": true
+              },
+              "2026-01-31": {
+                "position": 30,
+                "has_serp": true
+              },
+              "2026-02-10": {
+                "position": 31,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "confronter.pl/pl/porownaj/kredyty-konsolidacyjne",
+            "previous": "confronter.pl/pl/porownaj/kredyty-konsolidacyjne",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 17.52
+          },
+          "searches": {
+            "current": 50
+          },
+          "trends": {
+            "history": [
+              50,
+              50,
+              50,
+              40,
+              50,
+              50,
+              50,
+              50,
+              70,
+              70,
+              40,
+              40
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 54
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "compare",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 6473061,
+        "kid": "8d0a5c6c7de638a32f3f61be91cbdcb7",
+        "domain": "confronter.pl",
+        "keyword": "ranking ubezpieczeń samochodowych",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 48,
+            "previous": 46,
+            "diff": 2,
+            "changes": {
+              "wins": 1,
+              "losses": 2,
+              "no_changes": 2
+            },
+            "history": {
+              "2025-12-21": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-28": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-06": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-13": {
+                "position": 49,
+                "has_serp": true
+              },
+              "2026-01-24": {
+                "position": 46,
+                "has_serp": true
+              },
+              "2026-02-02": {
+                "position": 48,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "confronter.pl/pl/porownaj/ubezpieczenia-komunikacyjne",
+            "previous": "confronter.pl/pl/porownaj/ubezpieczenia-komunikacyjne",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 14.83
+          },
+          "searches": {
+            "current": 390
+          },
+          "trends": {
+            "history": [
+              320,
+              210,
+              320,
+              390,
+              390,
+              480,
+              480,
+              260,
+              390,
+              390,
+              390,
+              320
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 56
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 996590,
+        "kid": "1561764bac417b2fb7d94a9108d1b1f2",
+        "domain": "confronter.pl",
+        "keyword": "oprocentowanie nominalne",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 29,
+            "previous": 28,
+            "diff": 1,
+            "changes": {
+              "wins": 2,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-28": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-05": {
+                "position": 33,
+                "has_serp": true
+              },
+              "2026-01-12": {
+                "position": 28,
+                "has_serp": true
+              },
+              "2026-02-01": {
+                "position": 24,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 29,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "confronter.pl/pl/blog/doradca-klienta/czym-jest-oprocentowanie-nominalne-lokaty",
+            "previous": "confronter.pl/pl/blog/doradca-klienta/czym-jest-oprocentowanie-nominalne-lokaty",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 260
+          },
+          "trends": {
+            "history": [
+              390,
+              260,
+              320,
+              260,
+              260,
+              210,
+              260,
+              210,
+              170,
+              170,
+              260,
+              260
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 35
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 7820531,
+        "kid": "ab4cc189fe063e08a2e22066253a6e62",
+        "domain": "confronter.pl",
+        "keyword": "abonamenty telefoniczne ranking",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 48,
+            "previous": 46,
+            "diff": 2,
+            "changes": {
+              "wins": 2,
+              "losses": 4,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-19": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-26": {
+                "position": 44,
+                "has_serp": true
+              },
+              "2026-01-04": {
+                "position": 38,
+                "has_serp": true
+              },
+              "2026-01-11": {
+                "position": 41,
+                "has_serp": true
+              },
+              "2026-01-21": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-31": {
+                "position": 46,
+                "has_serp": true
+              },
+              "2026-02-10": {
+                "position": 48,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "confronter.pl/pl/porownaj/abonamenty-telefoniczne",
+            "previous": "confronter.pl/pl/porownaj/abonamenty-telefoniczne",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 4.66
+          },
+          "searches": {
+            "current": 320
+          },
+          "trends": {
+            "history": [
+              320,
+              320,
+              320,
+              390,
+              320,
+              320,
+              210,
+              260,
+              390,
+              320,
+              210,
+              140
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 50
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 13287290,
+        "kid": "7b6d5a611f85c129566132807ff32bdb",
+        "domain": "confronter.pl",
+        "keyword": "jak tanio zarezerwować nocleg",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 24,
+            "previous": 21,
+            "diff": 3,
+            "changes": {
+              "wins": 2,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-21": {
+                "position": 28,
+                "has_serp": true
+              },
+              "2026-01-04": {
+                "position": 22,
+                "has_serp": true
+              },
+              "2026-01-21": {
+                "position": 21,
+                "has_serp": true
+              },
+              "2026-02-10": {
+                "position": 24,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "confronter.pl/pl/blog/doradca-klienta/jak-tanio-zarezerwowac-nocleg-na-wakacje",
+            "previous": "confronter.pl/pl/blog/doradca-klienta/jak-tanio-zarezerwowac-nocleg-na-wakacje",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0.6
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              50,
+              30,
+              40,
+              30,
+              10,
+              10,
+              20,
+              20,
+              10,
+              20,
+              20,
+              30
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 40
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 1199979,
+        "kid": "19bda0020d57c9c76cdf4307386b5a37",
+        "domain": "confronter.pl",
+        "keyword": "chwilówka co to",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 33,
+            "previous": 27,
+            "diff": 6,
+            "changes": {
+              "wins": 2,
+              "losses": 2,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-21": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-28": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-05": {
+                "position": 41,
+                "has_serp": true
+              },
+              "2026-01-12": {
+                "position": 39,
+                "has_serp": true
+              },
+              "2026-01-22": {
+                "position": 27,
+                "has_serp": true
+              },
+              "2026-02-10": {
+                "position": 33,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "confronter.pl/pl/blog/kredyty-pozyczki/co-to-jest-chwilowka",
+            "previous": "confronter.pl/pl/blog/kredyty-pozyczki/co-to-jest-chwilowka",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 3.47
+          },
+          "searches": {
+            "current": 140
+          },
+          "trends": {
+            "history": [
+              110,
+              140,
+              170,
+              110,
+              140,
+              90,
+              110,
+              170,
+              110,
+              170,
+              140,
+              140
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 37
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask",
+              "wiki_right"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 9383377,
+        "kid": "ce80f4eeac0a5b934a712be4745772e2",
+        "domain": "confronter.pl",
+        "keyword": "komornik a emerytura i dodatkowa praca",
+        "words_count": 6,
+        "statistics": {
+          "position": {
+            "current": 46,
+            "previous": 44,
+            "diff": 2,
+            "changes": {
+              "wins": 0,
+              "losses": 2,
+              "no_changes": 2
+            },
+            "history": {
+              "2025-12-19": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-04": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-11": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-22": {
+                "position": 44,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 46,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "confronter.pl/pl/blog/kredyty-pozyczki/ile-komornik-moze-zabrac-z-emerytury-lub-renty",
+            "previous": "confronter.pl/pl/blog/kredyty-pozyczki/ile-komornik-moze-zabrac-z-emerytury-lub-renty",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 170
+          },
+          "trends": {
+            "history": [
+              210,
+              210,
+              260,
+              140,
+              90,
+              50,
+              140,
+              140,
+              170,
+              260,
+              260,
+              170
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 30
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 12853022,
+        "kid": "54e7f4246125faa38785d0ab64dabb3f",
+        "domain": "confronter.pl",
+        "keyword": "spłata chwilówki w ratach",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 48,
+            "previous": 38,
+            "diff": 10,
+            "changes": {
+              "wins": 1,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-20": {
+                "position": 42,
+                "has_serp": true
+              },
+              "2026-01-03": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-21": {
+                "position": 38,
+                "has_serp": true
+              },
+              "2026-02-10": {
+                "position": 48,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "confronter.pl/pl/blog/kredyty-pozyczki/jak-rozlozyc-splate-chwilowki-na-raty",
+            "previous": "confronter.pl/pl/blog/kredyty-pozyczki/jak-rozlozyc-splate-chwilowki-na-raty",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 10.05
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              20,
+              10,
+              10,
+              10,
+              30,
+              10,
+              30,
+              30,
+              40,
+              40,
+              40,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 41
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 13949543,
+        "kid": "b6b55251dd876633a629496610b35d44",
+        "domain": "confronter.pl",
+        "keyword": "ile komornik może zająć z renty rodzinnej",
+        "words_count": 7,
+        "statistics": {
+          "position": {
+            "current": 48,
+            "previous": 43,
+            "diff": 5,
+            "changes": {
+              "wins": 0,
+              "losses": 2,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-21": {
+                "position": 42,
+                "has_serp": true
+              },
+              "2026-01-04": {
+                "position": 42,
+                "has_serp": true
+              },
+              "2026-01-21": {
+                "position": 43,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 48,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "confronter.pl/pl/blog/kredyty-pozyczki/ile-komornik-moze-zabrac-z-emerytury-lub-renty",
+            "previous": "confronter.pl/pl/blog/kredyty-pozyczki/ile-komornik-moze-zabrac-z-emerytury-lub-renty",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 30
+          },
+          "trends": {
+            "history": [
+              70,
+              30,
+              20,
+              10,
+              20,
+              30,
+              20,
+              30,
+              40,
+              30,
+              30,
+              40
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 18
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 6056598,
+        "kid": "83cd3cb31127e8107a4a60a590cb6355",
+        "domain": "confronter.pl",
+        "keyword": "co komornik może zabrać z domu",
+        "words_count": 6,
+        "statistics": {
+          "position": {
+            "current": 46,
+            "previous": 45,
+            "diff": 1,
+            "changes": {
+              "wins": 1,
+              "losses": 2,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-21": {
+                "position": 46,
+                "has_serp": true
+              },
+              "2026-01-06": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-13": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-24": {
+                "position": 45,
+                "has_serp": true
+              },
+              "2026-02-02": {
+                "position": 46,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "confronter.pl/pl/blog/kredyty-pozyczki/jakie-przedmioty-w-domu-moze-zajac-komornik",
+            "previous": "confronter.pl/pl/blog/kredyty-pozyczki/jakie-przedmioty-w-domu-moze-zajac-komornik",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 140
+          },
+          "trends": {
+            "history": [
+              210,
+              210,
+              170,
+              140,
+              90,
+              90,
+              140,
+              90,
+              90,
+              110,
+              90,
+              90
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 36
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 35538,
+        "kid": "00c3e84ce441c77bbe588916a8fc274d",
+        "domain": "confronter.pl",
+        "keyword": "porównywarka prądu",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 49,
+            "previous": 31,
+            "diff": 18,
+            "changes": {
+              "wins": 1,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-23": {
+                "position": 45,
+                "has_serp": true
+              },
+              "2026-01-06": {
+                "position": 48,
+                "has_serp": true
+              },
+              "2026-01-22": {
+                "position": 31,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 49,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "confronter.pl/pl/porownaj/ceny-energii-elektrycznej",
+            "previous": "confronter.pl/pl/porownaj/ceny-energii-elektrycznej",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 2.49
+          },
+          "searches": {
+            "current": 50
+          },
+          "trends": {
+            "history": [
+              40,
+              40,
+              50,
+              50,
+              40,
+              70,
+              70,
+              50,
+              50,
+              70,
+              50,
+              50
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 56
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "compare",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 16955540,
+        "kid": "3f8aacb201c51d0c4eed7696bf8104d5",
+        "domain": "confronter.pl",
+        "keyword": "solutions4ad",
+        "words_count": 1,
+        "statistics": {
+          "position": {
+            "current": 45,
+            "previous": 40,
+            "diff": 5,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-15": {
+                "position": 40,
+                "has_serp": true
+              },
+              "2026-02-01": {
+                "position": 45,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "confronter.pl/pl/sprzet-na-raty",
+            "previous": "confronter.pl/pl/sprzet-na-raty",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 30
+          },
+          "trends": {
+            "history": [
+              40,
+              30,
+              40,
+              20,
+              40,
+              30,
+              20,
+              20,
+              20,
+              20,
+              40,
+              20
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 20
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "website",
+            "main_intent": "navigational",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 513284,
+        "kid": "0afae1958b1c9caf6481b750fca0d484",
+        "domain": "confronter.pl",
+        "keyword": "marża banku kredyt hipoteczny",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 50,
+            "previous": 45,
+            "diff": 5,
+            "changes": {
+              "wins": 0,
+              "losses": 2,
+              "no_changes": 4
+            },
+            "history": {
+              "2025-12-18": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-25": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-01": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-08": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-19": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-29": {
+                "position": 45,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 50,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "confronter.pl/pl/blog/kredyty-pozyczki/co-to-jest-marza-w-kredycie-hipotecznym",
+            "previous": "confronter.pl/pl/blog/kredyty-pozyczki/co-to-jest-marza-w-kredycie-hipotecznym",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 1.22
+          },
+          "searches": {
+            "current": 210
+          },
+          "trends": {
+            "history": [
+              390,
+              260,
+              260,
+              210,
+              170,
+              210,
+              170,
+              210,
+              170,
+              210,
+              210,
+              210
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 45
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 8613784,
+        "kid": "bd27434b576124e2690651d422eb6a6f",
+        "domain": "confronter.pl",
+        "keyword": "orange prąd cennik",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 15,
+            "previous": 12,
+            "diff": 3,
+            "changes": {
+              "wins": 0,
+              "losses": 0,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-02-03": {
+                "position": 15,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "confronter.pl/pl/porownaj/ceny-energii-elektrycznej",
+            "previous": "confronter.pl/pl/porownaj/ceny-energii-elektrycznej",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0.68
+          },
+          "searches": {
+            "current": 70
+          },
+          "trends": {
+            "history": [
+              90,
+              140,
+              90,
+              70,
+              70,
+              50,
+              70,
+              70,
+              110,
+              50,
+              50,
+              50
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 33
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 10208130,
+        "kid": "e131d14144913804ddbc9801a5fd6211",
+        "domain": "confronter.pl",
+        "keyword": "millennium konto oszczędnościowe profit",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 42,
+            "previous": 39,
+            "diff": 3,
+            "changes": {
+              "wins": 2,
+              "losses": 3,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-19": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-26": {
+                "position": 37,
+                "has_serp": true
+              },
+              "2026-01-02": {
+                "position": 23,
+                "has_serp": true
+              },
+              "2026-01-09": {
+                "position": 43,
+                "has_serp": true
+              },
+              "2026-01-21": {
+                "position": 39,
+                "has_serp": true
+              },
+              "2026-01-31": {
+                "position": 39,
+                "has_serp": true
+              },
+              "2026-02-10": {
+                "position": 42,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "confronter.pl/pl/blog/konta-lokaty/konto-oszczednosciowe-profit-w-banku-millennium",
+            "previous": "confronter.pl/pl/blog/konta-lokaty/konto-oszczednosciowe-profit-w-banku-millennium",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 2.55
+          },
+          "searches": {
+            "current": 720
+          },
+          "trends": {
+            "history": [
+              1000,
+              720,
+              720,
+              720,
+              390,
+              720,
+              590,
+              590,
+              720,
+              880,
+              720,
+              880
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 44
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 10860760,
+        "kid": "f0082c2ea7ebd3b84cb7462c085901d0",
+        "domain": "confronter.pl",
+        "keyword": "ranking kredytów firmowych",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 48,
+            "previous": 46,
+            "diff": 2,
+            "changes": {
+              "wins": 0,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-16": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-26": {
+                "position": 46,
+                "has_serp": true
+              },
+              "2026-02-04": {
+                "position": 48,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "confronter.pl/pl/porownaj/kredyty-firmowe",
+            "previous": "confronter.pl/pl/porownaj/kredyty-firmowe",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 11.27
+          },
+          "searches": {
+            "current": 110
+          },
+          "trends": {
+            "history": [
+              110,
+              140,
+              140,
+              110,
+              110,
+              110,
+              110,
+              110,
+              70,
+              70,
+              70,
+              70
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 46
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 215834,
+        "kid": "04a068c51714c8f0994802fdfae50b22",
+        "domain": "confronter.pl",
+        "keyword": "ceny prądu u różnych dostawców",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 42,
+            "previous": 33,
+            "diff": 9,
+            "changes": {
+              "wins": 1,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-27": {
+                "position": 38,
+                "has_serp": true
+              },
+              "2026-01-11": {
+                "position": 33,
+                "has_serp": true
+              },
+              "2026-02-04": {
+                "position": 42,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "confronter.pl/pl/porownaj/ceny-energii-elektrycznej",
+            "previous": "confronter.pl/pl/porownaj/ceny-energii-elektrycznej",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 1.4
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              10,
+              20,
+              20,
+              10,
+              20,
+              20,
+              20,
+              10,
+              10,
+              10,
+              30,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 28
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 14603787,
+        "kid": "f1af0145d3128a7a8f364d1065e9ce77",
+        "domain": "confronter.pl",
+        "keyword": "telewizja internetowa porównanie",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 16,
+            "previous": 15,
+            "diff": 1,
+            "changes": {
+              "wins": 1,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-21": {
+                "position": 22,
+                "has_serp": true
+              },
+              "2026-01-04": {
+                "position": 23,
+                "has_serp": true
+              },
+              "2026-01-21": {
+                "position": 15,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 16,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "confronter.pl/pl/porownaj/pakiety-telefon-internet-tv",
+            "previous": "confronter.pl/pl/porownaj/pakiety-telefon-internet-tv",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0.39
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              10,
+              20,
+              10,
+              10,
+              20,
+              20,
+              20,
+              10,
+              20,
+              20,
+              20,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 48
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "compare",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 6107334,
+        "kid": "84eb5a3329485ea4266559453d7f65c8",
+        "domain": "confronter.pl",
+        "keyword": "porównywarka lokaty",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 30,
+            "previous": 28,
+            "diff": 2,
+            "changes": {
+              "wins": 1,
+              "losses": 3,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-20": {
+                "position": 46,
+                "has_serp": true
+              },
+              "2026-01-05": {
+                "position": 48,
+                "has_serp": true
+              },
+              "2026-01-12": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-22": {
+                "position": 28,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 30,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "confronter.pl/pl/porownaj/lokaty",
+            "previous": "confronter.pl/pl/porownaj/lokaty",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 1.25
+          },
+          "searches": {
+            "current": 210
+          },
+          "trends": {
+            "history": [
+              260,
+              260,
+              210,
+              170,
+              170,
+              140,
+              260,
+              260,
+              260,
+              260,
+              210,
+              170
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 46
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "compare",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 16510107,
+        "kid": "e6fd48f245e5e6604f173e5e46e923d2",
+        "domain": "confronter.pl",
+        "keyword": "porównywanie cen prądu",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 25,
+            "previous": 22,
+            "diff": 3,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-15": {
+                "position": 22,
+                "has_serp": true
+              },
+              "2026-02-04": {
+                "position": 25,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "confronter.pl/pl/porownaj/ceny-energii-elektrycznej",
+            "previous": "confronter.pl/pl/porownaj/ceny-energii-elektrycznej",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 2.67
+          },
+          "searches": {
+            "current": 90
+          },
+          "trends": {
+            "history": [
+              90,
+              50,
+              70,
+              50,
+              90,
+              110,
+              90,
+              90,
+              260,
+              210,
+              70,
+              30
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 51
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "compare",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 17780742,
+        "kid": "c0d83387d785a0e50f0e17d3e8ff3d76",
+        "domain": "confronter.pl",
+        "keyword": "wady karty kredytowej",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 42,
+            "previous": 38,
+            "diff": 4,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-17": {
+                "position": 38,
+                "has_serp": true
+              },
+              "2026-02-05": {
+                "position": 42,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "confronter.pl/pl/blog/kredyty-pozyczki/wady-i-zalety-posiadania-karty-kredytowej",
+            "previous": "confronter.pl/pl/blog/kredyty-pozyczki/wady-i-zalety-posiadania-karty-kredytowej",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              20,
+              20,
+              20,
+              10,
+              30,
+              10,
+              10,
+              10,
+              30,
+              40,
+              20,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 34
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 18129300,
+        "kid": "f871b9884baf768d1bd80ebe11a51584",
+        "domain": "confronter.pl",
+        "keyword": "solgen krs",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 43,
+            "previous": 42,
+            "diff": 1,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-17": {
+                "position": 42,
+                "has_serp": true
+              },
+              "2026-02-05": {
+                "position": 43,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "confronter.pl/pl/gotowkowy-4",
+            "previous": "confronter.pl/pl/gotowkowy-4",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              20,
+              20,
+              20,
+              20,
+              10,
+              10,
+              20,
+              20,
+              20,
+              30,
+              30,
+              20
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 20
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 13402828,
+        "kid": "85c95c3f3a71b0465393c18779aa35fc",
+        "domain": "confronter.pl",
+        "keyword": "raport bik santander",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 49,
+            "previous": 43,
+            "diff": 6,
+            "changes": {
+              "wins": 0,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-18": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-28": {
+                "position": 43,
+                "has_serp": true
+              },
+              "2026-02-07": {
+                "position": 49,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "confronter.pl/pl/blog/kredyty-pozyczki/raport-bik-co-zawiera-i-czemu-powinnismy-go-sprawdzic",
+            "previous": "confronter.pl/pl/blog/kredyty-pozyczki/raport-bik-co-zawiera-i-czemu-powinnismy-go-sprawdzic",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0.72
+          },
+          "searches": {
+            "current": 170
+          },
+          "trends": {
+            "history": [
+              170,
+              210,
+              210,
+              170,
+              170,
+              110,
+              170,
+              170,
+              170,
+              170,
+              170,
+              140
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 42
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 14649075,
+        "kid": "f5c7dc033d3bb398bf7d054692f1f705",
+        "domain": "confronter.pl",
+        "keyword": "owu definicja",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 25,
+            "previous": 22,
+            "diff": 3,
+            "changes": {
+              "wins": 0,
+              "losses": 2,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-21": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-04": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-21": {
+                "position": 22,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 25,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "confronter.pl/pl/blog/ubezpieczenia/co-to-jest-owu",
+            "previous": "confronter.pl/pl/blog/ubezpieczenia/co-to-jest-owu",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              20,
+              10,
+              20,
+              10,
+              20,
+              20,
+              10,
+              10,
+              10,
+              30,
+              20,
+              30
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 29
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 2980963,
+        "kid": "40206a28fb11dc428a12105002cabcfd",
+        "domain": "confronter.pl",
+        "keyword": "porównanie oprocentowania kredytów hipotecznych",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 47,
+            "previous": 39,
+            "diff": 8,
+            "changes": {
+              "wins": 0,
+              "losses": 0,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-02-05": {
+                "position": 47,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "confronter.pl/pl/porownaj/kredyty-hipoteczne",
+            "previous": "confronter.pl/pl/porownaj/kredyty-hipoteczne",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 1.33
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              10,
+              20,
+              20,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 33
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "compare",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 1676001,
+        "kid": "23f8d7c8522ebe19f3bb7ad99872932c",
+        "domain": "confronter.pl",
+        "keyword": "telewizja internet telefon najlepsza oferta",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 22,
+            "previous": 16,
+            "diff": 6,
+            "changes": {
+              "wins": 3,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-21": {
+                "position": 18,
+                "has_serp": true
+              },
+              "2026-01-05": {
+                "position": 26,
+                "has_serp": true
+              },
+              "2026-01-12": {
+                "position": 25,
+                "has_serp": true
+              },
+              "2026-01-22": {
+                "position": 16,
+                "has_serp": true
+              },
+              "2026-02-01": {
+                "position": 23,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 22,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "confronter.pl/pl/porownaj/pakiety-telefon-internet-tv",
+            "previous": "confronter.pl/pl/porownaj/pakiety-telefon-internet-tv",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 1.93
+          },
+          "searches": {
+            "current": 1300
+          },
+          "trends": {
+            "history": [
+              1900,
+              1000,
+              1000,
+              1000,
+              1000,
+              1000,
+              1300,
+              1300,
+              1300,
+              1600,
+              1600,
+              1600
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 48
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "compare",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 10794139,
+        "kid": "ee8004d935eee61c603f88e43b650e8a",
+        "domain": "confronter.pl",
+        "keyword": "przedstawiciel finansowy",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 30,
+            "previous": 28,
+            "diff": 2,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-29": {
+                "position": 28,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 30,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "confronter.pl/pl/blog/doradca-klienta/czym-zajmuje-sie-doradca-finansowy",
+            "previous": "confronter.pl/pl/blog/doradca-klienta/czym-zajmuje-sie-doradca-finansowy",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 3.17
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              10,
+              20,
+              20,
+              10,
+              10,
+              10,
+              20,
+              10,
+              10,
+              10,
+              10,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 53
+          },
+          "snippets": {
+            "current": [
+              "map",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 14548279,
+        "kid": "ecaeb5a407c0b4fcec7411df2222997b",
+        "domain": "confronter.pl",
+        "keyword": "sodexo wypłata z bankomatu",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 35,
+            "previous": 23,
+            "diff": 12,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-18": {
+                "position": 23,
+                "has_serp": true
+              },
+              "2026-02-07": {
+                "position": 35,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "confronter.pl/pl/blog/konta-lokaty/czym-rozni-sie-karta-kredytowa-od-debetowej",
+            "previous": "confronter.pl/pl/blog/konta-lokaty/czym-rozni-sie-karta-kredytowa-od-debetowej",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 260
+          },
+          "trends": {
+            "history": [
+              320,
+              170,
+              140,
+              140,
+              110,
+              170,
+              90,
+              110,
+              110,
+              170,
+              260,
+              1000
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 35
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 7037766,
+        "kid": "99b24edd2c2e4ac15ad91effe941a30b",
+        "domain": "confronter.pl",
+        "keyword": "porównywarka cen energii elektrycznej",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 45,
+            "previous": 32,
+            "diff": 13,
+            "changes": {
+              "wins": 1,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-20": {
+                "position": 26,
+                "has_serp": true
+              },
+              "2026-01-03": {
+                "position": 36,
+                "has_serp": true
+              },
+              "2026-01-20": {
+                "position": 32,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 45,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "confronter.pl/pl/porownaj/ceny-energii-elektrycznej",
+            "previous": "confronter.pl/pl/porownaj/ceny-energii-elektrycznej",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 2.36
+          },
+          "searches": {
+            "current": 40
+          },
+          "trends": {
+            "history": [
+              40,
+              20,
+              40,
+              40,
+              20,
+              30,
+              40,
+              40,
+              50,
+              30,
+              50,
+              40
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 42
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "compare",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 564372,
+        "kid": "0c15a63311b2fa5fd7fd6fafbca1a6bd",
+        "domain": "confronter.pl",
+        "keyword": "porównywarka cen gazu",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 27,
+            "previous": 18,
+            "diff": 9,
+            "changes": {
+              "wins": 1,
+              "losses": 2,
+              "no_changes": 2
+            },
+            "history": {
+              "2025-12-18": {
+                "position": 21,
+                "has_serp": true
+              },
+              "2025-12-25": {
+                "position": 21,
+                "has_serp": true
+              },
+              "2026-01-08": {
+                "position": 21,
+                "has_serp": true
+              },
+              "2026-01-19": {
+                "position": 28,
+                "has_serp": true
+              },
+              "2026-01-29": {
+                "position": 18,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 27,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "confronter.pl/pl/porownaj/ceny-gazu",
+            "previous": "confronter.pl/pl/porownaj/ceny-gazu",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 1.92
+          },
+          "searches": {
+            "current": 70
+          },
+          "trends": {
+            "history": [
+              70,
+              40,
+              70,
+              110,
+              70,
+              70,
+              50,
+              50,
+              40,
+              70,
+              70,
+              90
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 51
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "compare",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 11930388,
+        "kid": "02b3b642fbe06652b5b88f942380c41d",
+        "domain": "confronter.pl",
+        "keyword": "wgląd do konta bankowego",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 29,
+            "previous": 28,
+            "diff": 1,
+            "changes": {
+              "wins": 0,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-17": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-27": {
+                "position": 28,
+                "has_serp": true
+              },
+              "2026-02-06": {
+                "position": 29,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "confronter.pl/pl/blog/konta-lokaty/kto-ma-wglad-w-konto-bankowe",
+            "previous": "confronter.pl/pl/blog/konta-lokaty/kto-ma-wglad-w-konto-bankowe",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 110
+          },
+          "trends": {
+            "history": [
+              90,
+              50,
+              40,
+              20,
+              20,
+              20,
+              480,
+              140,
+              140,
+              140,
+              70,
+              50
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 39
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 15790769,
+        "kid": "6f776e14b380a6cf78bb5835854e5059",
+        "domain": "confronter.pl",
+        "keyword": "mieszkanie plus wniosek online",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 28,
+            "previous": 20,
+            "diff": 8,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-15": {
+                "position": 20,
+                "has_serp": true
+              },
+              "2026-02-04": {
+                "position": 28,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "confronter.pl/pl/blog/doradca-klienta/mieszkanie-plus-jak-wypelnic-wniosek",
+            "previous": "confronter.pl/pl/blog/doradca-klienta/mieszkanie-plus-jak-wypelnic-wniosek",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0.4
+          },
+          "searches": {
+            "current": 110
+          },
+          "trends": {
+            "history": [
+              170,
+              140,
+              110,
+              110,
+              140,
+              140,
+              90,
+              110,
+              90,
+              110,
+              70,
+              70
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 44
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 13971619,
+        "kid": "b8aafd607f99b6dd64a6e4c57035fd05",
+        "domain": "confronter.pl",
+        "keyword": "jak sprawdzić raport bik za darmo",
+        "words_count": 6,
+        "statistics": {
+          "position": {
+            "current": 40,
+            "previous": 38,
+            "diff": 2,
+            "changes": {
+              "wins": 0,
+              "losses": 2,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-21": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-04": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-21": {
+                "position": 38,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 40,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "confronter.pl/pl/blog/kredyty-pozyczki/mozesz-pobrac-raport-bik-za-darmo",
+            "previous": "confronter.pl/pl/blog/kredyty-pozyczki/mozesz-pobrac-raport-bik-za-darmo",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 1.48
+          },
+          "searches": {
+            "current": 40
+          },
+          "trends": {
+            "history": [
+              40,
+              50,
+              50,
+              50,
+              50,
+              50,
+              50,
+              30,
+              20,
+              20,
+              20,
+              20
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 36
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 14504472,
+        "kid": "e8b9e1d62a0803444434f5781ba81b02",
+        "domain": "confronter.pl",
+        "keyword": "porownanie ofert komorkowych",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 43,
+            "previous": 40,
+            "diff": 3,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-18": {
+                "position": 40,
+                "has_serp": true
+              },
+              "2026-02-07": {
+                "position": 43,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "confronter.pl/pl/porownaj/abonamenty-telefoniczne",
+            "previous": "confronter.pl/pl/porownaj/abonamenty-telefoniczne",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 2.91
+          },
+          "searches": {
+            "current": 90
+          },
+          "trends": {
+            "history": [
+              210,
+              170,
+              110,
+              20,
+              30,
+              50,
+              90,
+              70,
+              110,
+              70,
+              140,
+              140
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 45
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "compare",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 7036909,
+        "kid": "99ad2fcb4d8c5e0309370f5b15b8cc63",
+        "domain": "confronter.pl",
+        "keyword": "polisa na życie porównywarka",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 34,
+            "previous": 27,
+            "diff": 7,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-24": {
+                "position": 27,
+                "has_serp": true
+              },
+              "2026-02-04": {
+                "position": 34,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "confronter.pl/pl/porownaj/ubezpieczenia-na-zycie",
+            "previous": "confronter.pl/pl/porownaj/ubezpieczenia-na-zycie",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 10.78
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              10,
+              10,
+              20,
+              20,
+              10,
+              20,
+              10,
+              10,
+              10,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 44
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "compare",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 5024724,
+        "kid": "6cde75e9fd2dd5eadbb728f7c88121ca",
+        "domain": "confronter.pl",
+        "keyword": "jak działa linia kredytowa",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 43,
+            "previous": 39,
+            "diff": 4,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-20": {
+                "position": 39,
+                "has_serp": true
+              },
+              "2026-02-01": {
+                "position": 43,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "confronter.pl/pl/blog/kredyty-pozyczki/linia-kredytowa-dla-firm-jak-to-dziala",
+            "previous": "confronter.pl/pl/blog/kredyty-pozyczki/linia-kredytowa-dla-firm-jak-to-dziala",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0.19
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              20,
+              20,
+              20,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 28
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 2214109,
+        "kid": "2f912862f008aba73c34181ecf1ddd42",
+        "domain": "confronter.pl",
+        "keyword": "mieszkanie plus wniosek",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 46,
+            "previous": 40,
+            "diff": 6,
+            "changes": {
+              "wins": 0,
+              "losses": 2,
+              "no_changes": 3
+            },
+            "history": {
+              "2025-12-22": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-29": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-13": {
+                "position": 40,
+                "has_serp": true
+              },
+              "2026-01-24": {
+                "position": 40,
+                "has_serp": true
+              },
+              "2026-02-02": {
+                "position": 46,
+                "has_serp": true
+              },
+              "2026-02-12": {
+                "position": 46,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "confronter.pl/pl/blog/doradca-klienta/mieszkanie-plus-jak-wypelnic-wniosek",
+            "previous": "confronter.pl/pl/blog/doradca-klienta/mieszkanie-plus-jak-wypelnic-wniosek",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              20,
+              10,
+              20,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 46
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 12391283,
+        "kid": "2bb34ec4083051fd9b32698e5debce0e",
+        "domain": "confronter.pl",
+        "keyword": "provema 10 zł",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 39,
+            "previous": 30,
+            "diff": 9,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-18": {
+                "position": 30,
+                "has_serp": true
+              },
+              "2026-02-07": {
+                "position": 39,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "confronter.pl/pl/porownaj/szybkie-pozyczki",
+            "previous": "confronter.pl/pl/porownaj/szybkie-pozyczki",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 70
+          },
+          "trends": {
+            "history": [
+              70,
+              70,
+              50,
+              10,
+              110,
+              90,
+              70,
+              50,
+              90,
+              140,
+              90,
+              50
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 21
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 13160941,
+        "kid": "70338d59968b6a1b21ea4db669ea32a1",
+        "domain": "confronter.pl",
+        "keyword": "czy można przenieść kredyt gotówkowy do innego banku",
+        "words_count": 8,
+        "statistics": {
+          "position": {
+            "current": 37,
+            "previous": 24,
+            "diff": 13,
+            "changes": {
+              "wins": 1,
+              "losses": 1,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-20": {
+                "position": 32,
+                "has_serp": true
+              },
+              "2026-01-03": {
+                "position": 32,
+                "has_serp": true
+              },
+              "2026-01-21": {
+                "position": 24,
+                "has_serp": true
+              },
+              "2026-02-10": {
+                "position": 37,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "confronter.pl/pl/blog/kredyty-pozyczki/jak-przeniesc-kredyt-gotowkowy-do-innego-banku",
+            "previous": "confronter.pl/pl/blog/kredyty-pozyczki/jak-przeniesc-kredyt-gotowkowy-do-innego-banku",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0.7
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              30,
+              10,
+              20,
+              10,
+              30,
+              30,
+              30,
+              10,
+              20,
+              40,
+              30,
+              20
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 24
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 9423880,
+        "kid": "cf6c266b8551d05af5b0bcbcf1a2387b",
+        "domain": "confronter.pl",
+        "keyword": "porównanie ubezpieczeń na życie",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 46,
+            "previous": 45,
+            "diff": 1,
+            "changes": {
+              "wins": 1,
+              "losses": 2,
+              "no_changes": 3
+            },
+            "history": {
+              "2025-12-19": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-26": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-04": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-11": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-22": {
+                "position": 45,
+                "has_serp": true
+              },
+              "2026-02-01": {
+                "position": 32,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 46,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "confronter.pl/pl/porownaj/ubezpieczenia-na-zycie",
+            "previous": "confronter.pl/pl/porownaj/ubezpieczenia-na-zycie",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 10.47
+          },
+          "searches": {
+            "current": 110
+          },
+          "trends": {
+            "history": [
+              140,
+              110,
+              140,
+              90,
+              90,
+              70,
+              90,
+              110,
+              110,
+              110,
+              110,
+              110
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 56
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "compare",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 17171403,
+        "kid": "612894deb99617d02f56029a388e9bf3",
+        "domain": "confronter.pl",
+        "keyword": "czek blik euronet",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 48,
+            "previous": 32,
+            "diff": 16,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-15": {
+                "position": 32,
+                "has_serp": true
+              },
+              "2026-02-02": {
+                "position": 48,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "confronter.pl/pl/blog/konta-lokaty/co-to-jest-czek-blik",
+            "previous": "confronter.pl/pl/blog/konta-lokaty/co-to-jest-czek-blik",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              20,
+              10,
+              10,
+              10,
+              20,
+              10,
+              20,
+              20,
+              20,
+              20,
+              10,
+              20
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 32
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 2821370,
+        "kid": "3cae8c49c30ff135cd36eb99d54f8fb4",
+        "domain": "confronter.pl",
+        "keyword": "taratatu",
+        "words_count": 1,
+        "statistics": {
+          "position": {
+            "current": 12,
+            "previous": 10,
+            "diff": 2,
+            "changes": {
+              "wins": 3,
+              "losses": 3,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-14": {
+                "position": 11,
+                "has_serp": false
+              },
+              "2025-12-22": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-26": {
+                "position": 11,
+                "has_serp": true
+              },
+              "2026-01-02": {
+                "position": 10,
+                "has_serp": true
+              },
+              "2026-01-09": {
+                "position": 10,
+                "has_serp": true
+              },
+              "2026-01-19": {
+                "position": 11,
+                "has_serp": true
+              },
+              "2026-01-29": {
+                "position": 10,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 12,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 13.55,
+            "diff": -13.55,
+            "percent": -1,
+            "history": null
+          },
+          "url": {
+            "current": "confronter.pl/pl/pozyczki-ratalne-porownanie",
+            "previous": "confronter.pl/pl/pozyczki-ratalne-porownanie",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 3.23
+          },
+          "searches": {
+            "current": 880
+          },
+          "trends": {
+            "history": [
+              1300,
+              880,
+              880,
+              720,
+              720,
+              590,
+              590,
+              1000,
+              720,
+              1000,
+              1000,
+              1000
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 32
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask",
+              "wiki_right"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      }
+    ],
+    "total": 45,
+    "domain": "confronter.pl",
+    "endpoint": "get_history_keywords_losses"
+  }
+}

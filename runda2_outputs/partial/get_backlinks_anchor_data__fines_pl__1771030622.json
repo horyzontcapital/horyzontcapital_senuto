@@ -1,0 +1,757 @@
+{
+  "domain": "fines.pl",
+  "endpoint": "get_backlinks_anchor_data",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "link_domain": "fines.pl",
+        "is_main_domain": true,
+        "anchor": "Strona",
+        "anchor_type": [],
+        "count": {
+          "count": 41,
+          "percent_of_total": 0.13486842105263158
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 39,
+        "percent_of_total": 0.13486842105263158
+      },
+      {
+        "link_domain": "fines.pl",
+        "is_main_domain": true,
+        "anchor": "Przejdz do strony",
+        "anchor_type": [],
+        "count": {
+          "count": 37,
+          "percent_of_total": 0.12171052631578948
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 36,
+        "percent_of_total": 0.12171052631578948
+      },
+      {
+        "link_domain": "fines.pl",
+        "is_main_domain": true,
+        "anchor": "www",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 34,
+          "percent_of_total": 0.1118421052631579
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 28,
+        "percent_of_total": 0.1118421052631579
+      },
+      {
+        "link_domain": "fines.pl",
+        "is_main_domain": true,
+        "anchor": "",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 32,
+          "percent_of_total": 0.10526315789473684
+        },
+        "domains_with_anchor_count": 7,
+        "anchors_uniq_count": 21,
+        "percent_of_total": 0.10526315789473684
+      },
+      {
+        "link_domain": "fines.pl",
+        "is_main_domain": true,
+        "anchor": "fines.pl",
+        "anchor_type": [],
+        "count": {
+          "count": 28,
+          "percent_of_total": 0.09210526315789473
+        },
+        "domains_with_anchor_count": 4,
+        "anchors_uniq_count": 20,
+        "percent_of_total": 0.09210526315789473
+      },
+      {
+        "link_domain": "fines.pl",
+        "is_main_domain": true,
+        "anchor": "www.fines.pl",
+        "anchor_type": [],
+        "count": {
+          "count": 22,
+          "percent_of_total": 0.07236842105263158
+        },
+        "domains_with_anchor_count": 7,
+        "anchors_uniq_count": 21,
+        "percent_of_total": 0.07236842105263158
+      },
+      {
+        "link_domain": "fines.pl",
+        "is_main_domain": true,
+        "anchor": "https://www.fines.pl/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 16,
+          "percent_of_total": 0.05263157894736842
+        },
+        "domains_with_anchor_count": 4,
+        "anchors_uniq_count": 13,
+        "percent_of_total": 0.05263157894736842
+      },
+      {
+        "link_domain": "fines.pl",
+        "is_main_domain": true,
+        "anchor": "",
+        "anchor_type": [],
+        "count": {
+          "count": 9,
+          "percent_of_total": 0.029605263157894735
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 6,
+        "percent_of_total": 0.029605263157894735
+      },
+      {
+        "link_domain": "fines.pl",
+        "is_main_domain": true,
+        "anchor": "https://www.fines.pl/kontakt/placowka/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 8,
+          "percent_of_total": 0.02631578947368421
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 8,
+        "percent_of_total": 0.02631578947368421
+      },
+      {
+        "link_domain": "fines.pl",
+        "is_main_domain": true,
+        "anchor": "Fines S.A.",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 7,
+          "percent_of_total": 0.023026315789473683
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 0.023026315789473683
+      },
+      {
+        "link_domain": "fines.pl",
+        "is_main_domain": true,
+        "anchor": "Fines",
+        "anchor_type": [],
+        "count": {
+          "count": 6,
+          "percent_of_total": 0.019736842105263157
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.019736842105263157
+      },
+      {
+        "link_domain": "fines.pl",
+        "is_main_domain": true,
+        "anchor": "www.fines.pl/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 5,
+          "percent_of_total": 0.01644736842105263
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 3,
+        "percent_of_total": 0.01644736842105263
+      },
+      {
+        "link_domain": "fines.pl",
+        "is_main_domain": true,
+        "anchor": "<redirect>",
+        "anchor_type": [],
+        "count": {
+          "count": 5,
+          "percent_of_total": 0.01644736842105263
+        },
+        "domains_with_anchor_count": 3,
+        "anchors_uniq_count": 5,
+        "percent_of_total": 0.01644736842105263
+      },
+      {
+        "link_domain": "fines.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.fines.pl/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 4,
+          "percent_of_total": 0.013157894736842105
+        },
+        "domains_with_anchor_count": 3,
+        "anchors_uniq_count": 4,
+        "percent_of_total": 0.013157894736842105
+      },
+      {
+        "link_domain": "fines.pl",
+        "is_main_domain": true,
+        "anchor": "Helikon",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 3,
+          "percent_of_total": 0.009868421052631578
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 0.009868421052631578
+      },
+      {
+        "link_domain": "fines.pl",
+        "is_main_domain": true,
+        "anchor": "www",
+        "anchor_type": [],
+        "count": {
+          "count": 3,
+          "percent_of_total": 0.009868421052631578
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 3,
+        "percent_of_total": 0.009868421052631578
+      },
+      {
+        "link_domain": "fines.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.fines.pl",
+        "anchor_type": [],
+        "count": {
+          "count": 3,
+          "percent_of_total": 0.009868421052631578
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 0.009868421052631578
+      },
+      {
+        "link_domain": "fines.pl",
+        "is_main_domain": true,
+        "anchor": "konsolidacja kredyt&oacute;w got&oacute;wkowych",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.006578947368421052
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.006578947368421052
+      },
+      {
+        "link_domain": "fines.pl",
+        "is_main_domain": true,
+        "anchor": "Fines",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.006578947368421052
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 0.006578947368421052
+      },
+      {
+        "link_domain": "fines.pl",
+        "is_main_domain": true,
+        "anchor": "FINES SPÓŁKA AKCYJNA",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.006578947368421052
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 0.006578947368421052
+      },
+      {
+        "link_domain": "fines.pl",
+        "is_main_domain": true,
+        "anchor": "Fines S.A.",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.006578947368421052
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.006578947368421052
+      },
+      {
+        "link_domain": "fines.pl",
+        "is_main_domain": true,
+        "anchor": "fines Operator Bankowy",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.006578947368421052
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.006578947368421052
+      },
+      {
+        "link_domain": "fines.pl",
+        "is_main_domain": true,
+        "anchor": "WWW",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.003289473684210526
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.003289473684210526
+      },
+      {
+        "link_domain": "fines.pl",
+        "is_main_domain": true,
+        "anchor": "https://www.fines.pl/placowka/fines-czestochowa-2-2/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.003289473684210526
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.003289473684210526
+      },
+      {
+        "link_domain": "fines.pl",
+        "is_main_domain": true,
+        "anchor": "https://www.fines.pl/placowka/fines-walbrzych-2/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.003289473684210526
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.003289473684210526
+      },
+      {
+        "link_domain": "fines.pl",
+        "is_main_domain": true,
+        "anchor": "https://www.fines.pl/placowka/fines-lodz/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.003289473684210526
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.003289473684210526
+      },
+      {
+        "link_domain": "fines.pl",
+        "is_main_domain": true,
+        "anchor": "Finansowanie firm Finansowanie firm",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.003289473684210526
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.003289473684210526
+      },
+      {
+        "link_domain": "fines.pl",
+        "is_main_domain": true,
+        "anchor": "Fines.pl",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.003289473684210526
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.003289473684210526
+      },
+      {
+        "link_domain": "fines.pl",
+        "is_main_domain": true,
+        "anchor": "Przejdź do strony",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.003289473684210526
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.003289473684210526
+      },
+      {
+        "link_domain": "fines.pl",
+        "is_main_domain": true,
+        "anchor": "https://www.fines.pl/placowka/fines-klimontow/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.003289473684210526
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.003289473684210526
+      },
+      {
+        "link_domain": "fines.pl",
+        "is_main_domain": true,
+        "anchor": "https://www.fines.pl/o-nas/archiwum/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.003289473684210526
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.003289473684210526
+      },
+      {
+        "link_domain": "fines.pl",
+        "is_main_domain": true,
+        "anchor": "wyboru kredytu gotówkowego",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.003289473684210526
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.003289473684210526
+      },
+      {
+        "link_domain": "fines.pl",
+        "is_main_domain": true,
+        "anchor": "Bezpieczne pożyczki przez internet",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.003289473684210526
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.003289473684210526
+      },
+      {
+        "link_domain": "fines.pl",
+        "is_main_domain": true,
+        "anchor": "https://www.fines.pl/placowka/fines-olsztyn-3/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.003289473684210526
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.003289473684210526
+      },
+      {
+        "link_domain": "fines.pl",
+        "is_main_domain": true,
+        "anchor": "strony Fines.",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.003289473684210526
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.003289473684210526
+      },
+      {
+        "link_domain": "fines.pl",
+        "is_main_domain": true,
+        "anchor": "https://www.fines.pl/placowka/fines-szczecin-3-prawobrzeze/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.003289473684210526
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.003289473684210526
+      },
+      {
+        "link_domain": "fines.pl",
+        "is_main_domain": true,
+        "anchor": "fines.pl..",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.003289473684210526
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.003289473684210526
+      },
+      {
+        "link_domain": "fines.pl",
+        "is_main_domain": true,
+        "anchor": "Tańszy prąd",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.003289473684210526
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.003289473684210526
+      },
+      {
+        "link_domain": "fines.pl",
+        "is_main_domain": true,
+        "anchor": "https://www.fines.pl/placowka/fines-tychy/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.003289473684210526
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.003289473684210526
+      },
+      {
+        "link_domain": "fines.pl",
+        "is_main_domain": true,
+        "anchor": "https://www.fines.pl/placowka/fines-tomaszow-mazowiecki/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.003289473684210526
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.003289473684210526
+      },
+      {
+        "link_domain": "fines.pl",
+        "is_main_domain": true,
+        "anchor": "BIORĘ POŻYCZKĘ",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.003289473684210526
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.003289473684210526
+      },
+      {
+        "link_domain": "fines.pl",
+        "is_main_domain": true,
+        "anchor": "https://www.fines.pl/placowka/fines-radom/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.003289473684210526
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.003289473684210526
+      },
+      {
+        "link_domain": "fines.pl",
+        "is_main_domain": true,
+        "anchor": "z kredytu firmowego",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.003289473684210526
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.003289473684210526
+      },
+      {
+        "link_domain": "fines.pl",
+        "is_main_domain": true,
+        "anchor": "WWW.FINES.PL",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.003289473684210526
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.003289473684210526
+      },
+      {
+        "link_domain": "fines.pl",
+        "is_main_domain": true,
+        "anchor": "https://www.fines.pl/placowka/fines-plock-2/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.003289473684210526
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.003289473684210526
+      },
+      {
+        "link_domain": "fines.pl",
+        "is_main_domain": true,
+        "anchor": "https://www.fines.pl/kontakt/placowki-kredytowe/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.003289473684210526
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.003289473684210526
+      },
+      {
+        "link_domain": "fines.pl",
+        "is_main_domain": true,
+        "anchor": "w ofertach przedstawianych w aplikacji eFines",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.003289473684210526
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.003289473684210526
+      },
+      {
+        "link_domain": "fines.pl",
+        "is_main_domain": true,
+        "anchor": "https://www.fines.pl/placowka/fines-zabrze-2/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.003289473684210526
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.003289473684210526
+      },
+      {
+        "link_domain": "fines.pl",
+        "is_main_domain": true,
+        "anchor": "stronie Fines",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.003289473684210526
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.003289473684210526
+      },
+      {
+        "link_domain": "fines.pl",
+        "is_main_domain": true,
+        "anchor": "https://www.fines.pl/placowka/fines-wloclawek/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.003289473684210526
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.003289473684210526
+      },
+      {
+        "link_domain": "fines.pl",
+        "is_main_domain": true,
+        "anchor": "fines.pl/placowka/fines-biala-podlaska-2/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.003289473684210526
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.003289473684210526
+      },
+      {
+        "link_domain": "fines.pl",
+        "is_main_domain": true,
+        "anchor": "formularza współpracy",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.003289473684210526
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.003289473684210526
+      },
+      {
+        "link_domain": "fines.pl",
+        "is_main_domain": true,
+        "anchor": "https://www.fines.pl/placowka/fines-bydgoszcz/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.003289473684210526
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.003289473684210526
+      }
+    ],
+    "total": 53,
+    "domain": "fines.pl",
+    "endpoint": "get_backlinks_anchor_data"
+  }
+}

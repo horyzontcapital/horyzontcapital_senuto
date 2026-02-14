@@ -1,0 +1,68 @@
+{
+  "domain": "newpoint-finance.pl",
+  "endpoint": "get_backlinks_anchor_data",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "link_domain": "newpoint-finance.pl",
+        "is_main_domain": true,
+        "anchor": "",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 3,
+          "percent_of_total": 0.5
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 3,
+        "percent_of_total": 0.5
+      },
+      {
+        "link_domain": "newpoint-finance.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.newpoint-finance.pl",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.16666666666666666
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.16666666666666666
+      },
+      {
+        "link_domain": "newpoint-finance.pl",
+        "is_main_domain": true,
+        "anchor": "newpoint-finance.pl",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.16666666666666666
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.16666666666666666
+      },
+      {
+        "link_domain": "newpoint-finance.pl",
+        "is_main_domain": true,
+        "anchor": "Profesjonalna i skuteczna pomoc w uzyskaniu kredytu dla klientów - Newpoint",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.16666666666666666
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.16666666666666666
+      }
+    ],
+    "total": 4,
+    "domain": "newpoint-finance.pl",
+    "endpoint": "get_backlinks_anchor_data"
+  }
+}

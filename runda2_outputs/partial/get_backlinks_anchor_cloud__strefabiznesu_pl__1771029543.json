@@ -1,0 +1,67 @@
+{
+  "domain": "strefabiznesu.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "strefabiznesu.pl": [
+          {
+            "text": "",
+            "size": 219496,
+            "percent": 0.6336343271517979
+          },
+          {
+            "text": "Biznes",
+            "size": 146048,
+            "percent": 0.421606891295813
+          },
+          {
+            "text": "Strefa Biznesu",
+            "size": 2482,
+            "percent": 0.007164961548232142
+          },
+          {
+            "text": "Brakuje pracowników fizycznych. Firma płaci 8 tys. zł miesięcznie i nie nie ma chętnych",
+            "size": 324,
+            "percent": 0.0009353132722108035
+          },
+          {
+            "text": "strefabiznesu",
+            "size": 218,
+            "percent": 0.0006293157201912196
+          },
+          {
+            "text": "www.strefabiznesu.pl",
+            "size": 145,
+            "percent": 0.0004185815570079213
+          },
+          {
+            "text": "Telemarketerzy wciąż nękają konsumentów i są w tym bezkarni - mimo ochrony prawnej. Jak sobie&hellip;",
+            "size": 77,
+            "percent": 0.00022228124061799957
+          },
+          {
+            "text": "Badanie: wiadomo, ile Polacy planują wydać na wakacje w tym roku. Zaskakujące dane",
+            "size": 73,
+            "percent": 0.0002107341631832983
+          },
+          {
+            "text": "strefabiznesu.pl",
+            "size": 64,
+            "percent": 0.00018475323895522042
+          },
+          {
+            "text": "strefa biznesu",
+            "size": 62,
+            "percent": 0.00017897970023786979
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "strefabiznesu.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

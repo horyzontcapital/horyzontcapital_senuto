@@ -1,0 +1,165 @@
+{
+  "domain": "platinum-financial.pl",
+  "endpoint": "get_backlinks_anchor_data",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "link_domain": "platinum-financial.pl",
+        "is_main_domain": true,
+        "anchor": "Platinum Financial",
+        "anchor_type": [],
+        "count": {
+          "count": 6,
+          "percent_of_total": 0.23076923076923078
+        },
+        "domains_with_anchor_count": 3,
+        "anchors_uniq_count": 6,
+        "percent_of_total": 0.23076923076923078
+      },
+      {
+        "link_domain": "platinum-financial.pl",
+        "is_main_domain": true,
+        "anchor": "",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 5,
+          "percent_of_total": 0.19230769230769232
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 5,
+        "percent_of_total": 0.19230769230769232
+      },
+      {
+        "link_domain": "platinum-financial.pl",
+        "is_main_domain": true,
+        "anchor": "",
+        "anchor_type": [],
+        "count": {
+          "count": 4,
+          "percent_of_total": 0.15384615384615385
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.15384615384615385
+      },
+      {
+        "link_domain": "platinum-financial.pl",
+        "is_main_domain": true,
+        "anchor": "www.platinum-financial.pl",
+        "anchor_type": [],
+        "count": {
+          "count": 3,
+          "percent_of_total": 0.11538461538461539
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 3,
+        "percent_of_total": 0.11538461538461539
+      },
+      {
+        "link_domain": "platinum-financial.pl",
+        "is_main_domain": true,
+        "anchor": "Visit the site",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.07692307692307693
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.07692307692307693
+      },
+      {
+        "link_domain": "platinum-financial.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.platinum-financial.pl",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.038461538461538464
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.038461538461538464
+      },
+      {
+        "link_domain": "platinum-financial.pl",
+        "is_main_domain": true,
+        "anchor": "https://platinum-financial.pl/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.038461538461538464
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.038461538461538464
+      },
+      {
+        "link_domain": "platinum-financial.pl",
+        "is_main_domain": true,
+        "anchor": "Image",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.038461538461538464
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.038461538461538464
+      },
+      {
+        "link_domain": "platinum-financial.pl",
+        "is_main_domain": true,
+        "anchor": "fmg finance",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.038461538461538464
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.038461538461538464
+      },
+      {
+        "link_domain": "platinum-financial.pl",
+        "is_main_domain": true,
+        "anchor": "<redirect>",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.038461538461538464
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.038461538461538464
+      },
+      {
+        "link_domain": "platinum-financial.pl",
+        "is_main_domain": true,
+        "anchor": "https://www.platinum-financial.pl/dla-klienta",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.038461538461538464
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.038461538461538464
+      }
+    ],
+    "total": 11,
+    "domain": "platinum-financial.pl",
+    "endpoint": "get_backlinks_anchor_data"
+  }
+}

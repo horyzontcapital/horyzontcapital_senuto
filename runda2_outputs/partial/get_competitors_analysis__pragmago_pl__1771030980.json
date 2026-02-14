@@ -1,0 +1,571 @@
+{
+  "domain": "pragmago.pl",
+  "endpoint": "get_competitors_analysis",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "keyword": "krd big",
+          "cpc": 4.28,
+          "searches": 320,
+          "trends": [
+            390,
+            390,
+            320,
+            320,
+            390,
+            480,
+            480,
+            320,
+            320,
+            390,
+            390,
+            320
+          ],
+          "difficulty": 64,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 17,
+            "url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia"
+          },
+          "horyzontcapital.com_pos": 17,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia",
+          "pragmago.pl": {
+            "pos": 3,
+            "url": "pragmago.pl/porada/krd-co-to-jest-i-jak-dziala/"
+          },
+          "pragmago.pl_pos": 3,
+          "pragmago.pl_url": "pragmago.pl/porada/krd-co-to-jest-i-jak-dziala/"
+        },
+        {
+          "keyword": "bik krajowy rejestr długów",
+          "cpc": 1.82,
+          "searches": 90,
+          "trends": [
+            110,
+            90,
+            90,
+            50,
+            110,
+            110,
+            110,
+            70,
+            70,
+            70,
+            70,
+            50
+          ],
+          "difficulty": 46,
+          "params": [
+            "brand"
+          ],
+          "horyzontcapital.com": {
+            "pos": 34,
+            "url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia"
+          },
+          "horyzontcapital.com_pos": 34,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia",
+          "pragmago.pl": {
+            "pos": 14,
+            "url": "pragmago.pl/porada/krd-co-to-jest-i-jak-dziala/"
+          },
+          "pragmago.pl_pos": 14,
+          "pragmago.pl_url": "pragmago.pl/porada/krd-co-to-jest-i-jak-dziala/"
+        },
+        {
+          "keyword": "pozabankowe instytucje finansowe przedsiębiorczość",
+          "cpc": 0,
+          "searches": 50,
+          "trends": [
+            90,
+            70,
+            90,
+            50,
+            70,
+            40,
+            70,
+            20,
+            30,
+            30,
+            30,
+            50
+          ],
+          "difficulty": 24,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 21,
+            "url": "horyzontcapital.com/blog/czym-rozni-sie-finansowanie-pozabankowe-od-kredytu-bankowego"
+          },
+          "horyzontcapital.com_pos": 21,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/czym-rozni-sie-finansowanie-pozabankowe-od-kredytu-bankowego",
+          "pragmago.pl": {
+            "pos": 1,
+            "url": "pragmago.pl/porada/pozabankowe-pozyczki-i-kredyty-dla-firm/"
+          },
+          "pragmago.pl_pos": 1,
+          "pragmago.pl_url": "pragmago.pl/porada/pozabankowe-pozyczki-i-kredyty-dla-firm/"
+        },
+        {
+          "keyword": "finansowanie pozabankowe",
+          "cpc": 13.65,
+          "searches": 40,
+          "trends": [
+            20,
+            30,
+            30,
+            30,
+            10,
+            10,
+            10,
+            10,
+            10,
+            20,
+            30,
+            20
+          ],
+          "difficulty": 38,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 22,
+            "url": "horyzontcapital.com/blog/czym-rozni-sie-finansowanie-pozabankowe-od-kredytu-bankowego"
+          },
+          "horyzontcapital.com_pos": 22,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/czym-rozni-sie-finansowanie-pozabankowe-od-kredytu-bankowego",
+          "pragmago.pl": {
+            "pos": 6,
+            "url": "pragmago.pl/porada/pozabankowe-pozyczki-i-kredyty-dla-firm/"
+          },
+          "pragmago.pl_pos": 6,
+          "pragmago.pl_url": "pragmago.pl/porada/pozabankowe-pozyczki-i-kredyty-dla-firm/"
+        },
+        {
+          "keyword": "co to znaczy krd",
+          "cpc": 0,
+          "searches": 30,
+          "trends": [
+            10,
+            30,
+            40,
+            30,
+            30,
+            30,
+            20,
+            20,
+            30,
+            20,
+            20,
+            20
+          ],
+          "difficulty": 38,
+          "params": [
+            "question"
+          ],
+          "horyzontcapital.com": {
+            "pos": 23,
+            "url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia"
+          },
+          "horyzontcapital.com_pos": 23,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia",
+          "pragmago.pl": {
+            "pos": 2,
+            "url": "pragmago.pl/porada/krd-co-to-jest-i-jak-dziala/"
+          },
+          "pragmago.pl_pos": 2,
+          "pragmago.pl_url": "pragmago.pl/porada/krd-co-to-jest-i-jak-dziala/"
+        },
+        {
+          "keyword": "baza bik i krd",
+          "cpc": 1.93,
+          "searches": 20,
+          "trends": [
+            10,
+            10,
+            10,
+            20,
+            20,
+            20,
+            10,
+            10,
+            20,
+            30,
+            30,
+            10
+          ],
+          "difficulty": 43,
+          "params": [
+            "brand"
+          ],
+          "horyzontcapital.com": {
+            "pos": 11,
+            "url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia"
+          },
+          "horyzontcapital.com_pos": 11,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia",
+          "pragmago.pl": {
+            "pos": 41,
+            "url": "pragmago.pl/porada/krd-co-to-jest-i-jak-dziala/"
+          },
+          "pragmago.pl_pos": 41,
+          "pragmago.pl_url": "pragmago.pl/porada/krd-co-to-jest-i-jak-dziala/"
+        },
+        {
+          "keyword": "krd czy bik",
+          "cpc": 4.91,
+          "searches": 20,
+          "trends": [
+            20,
+            30,
+            30,
+            20,
+            30,
+            20,
+            20,
+            10,
+            20,
+            20,
+            10,
+            10
+          ],
+          "difficulty": 52,
+          "params": [
+            "brand"
+          ],
+          "horyzontcapital.com": {
+            "pos": 1,
+            "url": "horyzontcapital.com/bik-i-krd-czym-sie-roznia/"
+          },
+          "horyzontcapital.com_pos": 1,
+          "horyzontcapital.com_url": "horyzontcapital.com/bik-i-krd-czym-sie-roznia/",
+          "pragmago.pl": {
+            "pos": 3,
+            "url": "pragmago.pl/porada/krd-co-to-jest-i-jak-dziala/"
+          },
+          "pragmago.pl_pos": 3,
+          "pragmago.pl_url": "pragmago.pl/porada/krd-co-to-jest-i-jak-dziala/"
+        },
+        {
+          "keyword": "co to jest bik i krd",
+          "cpc": 1.43,
+          "searches": 20,
+          "trends": [
+            20,
+            20,
+            20,
+            10,
+            20,
+            10,
+            20,
+            20,
+            30,
+            30,
+            30,
+            20
+          ],
+          "difficulty": 34,
+          "params": [
+            "question"
+          ],
+          "horyzontcapital.com": {
+            "pos": 20,
+            "url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia"
+          },
+          "horyzontcapital.com_pos": 20,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia",
+          "pragmago.pl": {
+            "pos": 30,
+            "url": "pragmago.pl/porada/krd-co-to-jest-i-jak-dziala/"
+          },
+          "pragmago.pl_pos": 30,
+          "pragmago.pl_url": "pragmago.pl/porada/krd-co-to-jest-i-jak-dziala/"
+        },
+        {
+          "keyword": "płynność inwestycji co to",
+          "cpc": 0,
+          "searches": 20,
+          "trends": [
+            30,
+            20,
+            20,
+            50,
+            40,
+            10,
+            10,
+            10,
+            10,
+            10,
+            40,
+            30
+          ],
+          "difficulty": 30,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 27,
+            "url": "horyzontcapital.com/blog/jak-zadbac-o-plynnosc-inwestycji-w-firmie-5-sposobow-na-finansowanie-bez-ryzyka-utraty-plynnosci"
+          },
+          "horyzontcapital.com_pos": 27,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/jak-zadbac-o-plynnosc-inwestycji-w-firmie-5-sposobow-na-finansowanie-bez-ryzyka-utraty-plynnosci",
+          "pragmago.pl": {
+            "pos": 5,
+            "url": "pragmago.pl/porada/plynnosc-finansowa-firmy-bez-tajemnic/"
+          },
+          "pragmago.pl_pos": 5,
+          "pragmago.pl_url": "pragmago.pl/porada/plynnosc-finansowa-firmy-bez-tajemnic/"
+        },
+        {
+          "keyword": "big infomonitor a krd",
+          "cpc": 0,
+          "searches": 10,
+          "trends": [
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+          ],
+          "difficulty": 34,
+          "params": [
+            "brand"
+          ],
+          "horyzontcapital.com": {
+            "pos": 4,
+            "url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia"
+          },
+          "horyzontcapital.com_pos": 4,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia",
+          "pragmago.pl": {
+            "pos": 6,
+            "url": "pragmago.pl/porada/krd-co-to-jest-i-jak-dziala/"
+          },
+          "pragmago.pl_pos": 6,
+          "pragmago.pl_url": "pragmago.pl/porada/krd-co-to-jest-i-jak-dziala/"
+        },
+        {
+          "keyword": "krd czy big",
+          "cpc": 5.01,
+          "searches": 10,
+          "trends": [
+            10,
+            20,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+          ],
+          "difficulty": 57,
+          "params": [
+            "brand"
+          ],
+          "horyzontcapital.com": {
+            "pos": 20,
+            "url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia"
+          },
+          "horyzontcapital.com_pos": 20,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia",
+          "pragmago.pl": {
+            "pos": 11,
+            "url": "pragmago.pl/porada/krd-co-to-jest-i-jak-dziala/"
+          },
+          "pragmago.pl_pos": 11,
+          "pragmago.pl_url": "pragmago.pl/porada/krd-co-to-jest-i-jak-dziala/"
+        },
+        {
+          "keyword": "krd bik sa",
+          "cpc": 2.02,
+          "searches": 10,
+          "trends": [
+            10,
+            20,
+            10,
+            10,
+            10,
+            10,
+            10,
+            20,
+            10,
+            10,
+            10,
+            10
+          ],
+          "difficulty": 47,
+          "params": [
+            "brand"
+          ],
+          "horyzontcapital.com": {
+            "pos": 30,
+            "url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia"
+          },
+          "horyzontcapital.com_pos": 30,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia",
+          "pragmago.pl": {
+            "pos": 4,
+            "url": "pragmago.pl/porada/krd-co-to-jest-i-jak-dziala/"
+          },
+          "pragmago.pl_pos": 4,
+          "pragmago.pl_url": "pragmago.pl/porada/krd-co-to-jest-i-jak-dziala/"
+        },
+        {
+          "keyword": "spis dłużników bankowych",
+          "cpc": 0,
+          "searches": 10,
+          "trends": [
+            10,
+            10,
+            10,
+            20,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+          ],
+          "difficulty": 40,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 37,
+            "url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia"
+          },
+          "horyzontcapital.com_pos": 37,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia",
+          "pragmago.pl": {
+            "pos": 15,
+            "url": "pragmago.pl/porada/krd-co-to-jest-i-jak-dziala/"
+          },
+          "pragmago.pl_pos": 15,
+          "pragmago.pl_url": "pragmago.pl/porada/krd-co-to-jest-i-jak-dziala/"
+        },
+        {
+          "keyword": "krd infomonitor",
+          "cpc": 0,
+          "searches": 10,
+          "trends": [
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+          ],
+          "difficulty": 41,
+          "params": [
+            "brand"
+          ],
+          "horyzontcapital.com": {
+            "pos": 12,
+            "url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia"
+          },
+          "horyzontcapital.com_pos": 12,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia",
+          "pragmago.pl": {
+            "pos": 9,
+            "url": "pragmago.pl/porada/krd-co-to-jest-i-jak-dziala/"
+          },
+          "pragmago.pl_pos": 9,
+          "pragmago.pl_url": "pragmago.pl/porada/krd-co-to-jest-i-jak-dziala/"
+        },
+        {
+          "keyword": "finansowanie firm bez bik",
+          "cpc": 11.58,
+          "searches": 10,
+          "trends": [
+            10,
+            10,
+            10,
+            10,
+            20,
+            10,
+            50,
+            10,
+            10,
+            10,
+            10,
+            10
+          ],
+          "difficulty": 47,
+          "params": [
+            "brand"
+          ],
+          "horyzontcapital.com": {
+            "pos": 48,
+            "url": "horyzontcapital.com/blog/kredyt-dla-firm-bez-bik-czy-to-mozliwe-i-na-jakich-warunkach"
+          },
+          "horyzontcapital.com_pos": 48,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/kredyt-dla-firm-bez-bik-czy-to-mozliwe-i-na-jakich-warunkach",
+          "pragmago.pl": {
+            "pos": 44,
+            "url": "pragmago.pl/"
+          },
+          "pragmago.pl_pos": 44,
+          "pragmago.pl_url": "pragmago.pl/"
+        },
+        {
+          "keyword": "szybkie finansowanie dla firm",
+          "cpc": 5.23,
+          "searches": 10,
+          "trends": [
+            30,
+            20,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            20,
+            10,
+            20,
+            20
+          ],
+          "difficulty": 50,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 36,
+            "url": "horyzontcapital.com/oferta/pozyczka-dla-firm"
+          },
+          "horyzontcapital.com_pos": 36,
+          "horyzontcapital.com_url": "horyzontcapital.com/oferta/pozyczka-dla-firm",
+          "pragmago.pl": {
+            "pos": 9,
+            "url": "pragmago.pl/porada/pozabankowe-pozyczki-i-kredyty-dla-firm/"
+          },
+          "pragmago.pl_pos": 9,
+          "pragmago.pl_url": "pragmago.pl/porada/pozabankowe-pozyczki-i-kredyty-dla-firm/"
+        }
+      ],
+      "pagination": {
+        "page_count": 1,
+        "current_page": 1,
+        "has_next_page": false,
+        "has_prev_page": false,
+        "count": 16,
+        "limit": 100
+      }
+    },
+    "status": 200,
+    "domain": "pragmago.pl",
+    "endpoint": "get_competitors_analysis"
+  }
+}

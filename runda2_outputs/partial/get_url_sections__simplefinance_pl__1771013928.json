@@ -1,0 +1,152 @@
+{
+  "domain": "simplefinance.pl",
+  "endpoint": "get_url_sections",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "url_section": "simplefinance.pl/",
+        "keywords_count": 8,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 118.11,
+            "previous": 117.04,
+            "diff": 1.08,
+            "percent": 0.0091,
+            "history": null
+          },
+          "top3": {
+            "current": 7,
+            "previous": 6,
+            "diff": 1,
+            "percent": 0.1667,
+            "history": null
+          },
+          "top10": {
+            "current": 8,
+            "previous": 7,
+            "diff": 1,
+            "percent": 0.1429,
+            "history": null
+          },
+          "top50": {
+            "current": 23,
+            "previous": 23,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "simplefinance.pl/blog/",
+        "keywords_count": 15,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 30.28,
+            "previous": 29.2,
+            "diff": 1.08,
+            "percent": 0.037,
+            "history": null
+          },
+          "top3": {
+            "current": 5,
+            "previous": 5,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 15,
+            "previous": 14,
+            "diff": 1,
+            "percent": 0.0714,
+            "history": null
+          },
+          "top50": {
+            "current": 88,
+            "previous": 92,
+            "diff": -4,
+            "percent": -0.0435,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "simplefinance.pl/kredyty/",
+        "keywords_count": 6,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 13.3,
+            "previous": 4.56,
+            "diff": 8.75,
+            "percent": 1.9167,
+            "history": null
+          },
+          "top3": {
+            "current": 1,
+            "previous": 1,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 6,
+            "previous": 5,
+            "diff": 1,
+            "percent": 0.2,
+            "history": null
+          },
+          "top50": {
+            "current": 15,
+            "previous": 16,
+            "diff": -1,
+            "percent": -0.0625,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "simplefinance.pl/pozyczki/",
+        "keywords_count": 2,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 2.67,
+            "previous": 0.15,
+            "diff": 2.52,
+            "percent": 16.8,
+            "history": null
+          },
+          "top3": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 2,
+            "previous": 1,
+            "diff": 1,
+            "percent": 1,
+            "history": null
+          },
+          "top50": {
+            "current": 20,
+            "previous": 16,
+            "diff": 4,
+            "percent": 0.25,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 4,
+    "domain": "simplefinance.pl",
+    "endpoint": "get_url_sections"
+  }
+}

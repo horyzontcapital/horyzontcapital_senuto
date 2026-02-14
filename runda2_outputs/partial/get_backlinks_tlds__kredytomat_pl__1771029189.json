@@ -1,0 +1,43 @@
+{
+  "domain": "kredytomat.pl",
+  "endpoint": "get_backlinks_tlds",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "tld": "pl",
+          "count": 34,
+          "percent": 0.8292682926829268
+        },
+        {
+          "tld": "nl",
+          "count": 5,
+          "percent": 0.12195121951219512
+        },
+        {
+          "tld": "expert",
+          "count": 1,
+          "percent": 0.024390243902439025
+        },
+        {
+          "tld": "com",
+          "count": 1,
+          "percent": 0.024390243902439025
+        }
+      ],
+      "pagination": {
+        "page_count": 1,
+        "current_page": 1,
+        "has_next_page": false,
+        "has_prev_page": false,
+        "count": 4,
+        "limit": 10
+      }
+    },
+    "status": 200,
+    "domain": "kredytomat.pl",
+    "endpoint": "get_backlinks_tlds"
+  }
+}

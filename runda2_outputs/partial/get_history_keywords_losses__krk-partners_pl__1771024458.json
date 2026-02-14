@@ -1,0 +1,2059 @@
+{
+  "domain": "krk-partners.pl",
+  "endpoint": "get_history_keywords_losses",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "keyword_id": 10785653,
+        "kid": "ee4f85639d44edc459c473b555a2be55",
+        "domain": "krk-partners.pl",
+        "keyword": "doradztwo biznesowe kraków",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 5,
+            "previous": 4,
+            "diff": 1,
+            "changes": {
+              "wins": 0,
+              "losses": 0,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-02-11": {
+                "position": 5,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 4.53,
+            "previous": 3.55,
+            "diff": 0.98,
+            "percent": 0.2761,
+            "history": null
+          },
+          "url": {
+            "current": "krk-partners.pl/doradca/doradca-biznesowy-krakow",
+            "previous": "krk-partners.pl/doradca/doradca-biznesowy-krakow",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 3.32
+          },
+          "searches": {
+            "current": 50
+          },
+          "trends": {
+            "history": [
+              50,
+              30,
+              30,
+              70,
+              10,
+              90,
+              70,
+              50,
+              30,
+              30,
+              30,
+              50
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 23
+          },
+          "snippets": {
+            "current": [
+              "map",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 11290996,
+        "kid": "f9d0cdb32c68ad91bc512ebe579ab294",
+        "domain": "krk-partners.pl",
+        "keyword": "doradztwo biznesowe szczecin",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 6,
+            "previous": 5,
+            "diff": 1,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-18": {
+                "position": 5,
+                "has_serp": true
+              },
+              "2026-02-06": {
+                "position": 6,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 1.11,
+            "previous": 0.5,
+            "diff": 0.61,
+            "percent": 1.22,
+            "history": null
+          },
+          "url": {
+            "current": "krk-partners.pl/doradca/doradca-biznesowy-szczecin",
+            "previous": "krk-partners.pl/doradca/doradca-biznesowy-szczecin",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              20,
+              40,
+              20,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 34
+          },
+          "snippets": {
+            "current": [
+              "map",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 2550751,
+        "kid": "36d16e83c523b446e403aff46d6657ca",
+        "domain": "krk-partners.pl",
+        "keyword": "doradca finansowy wrocław",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 38,
+            "previous": 29,
+            "diff": 9,
+            "changes": {
+              "wins": 1,
+              "losses": 3,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-22": {
+                "position": 31,
+                "has_serp": true
+              },
+              "2025-12-29": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-06": {
+                "position": 28,
+                "has_serp": true
+              },
+              "2026-01-13": {
+                "position": 28,
+                "has_serp": true
+              },
+              "2026-01-24": {
+                "position": 29,
+                "has_serp": true
+              },
+              "2026-02-02": {
+                "position": 38,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "krk-partners.pl/doradca/doradca-finansowy-wroclaw",
+            "previous": "krk-partners.pl/doradca/doradca-finansowy-wroclaw",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 4.91
+          },
+          "searches": {
+            "current": 320
+          },
+          "trends": {
+            "history": [
+              480,
+              390,
+              320,
+              390,
+              390,
+              320,
+              320,
+              260,
+              260,
+              320,
+              390,
+              320
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 45
+          },
+          "snippets": {
+            "current": [
+              "map",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 4721572,
+        "kid": "6621f6bf8efcfd579df9159531c43cf0",
+        "domain": "krk-partners.pl",
+        "keyword": "pożyczka dla zadłużonych firm",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 13,
+            "previous": 12,
+            "diff": 1,
+            "changes": {
+              "wins": 2,
+              "losses": 3,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-22": {
+                "position": 20,
+                "has_serp": true
+              },
+              "2025-12-29": {
+                "position": 29,
+                "has_serp": true
+              },
+              "2026-01-07": {
+                "position": 17,
+                "has_serp": true
+              },
+              "2026-01-14": {
+                "position": 10,
+                "has_serp": true
+              },
+              "2026-01-25": {
+                "position": 12,
+                "has_serp": true
+              },
+              "2026-02-04": {
+                "position": 13,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "krk-partners.pl/pozyczki-dla-zadluzonych-firm",
+            "previous": "krk-partners.pl/pozyczki-dla-zadluzonych-firm",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 7.85
+          },
+          "searches": {
+            "current": 90
+          },
+          "trends": {
+            "history": [
+              90,
+              110,
+              110,
+              70,
+              70,
+              70,
+              90,
+              50,
+              40,
+              90,
+              70,
+              90
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 51
+          },
+          "snippets": {
+            "current": []
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 10308598,
+        "kid": "e379dba4aa6dc4cd62ab1ca707773521",
+        "domain": "krk-partners.pl",
+        "keyword": "pozyczki pod zastaw lodz",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 25,
+            "previous": 15,
+            "diff": 10,
+            "changes": {
+              "wins": 0,
+              "losses": 0,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-02-10": {
+                "position": 25,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "krk-partners.pl/doradca/doradca-pozyczkowy-lodz",
+            "previous": "krk-partners.pl/doradca/doradca-pozyczkowy-lodz",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 7.68
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              20,
+              10,
+              30,
+              10,
+              20,
+              20
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 29
+          },
+          "snippets": {
+            "current": [
+              "map",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "buy",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 5274327,
+        "kid": "726be77704c1360ef6a8a944a371e3bb",
+        "domain": "krk-partners.pl",
+        "keyword": "pożyczka na zakup domu",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 23,
+            "previous": 16,
+            "diff": 7,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-21": {
+                "position": 16,
+                "has_serp": true
+              },
+              "2026-02-02": {
+                "position": 23,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "krk-partners.pl/pozyczka-na-zakup-nieruchomosci",
+            "previous": "krk-partners.pl/pozyczka-na-zakup-nieruchomosci",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 5.95
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              20,
+              10,
+              30,
+              20,
+              20,
+              20,
+              20,
+              20,
+              10,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 46
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "buy",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 1943769,
+        "kid": "29be955af1767277948fa9d8901e92a7",
+        "domain": "krk-partners.pl",
+        "keyword": "doradca finansowy gdańsk",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 39,
+            "previous": 25,
+            "diff": 14,
+            "changes": {
+              "wins": 3,
+              "losses": 3,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-21": {
+                "position": 30,
+                "has_serp": true
+              },
+              "2025-12-28": {
+                "position": 29,
+                "has_serp": true
+              },
+              "2026-01-05": {
+                "position": 31,
+                "has_serp": true
+              },
+              "2026-01-12": {
+                "position": 28,
+                "has_serp": true
+              },
+              "2026-01-22": {
+                "position": 25,
+                "has_serp": true
+              },
+              "2026-02-01": {
+                "position": 30,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 39,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "krk-partners.pl/doradca/doradca-pozyczkowy-gdansk",
+            "previous": "krk-partners.pl/doradca/doradca-finansowy-gdansk",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 8.07
+          },
+          "searches": {
+            "current": 260
+          },
+          "trends": {
+            "history": [
+              320,
+              320,
+              320,
+              320,
+              210,
+              260,
+              170,
+              170,
+              210,
+              170,
+              210,
+              170
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 45
+          },
+          "snippets": {
+            "current": [
+              "map",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "local",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 10695094,
+        "kid": "ec3cde12233dd0f05f33387cc34209aa",
+        "domain": "krk-partners.pl",
+        "keyword": "pośrednik kredytowy katowice",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 23,
+            "previous": 21,
+            "diff": 2,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-29": {
+                "position": 21,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 23,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "krk-partners.pl/doradca/doradca-hipoteczny-katowice",
+            "previous": "krk-partners.pl/doradca/doradca-hipoteczny-katowice",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              10,
+              10,
+              10,
+              20,
+              10,
+              10,
+              20,
+              10,
+              10,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 26
+          },
+          "snippets": {
+            "current": [
+              "map",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "local",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 1220008,
+        "kid": "1a2c01532c07701e49aaa78e34a0a822",
+        "domain": "krk-partners.pl",
+        "keyword": "kredyt dla nowych firm bez bik",
+        "words_count": 6,
+        "statistics": {
+          "position": {
+            "current": 13,
+            "previous": 11,
+            "diff": 2,
+            "changes": {
+              "wins": 0,
+              "losses": 0,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-02-04": {
+                "position": 13,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "krk-partners.pl/kredyty-dla-firm-bez-bik-i-krd",
+            "previous": "krk-partners.pl/kredyty-dla-firm-bez-bik-i-krd",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              10,
+              20,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 30
+          },
+          "snippets": {
+            "current": []
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 9828982,
+        "kid": "d89960aa09894445bc80fe84cac71b84",
+        "domain": "krk-partners.pl",
+        "keyword": "finansowanie pozabankowe",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 16,
+            "previous": 15,
+            "diff": 1,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-17": {
+                "position": 15,
+                "has_serp": true
+              },
+              "2026-02-04": {
+                "position": 16,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "krk-partners.pl/kredyty-dla-firm-pozabankowe",
+            "previous": "krk-partners.pl/kredyty-dla-firm-pozabankowe",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 1.22
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              20,
+              30,
+              30,
+              30,
+              10,
+              10,
+              10,
+              10,
+              10,
+              20,
+              30,
+              20
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 38
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 1892571,
+        "kid": "28a1baec5377ccd53ce64359bb1b746e",
+        "domain": "krk-partners.pl",
+        "keyword": "firma krk",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 16,
+            "previous": 11,
+            "diff": 5,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-11": {
+                "position": 11,
+                "has_serp": true
+              },
+              "2026-02-04": {
+                "position": 16,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "krk-partners.pl/",
+            "previous": "krk-partners.pl/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 70
+          },
+          "trends": {
+            "history": [
+              50,
+              70,
+              90,
+              70,
+              70,
+              140,
+              90,
+              90,
+              70,
+              70,
+              70,
+              70
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 51
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "website",
+            "main_intent": "navigational",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 9618304,
+        "kid": "d3d214ff316d4542e31cc3038cb02761",
+        "domain": "krk-partners.pl",
+        "keyword": "doradca finansowy kredyt hipoteczny kraków",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 40,
+            "previous": 37,
+            "diff": 3,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-17": {
+                "position": 37,
+                "has_serp": true
+              },
+              "2026-02-04": {
+                "position": 40,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "krk-partners.pl/doradca/doradca-hipoteczny-krakow",
+            "previous": "krk-partners.pl/doradca/doradca-hipoteczny-krakow",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 24.11
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              10,
+              10,
+              0,
+              10,
+              0,
+              0,
+              0,
+              10,
+              0,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 20
+          },
+          "snippets": {
+            "current": [
+              "map",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 10879980,
+        "kid": "f077d1a647760a3246fae74cc0cd26a5",
+        "domain": "krk-partners.pl",
+        "keyword": "pośrednik kredytowy gdańsk",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 32,
+            "previous": 29,
+            "diff": 3,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-18": {
+                "position": 29,
+                "has_serp": true
+              },
+              "2026-02-06": {
+                "position": 32,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "krk-partners.pl/doradca/doradca-hipoteczny-gdansk",
+            "previous": "krk-partners.pl/doradca/doradca-hipoteczny-gdansk",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 11.07
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              40,
+              30,
+              20,
+              50,
+              10,
+              20,
+              10,
+              20,
+              10,
+              10,
+              40,
+              20
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 36
+          },
+          "snippets": {
+            "current": [
+              "map",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 11169247,
+        "kid": "f70ce79c0cd627805bed59dad1f112bf",
+        "domain": "krk-partners.pl",
+        "keyword": "doradztwo kredytowe gdańsk",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 31,
+            "previous": 22,
+            "diff": 9,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-18": {
+                "position": 22,
+                "has_serp": true
+              },
+              "2026-02-06": {
+                "position": 31,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "krk-partners.pl/doradca/doradca-hipoteczny-gdansk",
+            "previous": "krk-partners.pl/doradca/doradca-hipoteczny-gdansk",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              20,
+              30,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 27
+          },
+          "snippets": {
+            "current": [
+              "map",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 10325220,
+        "kid": "e3da74d2652b54324b2743d9d13faf19",
+        "domain": "krk-partners.pl",
+        "keyword": "pożyczka dla firm jednoosobowych",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 36,
+            "previous": 27,
+            "diff": 9,
+            "changes": {
+              "wins": 1,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-16": {
+                "position": 29,
+                "has_serp": true
+              },
+              "2026-01-27": {
+                "position": 27,
+                "has_serp": true
+              },
+              "2026-02-05": {
+                "position": 36,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "krk-partners.pl/pozyczki-dla-firmy-jednoosobowej",
+            "previous": "krk-partners.pl/pozyczki-dla-firmy-jednoosobowej",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 14.89
+          },
+          "searches": {
+            "current": 1000
+          },
+          "trends": {
+            "history": [
+              1600,
+              1300,
+              1300,
+              1300,
+              1000,
+              1000,
+              1000,
+              720,
+              720,
+              720,
+              880,
+              880
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 55
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 2850617,
+        "kid": "3d4f8c1355614f513f290986c92fbeb0",
+        "domain": "krk-partners.pl",
+        "keyword": "pozyczki dla firm bez baz i zabezpieczenia",
+        "words_count": 7,
+        "statistics": {
+          "position": {
+            "current": 12,
+            "previous": 11,
+            "diff": 1,
+            "changes": {
+              "wins": 1,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-22": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-26": {
+                "position": 12,
+                "has_serp": true
+              },
+              "2026-01-09": {
+                "position": 11,
+                "has_serp": true
+              },
+              "2026-02-05": {
+                "position": 12,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "krk-partners.pl/kredyty-dla-firm-bez-bik-i-krd",
+            "previous": "krk-partners.pl/kredyty-dla-firm-bez-bik-i-krd",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              10,
+              0,
+              0,
+              10,
+              0,
+              10,
+              10,
+              10,
+              10,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 27
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "buy",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 1086763,
+        "kid": "1752802dc211c1583318ff61f675cfc8",
+        "domain": "krk-partners.pl",
+        "keyword": "pożyczki pod zastaw mieszkania warszawa",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 19,
+            "previous": 17,
+            "diff": 2,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-26": {
+                "position": 17,
+                "has_serp": true
+              },
+              "2026-02-06": {
+                "position": 19,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "krk-partners.pl/pozyczka-prywatna-pod-zastaw",
+            "previous": "krk-partners.pl/pozyczka-prywatna-pod-zastaw",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              10,
+              10,
+              10,
+              0,
+              0,
+              0,
+              0,
+              0,
+              10,
+              0
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 17
+          },
+          "snippets": {
+            "current": []
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 10787379,
+        "kid": "ee597f06322c06f5b3f1d3439fc2d996",
+        "domain": "krk-partners.pl",
+        "keyword": "umowa o współadministrowanie",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 25,
+            "previous": 15,
+            "diff": 10,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-29": {
+                "position": 15,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 25,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "krk-partners.pl/umowa-o-wspoladministrowanie",
+            "previous": "krk-partners.pl/umowa-o-wspoladministrowanie",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              20,
+              20,
+              10,
+              10,
+              10,
+              10,
+              10,
+              20,
+              20,
+              20
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 21
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 3019876,
+        "kid": "40f6b5929b2646484d013f6aaaf9bf49",
+        "domain": "krk-partners.pl",
+        "keyword": "kredyt pod zastaw nieruchomości bez bik",
+        "words_count": 6,
+        "statistics": {
+          "position": {
+            "current": 12,
+            "previous": 10,
+            "diff": 2,
+            "changes": {
+              "wins": 0,
+              "losses": 0,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-02-05": {
+                "position": 12,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0.15,
+            "diff": -0.15,
+            "percent": -1,
+            "history": null
+          },
+          "url": {
+            "current": "krk-partners.pl/pozyczki-pod-zastaw-nieruchomosci-pozabankowe",
+            "previous": "krk-partners.pl/pozyczki-pod-zastaw-nieruchomosci-pozabankowe",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 14.48
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              10,
+              10,
+              20,
+              10,
+              10,
+              10,
+              20,
+              10,
+              30,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 40
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "buy",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 1891688,
+        "kid": "289ce11d7f937a21d847f0d0dc3f1a2d",
+        "domain": "krk-partners.pl",
+        "keyword": "kredyty dla firm bez bik",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 9,
+            "previous": 7,
+            "diff": 2,
+            "changes": {
+              "wins": 1,
+              "losses": 3,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-21": {
+                "position": 8,
+                "has_serp": true
+              },
+              "2025-12-28": {
+                "position": 16,
+                "has_serp": true
+              },
+              "2026-01-05": {
+                "position": 7,
+                "has_serp": true
+              },
+              "2026-01-12": {
+                "position": 7,
+                "has_serp": true
+              },
+              "2026-02-01": {
+                "position": 8,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 9,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 7.02,
+            "previous": 11.04,
+            "diff": -4.02,
+            "percent": -0.3641,
+            "history": null
+          },
+          "url": {
+            "current": "krk-partners.pl/kredyty-dla-firm-bez-bik-i-krd",
+            "previous": "krk-partners.pl/kredyty-dla-firm-bez-bik-i-krd",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 7.99
+          },
+          "searches": {
+            "current": 390
+          },
+          "trends": {
+            "history": [
+              390,
+              390,
+              480,
+              320,
+              390,
+              390,
+              480,
+              390,
+              260,
+              260,
+              260,
+              320
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 52
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 11037448,
+        "kid": "f40dfbffcf2492b4a35bdaa53357cad4",
+        "domain": "krk-partners.pl",
+        "keyword": "doradca finansowy kraków",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 6,
+            "previous": 5,
+            "diff": 1,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 1
+            },
+            "history": {
+              "2026-01-16": {
+                "position": 5,
+                "has_serp": true
+              },
+              "2026-01-27": {
+                "position": 5,
+                "has_serp": true
+              },
+              "2026-02-05": {
+                "position": 6,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 11.87,
+            "previous": 16.1,
+            "diff": -4.22,
+            "percent": -0.2627,
+            "history": null
+          },
+          "url": {
+            "current": "krk-partners.pl/doradca/doradca-finansowy-krakow",
+            "previous": "krk-partners.pl/doradca/doradca-finansowy-krakow",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 6.59
+          },
+          "searches": {
+            "current": 320
+          },
+          "trends": {
+            "history": [
+              390,
+              390,
+              480,
+              320,
+              320,
+              320,
+              320,
+              260,
+              320,
+              320,
+              320,
+              260
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 45
+          },
+          "snippets": {
+            "current": [
+              "map",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 9410327,
+        "kid": "cf1e82b4260339c4e4944dd7a6db9720",
+        "domain": "krk-partners.pl",
+        "keyword": "uczciwe pożyczki pod zastaw mieszkania",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 7,
+            "previous": 2,
+            "diff": 5,
+            "changes": {
+              "wins": 0,
+              "losses": 2,
+              "no_changes": 4
+            },
+            "history": {
+              "2025-12-19": {
+                "position": 2,
+                "has_serp": true
+              },
+              "2025-12-26": {
+                "position": 2,
+                "has_serp": true
+              },
+              "2026-01-04": {
+                "position": 2,
+                "has_serp": true
+              },
+              "2026-01-11": {
+                "position": 2,
+                "has_serp": true
+              },
+              "2026-01-22": {
+                "position": 2,
+                "has_serp": true
+              },
+              "2026-02-01": {
+                "position": 3,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 7,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 2.55,
+            "previous": 15.77,
+            "diff": -13.22,
+            "percent": -0.8383,
+            "history": null
+          },
+          "url": {
+            "current": "krk-partners.pl/pozyczka-prywatna-pod-zastaw",
+            "previous": "krk-partners.pl/pozyczka-prywatna-pod-zastaw",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 1.71
+          },
+          "searches": {
+            "current": 90
+          },
+          "trends": {
+            "history": [
+              90,
+              30,
+              50,
+              50,
+              140,
+              90,
+              70,
+              70,
+              110,
+              110,
+              140,
+              70
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 27
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 6232691,
+        "kid": "87b0a1fc8e5d1ab35510a93180bb5bfb",
+        "domain": "krk-partners.pl",
+        "keyword": "pożyczki pod zastaw nieruchomości pozabankowe",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 5,
+            "previous": 3,
+            "diff": 2,
+            "changes": {
+              "wins": 2,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-21": {
+                "position": 5,
+                "has_serp": true
+              },
+              "2025-12-26": {
+                "position": 4,
+                "has_serp": true
+              },
+              "2026-01-02": {
+                "position": 5,
+                "has_serp": true
+              },
+              "2026-01-20": {
+                "position": 3,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 5,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 10.56,
+            "previous": 34.4,
+            "diff": -23.84,
+            "percent": -0.693,
+            "history": null
+          },
+          "url": {
+            "current": "krk-partners.pl/pozyczki-pod-zastaw-nieruchomosci-pozabankowe",
+            "previous": "krk-partners.pl/pozyczka-prywatna-pod-zastaw",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 15.61
+          },
+          "searches": {
+            "current": 320
+          },
+          "trends": {
+            "history": [
+              390,
+              390,
+              320,
+              320,
+              260,
+              320,
+              390,
+              320,
+              210,
+              170,
+              210,
+              320
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 35
+          },
+          "snippets": {
+            "current": [
+              "map"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 4320271,
+        "kid": "5d49ec6e5f5d781e0c8a0ee785c7bc41",
+        "domain": "krk-partners.pl",
+        "keyword": "pożyczki pod zastaw nieruchomości",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 12,
+            "previous": 10,
+            "diff": 2,
+            "changes": {
+              "wins": 3,
+              "losses": 5,
+              "no_changes": 4
+            },
+            "history": {
+              "2025-12-19": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-22": {
+                "position": 13,
+                "has_serp": true
+              },
+              "2025-12-26": {
+                "position": 13,
+                "has_serp": true
+              },
+              "2025-12-30": {
+                "position": 13,
+                "has_serp": true
+              },
+              "2026-01-03": {
+                "position": 11,
+                "has_serp": true
+              },
+              "2026-01-06": {
+                "position": 11,
+                "has_serp": true
+              },
+              "2026-01-09": {
+                "position": 12,
+                "has_serp": true
+              },
+              "2026-01-12": {
+                "position": 12,
+                "has_serp": true
+              },
+              "2026-01-16": {
+                "position": 11,
+                "has_serp": true
+              },
+              "2026-01-20": {
+                "position": 12,
+                "has_serp": true
+              },
+              "2026-01-24": {
+                "position": 15,
+                "has_serp": true
+              },
+              "2026-01-28": {
+                "position": 10,
+                "has_serp": true
+              },
+              "2026-02-05": {
+                "position": 12,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 24.64,
+            "diff": -24.64,
+            "percent": -1,
+            "history": null
+          },
+          "url": {
+            "current": "krk-partners.pl/pozyczka-prywatna-pod-zastaw",
+            "previous": "krk-partners.pl/pozyczka-prywatna-pod-zastaw",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 25.88
+          },
+          "searches": {
+            "current": 1600
+          },
+          "trends": {
+            "history": [
+              1300,
+              1300,
+              1300,
+              1300,
+              1300,
+              1600,
+              1900,
+              1000,
+              1300,
+              1600,
+              2400,
+              1600
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 63
+          },
+          "snippets": {
+            "current": [
+              "map",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      }
+    ],
+    "total": 24,
+    "domain": "krk-partners.pl",
+    "endpoint": "get_history_keywords_losses"
+  }
+}

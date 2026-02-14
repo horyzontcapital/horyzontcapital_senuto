@@ -1,0 +1,54 @@
+{
+  "domain": "forum-kredytowe.pl",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "forum-kredytowe.pl",
+        "keywords_count": 6890,
+        "visibility_percent": 100,
+        "statistics": {
+          "visibility": {
+            "current": 81474.33,
+            "previous": 80415.87,
+            "diff": 1058.46,
+            "percent": 0.0132,
+            "history": null
+          },
+          "top3": {
+            "current": 3279,
+            "previous": 3306,
+            "diff": -27,
+            "percent": -0.0082,
+            "history": null
+          },
+          "top10": {
+            "current": 6890,
+            "previous": 6966,
+            "diff": -76,
+            "percent": -0.0109,
+            "history": null
+          },
+          "top50": {
+            "current": 19874,
+            "previous": 20061,
+            "diff": -187,
+            "percent": -0.0093,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 100,
+            "previous": 100,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "forum-kredytowe.pl",
+    "endpoint": "get_subdomains"
+  }
+}

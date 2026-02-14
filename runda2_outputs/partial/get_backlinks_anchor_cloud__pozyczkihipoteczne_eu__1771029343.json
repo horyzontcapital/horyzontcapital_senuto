@@ -1,0 +1,42 @@
+{
+  "domain": "pozyczkihipoteczne.eu",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "pozyczkihipoteczne.eu": [
+          {
+            "text": "",
+            "size": 2,
+            "percent": 0.3333333333333333
+          },
+          {
+            "text": "pożyczki pod hipotekę",
+            "size": 1,
+            "percent": 0.16666666666666666
+          },
+          {
+            "text": "https://www.pozyczkihipoteczne.eu/",
+            "size": 1,
+            "percent": 0.16666666666666666
+          },
+          {
+            "text": "Pożyczki hipoteczne pod zastaw domu",
+            "size": 1,
+            "percent": 0.16666666666666666
+          },
+          {
+            "text": "Pożyczki pod zastaw nieruchomości",
+            "size": 1,
+            "percent": 0.16666666666666666
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "pozyczkihipoteczne.eu",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

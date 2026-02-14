@@ -1,0 +1,67 @@
+{
+  "domain": "comperia.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "comperia.pl": [
+          {
+            "text": "Comperia.pl",
+            "size": 105729,
+            "percent": 0.2971518346973649
+          },
+          {
+            "text": "Regulamin",
+            "size": 104125,
+            "percent": 0.29264378541235725
+          },
+          {
+            "text": "Polityka poufności",
+            "size": 104110,
+            "percent": 0.2926016278442306
+          },
+          {
+            "text": "Telepolis jest częścią Comperia.pl S.A.",
+            "size": 8415,
+            "percent": 0.023650395719039482
+          },
+          {
+            "text": "Czy refinansowanie kredytu ma sens? Poradnik dla kredytobiorców",
+            "size": 3764,
+            "percent": 0.010578739095242378
+          },
+          {
+            "text": "Inwestowanie w nieruchomości, a kredyt hipoteczny. Wskazówki i strategie",
+            "size": 3764,
+            "percent": 0.010578739095242378
+          },
+          {
+            "text": "Zmiana stóp procentowych. Jak wpływa na różne rodzaje kredytów?",
+            "size": 3764,
+            "percent": 0.010578739095242378
+          },
+          {
+            "text": "Kredyty mieszkaniowe. Co jest istotne poza oprocentowaniem?",
+            "size": 3758,
+            "percent": 0.010561876067991726
+          },
+          {
+            "text": "Zdolność kredytowa. Jak jest obliczana? Co oznacza? I jak ją poprawić?",
+            "size": 3758,
+            "percent": 0.010561876067991726
+          },
+          {
+            "text": "Zabezpieczenia kredytowe. Co warto wiedzieć?",
+            "size": 3757,
+            "percent": 0.010559065563449951
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "comperia.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

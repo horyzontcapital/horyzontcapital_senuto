@@ -1,0 +1,33 @@
+{
+  "domain": "alphacredit.pl",
+  "endpoint": "get_backlinks_tlds",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "tld": "com",
+          "count": 2,
+          "percent": 0.6666666666666666
+        },
+        {
+          "tld": "pl",
+          "count": 1,
+          "percent": 0.3333333333333333
+        }
+      ],
+      "pagination": {
+        "page_count": 1,
+        "current_page": 1,
+        "has_next_page": false,
+        "has_prev_page": false,
+        "count": 2,
+        "limit": 10
+      }
+    },
+    "status": 200,
+    "domain": "alphacredit.pl",
+    "endpoint": "get_backlinks_tlds"
+  }
+}

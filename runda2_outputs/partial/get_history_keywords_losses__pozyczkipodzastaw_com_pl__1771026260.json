@@ -1,0 +1,360 @@
+{
+  "domain": "pozyczkipodzastaw.com.pl",
+  "endpoint": "get_history_keywords_losses",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "keyword_id": 9677391,
+        "kid": "d5280b8821a4d9c9283b87d8819e8a43",
+        "domain": "pozyczkipodzastaw.com.pl",
+        "keyword": "pożyczki pod hipotekę dla zadłużonych",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 48,
+            "previous": 41,
+            "diff": 7,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-17": {
+                "position": 41,
+                "has_serp": true
+              },
+              "2026-02-04": {
+                "position": 48,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "pozyczkipodzastaw.com.pl/blog",
+            "previous": "pozyczkipodzastaw.com.pl/",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 2.88
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              30,
+              30,
+              20,
+              30,
+              20,
+              10,
+              20,
+              20,
+              10,
+              20,
+              20,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 37
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 6232691,
+        "kid": "87b0a1fc8e5d1ab35510a93180bb5bfb",
+        "domain": "pozyczkipodzastaw.com.pl",
+        "keyword": "pożyczki pod zastaw nieruchomości pozabankowe",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 38,
+            "previous": 37,
+            "diff": 1,
+            "changes": {
+              "wins": 1,
+              "losses": 3,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-21": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-26": {
+                "position": 46,
+                "has_serp": true
+              },
+              "2026-01-02": {
+                "position": 36,
+                "has_serp": true
+              },
+              "2026-01-20": {
+                "position": 37,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 38,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "pozyczkipodzastaw.com.pl/",
+            "previous": "pozyczkipodzastaw.com.pl/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 15.61
+          },
+          "searches": {
+            "current": 320
+          },
+          "trends": {
+            "history": [
+              390,
+              390,
+              320,
+              320,
+              260,
+              320,
+              390,
+              320,
+              210,
+              170,
+              210,
+              320
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 35
+          },
+          "snippets": {
+            "current": [
+              "map"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 12624605,
+        "kid": "407f50fe529ab7df1db8a4c099c147b0",
+        "domain": "pozyczkipodzastaw.com.pl",
+        "keyword": "kredyt pod zastaw domu bez zdolności kredytowej",
+        "words_count": 7,
+        "statistics": {
+          "position": {
+            "current": 27,
+            "previous": 20,
+            "diff": 7,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 1
+            },
+            "history": {
+              "2026-01-17": {
+                "position": 20,
+                "has_serp": true
+              },
+              "2026-01-27": {
+                "position": 20,
+                "has_serp": true
+              },
+              "2026-02-06": {
+                "position": 27,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "pozyczkipodzastaw.com.pl/kredyt-pod-zastaw-mieszkania-bez-zdolnosci-kredytowej",
+            "previous": "pozyczkipodzastaw.com.pl/kredyt-pod-zastaw-mieszkania-bez-zdolnosci-kredytowej",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 1.4
+          },
+          "searches": {
+            "current": 90
+          },
+          "trends": {
+            "history": [
+              110,
+              90,
+              170,
+              90,
+              30,
+              30,
+              20,
+              50,
+              140,
+              70,
+              110,
+              70
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 36
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 10138954,
+        "kid": "dfa05b9c45c668dbbf217d7d9d3ca5ed",
+        "domain": "pozyczkipodzastaw.com.pl",
+        "keyword": "kredyt pod zastaw nieruchomości bez zdolności kredytowej",
+        "words_count": 7,
+        "statistics": {
+          "position": {
+            "current": 27,
+            "previous": 18,
+            "diff": 9,
+            "changes": {
+              "wins": 1,
+              "losses": 2,
+              "no_changes": 2
+            },
+            "history": {
+              "2025-12-19": {
+                "position": 19,
+                "has_serp": true
+              },
+              "2025-12-27": {
+                "position": 19,
+                "has_serp": true
+              },
+              "2026-01-05": {
+                "position": 17,
+                "has_serp": true
+              },
+              "2026-01-12": {
+                "position": 18,
+                "has_serp": true
+              },
+              "2026-01-24": {
+                "position": 18,
+                "has_serp": true
+              },
+              "2026-02-03": {
+                "position": 27,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "pozyczkipodzastaw.com.pl/kredyt-pod-zastaw-mieszkania-bez-zdolnosci-kredytowej",
+            "previous": "pozyczkipodzastaw.com.pl/kredyt-pod-zastaw-mieszkania-bez-zdolnosci-kredytowej",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 6.05
+          },
+          "searches": {
+            "current": 140
+          },
+          "trends": {
+            "history": [
+              210,
+              140,
+              170,
+              110,
+              90,
+              90,
+              50,
+              210,
+              170,
+              170,
+              210,
+              170
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 41
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      }
+    ],
+    "total": 4,
+    "domain": "pozyczkipodzastaw.com.pl",
+    "endpoint": "get_history_keywords_losses"
+  }
+}

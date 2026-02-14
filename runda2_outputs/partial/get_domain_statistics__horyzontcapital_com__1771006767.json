@@ -1,0 +1,74 @@
+{
+  "domain": "horyzontcapital.com",
+  "endpoint": "get_domain_statistics",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "statistics": {
+          "top3": {
+            "recent_value": 0,
+            "older_value": 0,
+            "diff": 0,
+            "percent": 0
+          },
+          "top10": {
+            "recent_value": 13,
+            "older_value": 13,
+            "diff": 0,
+            "percent": 0
+          },
+          "top50": {
+            "recent_value": 102,
+            "older_value": 102,
+            "diff": 0,
+            "percent": 0
+          },
+          "visibility": {
+            "recent_value": 31,
+            "older_value": 31,
+            "diff": 0,
+            "percent": 0
+          },
+          "domain_rank": {
+            "recent_value": 754194,
+            "older_value": 754162,
+            "diff": 32,
+            "percent": 0
+          },
+          "ads_equivalent": {
+            "recent_value": 267.89,
+            "older_value": 267.89,
+            "diff": 0,
+            "percent": 0
+          },
+          "category": {
+            "name": "",
+            "statistics": {
+              "recent_value": 754195,
+              "older_value": 754195,
+              "diff": 0,
+              "percent": 0
+            }
+          },
+          "aio_keywords": {
+            "recent_value": 22,
+            "older_value": 22,
+            "diff": 0,
+            "percent": 0
+          },
+          "aio_visible_keywords": {
+            "recent_value": 17,
+            "older_value": 17,
+            "diff": 0,
+            "percent": 0
+          }
+        }
+      }
+    },
+    "status": 200,
+    "domain": "horyzontcapital.com",
+    "endpoint": "get_domain_statistics"
+  }
+}

@@ -1,0 +1,619 @@
+{
+  "domain": "gawryszewskifinanse.pl",
+  "endpoint": "get_backlinks_referring_domains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "ref_domain": "skarbywsloikach.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.7755681818181818,
+        "backlinks_count": 73,
+        "links_external_count": 352,
+        "percent_of_total": 0.6460176991150443,
+        "count": {
+          "count": 73,
+          "percent_of_total": 0.6460176991150443
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "favore.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.5237682550369219,
+        "backlinks_count": 6,
+        "links_external_count": 1396190,
+        "percent_of_total": 0.05309734513274336,
+        "count": {
+          "count": 6,
+          "percent_of_total": 0.05309734513274336
+        },
+        "top3": 567,
+        "top10": 6223,
+        "top50": 54943,
+        "visibility": 12042.057000000175,
+        "domain_rank": 20891,
+        "ads_equivalent": 11330.021650000012
+      },
+      {
+        "ref_domain": "detektywtd24.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.13816425120772946,
+        "backlinks_count": 2,
+        "links_external_count": 1035,
+        "percent_of_total": 0.017699115044247787,
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.017699115044247787
+        },
+        "top3": 33,
+        "top10": 196,
+        "top50": 773,
+        "visibility": 705.1610000000005,
+        "domain_rank": 163107,
+        "ads_equivalent": 2270.9188599999998
+      },
+      {
+        "ref_domain": "finanseosobiste.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": 46,
+          "article_price_nofollow": null,
+          "link_price_dofollow": 49.45,
+          "link_price_nofollow": null,
+          "price_do_follow": 46,
+          "price_no_follow": null
+        },
+        "ratio_bl_ext": 0.10502692998204669,
+        "backlinks_count": 2,
+        "links_external_count": 3342,
+        "percent_of_total": 0.017699115044247787,
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.017699115044247787
+        },
+        "top3": 4,
+        "top10": 12,
+        "top50": 247,
+        "visibility": 26.512999999999998,
+        "domain_rank": 800129,
+        "ads_equivalent": 39.29496
+      },
+      {
+        "ref_domain": "bazafirm.org",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.0006562986071155895,
+        "backlinks_count": 2,
+        "links_external_count": 457109,
+        "percent_of_total": 0.017699115044247787,
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.017699115044247787
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "bolanda.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.033719759365882625,
+        "backlinks_count": 2,
+        "links_external_count": 77462,
+        "percent_of_total": 0.017699115044247787,
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.017699115044247787
+        },
+        "top3": 1,
+        "top10": 14,
+        "top50": 142,
+        "visibility": 16.770000000000003,
+        "domain_rank": 940437,
+        "ads_equivalent": 2.28014
+      },
+      {
+        "ref_domain": "zlubaczowa.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": 96.6,
+          "article_price_nofollow": null,
+          "link_price_dofollow": 19.55,
+          "link_price_nofollow": 80.5,
+          "price_do_follow": 96.6,
+          "price_no_follow": null
+        },
+        "ratio_bl_ext": 0.018021459078440223,
+        "backlinks_count": 2,
+        "links_external_count": 28799,
+        "percent_of_total": 0.017699115044247787,
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.017699115044247787
+        },
+        "top3": 69,
+        "top10": 415,
+        "top50": 2996,
+        "visibility": 30284.06100000001,
+        "domain_rank": 9568,
+        "ads_equivalent": 23625.72034000001
+      },
+      {
+        "ref_domain": "obau.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": 112.7,
+          "article_price_nofollow": 57.5,
+          "link_price_dofollow": 80.5,
+          "link_price_nofollow": null,
+          "price_do_follow": 112.7,
+          "price_no_follow": 57.5
+        },
+        "ratio_bl_ext": 0.0015116600608351,
+        "backlinks_count": 1,
+        "links_external_count": 54245,
+        "percent_of_total": 0.008849557522123894,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.008849557522123894
+        },
+        "top3": 5,
+        "top10": 37,
+        "top50": 1561,
+        "visibility": 63.61,
+        "domain_rank": 567831,
+        "ads_equivalent": 45.189659999999996
+      },
+      {
+        "ref_domain": "jakzmarzen.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.012307692307692308,
+        "backlinks_count": 1,
+        "links_external_count": 325,
+        "percent_of_total": 0.008849557522123894,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.008849557522123894
+        },
+        "top3": 7,
+        "top10": 28,
+        "top50": 154,
+        "visibility": 72.21300000000004,
+        "domain_rank": 538011,
+        "ads_equivalent": 3.07874
+      },
+      {
+        "ref_domain": "zord.org.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.05963102847181871,
+        "backlinks_count": 1,
+        "links_external_count": 13768,
+        "percent_of_total": 0.008849557522123894,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.008849557522123894
+        },
+        "top3": 0,
+        "top10": 1,
+        "top50": 16,
+        "visibility": 0,
+        "domain_rank": 2623005,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "theweddbook.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.0011914217633042098,
+        "backlinks_count": 1,
+        "links_external_count": 2518,
+        "percent_of_total": 0.008849557522123894,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.008849557522123894
+        },
+        "top3": 26,
+        "top10": 88,
+        "top50": 501,
+        "visibility": 238.8599999999999,
+        "domain_rank": 303548,
+        "ads_equivalent": 5.62028
+      },
+      {
+        "ref_domain": "biznews.com.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": 96.6,
+          "article_price_nofollow": null,
+          "link_price_dofollow": 322,
+          "link_price_nofollow": null,
+          "price_do_follow": 96.6,
+          "price_no_follow": null
+        },
+        "ratio_bl_ext": 0.004646078163432632,
+        "backlinks_count": 1,
+        "links_external_count": 54885,
+        "percent_of_total": 0.008849557522123894,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.008849557522123894
+        },
+        "top3": 11,
+        "top10": 118,
+        "top50": 2417,
+        "visibility": 234.6730000000001,
+        "domain_rank": 306151,
+        "ads_equivalent": 256.70479000000006
+      },
+      {
+        "ref_domain": "ulapedantula.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.2041367364613582,
+        "backlinks_count": 1,
+        "links_external_count": 19629,
+        "percent_of_total": 0.008849557522123894,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.008849557522123894
+        },
+        "top3": 402,
+        "top10": 1275,
+        "top50": 5520,
+        "visibility": 37517.38700000005,
+        "domain_rank": 7897,
+        "ads_equivalent": 39558.78111999994
+      },
+      {
+        "ref_domain": "ohmycraft.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 6.706192559174528e-05,
+        "backlinks_count": 1,
+        "links_external_count": 656110,
+        "percent_of_total": 0.008849557522123894,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.008849557522123894
+        },
+        "top3": 74,
+        "top10": 2354,
+        "top50": 93701,
+        "visibility": 3492.0279999999657,
+        "domain_rank": 54510,
+        "ads_equivalent": 1825.1227700000013
+      },
+      {
+        "ref_domain": "twoje-strony.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.1389444196017571,
+        "backlinks_count": 1,
+        "links_external_count": 152068,
+        "percent_of_total": 0.008849557522123894,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.008849557522123894
+        },
+        "top3": 0,
+        "top10": 12,
+        "top50": 122,
+        "visibility": 14.322000000000001,
+        "domain_rank": 988005,
+        "ads_equivalent": 10.206040000000002
+      },
+      {
+        "ref_domain": "katalogbai.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.6781260167010086,
+        "backlinks_count": 1,
+        "links_external_count": 9221,
+        "percent_of_total": 0.008849557522123894,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.008849557522123894
+        },
+        "top3": 1,
+        "top10": 37,
+        "top50": 1034,
+        "visibility": 26.756,
+        "domain_rank": 797212,
+        "ads_equivalent": 10.90195
+      },
+      {
+        "ref_domain": "firmuj.net",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.009932485068813295,
+        "backlinks_count": 1,
+        "links_external_count": 61616,
+        "percent_of_total": 0.008849557522123894,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.008849557522123894
+        },
+        "top3": 0,
+        "top10": 4,
+        "top50": 234,
+        "visibility": 1.3250000000000002,
+        "domain_rank": 1775050,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "baza-firm.com.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.2782256636645853,
+        "backlinks_count": 1,
+        "links_external_count": 254157,
+        "percent_of_total": 0.008849557522123894,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.008849557522123894
+        },
+        "top3": 7380,
+        "top10": 64654,
+        "top50": 240978,
+        "visibility": 150027.60699995805,
+        "domain_rank": 2256,
+        "ads_equivalent": 115774.71571999927
+      },
+      {
+        "ref_domain": "bridelle.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": 322,
+          "article_price_nofollow": null,
+          "link_price_dofollow": 80.5,
+          "link_price_nofollow": null,
+          "price_do_follow": 322,
+          "price_no_follow": null
+        },
+        "ratio_bl_ext": 0.05097063305291821,
+        "backlinks_count": 1,
+        "links_external_count": 110907,
+        "percent_of_total": 0.008849557522123894,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.008849557522123894
+        },
+        "top3": 29,
+        "top10": 251,
+        "top50": 1642,
+        "visibility": 494.90799999999984,
+        "domain_rank": 202295,
+        "ads_equivalent": 996.8718400000001
+      },
+      {
+        "ref_domain": "katalog-jarmi.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.6367041198501873,
+        "backlinks_count": 1,
+        "links_external_count": 5607,
+        "percent_of_total": 0.008849557522123894,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.008849557522123894
+        },
+        "top3": 0,
+        "top10": 1,
+        "top50": 10,
+        "visibility": 0.669,
+        "domain_rank": 1947951,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "przeporzadny.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 3.6982658831274016e-06,
+        "backlinks_count": 1,
+        "links_external_count": 270397,
+        "percent_of_total": 0.008849557522123894,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.008849557522123894
+        },
+        "top3": 0,
+        "top10": 12,
+        "top50": 78,
+        "visibility": 13.226,
+        "domain_rank": 1011598,
+        "ads_equivalent": 0.3996
+      },
+      {
+        "ref_domain": "mapa.targeo.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.03889315699057655,
+        "backlinks_count": 1,
+        "links_external_count": 10888265,
+        "percent_of_total": 0.008849557522123894,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.008849557522123894
+        },
+        "top3": 272588,
+        "top10": 817778,
+        "top50": 1469110,
+        "visibility": 7510932.1819998,
+        "domain_rank": 43,
+        "ads_equivalent": 4950520.418859959
+      },
+      {
+        "ref_domain": "extra-strony.com.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.34921500465771477,
+        "backlinks_count": 1,
+        "links_external_count": 44013,
+        "percent_of_total": 0.008849557522123894,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.008849557522123894
+        },
+        "top3": 0,
+        "top10": 11,
+        "top50": 139,
+        "visibility": 6.507000000000001,
+        "domain_rank": 1244794,
+        "ads_equivalent": 1.309
+      },
+      {
+        "ref_domain": "top-strony.com.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": 129.95,
+          "article_price_nofollow": null,
+          "link_price_dofollow": null,
+          "link_price_nofollow": null,
+          "price_do_follow": 129.95,
+          "price_no_follow": null
+        },
+        "ratio_bl_ext": 2.8101448366668755,
+        "backlinks_count": 1,
+        "links_external_count": 15949,
+        "percent_of_total": 0.008849557522123894,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.008849557522123894
+        },
+        "top3": 0,
+        "top10": 9,
+        "top50": 131,
+        "visibility": 44.384,
+        "domain_rank": 657693,
+        "ads_equivalent": 40.0342
+      },
+      {
+        "ref_domain": "aprymaksawic.eu",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.5714285714285714,
+        "backlinks_count": 1,
+        "links_external_count": 14,
+        "percent_of_total": 0.008849557522123894,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.008849557522123894
+        },
+        "top3": 7,
+        "top10": 45,
+        "top50": 85,
+        "visibility": 138.205,
+        "domain_rank": 400569,
+        "ads_equivalent": 243.64316000000002
+      },
+      {
+        "ref_domain": "seodirect.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.05188199389623601,
+        "backlinks_count": 1,
+        "links_external_count": 983,
+        "percent_of_total": 0.008849557522123894,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.008849557522123894
+        },
+        "top3": 0,
+        "top10": 3,
+        "top50": 74,
+        "visibility": 1.443,
+        "domain_rank": 1739192,
+        "ads_equivalent": 1.0754000000000001
+      },
+      {
+        "ref_domain": "atrakcyjne-wesele.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": 177.1,
+          "article_price_nofollow": null,
+          "link_price_dofollow": 46,
+          "link_price_nofollow": null,
+          "price_do_follow": 177.1,
+          "price_no_follow": null
+        },
+        "ratio_bl_ext": 0.17718446601941748,
+        "backlinks_count": 1,
+        "links_external_count": 412,
+        "percent_of_total": 0.008849557522123894,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.008849557522123894
+        },
+        "top3": 0,
+        "top10": 2,
+        "top50": 365,
+        "visibility": 0.43700000000000006,
+        "domain_rank": 2025686,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "aleksandraseghi.com",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 1.0473154915645435,
+        "backlinks_count": 1,
+        "links_external_count": 18197,
+        "percent_of_total": 0.008849557522123894,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.008849557522123894
+        },
+        "top3": 71,
+        "top10": 215,
+        "top50": 756,
+        "visibility": 1678.7449999999992,
+        "domain_rank": 92067,
+        "ads_equivalent": 2103.6983899999996
+      },
+      {
+        "ref_domain": "finanse.miasta.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.003942181340341655,
+        "backlinks_count": 1,
+        "links_external_count": 761,
+        "percent_of_total": 0.008849557522123894,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.008849557522123894
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 8,
+        "visibility": 0,
+        "domain_rank": 2187290,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "ponadwszystko.com",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.09480122324159021,
+        "backlinks_count": 1,
+        "links_external_count": 1308,
+        "percent_of_total": 0.008849557522123894,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.008849557522123894
+        },
+        "top3": 87,
+        "top10": 212,
+        "top50": 1034,
+        "visibility": 2468.0289999999986,
+        "domain_rank": 70136,
+        "ads_equivalent": 586.7762
+      },
+      {
+        "ref_domain": "katalogstroninternetowych.net",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.13725490196078433,
+        "backlinks_count": 1,
+        "links_external_count": 102,
+        "percent_of_total": 0.008849557522123894,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.008849557522123894
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 1,
+        "visibility": 0,
+        "domain_rank": 3610953,
+        "ads_equivalent": 0
+      }
+    ],
+    "total": 31,
+    "domain": "gawryszewskifinanse.pl",
+    "endpoint": "get_backlinks_referring_domains"
+  }
+}

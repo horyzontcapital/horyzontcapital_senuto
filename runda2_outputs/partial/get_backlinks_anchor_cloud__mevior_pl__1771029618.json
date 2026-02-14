@@ -1,0 +1,16 @@
+{
+  "domain": "mevior.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "mevior.pl": []
+      }
+    },
+    "status": 200,
+    "domain": "mevior.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

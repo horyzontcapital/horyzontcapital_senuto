@@ -1,0 +1,16 @@
+{
+  "domain": "cpf-pozyczki.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "cpf-pozyczki.pl": []
+      }
+    },
+    "status": 200,
+    "domain": "cpf-pozyczki.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

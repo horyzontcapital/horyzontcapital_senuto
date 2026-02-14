@@ -1,0 +1,688 @@
+{
+  "domain": "pod-zastaw.org",
+  "endpoint": "get_history_keywords_losses",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "keyword_id": 6609332,
+        "kid": "9015ae94a228d0cbe26d6dc8fc6baa69",
+        "domain": "pod-zastaw.org",
+        "keyword": "pożyczka na procent bez zastawu",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 50,
+            "previous": 44,
+            "diff": 6,
+            "changes": {
+              "wins": 0,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-23": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-26": {
+                "position": 44,
+                "has_serp": true
+              },
+              "2026-02-06": {
+                "position": 50,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "pod-zastaw.org/",
+            "previous": "pod-zastaw.org/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0.91
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              20,
+              10,
+              20,
+              20,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 27
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 358094,
+        "kid": "07a960865b477085f9c5d3b7c37a4f11",
+        "domain": "pod-zastaw.org",
+        "keyword": "kredyt hipoteczny pod zastaw działki rolnej",
+        "words_count": 6,
+        "statistics": {
+          "position": {
+            "current": 19,
+            "previous": 15,
+            "diff": 4,
+            "changes": {
+              "wins": 0,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-27": {
+                "position": 14,
+                "has_serp": true
+              },
+              "2026-01-11": {
+                "position": 15,
+                "has_serp": true
+              },
+              "2026-02-04": {
+                "position": 19,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "pod-zastaw.org/zastaw-ziemi-rolnej/",
+            "previous": "pod-zastaw.org/zastaw-ziemi-rolnej/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 6.57
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              10,
+              20,
+              20,
+              20,
+              20,
+              20,
+              10,
+              20,
+              10,
+              10,
+              10,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 26
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 4612757,
+        "kid": "63b7b021443c8b96fedd6cb415aad865",
+        "domain": "pod-zastaw.org",
+        "keyword": "kredyt hipoteczny pod zastaw gospodarstwa rolnego",
+        "words_count": 6,
+        "statistics": {
+          "position": {
+            "current": 22,
+            "previous": 18,
+            "diff": 4,
+            "changes": {
+              "wins": 0,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-30": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-19": {
+                "position": 18,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 22,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "pod-zastaw.org/zastaw-ziemi-rolnej/",
+            "previous": "pod-zastaw.org/zastaw-ziemi-rolnej/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 3.44
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              10,
+              40,
+              20,
+              30,
+              10,
+              10,
+              10,
+              0,
+              10,
+              0,
+              10,
+              0
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 25
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 5908965,
+        "kid": "808536eda7c3a4baca3a14106280e113",
+        "domain": "pod-zastaw.org",
+        "keyword": "pożyczka pod zastaw nieruchomości na 10 lat",
+        "words_count": 7,
+        "statistics": {
+          "position": {
+            "current": 48,
+            "previous": 45,
+            "diff": 3,
+            "changes": {
+              "wins": 1,
+              "losses": 3,
+              "no_changes": 2
+            },
+            "history": {
+              "2025-12-20": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-27": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-05": {
+                "position": 42,
+                "has_serp": true
+              },
+              "2026-01-12": {
+                "position": 42,
+                "has_serp": true
+              },
+              "2026-01-22": {
+                "position": 45,
+                "has_serp": true
+              },
+              "2026-02-01": {
+                "position": 13,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 48,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "pod-zastaw.org/",
+            "previous": "pod-zastaw.org/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 10.33
+          },
+          "searches": {
+            "current": 590
+          },
+          "trends": {
+            "history": [
+              720,
+              590,
+              590,
+              590,
+              590,
+              480,
+              590,
+              590,
+              720,
+              590,
+              590,
+              480
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 44
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 12624605,
+        "kid": "407f50fe529ab7df1db8a4c099c147b0",
+        "domain": "pod-zastaw.org",
+        "keyword": "kredyt pod zastaw domu bez zdolności kredytowej",
+        "words_count": 7,
+        "statistics": {
+          "position": {
+            "current": 10,
+            "previous": 9,
+            "diff": 1,
+            "changes": {
+              "wins": 1,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-17": {
+                "position": 12,
+                "has_serp": true
+              },
+              "2026-01-27": {
+                "position": 9,
+                "has_serp": true
+              },
+              "2026-02-06": {
+                "position": 10,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 1.39,
+            "previous": 1.62,
+            "diff": -0.23,
+            "percent": -0.142,
+            "history": null
+          },
+          "url": {
+            "current": "pod-zastaw.org/kredyt-pod-zastaw-mieszkania/",
+            "previous": "pod-zastaw.org/kredyt-pod-zastaw-mieszkania/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 1.4
+          },
+          "searches": {
+            "current": 90
+          },
+          "trends": {
+            "history": [
+              110,
+              90,
+              170,
+              90,
+              30,
+              30,
+              20,
+              50,
+              140,
+              70,
+              110,
+              70
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 36
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 8332204,
+        "kid": "b6cdbe197bc8a63f69797d55d936dca5",
+        "domain": "pod-zastaw.org",
+        "keyword": "pożyczka pod hipotekę bez bik",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 7,
+            "previous": 6,
+            "diff": 1,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-16": {
+                "position": 6,
+                "has_serp": true
+              },
+              "2026-02-02": {
+                "position": 7,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 1.13,
+            "previous": 1.48,
+            "diff": -0.35,
+            "percent": -0.2365,
+            "history": null
+          },
+          "url": {
+            "current": "pod-zastaw.org/",
+            "previous": "pod-zastaw.org/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 54.92
+          },
+          "searches": {
+            "current": 40
+          },
+          "trends": {
+            "history": [
+              50,
+              20,
+              10,
+              30,
+              10,
+              40,
+              50,
+              40,
+              70,
+              70,
+              50,
+              70
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 42
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 1277443,
+        "kid": "1b6912353427481e29851baa7282f9dc",
+        "domain": "pod-zastaw.org",
+        "keyword": "pożyczka pod hipoteke bez dochodów",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 7,
+            "previous": 4,
+            "diff": 3,
+            "changes": {
+              "wins": 0,
+              "losses": 0,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-02-04": {
+                "position": 7,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0.28,
+            "previous": 0.71,
+            "diff": -0.43,
+            "percent": -0.6056,
+            "history": null
+          },
+          "url": {
+            "current": "pod-zastaw.org/kredyt-pod-zastaw-mieszkania/",
+            "previous": "pod-zastaw.org/kredyt-pod-zastaw-mieszkania/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              10,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              10,
+              0,
+              0,
+              0
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 51
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 1118589,
+        "kid": "18004b63cee07468aab8a5f928ea7196",
+        "domain": "pod-zastaw.org",
+        "keyword": "pożyczka pod zastaw ziemi rolnej",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 4,
+            "previous": 2,
+            "diff": 2,
+            "changes": {
+              "wins": 1,
+              "losses": 1,
+              "no_changes": 2
+            },
+            "history": {
+              "2026-01-05": {
+                "position": 3,
+                "has_serp": true
+              },
+              "2026-01-12": {
+                "position": 2,
+                "has_serp": true
+              },
+              "2026-01-22": {
+                "position": 2,
+                "has_serp": true
+              },
+              "2026-02-01": {
+                "position": 2,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 4,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 6.39,
+            "previous": 15.77,
+            "diff": -9.38,
+            "percent": -0.5948,
+            "history": null
+          },
+          "url": {
+            "current": "pod-zastaw.org/zastaw-ziemi-rolnej/",
+            "previous": "pod-zastaw.org/zastaw-ziemi-rolnej/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 5.6
+          },
+          "searches": {
+            "current": 90
+          },
+          "trends": {
+            "history": [
+              110,
+              90,
+              110,
+              70,
+              90,
+              70,
+              170,
+              50,
+              40,
+              50,
+              70,
+              50
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 31
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      }
+    ],
+    "total": 8,
+    "domain": "pod-zastaw.org",
+    "endpoint": "get_history_keywords_losses"
+  }
+}

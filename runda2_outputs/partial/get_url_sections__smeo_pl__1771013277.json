@@ -1,0 +1,397 @@
+{
+  "domain": "smeo.pl",
+  "endpoint": "get_url_sections",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "url_section": "smeo.pl/blog/",
+        "keywords_count": 553,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 5739.09,
+            "previous": 4743.8,
+            "diff": 995.3,
+            "percent": 0.2098,
+            "history": null
+          },
+          "top3": {
+            "current": 218,
+            "previous": 216,
+            "diff": 2,
+            "percent": 0.0093,
+            "history": null
+          },
+          "top10": {
+            "current": 553,
+            "previous": 552,
+            "diff": 1,
+            "percent": 0.0018,
+            "history": null
+          },
+          "top50": {
+            "current": 2927,
+            "previous": 2951,
+            "diff": -24,
+            "percent": -0.0081,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "smeo.pl/",
+        "keywords_count": 14,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 511.76,
+            "previous": 450.35,
+            "diff": 61.41,
+            "percent": 0.1364,
+            "history": null
+          },
+          "top3": {
+            "current": 8,
+            "previous": 8,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 14,
+            "previous": 14,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 25,
+            "previous": 25,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "smeo.pl/produkty/",
+        "keywords_count": 16,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 382.57,
+            "previous": 382.28,
+            "diff": 0.28,
+            "percent": 0.0008,
+            "history": null
+          },
+          "top3": {
+            "current": 11,
+            "previous": 11,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 16,
+            "previous": 15,
+            "diff": 1,
+            "percent": 0.0667,
+            "history": null
+          },
+          "top50": {
+            "current": 99,
+            "previous": 89,
+            "diff": 10,
+            "percent": 0.1124,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "smeo.pl/faktoring/",
+        "keywords_count": 14,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 54.24,
+            "previous": 54.24,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 6,
+            "previous": 6,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 14,
+            "previous": 14,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 25,
+            "previous": 26,
+            "diff": -1,
+            "percent": -0.0385,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "smeo.pl/co-to-jest-faktoring/",
+        "keywords_count": 6,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 36.48,
+            "previous": 36.48,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 1,
+            "previous": 1,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 6,
+            "previous": 6,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 31,
+            "previous": 31,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "smeo.pl/branze/",
+        "keywords_count": 4,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 30.36,
+            "previous": 18.1,
+            "diff": 12.26,
+            "percent": 0.6773,
+            "history": null
+          },
+          "top3": {
+            "current": 2,
+            "previous": 2,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 4,
+            "previous": 4,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 11,
+            "previous": 11,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "smeo.pl/kontakt/",
+        "keywords_count": 3,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 7.63,
+            "previous": 7.63,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 2,
+            "previous": 2,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 3,
+            "previous": 3,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 3,
+            "previous": 3,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "smeo.pl/kariera/",
+        "keywords_count": 4,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 5.97,
+            "previous": 5.97,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 1,
+            "previous": 1,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 4,
+            "previous": 4,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 4,
+            "previous": 4,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "smeo.pl/bs-oferta/",
+        "keywords_count": 1,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 0.46,
+            "previous": 0.46,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 1,
+            "previous": 1,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 1,
+            "previous": 1,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "smeo.pl/wp-content/",
+        "keywords_count": 2,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 0.46,
+            "previous": 0,
+            "diff": 0.46,
+            "percent": 1,
+            "history": null
+          },
+          "top3": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 2,
+            "previous": 1,
+            "diff": 1,
+            "percent": 1,
+            "history": null
+          },
+          "top50": {
+            "current": 19,
+            "previous": 16,
+            "diff": 3,
+            "percent": 0.1875,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "smeo.pl/o-nas/",
+        "keywords_count": 0,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 8,
+            "previous": 8,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 11,
+    "domain": "smeo.pl",
+    "endpoint": "get_url_sections"
+  }
+}

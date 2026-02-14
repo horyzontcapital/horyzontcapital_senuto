@@ -1,0 +1,857 @@
+{
+  "domain": "forsel.pl",
+  "endpoint": "get_positions_wins",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "keyword_id": 1429065,
+        "kid": "1ead04db3f9717bd1978432f9bb4b2c2",
+        "domain": "forsel.pl",
+        "keyword": "kredyt konsolidacyjny online",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 34,
+            "previous": 51,
+            "diff": -17,
+            "changes": {
+              "wins": 2,
+              "losses": 3,
+              "no_changes": 9
+            },
+            "history": {
+              "2025-12-14": {
+                "position": 0,
+                "has_serp": false
+              },
+              "2025-12-20": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-24": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-28": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-01": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-04": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-07": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-13": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-16": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-20": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-24": {
+                "position": 43,
+                "has_serp": true
+              },
+              "2026-01-28": {
+                "position": 41,
+                "has_serp": true
+              },
+              "2026-02-01": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-05": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-09": {
+                "position": 34,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "forsel.pl/kredyty/kredyt-konsolidacyjny",
+            "previous": "",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 26.81
+          },
+          "searches": {
+            "current": 1900
+          },
+          "trends": {
+            "history": [
+              1900,
+              1900,
+              1900,
+              1900,
+              1900,
+              1900,
+              2400,
+              1600,
+              1600,
+              1600,
+              1600,
+              1300
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 70
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 3341361,
+        "kid": "47e9de9a63bd7b5d61355b15fdb5dc23",
+        "domain": "forsel.pl",
+        "keyword": "pożyczka wrocław",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 22,
+            "previous": 27,
+            "diff": -5,
+            "changes": {
+              "wins": 2,
+              "losses": 1,
+              "no_changes": 3
+            },
+            "history": {
+              "2025-12-20": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-27": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-04": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-11": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-21": {
+                "position": 34,
+                "has_serp": true
+              },
+              "2026-01-31": {
+                "position": 27,
+                "has_serp": true
+              },
+              "2026-02-10": {
+                "position": 22,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "forsel.pl/wroclaw/kredyty-pozyczki",
+            "previous": "forsel.pl/wroclaw/kredyty-pozyczki",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 1.8
+          },
+          "searches": {
+            "current": 140
+          },
+          "trends": {
+            "history": [
+              140,
+              140,
+              140,
+              110,
+              210,
+              170,
+              140,
+              140,
+              140,
+              140,
+              90,
+              170
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 46
+          },
+          "snippets": {
+            "current": [
+              "map",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 4702470,
+        "kid": "65b598716f2e94686579ebc62d60dfd9",
+        "domain": "forsel.pl",
+        "keyword": "doradca finansowy",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 25,
+            "previous": 51,
+            "diff": -26,
+            "changes": {
+              "wins": 6,
+              "losses": 6,
+              "no_changes": 3
+            },
+            "history": {
+              "2025-12-19": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-22": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-26": {
+                "position": 27,
+                "has_serp": true
+              },
+              "2025-12-29": {
+                "position": 43,
+                "has_serp": true
+              },
+              "2026-01-02": {
+                "position": 43,
+                "has_serp": true
+              },
+              "2026-01-05": {
+                "position": 27,
+                "has_serp": true
+              },
+              "2026-01-08": {
+                "position": 39,
+                "has_serp": true
+              },
+              "2026-01-11": {
+                "position": 24,
+                "has_serp": true
+              },
+              "2026-01-14": {
+                "position": 22,
+                "has_serp": true
+              },
+              "2026-01-18": {
+                "position": 37,
+                "has_serp": true
+              },
+              "2026-01-22": {
+                "position": 34,
+                "has_serp": true
+              },
+              "2026-01-27": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-31": {
+                "position": 35,
+                "has_serp": true
+              },
+              "2026-02-03": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-07": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 25,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "forsel.pl/",
+            "previous": "",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 4.8
+          },
+          "searches": {
+            "current": 5400
+          },
+          "trends": {
+            "history": [
+              6600,
+              5400,
+              5400,
+              5400,
+              5400,
+              5400,
+              5400,
+              4400,
+              4400,
+              5400,
+              5400,
+              4400
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 60
+          },
+          "snippets": {
+            "current": [
+              "map",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 6956588,
+        "kid": "97de0b934bfb3f6e7d8c49f049701128",
+        "domain": "forsel.pl",
+        "keyword": "pomoc w uzyskaniu kredytu konsolidacyjnego",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 17,
+            "previous": 25,
+            "diff": -8,
+            "changes": {
+              "wins": 2,
+              "losses": 0,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-20": {
+                "position": 29,
+                "has_serp": true
+              },
+              "2026-01-20": {
+                "position": 25,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 17,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "forsel.pl/kredyty/kredyt-konsolidacyjny",
+            "previous": "forsel.pl/kredyty/kredyt-konsolidacyjny",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 2.34
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              20,
+              20,
+              20,
+              30,
+              10,
+              10,
+              30,
+              10,
+              20,
+              10,
+              20,
+              20
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 30
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 7071763,
+        "kid": "9a73a886595d3ea35746c3cecc806424",
+        "domain": "forsel.pl",
+        "keyword": "kredyt z unii europejskiej dla firm",
+        "words_count": 6,
+        "statistics": {
+          "position": {
+            "current": 49,
+            "previous": 51,
+            "diff": -2,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 2
+            },
+            "history": {
+              "2025-12-20": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-03": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-20": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 49,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "forsel.pl/kredyty-dla-firm/kredyt-unijny",
+            "previous": "",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 0.38
+          },
+          "searches": {
+            "current": 40
+          },
+          "trends": {
+            "history": [
+              70,
+              70,
+              50,
+              70,
+              30,
+              10,
+              10,
+              10,
+              40,
+              30,
+              50,
+              40
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 38
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 7119561,
+        "kid": "9b861c8ae8e732738c2a1c13832ef0a9",
+        "domain": "forsel.pl",
+        "keyword": "kredyt dla firm z dofinansowaniem unijnym",
+        "words_count": 6,
+        "statistics": {
+          "position": {
+            "current": 25,
+            "previous": 26,
+            "diff": -1,
+            "changes": {
+              "wins": 2,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-20": {
+                "position": 35,
+                "has_serp": true
+              },
+              "2026-01-03": {
+                "position": 20,
+                "has_serp": true
+              },
+              "2026-01-20": {
+                "position": 26,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 25,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "forsel.pl/kredyty-dla-firm/kredyt-unijny",
+            "previous": "forsel.pl/kredyty-dla-firm/kredyt-unijny",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 8.83
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              30,
+              20,
+              20,
+              10,
+              10,
+              10,
+              10,
+              10,
+              20,
+              30,
+              30,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 51
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 7286026,
+        "kid": "9f468e7dc515a5bed8855da8c3201091",
+        "domain": "forsel.pl",
+        "keyword": "doradcy kredytowi wrocław",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 27,
+            "previous": 51,
+            "diff": -24,
+            "changes": {
+              "wins": 3,
+              "losses": 4,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-19": {
+                "position": 28,
+                "has_serp": true
+              },
+              "2025-12-22": {
+                "position": 28,
+                "has_serp": true
+              },
+              "2025-12-26": {
+                "position": 29,
+                "has_serp": true
+              },
+              "2026-01-14": {
+                "position": 16,
+                "has_serp": true
+              },
+              "2026-01-18": {
+                "position": 18,
+                "has_serp": true
+              },
+              "2026-01-22": {
+                "position": 17,
+                "has_serp": true
+              },
+              "2026-01-27": {
+                "position": 20,
+                "has_serp": true
+              },
+              "2026-02-04": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 27,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "forsel.pl/",
+            "previous": "",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 9.1
+          },
+          "searches": {
+            "current": 1000
+          },
+          "trends": {
+            "history": [
+              1300,
+              1300,
+              1300,
+              1000,
+              880,
+              880,
+              1600,
+              1000,
+              1000,
+              1300,
+              1000,
+              880
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 52
+          },
+          "snippets": {
+            "current": [
+              "map",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 8364594,
+        "kid": "b78862526b1257eeaddcc3844482bec2",
+        "domain": "forsel.pl",
+        "keyword": "doradca kredytowy wrocław",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 46,
+            "previous": 51,
+            "diff": -5,
+            "changes": {
+              "wins": 4,
+              "losses": 4,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-19": {
+                "position": 47,
+                "has_serp": true
+              },
+              "2025-12-22": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-26": {
+                "position": 45,
+                "has_serp": true
+              },
+              "2026-01-15": {
+                "position": 22,
+                "has_serp": true
+              },
+              "2026-01-19": {
+                "position": 22,
+                "has_serp": true
+              },
+              "2026-01-23": {
+                "position": 26,
+                "has_serp": true
+              },
+              "2026-01-27": {
+                "position": 24,
+                "has_serp": true
+              },
+              "2026-01-31": {
+                "position": 25,
+                "has_serp": true
+              },
+              "2026-02-04": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 46,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "forsel.pl/",
+            "previous": "",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 9.1
+          },
+          "searches": {
+            "current": 1000
+          },
+          "trends": {
+            "history": [
+              1300,
+              1300,
+              1300,
+              1000,
+              880,
+              880,
+              1600,
+              1000,
+              1000,
+              1300,
+              1000,
+              880
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 49
+          },
+          "snippets": {
+            "current": [
+              "map",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "local",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      }
+    ],
+    "total": 8,
+    "domain": "forsel.pl",
+    "endpoint": "get_positions_wins"
+  }
+}

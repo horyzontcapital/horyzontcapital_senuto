@@ -1,0 +1,11 @@
+{
+  "domain": "# Grupa A - Bezpośrednia konkurencja (21)",
+  "endpoint": "get_direct_answers",
+  "data": {
+    "ok": false,
+    "error": "HTTP 400: {\"message\":\"Not Found\",\"url\":\"\\/api\\/visibility_analysis\\/tools\\/direct_answers\\/getData\",\"code\":400}",
+    "status": 400,
+    "domain": "# Grupa A - Bezpośrednia konkurencja (21)",
+    "endpoint": "get_direct_answers"
+  }
+}

@@ -1,0 +1,572 @@
+{
+  "domain": "moneteo.com",
+  "endpoint": "get_backlinks_anchor_data",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "link_domain": "moneteo.com",
+        "is_main_domain": true,
+        "anchor": "<redirect>",
+        "anchor_type": [],
+        "count": {
+          "count": 144,
+          "percent_of_total": 0.6605504587155964
+        },
+        "domains_with_anchor_count": 4,
+        "anchors_uniq_count": 144,
+        "percent_of_total": 0.6605504587155964
+      },
+      {
+        "link_domain": "moneteo.com",
+        "is_main_domain": true,
+        "anchor": "Moneteo",
+        "anchor_type": [],
+        "count": {
+          "count": 5,
+          "percent_of_total": 0.022935779816513763
+        },
+        "domains_with_anchor_count": 3,
+        "anchors_uniq_count": 3,
+        "percent_of_total": 0.022935779816513763
+      },
+      {
+        "link_domain": "moneteo.com",
+        "is_main_domain": true,
+        "anchor": "https://moneteo.com/ranking-kont-walutowych",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 5,
+          "percent_of_total": 0.022935779816513763
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 5,
+        "percent_of_total": 0.022935779816513763
+      },
+      {
+        "link_domain": "moneteo.com",
+        "is_main_domain": true,
+        "anchor": "lokaty",
+        "anchor_type": [],
+        "count": {
+          "count": 5,
+          "percent_of_total": 0.022935779816513763
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 0.022935779816513763
+      },
+      {
+        "link_domain": "moneteo.com",
+        "is_main_domain": true,
+        "anchor": "Moneteo.com",
+        "anchor_type": [],
+        "count": {
+          "count": 4,
+          "percent_of_total": 0.01834862385321101
+        },
+        "domains_with_anchor_count": 4,
+        "anchors_uniq_count": 4,
+        "percent_of_total": 0.01834862385321101
+      },
+      {
+        "link_domain": "moneteo.com",
+        "is_main_domain": true,
+        "anchor": "Co to jest leasing konsumencki i czy opłaca się z niego korzystać?",
+        "anchor_type": [],
+        "count": {
+          "count": 3,
+          "percent_of_total": 0.013761467889908258
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 0.013761467889908258
+      },
+      {
+        "link_domain": "moneteo.com",
+        "is_main_domain": true,
+        "anchor": "https://moneteo.com/artykuly/ripple-czym-jest-czy-inwestowac",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 3,
+          "percent_of_total": 0.013761467889908258
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.013761467889908258
+      },
+      {
+        "link_domain": "moneteo.com",
+        "is_main_domain": true,
+        "anchor": "SWIFT",
+        "anchor_type": [],
+        "count": {
+          "count": 3,
+          "percent_of_total": 0.013761467889908258
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.013761467889908258
+      },
+      {
+        "link_domain": "moneteo.com",
+        "is_main_domain": true,
+        "anchor": "konta osobistego",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.009174311926605505
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.009174311926605505
+      },
+      {
+        "link_domain": "moneteo.com",
+        "is_main_domain": true,
+        "anchor": "doradcą finansowym",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.009174311926605505
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.009174311926605505
+      },
+      {
+        "link_domain": "moneteo.com",
+        "is_main_domain": true,
+        "anchor": "https://moneteo.com/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.009174311926605505
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 0.009174311926605505
+      },
+      {
+        "link_domain": "moneteo.com",
+        "is_main_domain": true,
+        "anchor": "Porównanie kont dla seniorów",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.009174311926605505
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.009174311926605505
+      },
+      {
+        "link_domain": "moneteo.com",
+        "is_main_domain": true,
+        "anchor": "Porównanie lokat",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.009174311926605505
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.009174311926605505
+      },
+      {
+        "link_domain": "moneteo.com",
+        "is_main_domain": true,
+        "anchor": "Porównanie kont osobistych",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.009174311926605505
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.009174311926605505
+      },
+      {
+        "link_domain": "moneteo.com",
+        "is_main_domain": true,
+        "anchor": "Porównanie kont oszczędnościowych",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.009174311926605505
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.009174311926605505
+      },
+      {
+        "link_domain": "moneteo.com",
+        "is_main_domain": true,
+        "anchor": "konto firmowe",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.009174311926605505
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.009174311926605505
+      },
+      {
+        "link_domain": "moneteo.com",
+        "is_main_domain": true,
+        "anchor": "https://moneteo.com/analizy/revolut",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.009174311926605505
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.009174311926605505
+      },
+      {
+        "link_domain": "moneteo.com",
+        "is_main_domain": true,
+        "anchor": "Kim jest wierzyciel hipoteczny i jakie posiada prawa?",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.009174311926605505
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 0.009174311926605505
+      },
+      {
+        "link_domain": "moneteo.com",
+        "is_main_domain": true,
+        "anchor": "wyboru właściwej firmy faktoringowej",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.009174311926605505
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.009174311926605505
+      },
+      {
+        "link_domain": "moneteo.com",
+        "is_main_domain": true,
+        "anchor": "https://moneteo.com/ranking-terminali-platnicznych",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.009174311926605505
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.009174311926605505
+      },
+      {
+        "link_domain": "moneteo.com",
+        "is_main_domain": true,
+        "anchor": "tutaj",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0045871559633027525
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0045871559633027525
+      },
+      {
+        "link_domain": "moneteo.com",
+        "is_main_domain": true,
+        "anchor": "Faktoring cichy",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0045871559633027525
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0045871559633027525
+      },
+      {
+        "link_domain": "moneteo.com",
+        "is_main_domain": true,
+        "anchor": "jak płacić za granicą?",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0045871559633027525
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0045871559633027525
+      },
+      {
+        "link_domain": "moneteo.com",
+        "is_main_domain": true,
+        "anchor": "kontach oszczędnościowych",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0045871559633027525
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0045871559633027525
+      },
+      {
+        "link_domain": "moneteo.com",
+        "is_main_domain": true,
+        "anchor": "kredytami walutowymi",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0045871559633027525
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0045871559633027525
+      },
+      {
+        "link_domain": "moneteo.com",
+        "is_main_domain": true,
+        "anchor": "https://moneteo.com",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0045871559633027525
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0045871559633027525
+      },
+      {
+        "link_domain": "moneteo.com",
+        "is_main_domain": true,
+        "anchor": "Czarna karta kredytowa - ekskluzywna kredytówka dla najbogatszych",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0045871559633027525
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0045871559633027525
+      },
+      {
+        "link_domain": "moneteo.com",
+        "is_main_domain": true,
+        "anchor": "kantor internetowy",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0045871559633027525
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0045871559633027525
+      },
+      {
+        "link_domain": "moneteo.com",
+        "is_main_domain": true,
+        "anchor": "Przelewy bankowe – Elixir i SORBNET",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0045871559633027525
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0045871559633027525
+      },
+      {
+        "link_domain": "moneteo.com",
+        "is_main_domain": true,
+        "anchor": "kartę kredytową",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0045871559633027525
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0045871559633027525
+      },
+      {
+        "link_domain": "moneteo.com",
+        "is_main_domain": true,
+        "anchor": "Kredyty hipoteczne",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0045871559633027525
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0045871559633027525
+      },
+      {
+        "link_domain": "moneteo.com",
+        "is_main_domain": true,
+        "anchor": "euro/złoty, dolar/złoty",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0045871559633027525
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0045871559633027525
+      },
+      {
+        "link_domain": "moneteo.com",
+        "is_main_domain": true,
+        "anchor": "płatność kartą za granicą",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0045871559633027525
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0045871559633027525
+      },
+      {
+        "link_domain": "moneteo.com",
+        "is_main_domain": true,
+        "anchor": "moneteo.com",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0045871559633027525
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0045871559633027525
+      },
+      {
+        "link_domain": "moneteo.com",
+        "is_main_domain": true,
+        "anchor": "https://moneteo.com/promocje-bankowe",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0045871559633027525
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0045871559633027525
+      },
+      {
+        "link_domain": "moneteo.com",
+        "is_main_domain": true,
+        "anchor": "Raty na karcie kredytowej. Jak działa rozłożenie zadłużenia na części?",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0045871559633027525
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0045871559633027525
+      },
+      {
+        "link_domain": "moneteo.com",
+        "is_main_domain": true,
+        "anchor": "Krajowy rejestr dłużników, czyli miejsce, w którym nie powinieneś być",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0045871559633027525
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0045871559633027525
+      },
+      {
+        "link_domain": "moneteo.com",
+        "is_main_domain": true,
+        "anchor": "banki w Polsce",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0045871559633027525
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0045871559633027525
+      },
+      {
+        "link_domain": "moneteo.com",
+        "is_main_domain": true,
+        "anchor": "lokatach bankowych",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0045871559633027525
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0045871559633027525
+      },
+      {
+        "link_domain": "moneteo.com",
+        "is_main_domain": true,
+        "anchor": "złoto",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0045871559633027525
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0045871559633027525
+      },
+      {
+        "link_domain": "moneteo.com",
+        "is_main_domain": true,
+        "anchor": "konto dla dzieci",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0045871559633027525
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0045871559633027525
+      },
+      {
+        "link_domain": "moneteo.com",
+        "is_main_domain": true,
+        "anchor": "https://moneteo.com/ranking-kont-studenckich",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0045871559633027525
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0045871559633027525
+      }
+    ],
+    "total": 42,
+    "domain": "moneteo.com",
+    "endpoint": "get_backlinks_anchor_data"
+  }
+}

@@ -1,0 +1,755 @@
+{
+  "domain": "bankierkredyty.eu",
+  "endpoint": "get_history_keywords_wins",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "keyword_id": 8332204,
+        "kid": "b6cdbe197bc8a63f69797d55d936dca5",
+        "domain": "bankierkredyty.eu",
+        "keyword": "pożyczka pod hipotekę bez bik",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 2,
+            "previous": 4,
+            "diff": -2,
+            "changes": {
+              "wins": 1,
+              "losses": 0,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-16": {
+                "position": 4,
+                "has_serp": true
+              },
+              "2026-02-02": {
+                "position": 2,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 7.01,
+            "previous": 2.84,
+            "diff": 4.17,
+            "percent": 1.4683,
+            "history": null
+          },
+          "url": {
+            "current": "bankierkredyty.eu/oferta/pozyczka-hipoteczna-bez-bik/",
+            "previous": "bankierkredyty.eu/oferta/pozyczka-hipoteczna-bez-bik/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 54.92
+          },
+          "searches": {
+            "current": 40
+          },
+          "trends": {
+            "history": [
+              50,
+              20,
+              10,
+              30,
+              10,
+              40,
+              50,
+              40,
+              70,
+              70,
+              50,
+              70
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 42
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 3019876,
+        "kid": "40f6b5929b2646484d013f6aaaf9bf49",
+        "domain": "bankierkredyty.eu",
+        "keyword": "kredyt pod zastaw nieruchomości bez bik",
+        "words_count": 6,
+        "statistics": {
+          "position": {
+            "current": 2,
+            "previous": 4,
+            "diff": -2,
+            "changes": {
+              "wins": 0,
+              "losses": 0,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-02-05": {
+                "position": 2,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 1.75,
+            "previous": 0.71,
+            "diff": 1.04,
+            "percent": 1.4648,
+            "history": null
+          },
+          "url": {
+            "current": "bankierkredyty.eu/oferta/pozyczka-hipoteczna-bez-bik/",
+            "previous": "bankierkredyty.eu/oferta/pozyczka-hipoteczna-bez-bik/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 14.48
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              10,
+              10,
+              20,
+              10,
+              10,
+              10,
+              20,
+              10,
+              30,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 40
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "buy",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 8840980,
+        "kid": "c2429475e431f7e34c2acd4487a0ef6e",
+        "domain": "bankierkredyty.eu",
+        "keyword": "pożyczka pod zastaw domu bez bik",
+        "words_count": 6,
+        "statistics": {
+          "position": {
+            "current": 8,
+            "previous": 12,
+            "diff": -4,
+            "changes": {
+              "wins": 1,
+              "losses": 0,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-17": {
+                "position": 12,
+                "has_serp": true
+              },
+              "2026-02-04": {
+                "position": 8,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0.89,
+            "previous": 0,
+            "diff": 0.89,
+            "percent": 1,
+            "history": null
+          },
+          "url": {
+            "current": "bankierkredyty.eu/oferta/pozyczka-hipoteczna-bez-bik/",
+            "previous": "bankierkredyty.eu/oferta/pozyczka-hipoteczna-bez-bik/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              10,
+              20,
+              10,
+              10,
+              0,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              0
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 27
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 7346159,
+        "kid": "a0a0bfa8f6a50d2ced502ca4faf31314",
+        "domain": "bankierkredyty.eu",
+        "keyword": "faktoring pozabankowy",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 8,
+            "previous": 9,
+            "diff": -1,
+            "changes": {
+              "wins": 1,
+              "losses": 0,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-24": {
+                "position": 9,
+                "has_serp": true
+              },
+              "2026-02-04": {
+                "position": 8,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 1.12,
+            "previous": 0.54,
+            "diff": 0.58,
+            "percent": 1.0741,
+            "history": null
+          },
+          "url": {
+            "current": "bankierkredyty.eu/oferta/faktoring-bez-bik-poza-bankowy-uproszczony/",
+            "previous": "bankierkredyty.eu/oferta/faktoring-bez-bik-poza-bankowy-uproszczony/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 28.56
+          },
+          "searches": {
+            "current": 30
+          },
+          "trends": {
+            "history": [
+              20,
+              30,
+              40,
+              40,
+              30,
+              20,
+              30,
+              20,
+              10,
+              20,
+              30,
+              50
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 49
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 13496989,
+        "kid": "8e35c827ac5cd8c8085d375e983ca7b9",
+        "domain": "bankierkredyty.eu",
+        "keyword": "kredyt dla firm bez zus i us forum",
+        "words_count": 8,
+        "statistics": {
+          "position": {
+            "current": 6,
+            "previous": 7,
+            "diff": -1,
+            "changes": {
+              "wins": 1,
+              "losses": 0,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-19": {
+                "position": 7,
+                "has_serp": true
+              },
+              "2026-02-07": {
+                "position": 6,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 1.48,
+            "previous": 1.13,
+            "diff": 0.35,
+            "percent": 0.3097,
+            "history": null
+          },
+          "url": {
+            "current": "bankierkredyty.eu/oferta/kredyt-dla-firm-w-rachunku-biezacym-do-500-000-pln-bez-zaswiadczen-zus-i-us-bez-zabezpieczen/",
+            "previous": "bankierkredyty.eu/oferta/kredyt-dla-firm-w-rachunku-biezacym-do-500-000-pln-bez-zaswiadczen-zus-i-us-bez-zabezpieczen/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 2.92
+          },
+          "searches": {
+            "current": 40
+          },
+          "trends": {
+            "history": [
+              40,
+              30,
+              70,
+              50,
+              20,
+              50,
+              30,
+              20,
+              30,
+              30,
+              20,
+              20
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 19
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 17796776,
+        "kid": "c357d5618a5b2bbd56a3fff96679b46f",
+        "domain": "bankierkredyty.eu",
+        "keyword": "kredyt na zakup domu bez bik i krd",
+        "words_count": 8,
+        "statistics": {
+          "position": {
+            "current": 7,
+            "previous": 8,
+            "diff": -1,
+            "changes": {
+              "wins": 1,
+              "losses": 0,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-16": {
+                "position": 8,
+                "has_serp": true
+              },
+              "2026-02-03": {
+                "position": 7,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 1.13,
+            "previous": 0.89,
+            "diff": 0.24,
+            "percent": 0.2697,
+            "history": null
+          },
+          "url": {
+            "current": "bankierkredyty.eu/oferta/pozyczka-hipoteczna-bez-bik/",
+            "previous": "bankierkredyty.eu/oferta/pozyczka-hipoteczna-bez-bik/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 5.6
+          },
+          "searches": {
+            "current": 40
+          },
+          "trends": {
+            "history": [
+              30,
+              30,
+              70,
+              30,
+              50,
+              50,
+              40,
+              30,
+              50,
+              20,
+              30,
+              30
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 19
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 4974076,
+        "kid": "6bbdd7c10f19e37031b1343c33d351f8",
+        "domain": "bankierkredyty.eu",
+        "keyword": "kredyt pod kontrakt",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 19,
+            "previous": 26,
+            "diff": -7,
+            "changes": {
+              "wins": 2,
+              "losses": 2,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-15": {
+                "position": 19,
+                "has_serp": true
+              },
+              "2025-12-23": {
+                "position": 19,
+                "has_serp": true
+              },
+              "2026-01-14": {
+                "position": 23,
+                "has_serp": true
+              },
+              "2026-01-25": {
+                "position": 30,
+                "has_serp": true
+              },
+              "2026-01-26": {
+                "position": 26,
+                "has_serp": true
+              },
+              "2026-02-04": {
+                "position": 19,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "bankierkredyty.eu/oferta/kredyt-pod-kontrakt-z-polskiego-ladu/",
+            "previous": "bankierkredyty.eu/oferta/kredyt-pod-kontrakt-z-polskiego-ladu/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 8.06
+          },
+          "searches": {
+            "current": 70
+          },
+          "trends": {
+            "history": [
+              70,
+              90,
+              70,
+              110,
+              110,
+              50,
+              90,
+              50,
+              50,
+              50,
+              40,
+              20
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 31
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 9032751,
+        "kid": "c697992de66b95b6d070a047d9224675",
+        "domain": "bankierkredyty.eu",
+        "keyword": "kredyt bez biku i krd z komornikiem",
+        "words_count": 7,
+        "statistics": {
+          "position": {
+            "current": 19,
+            "previous": 51,
+            "diff": -32,
+            "changes": {
+              "wins": 2,
+              "losses": 3,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-19": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-26": {
+                "position": 42,
+                "has_serp": true
+              },
+              "2026-01-09": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-20": {
+                "position": 36,
+                "has_serp": true
+              },
+              "2026-01-31": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-10": {
+                "position": 19,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "bankierkredyty.eu/oferta/pozyczki-bez-bik-zus-us-krd-z-komornikiem-pod-nieruchomosc-do-10-000-000-zl/",
+            "previous": "",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 6.09
+          },
+          "searches": {
+            "current": 110
+          },
+          "trends": {
+            "history": [
+              170,
+              170,
+              170,
+              90,
+              170,
+              170,
+              90,
+              30,
+              10,
+              50,
+              90,
+              110
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 45
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 15816885,
+        "kid": "99cdcd27a9046750d8b7aea410215bb6",
+        "domain": "bankierkredyty.eu",
+        "keyword": "zostaw numer oddzwonimy pożyczki",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 12,
+            "previous": 51,
+            "diff": -39,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 1
+            },
+            "history": {
+              "2026-01-16": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-27": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-05": {
+                "position": 12,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "bankierkredyty.eu/pozyczki-prywatne/",
+            "previous": "",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 8.67
+          },
+          "searches": {
+            "current": 110
+          },
+          "trends": {
+            "history": [
+              140,
+              210,
+              170,
+              110,
+              90,
+              70,
+              110,
+              90,
+              70,
+              90,
+              110,
+              90
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 44
+          },
+          "snippets": {
+            "current": []
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "buy",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      }
+    ],
+    "total": 9,
+    "domain": "bankierkredyty.eu",
+    "endpoint": "get_history_keywords_wins"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "domain": "ftfund.pl",
+  "endpoint": "suggest_domains",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "favourite": [],
+        "suggested": [
+          "ftfund.pl"
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "ftfund.pl",
+    "endpoint": "suggest_domains"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "domain": "pragmago.pl",
+  "endpoint": "get_backlinks_tlds",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "tld": "pl",
+          "count": 2299,
+          "percent": 0.7592470277410832
+        },
+        {
+          "tld": "com",
+          "count": 698,
+          "percent": 0.23051519154557465
+        },
+        {
+          "tld": "org",
+          "count": 8,
+          "percent": 0.002642007926023778
+        },
+        {
+          "tld": "in",
+          "count": 7,
+          "percent": 0.002311756935270806
+        },
+        {
+          "tld": "info",
+          "count": 6,
+          "percent": 0.0019815059445178335
+        },
+        {
+          "tld": "eu",
+          "count": 5,
+          "percent": 0.0016512549537648614
+        },
+        {
+          "tld": "biz",
+          "count": 2,
+          "percent": 0.0006605019815059445
+        },
+        {
+          "tld": "ua",
+          "count": 1,
+          "percent": 0.00033025099075297226
+        },
+        {
+          "tld": "club",
+          "count": 1,
+          "percent": 0.00033025099075297226
+        },
+        {
+          "tld": "ly",
+          "count": 1,
+          "percent": 0.00033025099075297226
+        }
+      ],
+      "pagination": {
+        "page_count": 1,
+        "current_page": 1,
+        "has_next_page": false,
+        "has_prev_page": false,
+        "count": 10,
+        "limit": 10
+      }
+    },
+    "status": 200,
+    "domain": "pragmago.pl",
+    "endpoint": "get_backlinks_tlds"
+  }
+}

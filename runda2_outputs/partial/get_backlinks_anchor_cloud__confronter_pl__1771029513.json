@@ -1,0 +1,67 @@
+{
+  "domain": "confronter.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "confronter.pl": [
+          {
+            "text": "Strona",
+            "size": 221,
+            "percent": 0.7269736842105263
+          },
+          {
+            "text": "confronter.pl",
+            "size": 16,
+            "percent": 0.05263157894736842
+          },
+          {
+            "text": "Confronter",
+            "size": 15,
+            "percent": 0.049342105263157895
+          },
+          {
+            "text": "WWW",
+            "size": 8,
+            "percent": 0.02631578947368421
+          },
+          {
+            "text": "Bartłomiej z Confrontera",
+            "size": 6,
+            "percent": 0.019736842105263157
+          },
+          {
+            "text": "kredyt na remont mieszkania",
+            "size": 5,
+            "percent": 0.01644736842105263
+          },
+          {
+            "text": "https://Confronter.pl",
+            "size": 3,
+            "percent": 0.009868421052631578
+          },
+          {
+            "text": "Batłomiej z Confrontera",
+            "size": 3,
+            "percent": 0.009868421052631578
+          },
+          {
+            "text": "",
+            "size": 3,
+            "percent": 0.009868421052631578
+          },
+          {
+            "text": "http://confronter.pl",
+            "size": 3,
+            "percent": 0.009868421052631578
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "confronter.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "domain": "simplefinance.pl",
+  "endpoint": "get_competitors_analysis",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "keyword": "pożyczki pod zastaw online",
+          "cpc": 8.53,
+          "searches": 140,
+          "trends": [
+            170,
+            170,
+            140,
+            170,
+            140,
+            110,
+            140,
+            140,
+            170,
+            140,
+            110,
+            110
+          ],
+          "difficulty": 44,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 43,
+            "url": "horyzontcapital.com/blog/pozyczka-pod-zastaw-nieruchomosci-dla-firmy-krok-po-kroku"
+          },
+          "horyzontcapital.com_pos": 43,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/pozyczka-pod-zastaw-nieruchomosci-dla-firmy-krok-po-kroku",
+          "simplefinance.pl": {
+            "pos": 12,
+            "url": "simplefinance.pl/pozyczki/pozyczka-pod-zastaw-nieruchomosci"
+          },
+          "simplefinance.pl_pos": 12,
+          "simplefinance.pl_url": "simplefinance.pl/pozyczki/pozyczka-pod-zastaw-nieruchomosci"
+        },
+        {
+          "keyword": "pożyczka dla jednoosobowej działalności gospodarczej",
+          "cpc": 7.97,
+          "searches": 40,
+          "trends": [
+            40,
+            50,
+            30,
+            70,
+            40,
+            50,
+            20,
+            50,
+            30,
+            20,
+            40,
+            30
+          ],
+          "difficulty": 46,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 26,
+            "url": "https://horyzontcapital.com/blog/pozyczka-dla-firmy-jednoosobowej-jak-uzyskac-finansowanie-gdy-bank-odmawia"
+          },
+          "horyzontcapital.com_pos": 26,
+          "horyzontcapital.com_url": "https://horyzontcapital.com/blog/pozyczka-dla-firmy-jednoosobowej-jak-uzyskac-finansowanie-gdy-bank-odmawia",
+          "simplefinance.pl": {
+            "pos": 32,
+            "url": "https://simplefinance.pl/blog/pozyczka-dla-dzialalnosci-gospodarczej"
+          },
+          "simplefinance.pl_pos": 32,
+          "simplefinance.pl_url": "https://simplefinance.pl/blog/pozyczka-dla-dzialalnosci-gospodarczej"
+        },
+        {
+          "keyword": "pożyczę pod zastaw",
+          "cpc": 0,
+          "searches": 10,
+          "trends": [
+            10,
+            10,
+            20,
+            40,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+          ],
+          "difficulty": 31,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 24,
+            "url": "horyzontcapital.com/oferta/pozyczka-pod-zastaw-nieruchomosci"
+          },
+          "horyzontcapital.com_pos": 24,
+          "horyzontcapital.com_url": "horyzontcapital.com/oferta/pozyczka-pod-zastaw-nieruchomosci",
+          "simplefinance.pl": {
+            "pos": 28,
+            "url": "simplefinance.pl/pozyczki/pozyczka-pod-zastaw-nieruchomosci"
+          },
+          "simplefinance.pl_pos": 28,
+          "simplefinance.pl_url": "simplefinance.pl/pozyczki/pozyczka-pod-zastaw-nieruchomosci"
+        },
+        {
+          "keyword": "szybka pozyczka pod zastaw",
+          "cpc": 0,
+          "searches": 10,
+          "trends": [
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+          ],
+          "difficulty": 31,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 30,
+            "url": "horyzontcapital.com/blog/pozyczka-pod-zastaw-nieruchomosci-o-czym-warto-wiedziec"
+          },
+          "horyzontcapital.com_pos": 30,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/pozyczka-pod-zastaw-nieruchomosci-o-czym-warto-wiedziec",
+          "simplefinance.pl": {
+            "pos": 19,
+            "url": "simplefinance.pl/pozyczki/pozyczka-pod-zastaw-nieruchomosci"
+          },
+          "simplefinance.pl_pos": 19,
+          "simplefinance.pl_url": "simplefinance.pl/pozyczki/pozyczka-pod-zastaw-nieruchomosci"
+        }
+      ],
+      "pagination": {
+        "page_count": 1,
+        "current_page": 1,
+        "has_next_page": false,
+        "has_prev_page": false,
+        "count": 4,
+        "limit": 100
+      }
+    },
+    "status": 200,
+    "domain": "simplefinance.pl",
+    "endpoint": "get_competitors_analysis"
+  }
+}

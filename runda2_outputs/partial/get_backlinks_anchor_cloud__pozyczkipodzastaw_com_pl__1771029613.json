@@ -1,0 +1,37 @@
+{
+  "domain": "pozyczkipodzastaw.com.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "pozyczkipodzastaw.com.pl": [
+          {
+            "text": "www.pozyczkipodzastaw.com.pl",
+            "size": 5,
+            "percent": 0.45454545454545453
+          },
+          {
+            "text": "pozyczkipodzastaw.com.pl",
+            "size": 2,
+            "percent": 0.18181818181818182
+          },
+          {
+            "text": "https://www.pozyczkipodzastaw.com.pl",
+            "size": 2,
+            "percent": 0.18181818181818182
+          },
+          {
+            "text": "http://pozyczkipodzastaw.com.pl",
+            "size": 2,
+            "percent": 0.18181818181818182
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "pozyczkipodzastaw.com.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

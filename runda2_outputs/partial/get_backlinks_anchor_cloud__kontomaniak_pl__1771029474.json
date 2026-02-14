@@ -1,0 +1,67 @@
+{
+  "domain": "kontomaniak.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "kontomaniak.pl": [
+          {
+            "text": "kontomaniak.pl",
+            "size": 36,
+            "percent": 0.20930232558139536
+          },
+          {
+            "text": "zdolności kredytowej",
+            "size": 16,
+            "percent": 0.09302325581395349
+          },
+          {
+            "text": "https://www.kontomaniak.pl/ranking-kont-osobistych",
+            "size": 6,
+            "percent": 0.03488372093023256
+          },
+          {
+            "text": "https://www.kontomaniak.pl/ranking-kont-firmowych",
+            "size": 4,
+            "percent": 0.023255813953488372
+          },
+          {
+            "text": "https://www.kontomaniak.pl/ranking-kont-maklerskich",
+            "size": 4,
+            "percent": 0.023255813953488372
+          },
+          {
+            "text": "ranking kont osobistych",
+            "size": 4,
+            "percent": 0.023255813953488372
+          },
+          {
+            "text": "ranking kont firmowych",
+            "size": 4,
+            "percent": 0.023255813953488372
+          },
+          {
+            "text": "Ranking kont firmowych",
+            "size": 3,
+            "percent": 0.01744186046511628
+          },
+          {
+            "text": "https://www.kontomaniak.pl",
+            "size": 3,
+            "percent": 0.01744186046511628
+          },
+          {
+            "text": "https://www.kontomaniak.pl/",
+            "size": 3,
+            "percent": 0.01744186046511628
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "kontomaniak.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "domain": "goldenexpert.pl",
+  "endpoint": "get_competitors_analysis",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "keyword": "pożyczka dla firm bez bik",
+          "cpc": 21.72,
+          "searches": 480,
+          "trends": [
+            590,
+            390,
+            320,
+            480,
+            390,
+            590,
+            390,
+            390,
+            390,
+            390,
+            390,
+            390
+          ],
+          "difficulty": 50,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 14,
+            "url": "horyzontcapital.com/blog/kredyt-dla-firm-bez-bik-czy-to-mozliwe-i-na-jakich-warunkach"
+          },
+          "horyzontcapital.com_pos": 14,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/kredyt-dla-firm-bez-bik-czy-to-mozliwe-i-na-jakich-warunkach",
+          "goldenexpert.pl": {
+            "pos": 31,
+            "url": "goldenexpert.pl/kredyt-dla-spolki-z-o-o-bez-bik/"
+          },
+          "goldenexpert.pl_pos": 31,
+          "goldenexpert.pl_url": "goldenexpert.pl/kredyt-dla-spolki-z-o-o-bez-bik/"
+        },
+        {
+          "keyword": "kredyty dla firm bez bik",
+          "cpc": 7.99,
+          "searches": 390,
+          "trends": [
+            390,
+            390,
+            480,
+            320,
+            390,
+            390,
+            480,
+            390,
+            260,
+            260,
+            260,
+            320
+          ],
+          "difficulty": 52,
+          "params": [
+            "brand"
+          ],
+          "horyzontcapital.com": {
+            "pos": 7,
+            "url": "horyzontcapital.com/blog/kredyt-dla-firm-bez-bik-czy-to-mozliwe-i-na-jakich-warunkach"
+          },
+          "horyzontcapital.com_pos": 7,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/kredyt-dla-firm-bez-bik-czy-to-mozliwe-i-na-jakich-warunkach",
+          "goldenexpert.pl": {
+            "pos": 14,
+            "url": "goldenexpert.pl/jak-uzyskac-kredyt-dla-spolki-z-o-o-bez-bik-u-prezesa-lub-udzialowcow/"
+          },
+          "goldenexpert.pl_pos": 14,
+          "goldenexpert.pl_url": "goldenexpert.pl/jak-uzyskac-kredyt-dla-spolki-z-o-o-bez-bik-u-prezesa-lub-udzialowcow/"
+        },
+        {
+          "keyword": "kredyt firmowy bez bik",
+          "cpc": 23.47,
+          "searches": 70,
+          "trends": [
+            70,
+            50,
+            30,
+            30,
+            30,
+            50,
+            40,
+            40,
+            70,
+            50,
+            50,
+            40
+          ],
+          "difficulty": 48,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 9,
+            "url": "horyzontcapital.com/blog/kredyt-dla-firm-bez-bik-czy-to-mozliwe-i-na-jakich-warunkach"
+          },
+          "horyzontcapital.com_pos": 9,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/kredyt-dla-firm-bez-bik-czy-to-mozliwe-i-na-jakich-warunkach",
+          "goldenexpert.pl": {
+            "pos": 13,
+            "url": "goldenexpert.pl/jak-uzyskac-kredyt-dla-spolki-z-o-o-bez-bik-u-prezesa-lub-udzialowcow/"
+          },
+          "goldenexpert.pl_pos": 13,
+          "goldenexpert.pl_url": "goldenexpert.pl/jak-uzyskac-kredyt-dla-spolki-z-o-o-bez-bik-u-prezesa-lub-udzialowcow/"
+        }
+      ],
+      "pagination": {
+        "page_count": 1,
+        "current_page": 1,
+        "has_next_page": false,
+        "has_prev_page": false,
+        "count": 3,
+        "limit": 100
+      }
+    },
+    "status": 200,
+    "domain": "goldenexpert.pl",
+    "endpoint": "get_competitors_analysis"
+  }
+}

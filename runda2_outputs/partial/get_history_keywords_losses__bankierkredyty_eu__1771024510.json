@@ -1,0 +1,755 @@
+{
+  "domain": "bankierkredyty.eu",
+  "endpoint": "get_history_keywords_losses",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "keyword_id": 11124654,
+        "kid": "f6095f2d71af1b0592df2d612e65e289",
+        "domain": "bankierkredyty.eu",
+        "keyword": "kredyty dla rolników bez bik",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 19,
+            "previous": 18,
+            "diff": 1,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-18": {
+                "position": 18,
+                "has_serp": true
+              },
+              "2026-02-06": {
+                "position": 19,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "bankierkredyty.eu/oferta/kredyt-dla-rolnikow-z-cosme/",
+            "previous": "bankierkredyty.eu/oferta/kredyt-dla-rolnikow-z-cosme/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 24.68
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              20,
+              10,
+              20,
+              10,
+              10,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 18
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 15719826,
+        "kid": "fed31909a93a1f87fe81ffba3503f120",
+        "domain": "bankierkredyty.eu",
+        "keyword": "kredyt dla rolników bez zaświadczeń",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 18,
+            "previous": 14,
+            "diff": 4,
+            "changes": {
+              "wins": 0,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-24": {
+                "position": 13,
+                "has_serp": true
+              },
+              "2026-01-18": {
+                "position": 14,
+                "has_serp": true
+              },
+              "2026-02-07": {
+                "position": 18,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "bankierkredyty.eu/oferta/kredyt-dla-rolnikow-z-cosme/",
+            "previous": "bankierkredyty.eu/oferta/kredyt-dla-rolnikow-z-cosme/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 7.22
+          },
+          "searches": {
+            "current": 50
+          },
+          "trends": {
+            "history": [
+              140,
+              90,
+              30,
+              20,
+              30,
+              210,
+              10,
+              30,
+              30,
+              20,
+              20,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 27
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 14727255,
+        "kid": "fce9cb060b133058c73cd8b061e5a2b9",
+        "domain": "bankierkredyty.eu",
+        "keyword": "pożyczka dla firm z funduszu bez bik zus i us",
+        "words_count": 10,
+        "statistics": {
+          "position": {
+            "current": 17,
+            "previous": 13,
+            "diff": 4,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-18": {
+                "position": 13,
+                "has_serp": true
+              },
+              "2026-02-07": {
+                "position": 17,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "bankierkredyty.eu/oferta/kredyt-dla-firm-w-rachunku-biezacym-do-500-000-pln-bez-zaswiadczen-zus-i-us-bez-zabezpieczen/",
+            "previous": "bankierkredyty.eu/oferta/kredyt-dla-firm-w-rachunku-biezacym-do-500-000-pln-bez-zaswiadczen-zus-i-us-bez-zabezpieczen/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 14.15
+          },
+          "searches": {
+            "current": 480
+          },
+          "trends": {
+            "history": [
+              720,
+              720,
+              590,
+              590,
+              590,
+              480,
+              480,
+              390,
+              390,
+              390,
+              390,
+              390
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 32
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 18341479,
+        "kid": "8d450c1d0021cb9a31d63d4856138af2",
+        "domain": "bankierkredyty.eu",
+        "keyword": "pożyczki od prywatnych osób kontakt telefoniczny",
+        "words_count": 6,
+        "statistics": {
+          "position": {
+            "current": 39,
+            "previous": 25,
+            "diff": 14,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-17": {
+                "position": 25,
+                "has_serp": true
+              },
+              "2026-02-05": {
+                "position": 39,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "bankierkredyty.eu/pozyczki-prywatne/",
+            "previous": "bankierkredyty.eu/pozyczki-prywatne/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 1.86
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              30,
+              10,
+              10,
+              10,
+              10,
+              40,
+              10,
+              10,
+              0,
+              20,
+              70,
+              70
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 35
+          },
+          "snippets": {
+            "current": []
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "buy",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 9625822,
+        "kid": "d3fd1f9897040bf07ac46d0d4375b6d8",
+        "domain": "bankierkredyty.eu",
+        "keyword": "pozyczki z bik krd i komornikiem",
+        "words_count": 6,
+        "statistics": {
+          "position": {
+            "current": 20,
+            "previous": 19,
+            "diff": 1,
+            "changes": {
+              "wins": 1,
+              "losses": 3,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-19": {
+                "position": 17,
+                "has_serp": true
+              },
+              "2025-12-27": {
+                "position": 18,
+                "has_serp": true
+              },
+              "2026-01-05": {
+                "position": 18,
+                "has_serp": true
+              },
+              "2026-01-12": {
+                "position": 17,
+                "has_serp": true
+              },
+              "2026-01-22": {
+                "position": 19,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 20,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "bankierkredyty.eu/oferta/pozyczki-bez-bik-zus-us-krd-z-komornikiem-pod-nieruchomosc-do-10-000-000-zl/",
+            "previous": "bankierkredyty.eu/oferta/pozyczki-bez-bik-zus-us-krd-z-komornikiem-pod-nieruchomosc-do-10-000-000-zl/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 5.84
+          },
+          "searches": {
+            "current": 90
+          },
+          "trends": {
+            "history": [
+              140,
+              140,
+              110,
+              110,
+              170,
+              70,
+              50,
+              90,
+              70,
+              50,
+              70,
+              90
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 45
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 10058779,
+        "kid": "ddcee4f11e8d768535d845c335233eca",
+        "domain": "bankierkredyty.eu",
+        "keyword": "kredyt bez zaświadczeń z zus i us",
+        "words_count": 7,
+        "statistics": {
+          "position": {
+            "current": 14,
+            "previous": 12,
+            "diff": 2,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-18": {
+                "position": 12,
+                "has_serp": true
+              },
+              "2026-02-06": {
+                "position": 14,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "bankierkredyty.eu/oferta/kredyt-gotowkowy-dla-firmy-do-30-000-zl-bez-zus-i-us/",
+            "previous": "bankierkredyty.eu/oferta/kredyt-gotowkowy-dla-firmy-do-30-000-zl-bez-zus-i-us/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 11.32
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              10,
+              20,
+              30,
+              30,
+              30,
+              20,
+              10,
+              10,
+              10,
+              20,
+              30,
+              20
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 40
+          },
+          "snippets": {
+            "current": []
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 5759375,
+        "kid": "7d30cf09065d699b97df0720ee46ddfc",
+        "domain": "bankierkredyty.eu",
+        "keyword": "cashback leasing",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 16,
+            "previous": 9,
+            "diff": 7,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-22": {
+                "position": 9,
+                "has_serp": true
+              },
+              "2026-02-02": {
+                "position": 16,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0.18,
+            "diff": -0.18,
+            "percent": -1,
+            "history": null
+          },
+          "url": {
+            "current": "bankierkredyty.eu/oferta/cash-back-do-40000-zl-za-zakup-auta-w-leasingu/",
+            "previous": "bankierkredyty.eu/oferta/cash-back-do-40000-zl-za-zakup-auta-w-leasingu/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 32
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 12717180,
+        "kid": "48c327013a3a0ad902fcabe6d24b265d",
+        "domain": "bankierkredyty.eu",
+        "keyword": "kredyty dla firm bez zus i us",
+        "words_count": 7,
+        "statistics": {
+          "position": {
+            "current": 11,
+            "previous": 10,
+            "diff": 1,
+            "changes": {
+              "wins": 1,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-20": {
+                "position": 8,
+                "has_serp": true
+              },
+              "2026-01-03": {
+                "position": 11,
+                "has_serp": true
+              },
+              "2026-01-21": {
+                "position": 10,
+                "has_serp": true
+              },
+              "2026-02-10": {
+                "position": 11,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0.77,
+            "diff": -0.77,
+            "percent": -1,
+            "history": null
+          },
+          "url": {
+            "current": "bankierkredyty.eu/oferta/kredyt-dla-firm-w-rachunku-biezacym-do-500-000-pln-bez-zaswiadczen-zus-i-us-bez-zabezpieczen/",
+            "previous": "bankierkredyty.eu/oferta/kredyt-dla-firm-w-rachunku-biezacym-do-500-000-pln-bez-zaswiadczen-zus-i-us-bez-zabezpieczen/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 5.75
+          },
+          "searches": {
+            "current": 50
+          },
+          "trends": {
+            "history": [
+              50,
+              40,
+              40,
+              50,
+              20,
+              30,
+              30,
+              70,
+              50,
+              50,
+              40,
+              50
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 32
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 4144938,
+        "kid": "5970032fdece28b1622440832e58eb8e",
+        "domain": "bankierkredyty.eu",
+        "keyword": "faktoring bez bik",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 12,
+            "previous": 9,
+            "diff": 3,
+            "changes": {
+              "wins": 1,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-22": {
+                "position": 9,
+                "has_serp": true
+              },
+              "2026-01-05": {
+                "position": 8,
+                "has_serp": true
+              },
+              "2026-01-22": {
+                "position": 9,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 12,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0.9,
+            "diff": -0.9,
+            "percent": -1,
+            "history": null
+          },
+          "url": {
+            "current": "bankierkredyty.eu/oferta/faktoring-bez-bik-poza-bankowy-uproszczony/",
+            "previous": "bankierkredyty.eu/oferta/faktoring-bez-bik-poza-bankowy-uproszczony/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 30.38
+          },
+          "searches": {
+            "current": 50
+          },
+          "trends": {
+            "history": [
+              40,
+              50,
+              50,
+              70,
+              70,
+              70,
+              40,
+              50,
+              50,
+              70,
+              70,
+              30
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 41
+          },
+          "snippets": {
+            "current": []
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      }
+    ],
+    "total": 9,
+    "domain": "bankierkredyty.eu",
+    "endpoint": "get_history_keywords_losses"
+  }
+}

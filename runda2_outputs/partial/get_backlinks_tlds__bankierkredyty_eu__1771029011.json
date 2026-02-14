@@ -1,0 +1,38 @@
+{
+  "domain": "bankierkredyty.eu",
+  "endpoint": "get_backlinks_tlds",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "tld": "pl",
+          "count": 14,
+          "percent": 0.6666666666666666
+        },
+        {
+          "tld": "net",
+          "count": 6,
+          "percent": 0.2857142857142857
+        },
+        {
+          "tld": "se",
+          "count": 1,
+          "percent": 0.047619047619047616
+        }
+      ],
+      "pagination": {
+        "page_count": 1,
+        "current_page": 1,
+        "has_next_page": false,
+        "has_prev_page": false,
+        "count": 3,
+        "limit": 10
+      }
+    },
+    "status": 200,
+    "domain": "bankierkredyty.eu",
+    "endpoint": "get_backlinks_tlds"
+  }
+}

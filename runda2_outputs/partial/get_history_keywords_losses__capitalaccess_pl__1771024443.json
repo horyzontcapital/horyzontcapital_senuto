@@ -1,0 +1,107 @@
+{
+  "domain": "capitalaccess.pl",
+  "endpoint": "get_history_keywords_losses",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "keyword_id": 6991998,
+        "kid": "98a9cbe4513185afbb5eb907875b32e3",
+        "domain": "capitalaccess.pl",
+        "keyword": "inwestycje kapitałowe",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 19,
+            "previous": 17,
+            "diff": 2,
+            "changes": {
+              "wins": 1,
+              "losses": 4,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-21": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-28": {
+                "position": 17,
+                "has_serp": true
+              },
+              "2026-01-06": {
+                "position": 19,
+                "has_serp": true
+              },
+              "2026-01-13": {
+                "position": 20,
+                "has_serp": true
+              },
+              "2026-01-24": {
+                "position": 17,
+                "has_serp": true
+              },
+              "2026-02-02": {
+                "position": 19,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "capitalaccess.pl/finansowanie-firm/inwestycje-kapitalowe-venture-capital",
+            "previous": "capitalaccess.pl/finansowanie-firm/inwestycje-kapitalowe-venture-capital",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 17.96
+          },
+          "searches": {
+            "current": 110
+          },
+          "trends": {
+            "history": [
+              110,
+              110,
+              170,
+              110,
+              110,
+              140,
+              90,
+              90,
+              90,
+              110,
+              170,
+              110
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 52
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "capitalaccess.pl",
+    "endpoint": "get_history_keywords_losses"
+  }
+}

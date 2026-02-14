@@ -1,0 +1,253 @@
+{
+  "domain": "tadam-finanse.pl",
+  "endpoint": "get_backlinks_referring_domains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "ref_domain": "forum.parenting.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.00018864433814702166,
+        "backlinks_count": 20,
+        "links_external_count": 2199907,
+        "percent_of_total": 0.30303030303030304,
+        "count": {
+          "count": 20,
+          "percent_of_total": 0.30303030303030304
+        },
+        "top3": 619,
+        "top10": 5375,
+        "top50": 22215,
+        "visibility": 17636.91299999996,
+        "domain_rank": 15311,
+        "ads_equivalent": 7304.626710000014
+      },
+      {
+        "ref_domain": "forum.abczdrowie.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 2.1657118319102655,
+        "backlinks_count": 16,
+        "links_external_count": 961772,
+        "percent_of_total": 0.24242424242424243,
+        "count": {
+          "count": 16,
+          "percent_of_total": 0.24242424242424243
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "ukredytowani.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 1.8288185222739935e-05,
+        "backlinks_count": 14,
+        "links_external_count": 984242,
+        "percent_of_total": 0.21212121212121213,
+        "count": {
+          "count": 14,
+          "percent_of_total": 0.21212121212121213
+        },
+        "top3": 23,
+        "top10": 159,
+        "top50": 848,
+        "visibility": 1752.5549999999994,
+        "domain_rank": 89402,
+        "ads_equivalent": 9637.012390000007
+      },
+      {
+        "ref_domain": "niezapominajkowo.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.8095238095238095,
+        "backlinks_count": 3,
+        "links_external_count": 21,
+        "percent_of_total": 0.045454545454545456,
+        "count": {
+          "count": 3,
+          "percent_of_total": 0.045454545454545456
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "pytajnia.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 13.076137770702246,
+        "backlinks_count": 2,
+        "links_external_count": 39573,
+        "percent_of_total": 0.030303030303030304,
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.030303030303030304
+        },
+        "top3": 3,
+        "top10": 25,
+        "top50": 502,
+        "visibility": 63.952000000000005,
+        "domain_rank": 566735,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "honaro.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.006331699346405229,
+        "backlinks_count": 2,
+        "links_external_count": 24480,
+        "percent_of_total": 0.030303030303030304,
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.030303030303030304
+        },
+        "top3": 80,
+        "top10": 808,
+        "top50": 3939,
+        "visibility": 1933.7709999999972,
+        "domain_rank": 83504,
+        "ads_equivalent": 5039.538309999999
+      },
+      {
+        "ref_domain": "firmy4u.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.05090909090909091,
+        "backlinks_count": 2,
+        "links_external_count": 275,
+        "percent_of_total": 0.030303030303030304,
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.030303030303030304
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 1,
+        "visibility": 0,
+        "domain_rank": 2610101,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "designedforlife.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 36.736196319018404,
+        "backlinks_count": 2,
+        "links_external_count": 163,
+        "percent_of_total": 0.030303030303030304,
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.030303030303030304
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 11,
+        "visibility": 0,
+        "domain_rank": 5719274,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "forum.szafa.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.3032431237749588,
+        "backlinks_count": 1,
+        "links_external_count": 343866,
+        "percent_of_total": 0.015151515151515152,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.015151515151515152
+        },
+        "top3": 317,
+        "top10": 2603,
+        "top50": 20142,
+        "visibility": 6812.830000000063,
+        "domain_rank": 32837,
+        "ads_equivalent": 5939.469960000005
+      },
+      {
+        "ref_domain": "budnet.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": 257.6,
+          "article_price_nofollow": null,
+          "link_price_dofollow": 161,
+          "link_price_nofollow": null,
+          "price_do_follow": 257.6,
+          "price_no_follow": null
+        },
+        "ratio_bl_ext": 0.0050031362943935,
+        "backlinks_count": 1,
+        "links_external_count": 200874,
+        "percent_of_total": 0.015151515151515152,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.015151515151515152
+        },
+        "top3": 92,
+        "top10": 627,
+        "top50": 7774,
+        "visibility": 1717.3399999999986,
+        "domain_rank": 90689,
+        "ads_equivalent": 7026.472250000001
+      },
+      {
+        "ref_domain": "minskmaz.com",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.06383644222020018,
+        "backlinks_count": 1,
+        "links_external_count": 70336,
+        "percent_of_total": 0.015151515151515152,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.015151515151515152
+        },
+        "top3": 458,
+        "top10": 1971,
+        "top50": 7466,
+        "visibility": 30845.086000000174,
+        "domain_rank": 9409,
+        "ads_equivalent": 77691.64503999992
+      },
+      {
+        "ref_domain": "forum.niepelnosprawni.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.0010300176574455562,
+        "backlinks_count": 1,
+        "links_external_count": 20388,
+        "percent_of_total": 0.015151515151515152,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.015151515151515152
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "forum.trojmiasto.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.00047787468809376647,
+        "backlinks_count": 1,
+        "links_external_count": 698928,
+        "percent_of_total": 0.015151515151515152,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.015151515151515152
+        },
+        "top3": 3712,
+        "top10": 17375,
+        "top50": 90342,
+        "visibility": 66341.56900000016,
+        "domain_rank": 4686,
+        "ads_equivalent": 37196.36191000001
+      }
+    ],
+    "total": 13,
+    "domain": "tadam-finanse.pl",
+    "endpoint": "get_backlinks_referring_domains"
+  }
+}

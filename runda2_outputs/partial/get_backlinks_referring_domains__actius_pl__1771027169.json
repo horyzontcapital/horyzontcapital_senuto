@@ -1,0 +1,253 @@
+{
+  "domain": "actius.pl",
+  "endpoint": "get_backlinks_referring_domains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "ref_domain": "forum-oddluzanie.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.08136070187055124,
+        "backlinks_count": 1708,
+        "links_external_count": 12082,
+        "percent_of_total": 0.4970896391152503,
+        "count": {
+          "count": 1708,
+          "percent_of_total": 0.4970896391152503
+        },
+        "top3": 13,
+        "top10": 131,
+        "top50": 574,
+        "visibility": 419.602,
+        "domain_rank": 222500,
+        "ads_equivalent": 1471.8668200000004
+      },
+      {
+        "ref_domain": "forum-kredytowe.org",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.34058570483123757,
+        "backlinks_count": 875,
+        "links_external_count": 12088,
+        "percent_of_total": 0.25465657741559955,
+        "count": {
+          "count": 875,
+          "percent_of_total": 0.25465657741559955
+        },
+        "top3": 2,
+        "top10": 27,
+        "top50": 308,
+        "visibility": 260.94599999999997,
+        "domain_rank": 289488,
+        "ads_equivalent": 1775.3124300000002
+      },
+      {
+        "ref_domain": "conectumfinanse.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.12445986643970146,
+        "backlinks_count": 763,
+        "links_external_count": 15274,
+        "percent_of_total": 0.22206053550640278,
+        "count": {
+          "count": 763,
+          "percent_of_total": 0.22206053550640278
+        },
+        "top3": 0,
+        "top10": 3,
+        "top50": 92,
+        "visibility": 18.688,
+        "domain_rank": 901228,
+        "ads_equivalent": 49.924
+      },
+      {
+        "ref_domain": "skonsolidujemy.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 1.5956140350877193,
+        "backlinks_count": 39,
+        "links_external_count": 1140,
+        "percent_of_total": 0.011350407450523865,
+        "count": {
+          "count": 39,
+          "percent_of_total": 0.011350407450523865
+        },
+        "top3": 1,
+        "top10": 7,
+        "top50": 78,
+        "visibility": 11.443000000000003,
+        "domain_rank": 1058465,
+        "ads_equivalent": 110.12772000000001
+      },
+      {
+        "ref_domain": "oddluzanie.org",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 1.054510058403634,
+        "backlinks_count": 15,
+        "links_external_count": 1541,
+        "percent_of_total": 0.004365541327124563,
+        "count": {
+          "count": 15,
+          "percent_of_total": 0.004365541327124563
+        },
+        "top3": 0,
+        "top10": 8,
+        "top50": 43,
+        "visibility": 8.638,
+        "domain_rank": 1151472,
+        "ads_equivalent": 25.692050000000002
+      },
+      {
+        "ref_domain": "sosfinanse.wordpress.com",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 13,
+        "links_external_count": 0,
+        "percent_of_total": 0.0037834691501746217,
+        "count": {
+          "count": 13,
+          "percent_of_total": 0.0037834691501746217
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 2,
+        "visibility": 0,
+        "domain_rank": 4511176,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "kredyty-conectum.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 1.3595890410958904,
+        "backlinks_count": 11,
+        "links_external_count": 584,
+        "percent_of_total": 0.0032013969732246797,
+        "count": {
+          "count": 11,
+          "percent_of_total": 0.0032013969732246797
+        },
+        "top3": 1,
+        "top10": 6,
+        "top50": 39,
+        "visibility": 8.989,
+        "domain_rank": 1131972,
+        "ads_equivalent": 7.13457
+      },
+      {
+        "ref_domain": "conectum.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 8.769900497512438,
+        "backlinks_count": 4,
+        "links_external_count": 804,
+        "percent_of_total": 0.0011641443538998836,
+        "count": {
+          "count": 4,
+          "percent_of_total": 0.0011641443538998836
+        },
+        "top3": 18,
+        "top10": 33,
+        "top50": 165,
+        "visibility": 568.7360000000001,
+        "domain_rank": 186358,
+        "ads_equivalent": 1304.6098399999998
+      },
+      {
+        "ref_domain": "joemonster.org",
+        "available_whitepress_features": {
+          "article_price_dofollow": 1159.2,
+          "article_price_nofollow": null,
+          "link_price_dofollow": null,
+          "link_price_nofollow": 232.3,
+          "price_do_follow": 1159.2,
+          "price_no_follow": null
+        },
+        "ratio_bl_ext": 0.17206083154936566,
+        "backlinks_count": 3,
+        "links_external_count": 2192678,
+        "percent_of_total": 0.0008731082654249127,
+        "count": {
+          "count": 3,
+          "percent_of_total": 0.0008731082654249127
+        },
+        "top3": 2521,
+        "top10": 10414,
+        "top50": 48142,
+        "visibility": 212236.9089999967,
+        "domain_rank": 1596,
+        "ads_equivalent": 63339.72384000002
+      },
+      {
+        "ref_domain": "eliteo.com.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 2.59366391184573,
+        "backlinks_count": 2,
+        "links_external_count": 726,
+        "percent_of_total": 0.0005820721769499418,
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.0005820721769499418
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 28,
+        "visibility": 0,
+        "domain_rank": 4492587,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "pl.pinterest.com",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 1336.8914432370448,
+        "backlinks_count": 1,
+        "links_external_count": 18313,
+        "percent_of_total": 0.0002910360884749709,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0002910360884749709
+        },
+        "top3": 130469,
+        "top10": 258308,
+        "top50": 562631,
+        "visibility": 12291896.62999608,
+        "domain_rank": 28,
+        "ads_equivalent": 11112064.712289942
+      },
+      {
+        "ref_domain": "bajkowa.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 5.641589800005642e-05,
+        "backlinks_count": 1,
+        "links_external_count": 35451,
+        "percent_of_total": 0.0002910360884749709,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0002910360884749709
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "game1x2.org",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.09803921568627451,
+        "backlinks_count": 1,
+        "links_external_count": 153,
+        "percent_of_total": 0.0002910360884749709,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0002910360884749709
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      }
+    ],
+    "total": 13,
+    "domain": "actius.pl",
+    "endpoint": "get_backlinks_referring_domains"
+  }
+}

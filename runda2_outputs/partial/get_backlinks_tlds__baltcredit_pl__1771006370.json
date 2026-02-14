@@ -1,0 +1,48 @@
+{
+  "domain": "baltcredit.pl",
+  "endpoint": "get_backlinks_tlds",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "tld": "pl",
+          "count": 700,
+          "percent": 0.9915014164305949
+        },
+        {
+          "tld": "org",
+          "count": 3,
+          "percent": 0.00424929178470255
+        },
+        {
+          "tld": "biz",
+          "count": 1,
+          "percent": 0.00141643059490085
+        },
+        {
+          "tld": "com",
+          "count": 1,
+          "percent": 0.00141643059490085
+        },
+        {
+          "tld": "net",
+          "count": 1,
+          "percent": 0.00141643059490085
+        }
+      ],
+      "pagination": {
+        "page_count": 1,
+        "current_page": 1,
+        "has_next_page": false,
+        "has_prev_page": false,
+        "count": 5,
+        "limit": 10
+      }
+    },
+    "status": 200,
+    "domain": "baltcredit.pl",
+    "endpoint": "get_backlinks_tlds"
+  }
+}

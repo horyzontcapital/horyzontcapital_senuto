@@ -1,0 +1,122 @@
+{
+  "domain": "smart-money.pl",
+  "endpoint": "get_competitors_analysis",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "keyword": "jednoosobową działalność gospodarczą kredyt gotówkowy",
+          "cpc": 7.42,
+          "searches": 260,
+          "trends": [
+            390,
+            320,
+            390,
+            320,
+            320,
+            320,
+            320,
+            140,
+            140,
+            170,
+            170,
+            170
+          ],
+          "difficulty": 39,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 42,
+            "url": "horyzontcapital.com/blog/pozyczka-dla-firmy-jednoosobowej-jak-uzyskac-finansowanie-gdy-bank-odmawia"
+          },
+          "horyzontcapital.com_pos": 42,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/pozyczka-dla-firmy-jednoosobowej-jak-uzyskac-finansowanie-gdy-bank-odmawia",
+          "smart-money.pl": {
+            "pos": 20,
+            "url": "smart-money.pl/jdg-kredyt-gotowkowy/"
+          },
+          "smart-money.pl_pos": 20,
+          "smart-money.pl_url": "smart-money.pl/jdg-kredyt-gotowkowy/"
+        },
+        {
+          "keyword": "pożyczki pod zastaw działki budowlanej",
+          "cpc": 7.37,
+          "searches": 40,
+          "trends": [
+            40,
+            30,
+            40,
+            30,
+            30,
+            40,
+            40,
+            40,
+            40,
+            50,
+            50,
+            50
+          ],
+          "difficulty": 41,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 46,
+            "url": "horyzontcapital.com/oferta/pozyczka-pod-dzialke-lub-grunt"
+          },
+          "horyzontcapital.com_pos": 46,
+          "horyzontcapital.com_url": "horyzontcapital.com/oferta/pozyczka-pod-dzialke-lub-grunt",
+          "smart-money.pl": {
+            "pos": 42,
+            "url": "smart-money.pl/kredyt-pod-zastaw/"
+          },
+          "smart-money.pl_pos": 42,
+          "smart-money.pl_url": "smart-money.pl/kredyt-pod-zastaw/"
+        },
+        {
+          "keyword": "kredyt pod zastaw mieszkania warunki",
+          "cpc": 5.21,
+          "searches": 20,
+          "trends": [
+            10,
+            10,
+            20,
+            40,
+            30,
+            20,
+            20,
+            10,
+            10,
+            20,
+            10,
+            10
+          ],
+          "difficulty": 37,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 46,
+            "url": "horyzontcapital.com/blog/pozyczka-pod-zastaw-nieruchomosci-kiedy-warto-skorzystac"
+          },
+          "horyzontcapital.com_pos": 46,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/pozyczka-pod-zastaw-nieruchomosci-kiedy-warto-skorzystac",
+          "smart-money.pl": {
+            "pos": 16,
+            "url": "smart-money.pl/kredyt-pod-zastaw/"
+          },
+          "smart-money.pl_pos": 16,
+          "smart-money.pl_url": "smart-money.pl/kredyt-pod-zastaw/"
+        }
+      ],
+      "pagination": {
+        "page_count": 1,
+        "current_page": 1,
+        "has_next_page": false,
+        "has_prev_page": false,
+        "count": 3,
+        "limit": 100
+      }
+    },
+    "status": 200,
+    "domain": "smart-money.pl",
+    "endpoint": "get_competitors_analysis"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "domain": "confronter.pl",
+  "endpoint": "get_backlinks_tlds",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "tld": "pl",
+          "count": 280,
+          "percent": 0.9210526315789473
+        },
+        {
+          "tld": "one",
+          "count": 14,
+          "percent": 0.046052631578947366
+        },
+        {
+          "tld": "com",
+          "count": 5,
+          "percent": 0.01644736842105263
+        },
+        {
+          "tld": "eu",
+          "count": 2,
+          "percent": 0.006578947368421052
+        },
+        {
+          "tld": "info",
+          "count": 1,
+          "percent": 0.003289473684210526
+        },
+        {
+          "tld": "ua",
+          "count": 1,
+          "percent": 0.003289473684210526
+        },
+        {
+          "tld": "uk",
+          "count": 1,
+          "percent": 0.003289473684210526
+        }
+      ],
+      "pagination": {
+        "page_count": 1,
+        "current_page": 1,
+        "has_next_page": false,
+        "has_prev_page": false,
+        "count": 7,
+        "limit": 10
+      }
+    },
+    "status": 200,
+    "domain": "confronter.pl",
+    "endpoint": "get_backlinks_tlds"
+  }
+}

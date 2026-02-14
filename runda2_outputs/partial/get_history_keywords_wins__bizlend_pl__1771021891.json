@@ -1,0 +1,96 @@
+{
+  "domain": "bizlend.pl",
+  "endpoint": "get_history_keywords_wins",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "keyword_id": 849015,
+        "kid": "1236ff371948209c4ca4b47c8b5dc643",
+        "domain": "bizlend.pl",
+        "keyword": "pozyczka z rata tygodniowa",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 34,
+            "previous": 40,
+            "diff": -6,
+            "changes": {
+              "wins": 1,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-27": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-11": {
+                "position": 40,
+                "has_serp": true
+              },
+              "2026-02-04": {
+                "position": 34,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "bizlend.pl/",
+            "previous": "bizlend.pl/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 13.82
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              20,
+              10,
+              0,
+              10,
+              30,
+              10,
+              0,
+              10,
+              10,
+              20,
+              30,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 41
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "bizlend.pl",
+    "endpoint": "get_history_keywords_wins"
+  }
+}

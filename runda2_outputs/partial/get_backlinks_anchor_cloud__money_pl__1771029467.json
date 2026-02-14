@@ -1,0 +1,67 @@
+{
+  "domain": "money.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "money.pl": [
+          {
+            "text": "Biznes",
+            "size": 732664,
+            "percent": 0.08723460570509253
+          },
+          {
+            "text": "Kursy walut",
+            "size": 397899,
+            "percent": 0.04737582626613375
+          },
+          {
+            "text": "",
+            "size": 292884,
+            "percent": 0.03487222008632924
+          },
+          {
+            "text": "Pracowałeś przed 1999 rokiem? ZUS ma dla ciebie ważną informację",
+            "size": 265657,
+            "percent": 0.03163043857456865
+          },
+          {
+            "text": "Kalkulator wynagrodzeń",
+            "size": 232336,
+            "percent": 0.027663075231072334
+          },
+          {
+            "text": "OFE",
+            "size": 204603,
+            "percent": 0.024361046852416728
+          },
+          {
+            "text": "Kalkulator walut",
+            "size": 201123,
+            "percent": 0.023946700811320505
+          },
+          {
+            "text": "Stopy procentowe",
+            "size": 200141,
+            "percent": 0.023829779026160593
+          },
+          {
+            "text": "Koronawirus",
+            "size": 200124,
+            "percent": 0.02382775492193685
+          },
+          {
+            "text": "Kalkulator diet zagranicznych",
+            "size": 200124,
+            "percent": 0.02382775492193685
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "money.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

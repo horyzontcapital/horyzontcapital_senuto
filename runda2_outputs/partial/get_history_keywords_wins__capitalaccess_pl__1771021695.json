@@ -1,0 +1,190 @@
+{
+  "domain": "capitalaccess.pl",
+  "endpoint": "get_history_keywords_wins",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "keyword_id": 4784311,
+        "kid": "678a08fbea47e7081e0f9ec5de5aed0c",
+        "domain": "capitalaccess.pl",
+        "keyword": "finansowanie handlu",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 13,
+            "previous": 22,
+            "diff": -9,
+            "changes": {
+              "wins": 1,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-29": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-14": {
+                "position": 22,
+                "has_serp": true
+              },
+              "2026-02-01": {
+                "position": 13,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "capitalaccess.pl/centrum-prasowe/40-faktoring-czyli-finansowanie-handlu",
+            "previous": "capitalaccess.pl/centrum-prasowe/40-faktoring-czyli-finansowanie-handlu",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 30
+          },
+          "trends": {
+            "history": [
+              20,
+              40,
+              20,
+              30,
+              40,
+              20,
+              30,
+              30,
+              20,
+              50,
+              50,
+              30
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 33
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 9532648,
+        "kid": "d1e36b3b7375cd8043b570c8bddccce5",
+        "domain": "capitalaccess.pl",
+        "keyword": "jak działa faktoring",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 22,
+            "previous": 24,
+            "diff": -2,
+            "changes": {
+              "wins": 2,
+              "losses": 3,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-19": {
+                "position": 16,
+                "has_serp": true
+              },
+              "2025-12-27": {
+                "position": 23,
+                "has_serp": true
+              },
+              "2026-01-12": {
+                "position": 27,
+                "has_serp": true
+              },
+              "2026-01-22": {
+                "position": 24,
+                "has_serp": true
+              },
+              "2026-02-01": {
+                "position": 19,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 22,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "capitalaccess.pl/faktoring/jak-dziala-faktoring",
+            "previous": "capitalaccess.pl/faktoring/jak-dziala-faktoring",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 4.58
+          },
+          "searches": {
+            "current": 140
+          },
+          "trends": {
+            "history": [
+              140,
+              110,
+              140,
+              140,
+              140,
+              140,
+              140,
+              140,
+              110,
+              170,
+              140,
+              110
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 48
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      }
+    ],
+    "total": 2,
+    "domain": "capitalaccess.pl",
+    "endpoint": "get_history_keywords_wins"
+  }
+}

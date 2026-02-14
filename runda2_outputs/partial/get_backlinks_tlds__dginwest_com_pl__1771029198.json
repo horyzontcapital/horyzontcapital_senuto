@@ -1,0 +1,53 @@
+{
+  "domain": "dginwest.com.pl",
+  "endpoint": "get_backlinks_tlds",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "tld": "pl",
+          "count": 123,
+          "percent": 0.6988636363636364
+        },
+        {
+          "tld": "ua",
+          "count": 41,
+          "percent": 0.23295454545454544
+        },
+        {
+          "tld": "com",
+          "count": 6,
+          "percent": 0.03409090909090909
+        },
+        {
+          "tld": "info",
+          "count": 3,
+          "percent": 0.017045454545454544
+        },
+        {
+          "tld": "biz",
+          "count": 2,
+          "percent": 0.011363636363636364
+        },
+        {
+          "tld": "eu",
+          "count": 1,
+          "percent": 0.005681818181818182
+        }
+      ],
+      "pagination": {
+        "page_count": 1,
+        "current_page": 1,
+        "has_next_page": false,
+        "has_prev_page": false,
+        "count": 6,
+        "limit": 10
+      }
+    },
+    "status": 200,
+    "domain": "dginwest.com.pl",
+    "endpoint": "get_backlinks_tlds"
+  }
+}

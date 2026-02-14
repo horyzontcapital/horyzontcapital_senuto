@@ -1,0 +1,22 @@
+{
+  "domain": "ckakrybia.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "ckakrybia.pl": [
+          {
+            "text": "Ck Akrybia",
+            "size": 30,
+            "percent": 1
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "ckakrybia.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

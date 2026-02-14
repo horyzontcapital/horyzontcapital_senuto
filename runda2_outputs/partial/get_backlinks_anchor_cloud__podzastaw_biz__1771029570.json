@@ -1,0 +1,67 @@
+{
+  "domain": "podzastaw.biz",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "podzastaw.biz": [
+          {
+            "text": "Mr Kocur",
+            "size": 101,
+            "percent": 0.43162393162393164
+          },
+          {
+            "text": "Strona",
+            "size": 22,
+            "percent": 0.09401709401709402
+          },
+          {
+            "text": "szybkie pożyczki pod zastaw firmowej nieruchomości",
+            "size": 9,
+            "percent": 0.038461538461538464
+          },
+          {
+            "text": "https://podzastaw.biz",
+            "size": 8,
+            "percent": 0.03418803418803419
+          },
+          {
+            "text": "~Mr Kocur",
+            "size": 5,
+            "percent": 0.021367521367521368
+          },
+          {
+            "text": "PodZastaw.biz",
+            "size": 5,
+            "percent": 0.021367521367521368
+          },
+          {
+            "text": "WWW",
+            "size": 3,
+            "percent": 0.01282051282051282
+          },
+          {
+            "text": "Obrazek",
+            "size": 2,
+            "percent": 0.008547008547008548
+          },
+          {
+            "text": "https://podzastaw.biz/",
+            "size": 2,
+            "percent": 0.008547008547008548
+          },
+          {
+            "text": "interesująca pozabankowa pożyczka pod zastaw nieruchomości dla zaradnych przedsiębiorców",
+            "size": 1,
+            "percent": 0.004273504273504274
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "podzastaw.biz",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

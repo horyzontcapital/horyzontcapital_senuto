@@ -1,0 +1,82 @@
+{
+  "domain": "ftfund.pl",
+  "endpoint": "get_url_sections",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "url_section": "ftfund.pl/",
+        "keywords_count": 21,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 67.7,
+            "previous": 39.1,
+            "diff": 28.59,
+            "percent": 0.7315,
+            "history": null
+          },
+          "top3": {
+            "current": 5,
+            "previous": 5,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 21,
+            "previous": 18,
+            "diff": 3,
+            "percent": 0.1667,
+            "history": null
+          },
+          "top50": {
+            "current": 83,
+            "previous": 85,
+            "diff": -2,
+            "percent": -0.0235,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "ftfund.pl/wpisy/",
+        "keywords_count": 0,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 8,
+            "previous": 7,
+            "diff": 1,
+            "percent": 0.1429,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 2,
+    "domain": "ftfund.pl",
+    "endpoint": "get_url_sections"
+  }
+}

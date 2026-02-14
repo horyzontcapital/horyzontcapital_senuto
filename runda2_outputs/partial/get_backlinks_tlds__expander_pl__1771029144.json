@@ -1,0 +1,73 @@
+{
+  "domain": "expander.pl",
+  "endpoint": "get_backlinks_tlds",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "tld": "pl",
+          "count": 990,
+          "percent": 0.7404637247569185
+        },
+        {
+          "tld": "com",
+          "count": 260,
+          "percent": 0.1944652206432311
+        },
+        {
+          "tld": "eu",
+          "count": 14,
+          "percent": 0.010471204188481676
+        },
+        {
+          "tld": "info",
+          "count": 12,
+          "percent": 0.008975317875841436
+        },
+        {
+          "tld": "ua",
+          "count": 10,
+          "percent": 0.0074794315632011965
+        },
+        {
+          "tld": "org",
+          "count": 9,
+          "percent": 0.006731488406881077
+        },
+        {
+          "tld": "net",
+          "count": 9,
+          "percent": 0.006731488406881077
+        },
+        {
+          "tld": "in",
+          "count": 9,
+          "percent": 0.006731488406881077
+        },
+        {
+          "tld": "press",
+          "count": 6,
+          "percent": 0.004487658937920718
+        },
+        {
+          "tld": "biz",
+          "count": 5,
+          "percent": 0.0037397157816005983
+        }
+      ],
+      "pagination": {
+        "page_count": 2,
+        "current_page": 1,
+        "has_next_page": true,
+        "has_prev_page": false,
+        "count": 20,
+        "limit": 10
+      }
+    },
+    "status": 200,
+    "domain": "expander.pl",
+    "endpoint": "get_backlinks_tlds"
+  }
+}

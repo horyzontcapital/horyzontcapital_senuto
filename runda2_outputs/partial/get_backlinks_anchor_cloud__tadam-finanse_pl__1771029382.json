@@ -1,0 +1,67 @@
+{
+  "domain": "tadam-finanse.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "tadam-finanse.pl": [
+          {
+            "text": "https://tadam-finanse.pl/oferta/pozyczka-hipoteczna-pod-zastaw-nieruchomosci-dla-osob-zadluzonych/",
+            "size": 20,
+            "percent": 0.30303030303030304
+          },
+          {
+            "text": "https://tadam-finanse.pl/oferta/konsolidacja-kredytow/",
+            "size": 17,
+            "percent": 0.25757575757575757
+          },
+          {
+            "text": "https://tadam-finanse.pl/",
+            "size": 15,
+            "percent": 0.22727272727272727
+          },
+          {
+            "text": "www.tadam-finanse.pl",
+            "size": 2,
+            "percent": 0.030303030303030304
+          },
+          {
+            "text": "https://tadam-finanse.pl",
+            "size": 1,
+            "percent": 0.015151515151515152
+          },
+          {
+            "text": "https://tadam-finanse.pl/bo",
+            "size": 1,
+            "percent": 0.015151515151515152
+          },
+          {
+            "text": "kredyty gotówkowe skórzewo",
+            "size": 1,
+            "percent": 0.015151515151515152
+          },
+          {
+            "text": "Możliwe jest także skorzystanie z pożyczki konsolidacyjnej",
+            "size": 1,
+            "percent": 0.015151515151515152
+          },
+          {
+            "text": "https://tadam-finanse.pl/oferta/konsolidacja-kredytow /",
+            "size": 1,
+            "percent": 0.015151515151515152
+          },
+          {
+            "text": "https://tadam-finanse.pl/oferta/pozyczka-hipo teczna-pod-zastaw-nieruchomosci-dla-osob-zadluzonych/",
+            "size": 1,
+            "percent": 0.015151515151515152
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "tadam-finanse.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

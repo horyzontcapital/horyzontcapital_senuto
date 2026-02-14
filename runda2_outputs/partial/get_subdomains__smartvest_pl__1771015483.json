@@ -1,0 +1,54 @@
+{
+  "domain": "smartvest.pl",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "smartvest.pl",
+        "keywords_count": 37,
+        "visibility_percent": 100,
+        "statistics": {
+          "visibility": {
+            "current": 253.02,
+            "previous": 233.33,
+            "diff": 19.7,
+            "percent": 0.0844,
+            "history": null
+          },
+          "top3": {
+            "current": 12,
+            "previous": 12,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 37,
+            "previous": 38,
+            "diff": -1,
+            "percent": -0.0263,
+            "history": null
+          },
+          "top50": {
+            "current": 137,
+            "previous": 141,
+            "diff": -4,
+            "percent": -0.0284,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 100,
+            "previous": 100,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "smartvest.pl",
+    "endpoint": "get_subdomains"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "domain": "monevia.pl",
+  "endpoint": "get_competitors_analysis",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "keyword": "finansowanie pozabankowe",
+          "cpc": 13.65,
+          "searches": 40,
+          "trends": [
+            20,
+            30,
+            30,
+            30,
+            10,
+            10,
+            10,
+            10,
+            10,
+            20,
+            30,
+            20
+          ],
+          "difficulty": 38,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 22,
+            "url": "horyzontcapital.com/blog/czym-rozni-sie-finansowanie-pozabankowe-od-kredytu-bankowego"
+          },
+          "horyzontcapital.com_pos": 22,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/czym-rozni-sie-finansowanie-pozabankowe-od-kredytu-bankowego",
+          "monevia.pl": {
+            "pos": 32,
+            "url": "monevia.pl/finansowanie-pozabankowe-dla-firm/"
+          },
+          "monevia.pl_pos": 32,
+          "monevia.pl_url": "monevia.pl/finansowanie-pozabankowe-dla-firm/"
+        }
+      ],
+      "pagination": {
+        "page_count": 1,
+        "current_page": 1,
+        "has_next_page": false,
+        "has_prev_page": false,
+        "count": 1,
+        "limit": 100
+      }
+    },
+    "status": 200,
+    "domain": "monevia.pl",
+    "endpoint": "get_competitors_analysis"
+  }
+}

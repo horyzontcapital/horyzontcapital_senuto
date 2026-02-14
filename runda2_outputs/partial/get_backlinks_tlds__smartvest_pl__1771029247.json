@@ -1,0 +1,53 @@
+{
+  "domain": "smartvest.pl",
+  "endpoint": "get_backlinks_tlds",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "tld": "pl",
+          "count": 221,
+          "percent": 0.775438596491228
+        },
+        {
+          "tld": "com",
+          "count": 55,
+          "percent": 0.19298245614035087
+        },
+        {
+          "tld": "net",
+          "count": 4,
+          "percent": 0.014035087719298246
+        },
+        {
+          "tld": "eu",
+          "count": 3,
+          "percent": 0.010526315789473684
+        },
+        {
+          "tld": "166",
+          "count": 1,
+          "percent": 0.0035087719298245615
+        },
+        {
+          "tld": "63",
+          "count": 1,
+          "percent": 0.0035087719298245615
+        }
+      ],
+      "pagination": {
+        "page_count": 1,
+        "current_page": 1,
+        "has_next_page": false,
+        "has_prev_page": false,
+        "count": 6,
+        "limit": 10
+      }
+    },
+    "status": 200,
+    "domain": "smartvest.pl",
+    "endpoint": "get_backlinks_tlds"
+  }
+}

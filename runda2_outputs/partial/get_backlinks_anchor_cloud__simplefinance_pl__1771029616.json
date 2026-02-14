@@ -1,0 +1,67 @@
+{
+  "domain": "simplefinance.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "simplefinance.pl": [
+          {
+            "text": "doświadczonego doradcy finansowego",
+            "size": 28,
+            "percent": 0.2857142857142857
+          },
+          {
+            "text": "sprawdzonego doradcy kredytowego",
+            "size": 10,
+            "percent": 0.10204081632653061
+          },
+          {
+            "text": "kredytach dla firm budowlanych",
+            "size": 6,
+            "percent": 0.061224489795918366
+          },
+          {
+            "text": "kredyt pod terminal płatniczy",
+            "size": 6,
+            "percent": 0.061224489795918366
+          },
+          {
+            "text": "kredytach dla sklepów/salonów beaty",
+            "size": 6,
+            "percent": 0.061224489795918366
+          },
+          {
+            "text": "odmowę kredytu",
+            "size": 5,
+            "percent": 0.05102040816326531
+          },
+          {
+            "text": "Jak sprawdzić zadłużenie w Urzędzie Skarbowym?",
+            "size": 5,
+            "percent": 0.05102040816326531
+          },
+          {
+            "text": "doświadczonego doradcy kredytowego",
+            "size": 5,
+            "percent": 0.05102040816326531
+          },
+          {
+            "text": "kredyt pod terminal",
+            "size": 4,
+            "percent": 0.04081632653061224
+          },
+          {
+            "text": "kredytu konsolidacyjnego dla firm",
+            "size": 4,
+            "percent": 0.04081632653061224
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "simplefinance.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "domain": "fluxo.com.pl",
+  "endpoint": "get_cannibalization_keywords",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "keyword": "kredyt dla firm z krótkim stażem",
+        "keyword_id": 657990,
+        "kid": "0e18b7d5c921083cd3c7ccdcbf203e2f",
+        "domain": "fluxo.com.pl",
+        "words_count": 6,
+        "brand": "",
+        "statistics": {
+          "position": {
+            "current": 6,
+            "previous": 7,
+            "diff": -1,
+            "changes": {
+              "wins": 3,
+              "losses": 0,
+              "no_changes": 2
+            },
+            "history": {
+              "2025-12-20": 24,
+              "2025-12-27": 10,
+              "2026-01-04": 10,
+              "2026-01-21": 7,
+              "2026-01-31": 7,
+              "2026-02-10": 6
+            }
+          },
+          "visibility": {
+            "current": 3.34,
+            "previous": 2.55,
+            "diff": 0.79,
+            "percent": 0.3098,
+            "history": null
+          },
+          "cpc": {
+            "current": 15.05
+          },
+          "searches": {
+            "current": 90
+          },
+          "difficulty": {
+            "current": 41
+          },
+          "trends": {
+            "history": [
+              90,
+              90,
+              90,
+              140,
+              110,
+              90,
+              90,
+              50,
+              70,
+              70,
+              110,
+              110
+            ],
+            "peak": []
+          },
+          "url": {
+            "current": "fluxo.com.pl/kredyt-dla-firmy-dzialajacej-krocej-niz-6-miesiecy/",
+            "previous": "fluxo.com.pl/czy-warto-brac-kredyt-dla-firm-z-krotkim-stazem/"
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "fluxo.com.pl",
+    "endpoint": "get_cannibalization_keywords"
+  }
+}

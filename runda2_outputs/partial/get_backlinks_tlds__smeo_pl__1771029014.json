@@ -1,0 +1,73 @@
+{
+  "domain": "smeo.pl",
+  "endpoint": "get_backlinks_tlds",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "tld": "pl",
+          "count": 204,
+          "percent": 0.7611940298507462
+        },
+        {
+          "tld": "com",
+          "count": 49,
+          "percent": 0.1828358208955224
+        },
+        {
+          "tld": "club",
+          "count": 3,
+          "percent": 0.011194029850746268
+        },
+        {
+          "tld": "work",
+          "count": 3,
+          "percent": 0.011194029850746268
+        },
+        {
+          "tld": "co",
+          "count": 3,
+          "percent": 0.011194029850746268
+        },
+        {
+          "tld": "net",
+          "count": 2,
+          "percent": 0.007462686567164179
+        },
+        {
+          "tld": "org",
+          "count": 1,
+          "percent": 0.0037313432835820895
+        },
+        {
+          "tld": "io",
+          "count": 1,
+          "percent": 0.0037313432835820895
+        },
+        {
+          "tld": "vc",
+          "count": 1,
+          "percent": 0.0037313432835820895
+        },
+        {
+          "tld": "eu",
+          "count": 1,
+          "percent": 0.0037313432835820895
+        }
+      ],
+      "pagination": {
+        "page_count": 1,
+        "current_page": 1,
+        "has_next_page": false,
+        "has_prev_page": false,
+        "count": 10,
+        "limit": 10
+      }
+    },
+    "status": 200,
+    "domain": "smeo.pl",
+    "endpoint": "get_backlinks_tlds"
+  }
+}

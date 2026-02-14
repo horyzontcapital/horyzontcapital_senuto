@@ -1,0 +1,74 @@
+{
+  "domain": "mldomfinansowy.pl",
+  "endpoint": "get_domain_statistics",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "statistics": {
+          "top3": {
+            "recent_value": 6,
+            "older_value": 6,
+            "diff": 0,
+            "percent": 0
+          },
+          "top10": {
+            "recent_value": 11,
+            "older_value": 11,
+            "diff": 0,
+            "percent": 0
+          },
+          "top50": {
+            "recent_value": 18,
+            "older_value": 18,
+            "diff": 0,
+            "percent": 0
+          },
+          "visibility": {
+            "recent_value": 53,
+            "older_value": 53,
+            "diff": 0,
+            "percent": 0
+          },
+          "domain_rank": {
+            "recent_value": 611547,
+            "older_value": 611524,
+            "diff": 23,
+            "percent": 0
+          },
+          "ads_equivalent": {
+            "recent_value": 145.37,
+            "older_value": 145.37,
+            "diff": 0,
+            "percent": 0
+          },
+          "category": {
+            "name": "",
+            "statistics": {
+              "recent_value": 611549,
+              "older_value": 611549,
+              "diff": 0,
+              "percent": 0
+            }
+          },
+          "aio_keywords": {
+            "recent_value": 1,
+            "older_value": 1,
+            "diff": 0,
+            "percent": 0
+          },
+          "aio_visible_keywords": {
+            "recent_value": 1,
+            "older_value": 1,
+            "diff": 0,
+            "percent": 0
+          }
+        }
+      }
+    },
+    "status": 200,
+    "domain": "mldomfinansowy.pl",
+    "endpoint": "get_domain_statistics"
+  }
+}

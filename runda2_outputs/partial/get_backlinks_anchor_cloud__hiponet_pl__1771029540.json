@@ -1,0 +1,67 @@
+{
+  "domain": "hiponet.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "hiponet.pl": [
+          {
+            "text": "hiponet.pl",
+            "size": 72,
+            "percent": 0.5950413223140496
+          },
+          {
+            "text": "Hiponet.pl",
+            "size": 23,
+            "percent": 0.19008264462809918
+          },
+          {
+            "text": "www.hiponet.pl/analizy-i-komentarze/kred...w-pekao,513,376.html",
+            "size": 8,
+            "percent": 0.06611570247933884
+          },
+          {
+            "text": "https://www.hiponet.pl/poradnik-kredytobiorcy/co-to-jest-sal...",
+            "size": 3,
+            "percent": 0.024793388429752067
+          },
+          {
+            "text": "Hania",
+            "size": 2,
+            "percent": 0.01652892561983471
+          },
+          {
+            "text": "www.hiponet.pl",
+            "size": 2,
+            "percent": 0.01652892561983471
+          },
+          {
+            "text": "Hiponet",
+            "size": 1,
+            "percent": 0.008264462809917356
+          },
+          {
+            "text": "www.Hiponet.pl",
+            "size": 1,
+            "percent": 0.008264462809917356
+          },
+          {
+            "text": "wakacji kredytowych",
+            "size": 1,
+            "percent": 0.008264462809917356
+          },
+          {
+            "text": "Kalkulatory - Hiponet.pl",
+            "size": 1,
+            "percent": 0.008264462809917356
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "hiponet.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "domain": "poradnikprzedsiebiorcy.pl",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "poradnikprzedsiebiorcy.pl",
+        "keywords_count": 191257,
+        "visibility_percent": 100,
+        "statistics": {
+          "visibility": {
+            "current": 2893216.79,
+            "previous": 2819146.66,
+            "diff": 74070.12,
+            "percent": 0.0263,
+            "history": null
+          },
+          "top3": {
+            "current": 99418,
+            "previous": 99524,
+            "diff": -106,
+            "percent": -0.0011,
+            "history": null
+          },
+          "top10": {
+            "current": 191257,
+            "previous": 190945,
+            "diff": 312,
+            "percent": 0.0016,
+            "history": null
+          },
+          "top50": {
+            "current": 367312,
+            "previous": 365094,
+            "diff": 2218,
+            "percent": 0.0061,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 100,
+            "previous": 100,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "poradnikprzedsiebiorcy.pl",
+    "endpoint": "get_subdomains"
+  }
+}

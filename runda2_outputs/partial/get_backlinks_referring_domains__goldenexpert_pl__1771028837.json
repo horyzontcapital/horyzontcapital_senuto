@@ -1,0 +1,192 @@
+{
+  "domain": "goldenexpert.pl",
+  "endpoint": "get_backlinks_referring_domains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "ref_domain": "goldenexpert.firmy.net",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 1.2826086956521738,
+        "backlinks_count": 30,
+        "links_external_count": 46,
+        "percent_of_total": 0.46875,
+        "count": {
+          "count": 30,
+          "percent_of_total": 0.46875
+        },
+        "top3": 1,
+        "top10": 2,
+        "top50": 11,
+        "visibility": 25.415,
+        "domain_rank": 810275,
+        "ads_equivalent": 116.26125
+      },
+      {
+        "ref_domain": "goldenaddress.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.0008999470619375331,
+        "backlinks_count": 23,
+        "links_external_count": 18890,
+        "percent_of_total": 0.359375,
+        "count": {
+          "count": 23,
+          "percent_of_total": 0.359375
+        },
+        "top3": 3,
+        "top10": 29,
+        "top50": 126,
+        "visibility": 55.620999999999995,
+        "domain_rank": 601098,
+        "ads_equivalent": 88.40727
+      },
+      {
+        "ref_domain": "firmuj.net",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.009932485068813295,
+        "backlinks_count": 3,
+        "links_external_count": 61616,
+        "percent_of_total": 0.046875,
+        "count": {
+          "count": 3,
+          "percent_of_total": 0.046875
+        },
+        "top3": 0,
+        "top10": 4,
+        "top50": 234,
+        "visibility": 1.3250000000000002,
+        "domain_rank": 1775050,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "baza-firm.com.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.2782256636645853,
+        "backlinks_count": 2,
+        "links_external_count": 254157,
+        "percent_of_total": 0.03125,
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.03125
+        },
+        "top3": 7380,
+        "top10": 64654,
+        "top50": 240978,
+        "visibility": 150027.60699995805,
+        "domain_rank": 2256,
+        "ads_equivalent": 115774.71571999927
+      },
+      {
+        "ref_domain": "developmax.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.39669421487603307,
+        "backlinks_count": 1,
+        "links_external_count": 121,
+        "percent_of_total": 0.015625,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.015625
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 2,
+        "visibility": 0,
+        "domain_rank": 4636514,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "seledyn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.0028770079117717575,
+        "backlinks_count": 1,
+        "links_external_count": 4171,
+        "percent_of_total": 0.015625,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.015625
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 13,
+        "visibility": 0,
+        "domain_rank": 2589187,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "ohmycraft.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 6.706192559174528e-05,
+        "backlinks_count": 1,
+        "links_external_count": 656110,
+        "percent_of_total": 0.015625,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.015625
+        },
+        "top3": 74,
+        "top10": 2354,
+        "top50": 93701,
+        "visibility": 3492.0279999999657,
+        "domain_rank": 54510,
+        "ads_equivalent": 1825.1227700000013
+      },
+      {
+        "ref_domain": "katalog.gery.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.0273929798979273,
+        "backlinks_count": 1,
+        "links_external_count": 9601,
+        "percent_of_total": 0.015625,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.015625
+        },
+        "top3": 14,
+        "top10": 67,
+        "top50": 351,
+        "visibility": 170.33300000000006,
+        "domain_rank": 361627,
+        "ads_equivalent": 31.0475
+      },
+      {
+        "ref_domain": "firmowy24.info",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.13316790736145576,
+        "backlinks_count": 1,
+        "links_external_count": 1209,
+        "percent_of_total": 0.015625,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.015625
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "uzywane.munuc.net",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 1,
+        "links_external_count": 0,
+        "percent_of_total": 0.015625,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.015625
+        },
+        "top3": 0,
+        "top10": 4,
+        "top50": 5,
+        "visibility": 4.263,
+        "domain_rank": 1379383,
+        "ads_equivalent": 0
+      }
+    ],
+    "total": 10,
+    "domain": "goldenexpert.pl",
+    "endpoint": "get_backlinks_referring_domains"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "domain": "hiponet.pl",
+  "endpoint": "get_backlinks_tlds",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "tld": "pl",
+          "count": 112,
+          "percent": 0.9256198347107438
+        },
+        {
+          "tld": "com",
+          "count": 4,
+          "percent": 0.03305785123966942
+        },
+        {
+          "tld": "nl",
+          "count": 3,
+          "percent": 0.024793388429752067
+        },
+        {
+          "tld": "org",
+          "count": 2,
+          "percent": 0.01652892561983471
+        }
+      ],
+      "pagination": {
+        "page_count": 1,
+        "current_page": 1,
+        "has_next_page": false,
+        "has_prev_page": false,
+        "count": 4,
+        "limit": 10
+      }
+    },
+    "status": 200,
+    "domain": "hiponet.pl",
+    "endpoint": "get_backlinks_tlds"
+  }
+}

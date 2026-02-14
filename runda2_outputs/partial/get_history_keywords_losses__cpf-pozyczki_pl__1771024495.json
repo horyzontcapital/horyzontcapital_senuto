@@ -1,0 +1,103 @@
+{
+  "domain": "cpf-pozyczki.pl",
+  "endpoint": "get_history_keywords_losses",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "keyword_id": 1118589,
+        "kid": "18004b63cee07468aab8a5f928ea7196",
+        "domain": "cpf-pozyczki.pl",
+        "keyword": "pożyczka pod zastaw ziemi rolnej",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 17,
+            "previous": 16,
+            "diff": 1,
+            "changes": {
+              "wins": 1,
+              "losses": 2,
+              "no_changes": 1
+            },
+            "history": {
+              "2026-01-05": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-12": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-22": {
+                "position": 16,
+                "has_serp": true
+              },
+              "2026-02-01": {
+                "position": 46,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 17,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "cpf-pozyczki.pl/produkty/pozyczka-pod-zastaw-gruntow-rolnych/",
+            "previous": "cpf-pozyczki.pl/produkty/pozyczka-pod-zastaw-gruntow-rolnych/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 5.6
+          },
+          "searches": {
+            "current": 90
+          },
+          "trends": {
+            "history": [
+              110,
+              90,
+              110,
+              70,
+              90,
+              70,
+              170,
+              50,
+              40,
+              50,
+              70,
+              50
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 31
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "cpf-pozyczki.pl",
+    "endpoint": "get_history_keywords_losses"
+  }
+}

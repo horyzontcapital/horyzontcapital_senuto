@@ -1,0 +1,367 @@
+{
+  "domain": "alphacredit.pl",
+  "endpoint": "get_positions_wins",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "keyword_id": 3290464,
+        "kid": "46d1700e1ef8b1fce25168eb1b75e387",
+        "domain": "alphacredit.pl",
+        "keyword": "credit pl",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 32,
+            "previous": 39,
+            "diff": -7,
+            "changes": {
+              "wins": 1,
+              "losses": 2,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-20": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-26": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-02": {
+                "position": 32,
+                "has_serp": true
+              },
+              "2026-01-19": {
+                "position": 39,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 32,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "alphacredit.pl/",
+            "previous": "alphacredit.pl/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 8.05
+          },
+          "searches": {
+            "current": 110
+          },
+          "trends": {
+            "history": [
+              140,
+              140,
+              140,
+              110,
+              140,
+              110,
+              70,
+              90,
+              110,
+              110,
+              70,
+              170
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 71
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask",
+              "spell"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "website",
+            "main_intent": "navigational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 6232691,
+        "kid": "87b0a1fc8e5d1ab35510a93180bb5bfb",
+        "domain": "alphacredit.pl",
+        "keyword": "pożyczki pod zastaw nieruchomości pozabankowe",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 12,
+            "previous": 15,
+            "diff": -3,
+            "changes": {
+              "wins": 2,
+              "losses": 1,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-21": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-26": {
+                "position": 16,
+                "has_serp": true
+              },
+              "2026-01-02": {
+                "position": 15,
+                "has_serp": true
+              },
+              "2026-01-20": {
+                "position": 15,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 12,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "alphacredit.pl/dla-firm/",
+            "previous": "alphacredit.pl/dla-firm/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 15.61
+          },
+          "searches": {
+            "current": 320
+          },
+          "trends": {
+            "history": [
+              390,
+              390,
+              320,
+              320,
+              260,
+              320,
+              390,
+              320,
+              210,
+              170,
+              210,
+              320
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 35
+          },
+          "snippets": {
+            "current": [
+              "map"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 11884683,
+        "kid": "f3d0e995182e41223539c9381cb71feb",
+        "domain": "alphacredit.pl",
+        "keyword": "firma pozabankowa",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 43,
+            "previous": 51,
+            "diff": -8,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 1
+            },
+            "history": {
+              "2026-01-17": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-27": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-06": {
+                "position": 43,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "alphacredit.pl/dla-firm/",
+            "previous": "",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 9.36
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              20,
+              20,
+              30,
+              10,
+              10,
+              10,
+              10,
+              20,
+              10,
+              20,
+              20,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 58
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 14325533,
+        "kid": "d8760c407047336f174a8df574a17c13",
+        "domain": "alphacredit.pl",
+        "keyword": "mezzanine co to jest",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 5,
+            "previous": 10,
+            "diff": -5,
+            "changes": {
+              "wins": 1,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-21": {
+                "position": 6,
+                "has_serp": true
+              },
+              "2026-01-04": {
+                "position": 7,
+                "has_serp": true
+              },
+              "2026-01-21": {
+                "position": 10,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 5,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 1.01,
+            "previous": 0.31,
+            "diff": 0.7,
+            "percent": 2.2581,
+            "history": null
+          },
+          "url": {
+            "current": "alphacredit.pl/czym-jest-i-do-czego-sluzy-finansowanie-mezzanine/",
+            "previous": "alphacredit.pl/czym-jest-i-do-czego-sluzy-finansowanie-mezzanine/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              30,
+              10,
+              20,
+              20,
+              30,
+              50,
+              20,
+              10,
+              10,
+              20,
+              10,
+              20
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 23
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask",
+              "wiki_right"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      }
+    ],
+    "total": 4,
+    "domain": "alphacredit.pl",
+    "endpoint": "get_positions_wins"
+  }
+}

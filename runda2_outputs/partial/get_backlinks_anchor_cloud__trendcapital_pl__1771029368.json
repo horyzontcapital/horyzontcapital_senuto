@@ -1,0 +1,37 @@
+{
+  "domain": "trendcapital.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "trendcapital.pl": [
+          {
+            "text": "",
+            "size": 6,
+            "percent": 0.6
+          },
+          {
+            "text": "Trend Capital - nowa strona internetowa",
+            "size": 2,
+            "percent": 0.2
+          },
+          {
+            "text": "https://trendcapital.pl/kampania/",
+            "size": 1,
+            "percent": 0.1
+          },
+          {
+            "text": "Skorzystaj z pożyczki pomostowej nawet do 10 mln zł",
+            "size": 1,
+            "percent": 0.1
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "trendcapital.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

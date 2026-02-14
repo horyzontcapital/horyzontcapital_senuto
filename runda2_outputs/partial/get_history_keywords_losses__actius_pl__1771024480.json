@@ -1,0 +1,426 @@
+{
+  "domain": "actius.pl",
+  "endpoint": "get_history_keywords_losses",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "keyword_id": 248657,
+        "kid": "0552eb6ac39734373364bfd4a04a2858",
+        "domain": "actius.pl",
+        "keyword": "kredyt prywatny bez baz",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 35,
+            "previous": 31,
+            "diff": 4,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-27": {
+                "position": 31,
+                "has_serp": true
+              },
+              "2026-02-04": {
+                "position": 35,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "actius.pl/pozyczki-bez-bik/pozyczki-prywatne/",
+            "previous": "actius.pl/pozyczki-bez-bik/pozyczki-prywatne/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0.77
+          },
+          "searches": {
+            "current": 30
+          },
+          "trends": {
+            "history": [
+              50,
+              50,
+              70,
+              50,
+              70,
+              30,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 38
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "buy",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 6232691,
+        "kid": "87b0a1fc8e5d1ab35510a93180bb5bfb",
+        "domain": "actius.pl",
+        "keyword": "pożyczki pod zastaw nieruchomości pozabankowe",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 33,
+            "previous": 32,
+            "diff": 1,
+            "changes": {
+              "wins": 2,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-21": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-26": {
+                "position": 38,
+                "has_serp": true
+              },
+              "2026-01-02": {
+                "position": 33,
+                "has_serp": true
+              },
+              "2026-01-20": {
+                "position": 32,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 33,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "actius.pl/",
+            "previous": "actius.pl/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 15.61
+          },
+          "searches": {
+            "current": 320
+          },
+          "trends": {
+            "history": [
+              390,
+              390,
+              320,
+              320,
+              260,
+              320,
+              390,
+              320,
+              210,
+              170,
+              210,
+              320
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 35
+          },
+          "snippets": {
+            "current": [
+              "map"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 723165,
+        "kid": "0f7e1d5d2b313f77c05468590f081af6",
+        "domain": "actius.pl",
+        "keyword": "pożyczka pod zastaw nieruchomości warszawa",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 29,
+            "previous": 27,
+            "diff": 2,
+            "changes": {
+              "wins": 0,
+              "losses": 2,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-24": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-26": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-09": {
+                "position": 27,
+                "has_serp": true
+              },
+              "2026-02-04": {
+                "position": 29,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "actius.pl/",
+            "previous": "actius.pl/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 16.37
+          },
+          "searches": {
+            "current": 30
+          },
+          "trends": {
+            "history": [
+              20,
+              20,
+              30,
+              50,
+              40,
+              50,
+              40,
+              90,
+              10,
+              30,
+              20,
+              20
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 35
+          },
+          "snippets": {
+            "current": [
+              "map"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 1086763,
+        "kid": "1752802dc211c1583318ff61f675cfc8",
+        "domain": "actius.pl",
+        "keyword": "pożyczki pod zastaw mieszkania warszawa",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 28,
+            "previous": 19,
+            "diff": 9,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-26": {
+                "position": 19,
+                "has_serp": true
+              },
+              "2026-02-06": {
+                "position": 28,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "actius.pl/",
+            "previous": "actius.pl/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              10,
+              10,
+              10,
+              0,
+              0,
+              0,
+              0,
+              0,
+              10,
+              0
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 17
+          },
+          "snippets": {
+            "current": []
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 10229526,
+        "kid": "e1af283fe6c25e2e5e9ae3584d3d9308",
+        "domain": "actius.pl",
+        "keyword": "pożyczka pod zastaw nieruchomości forum",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 14,
+            "previous": 9,
+            "diff": 5,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-28": {
+                "position": 9,
+                "has_serp": true
+              },
+              "2026-02-10": {
+                "position": 14,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0.18,
+            "diff": -0.18,
+            "percent": -1,
+            "history": null
+          },
+          "url": {
+            "current": "actius.pl/pozyczki-pod-hipoteke-dla-firm/pozyczki-pod-zastaw-nieruchomosci-na-10-lat-gdzie-dostac-i-czy-warto/",
+            "previous": "actius.pl/pozyczki-pod-hipoteke-dla-firm/pozyczki-pod-zastaw-nieruchomosci-na-10-lat-gdzie-dostac-i-czy-warto/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 8
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      }
+    ],
+    "total": 5,
+    "domain": "actius.pl",
+    "endpoint": "get_history_keywords_losses"
+  }
+}

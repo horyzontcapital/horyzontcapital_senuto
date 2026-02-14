@@ -1,0 +1,73 @@
+{
+  "domain": "strefabiznesu.pl",
+  "endpoint": "get_backlinks_tlds",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "tld": "pl",
+          "count": 345948,
+          "percent": 0.9986720860950093
+        },
+        {
+          "tld": "com",
+          "count": 215,
+          "percent": 0.0006206554121151937
+        },
+        {
+          "tld": "eu",
+          "count": 68,
+          "percent": 0.00019630031638992172
+        },
+        {
+          "tld": "bike",
+          "count": 52,
+          "percent": 0.0001501120066511166
+        },
+        {
+          "tld": "org",
+          "count": 29,
+          "percent": 8.371631140158426e-05
+        },
+        {
+          "tld": "me",
+          "count": 17,
+          "percent": 4.907507909748043e-05
+        },
+        {
+          "tld": "net",
+          "count": 16,
+          "percent": 4.6188309738805106e-05
+        },
+        {
+          "tld": "in",
+          "count": 15,
+          "percent": 4.330154038012979e-05
+        },
+        {
+          "tld": "no",
+          "count": 7,
+          "percent": 2.0207385510727235e-05
+        },
+        {
+          "tld": "wiki",
+          "count": 5,
+          "percent": 1.4433846793376596e-05
+        }
+      ],
+      "pagination": {
+        "page_count": 3,
+        "current_page": 1,
+        "has_next_page": true,
+        "has_prev_page": false,
+        "count": 28,
+        "limit": 10
+      }
+    },
+    "status": 200,
+    "domain": "strefabiznesu.pl",
+    "endpoint": "get_backlinks_tlds"
+  }
+}

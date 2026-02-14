@@ -1,0 +1,74 @@
+{
+  "domain": "baltcredit.pl",
+  "endpoint": "get_domain_statistics",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "statistics": {
+          "top3": {
+            "recent_value": 51,
+            "older_value": 51,
+            "diff": 0,
+            "percent": 0
+          },
+          "top10": {
+            "recent_value": 191,
+            "older_value": 191,
+            "diff": 0,
+            "percent": 0
+          },
+          "top50": {
+            "recent_value": 702,
+            "older_value": 702,
+            "diff": 0,
+            "percent": 0
+          },
+          "visibility": {
+            "recent_value": 1088,
+            "older_value": 1088,
+            "diff": 0,
+            "percent": 0
+          },
+          "domain_rank": {
+            "recent_value": 123517,
+            "older_value": 123503,
+            "diff": 14,
+            "percent": 0.0001
+          },
+          "ads_equivalent": {
+            "recent_value": 12434.83,
+            "older_value": 12434.83,
+            "diff": 0,
+            "percent": 0
+          },
+          "category": {
+            "name": "",
+            "statistics": {
+              "recent_value": 123517,
+              "older_value": 123517,
+              "diff": 0,
+              "percent": 0
+            }
+          },
+          "aio_keywords": {
+            "recent_value": 65,
+            "older_value": 65,
+            "diff": 0,
+            "percent": 0
+          },
+          "aio_visible_keywords": {
+            "recent_value": 217,
+            "older_value": 217,
+            "diff": 0,
+            "percent": 0
+          }
+        }
+      }
+    },
+    "status": 200,
+    "domain": "baltcredit.pl",
+    "endpoint": "get_domain_statistics"
+  }
+}

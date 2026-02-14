@@ -1,0 +1,2255 @@
+{
+  "domain": "yanokhipoteczny.pl",
+  "endpoint": "get_backlinks_referring_domains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "ref_domain": "e-biurowce.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": 161,
+          "article_price_nofollow": null,
+          "link_price_dofollow": null,
+          "link_price_nofollow": null,
+          "price_do_follow": 161,
+          "price_no_follow": null
+        },
+        "ratio_bl_ext": 0.0019685361755370895,
+        "backlinks_count": 33734,
+        "links_external_count": 305303,
+        "percent_of_total": 0.9314153183499917,
+        "count": {
+          "count": 33734,
+          "percent_of_total": 0.9314153183499917
+        },
+        "top3": 17,
+        "top10": 224,
+        "top50": 2225,
+        "visibility": 220.00699999999998,
+        "domain_rank": 316657,
+        "ads_equivalent": 239.94896999999997
+      },
+      {
+        "ref_domain": "krn.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": 644,
+          "article_price_nofollow": null,
+          "link_price_dofollow": 322,
+          "link_price_nofollow": null,
+          "price_do_follow": 644,
+          "price_no_follow": null
+        },
+        "ratio_bl_ext": 2.7591378069263377,
+        "backlinks_count": 2237,
+        "links_external_count": 25006,
+        "percent_of_total": 0.06176486829753161,
+        "count": {
+          "count": 2237,
+          "percent_of_total": 0.06176486829753161
+        },
+        "top3": 291,
+        "top10": 4640,
+        "top50": 22517,
+        "visibility": 19502.18899999995,
+        "domain_rank": 14078,
+        "ads_equivalent": 7110.985860000054
+      },
+      {
+        "ref_domain": "wielkopolskie.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.10227272727272728,
+        "backlinks_count": 32,
+        "links_external_count": 352,
+        "percent_of_total": 0.0008835385719807831,
+        "count": {
+          "count": 32,
+          "percent_of_total": 0.0008835385719807831
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "dwutygodnik.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.11818181818181818,
+        "backlinks_count": 20,
+        "links_external_count": 220,
+        "percent_of_total": 0.0005522116074879894,
+        "count": {
+          "count": 20,
+          "percent_of_total": 0.0005522116074879894
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "bizneshipoteka.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.08333333333333333,
+        "backlinks_count": 11,
+        "links_external_count": 12,
+        "percent_of_total": 0.00030371638411839415,
+        "count": {
+          "count": 11,
+          "percent_of_total": 0.00030371638411839415
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 5,
+        "visibility": 0,
+        "domain_rank": 3719455,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "wiadomosci.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 1.3409090909090908,
+        "backlinks_count": 8,
+        "links_external_count": 88,
+        "percent_of_total": 0.00022088464299519576,
+        "count": {
+          "count": 8,
+          "percent_of_total": 0.00022088464299519576
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "weksledochodowe.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.23529411764705882,
+        "backlinks_count": 8,
+        "links_external_count": 17,
+        "percent_of_total": 0.00022088464299519576,
+        "count": {
+          "count": 8,
+          "percent_of_total": 0.00022088464299519576
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 1,
+        "visibility": 0,
+        "domain_rank": 5359725,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "prawo-nieruchomosci.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 4.636363636363637,
+        "backlinks_count": 7,
+        "links_external_count": 77,
+        "percent_of_total": 0.00019327406262079628,
+        "count": {
+          "count": 7,
+          "percent_of_total": 0.00019327406262079628
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "podlaskie.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.1038961038961039,
+        "backlinks_count": 6,
+        "links_external_count": 77,
+        "percent_of_total": 0.00016566348224639682,
+        "count": {
+          "count": 6,
+          "percent_of_total": 0.00016566348224639682
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "szukampracy.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.10009746665927083,
+        "backlinks_count": 5,
+        "links_external_count": 252394,
+        "percent_of_total": 0.00013805290187199736,
+        "count": {
+          "count": 5,
+          "percent_of_total": 0.00013805290187199736
+        },
+        "top3": 184,
+        "top10": 2049,
+        "top50": 10220,
+        "visibility": 9066.186000000058,
+        "domain_rank": 26287,
+        "ads_equivalent": 11049.658740000013
+      },
+      {
+        "ref_domain": "lubuskie.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.13636363636363635,
+        "backlinks_count": 4,
+        "links_external_count": 44,
+        "percent_of_total": 0.00011044232149759788,
+        "count": {
+          "count": 4,
+          "percent_of_total": 0.00011044232149759788
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "swietokrzyskie.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.2727272727272727,
+        "backlinks_count": 4,
+        "links_external_count": 44,
+        "percent_of_total": 0.00011044232149759788,
+        "count": {
+          "count": 4,
+          "percent_of_total": 0.00011044232149759788
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "tx-nieruchomosci.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 4,
+        "links_external_count": 0,
+        "percent_of_total": 0.00011044232149759788,
+        "count": {
+          "count": 4,
+          "percent_of_total": 0.00011044232149759788
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "metropolix.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.030303030303030304,
+        "backlinks_count": 3,
+        "links_external_count": 33,
+        "percent_of_total": 8.283174112319841e-05,
+        "count": {
+          "count": 3,
+          "percent_of_total": 8.283174112319841e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "podkarpackie.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.32727272727272727,
+        "backlinks_count": 3,
+        "links_external_count": 55,
+        "percent_of_total": 8.283174112319841e-05,
+        "count": {
+          "count": 3,
+          "percent_of_total": 8.283174112319841e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "budimex.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 3,
+        "links_external_count": 0,
+        "percent_of_total": 8.283174112319841e-05,
+        "count": {
+          "count": 3,
+          "percent_of_total": 8.283174112319841e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "rekord.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.09090909090909091,
+        "backlinks_count": 3,
+        "links_external_count": 33,
+        "percent_of_total": 8.283174112319841e-05,
+        "count": {
+          "count": 3,
+          "percent_of_total": 8.283174112319841e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "arhaus.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 3,
+        "links_external_count": 0,
+        "percent_of_total": 8.283174112319841e-05,
+        "count": {
+          "count": 3,
+          "percent_of_total": 8.283174112319841e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "palkowscy.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.030303030303030304,
+        "backlinks_count": 3,
+        "links_external_count": 33,
+        "percent_of_total": 8.283174112319841e-05,
+        "count": {
+          "count": 3,
+          "percent_of_total": 8.283174112319841e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "tecnocasa6.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 3,
+        "links_external_count": 0,
+        "percent_of_total": 8.283174112319841e-05,
+        "count": {
+          "count": 3,
+          "percent_of_total": 8.283174112319841e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "markusandrus.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.06060606060606061,
+        "backlinks_count": 3,
+        "links_external_count": 33,
+        "percent_of_total": 8.283174112319841e-05,
+        "count": {
+          "count": 3,
+          "percent_of_total": 8.283174112319841e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "comparic.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": 547.4,
+          "article_price_nofollow": 289.8,
+          "link_price_dofollow": 289.8,
+          "link_price_nofollow": 209.3,
+          "price_do_follow": 547.4,
+          "price_no_follow": 289.8
+        },
+        "ratio_bl_ext": 0.004206291907575843,
+        "backlinks_count": 3,
+        "links_external_count": 4095769,
+        "percent_of_total": 8.283174112319841e-05,
+        "count": {
+          "count": 3,
+          "percent_of_total": 8.283174112319841e-05
+        },
+        "top3": 408,
+        "top10": 2025,
+        "top50": 21306,
+        "visibility": 65265.26400000005,
+        "domain_rank": 4762,
+        "ads_equivalent": 248525.9220800001
+      },
+      {
+        "ref_domain": "plebiscyt.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.06060606060606061,
+        "backlinks_count": 3,
+        "links_external_count": 33,
+        "percent_of_total": 8.283174112319841e-05,
+        "count": {
+          "count": 3,
+          "percent_of_total": 8.283174112319841e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "pop.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 2255.4666666666667,
+        "backlinks_count": 2,
+        "links_external_count": 15,
+        "percent_of_total": 5.522116074879894e-05,
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.522116074879894e-05
+        },
+        "top3": 13,
+        "top10": 25,
+        "top50": 64,
+        "visibility": 320.93699999999995,
+        "domain_rank": 258899,
+        "ads_equivalent": 595.0445800000001
+      },
+      {
+        "ref_domain": "bankier.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": null,
+          "article_price_nofollow": 4025,
+          "link_price_dofollow": null,
+          "link_price_nofollow": null,
+          "price_do_follow": null,
+          "price_no_follow": 4025
+        },
+        "ratio_bl_ext": 0.45290338274804337,
+        "backlinks_count": 2,
+        "links_external_count": 8394329,
+        "percent_of_total": 5.522116074879894e-05,
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.522116074879894e-05
+        },
+        "top3": 37585,
+        "top10": 100879,
+        "top50": 397062,
+        "visibility": 6716702.150999981,
+        "domain_rank": 54,
+        "ads_equivalent": 25095877.47217976
+      },
+      {
+        "ref_domain": "kujawsko-pomorskie.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.45454545454545453,
+        "backlinks_count": 2,
+        "links_external_count": 22,
+        "percent_of_total": 5.522116074879894e-05,
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.522116074879894e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "biznes.interia.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": 1932,
+          "article_price_nofollow": null,
+          "link_price_dofollow": null,
+          "link_price_nofollow": null,
+          "price_do_follow": 1932,
+          "price_no_follow": null
+        },
+        "ratio_bl_ext": 0.2803844302765708,
+        "backlinks_count": 2,
+        "links_external_count": 1749498,
+        "percent_of_total": 5.522116074879894e-05,
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.522116074879894e-05
+        },
+        "top3": 5481,
+        "top10": 23068,
+        "top50": 152500,
+        "visibility": 750362.594000054,
+        "domain_rank": 507,
+        "ads_equivalent": 1688221.4608700057
+      },
+      {
+        "ref_domain": "pomorskie.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.45454545454545453,
+        "backlinks_count": 2,
+        "links_external_count": 44,
+        "percent_of_total": 5.522116074879894e-05,
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.522116074879894e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "opolskie.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.45454545454545453,
+        "backlinks_count": 2,
+        "links_external_count": 22,
+        "percent_of_total": 5.522116074879894e-05,
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.522116074879894e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "redakcja.krakula.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 6.755387421468622e-05,
+        "backlinks_count": 2,
+        "links_external_count": 14803,
+        "percent_of_total": 5.522116074879894e-05,
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.522116074879894e-05
+        },
+        "top3": 0,
+        "top10": 6,
+        "top50": 53,
+        "visibility": 7.485,
+        "domain_rank": 1194418,
+        "ads_equivalent": 8.2076
+      },
+      {
+        "ref_domain": "money24.com.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": 120.75,
+          "article_price_nofollow": 40.25,
+          "link_price_dofollow": null,
+          "link_price_nofollow": null,
+          "price_do_follow": 120.75,
+          "price_no_follow": 40.25
+        },
+        "ratio_bl_ext": 0.11664190193164933,
+        "backlinks_count": 2,
+        "links_external_count": 1346,
+        "percent_of_total": 5.522116074879894e-05,
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.522116074879894e-05
+        },
+        "top3": 0,
+        "top10": 5,
+        "top50": 1166,
+        "visibility": 10.962000000000002,
+        "domain_rank": 1070271,
+        "ads_equivalent": 24.49107
+      },
+      {
+        "ref_domain": "wsb.com.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": 409.975,
+          "article_price_nofollow": null,
+          "link_price_dofollow": 96.6,
+          "link_price_nofollow": 64.4,
+          "price_do_follow": 409.975,
+          "price_no_follow": null
+        },
+        "ratio_bl_ext": 0.07253530782942548,
+        "backlinks_count": 2,
+        "links_external_count": 7293,
+        "percent_of_total": 5.522116074879894e-05,
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.522116074879894e-05
+        },
+        "top3": 5,
+        "top10": 20,
+        "top50": 489,
+        "visibility": 82.06400000000001,
+        "domain_rank": 508852,
+        "ads_equivalent": 2.2247999999999997
+      },
+      {
+        "ref_domain": "eurex.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.045454545454545456,
+        "backlinks_count": 2,
+        "links_external_count": 22,
+        "percent_of_total": 5.522116074879894e-05,
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.522116074879894e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "epio.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": 188.6,
+          "article_price_nofollow": 85.813,
+          "link_price_dofollow": null,
+          "link_price_nofollow": null,
+          "price_do_follow": 188.6,
+          "price_no_follow": 85.813
+        },
+        "ratio_bl_ext": 1.450199203187251,
+        "backlinks_count": 2,
+        "links_external_count": 251,
+        "percent_of_total": 5.522116074879894e-05,
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.522116074879894e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 3,
+        "visibility": 0,
+        "domain_rank": 3223755,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "pb.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": null,
+          "article_price_nofollow": 4025,
+          "link_price_dofollow": null,
+          "link_price_nofollow": null,
+          "price_do_follow": null,
+          "price_no_follow": 4025
+        },
+        "ratio_bl_ext": 0.062115195039293,
+        "backlinks_count": 2,
+        "links_external_count": 12316954,
+        "percent_of_total": 5.522116074879894e-05,
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.522116074879894e-05
+        },
+        "top3": 1264,
+        "top10": 8038,
+        "top50": 77802,
+        "visibility": 436738.8149999954,
+        "domain_rank": 824,
+        "ads_equivalent": 946189.0441699994
+      },
+      {
+        "ref_domain": "portfelpolaka.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": 330.05,
+          "article_price_nofollow": null,
+          "link_price_dofollow": 241.5,
+          "link_price_nofollow": null,
+          "price_do_follow": 330.05,
+          "price_no_follow": null
+        },
+        "ratio_bl_ext": 1.5956236965589154,
+        "backlinks_count": 2,
+        "links_external_count": 61376,
+        "percent_of_total": 5.522116074879894e-05,
+        "count": {
+          "count": 2,
+          "percent_of_total": 5.522116074879894e-05
+        },
+        "top3": 19,
+        "top10": 118,
+        "top50": 3326,
+        "visibility": 405.7469999999995,
+        "domain_rank": 226846,
+        "ads_equivalent": 33.98527999999999
+      },
+      {
+        "ref_domain": "homeemperor.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 1,
+        "links_external_count": 0,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "smpodgorze.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.09090909090909091,
+        "backlinks_count": 1,
+        "links_external_count": 11,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "aknnieruchomosci.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 1,
+        "links_external_count": 0,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "businessinsider.com.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": null,
+          "article_price_nofollow": 5635,
+          "link_price_dofollow": null,
+          "link_price_nofollow": null,
+          "price_do_follow": null,
+          "price_no_follow": 5635
+        },
+        "ratio_bl_ext": 0.7053901230401596,
+        "backlinks_count": 1,
+        "links_external_count": 1902387,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 25583,
+        "top10": 83858,
+        "top50": 388048,
+        "visibility": 5162650.777000366,
+        "domain_rank": 72,
+        "ads_equivalent": 32848135.066369906
+      },
+      {
+        "ref_domain": "asteleurope.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.09090909090909091,
+        "backlinks_count": 1,
+        "links_external_count": 11,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "weksleinwestycyjne.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 3.5,
+        "backlinks_count": 1,
+        "links_external_count": 2,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 2,
+        "top50": 10,
+        "visibility": 1.326,
+        "domain_rank": 1775033,
+        "ads_equivalent": 3.87464
+      },
+      {
+        "ref_domain": "villaverona.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 1.0909090909090908,
+        "backlinks_count": 1,
+        "links_external_count": 11,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "soleygliwice.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 1,
+        "links_external_count": 0,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "lidernieruchomosci.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.09090909090909091,
+        "backlinks_count": 1,
+        "links_external_count": 11,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "czernecki-kudyk.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.09090909090909091,
+        "backlinks_count": 1,
+        "links_external_count": 11,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "europejskafirma.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": 805,
+          "article_price_nofollow": null,
+          "link_price_dofollow": null,
+          "link_price_nofollow": null,
+          "price_do_follow": 805,
+          "price_no_follow": null
+        },
+        "ratio_bl_ext": 0.7098259705488621,
+        "backlinks_count": 1,
+        "links_external_count": 18675,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 32,
+        "top10": 386,
+        "top50": 24619,
+        "visibility": 1741.713999999999,
+        "domain_rank": 89759,
+        "ads_equivalent": 3804.6037
+      },
+      {
+        "ref_domain": "prohousenieruchomosci.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 1,
+        "links_external_count": 0,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "nieruchomosciikredyty.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 1,
+        "links_external_count": 0,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "pozyczkowy-portal.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": 1927.4,
+          "article_price_nofollow": 1322.5,
+          "link_price_dofollow": 1927.4,
+          "link_price_nofollow": null,
+          "price_do_follow": 1927.4,
+          "price_no_follow": 1322.5
+        },
+        "ratio_bl_ext": 0.09211232337685567,
+        "backlinks_count": 1,
+        "links_external_count": 5591,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 25,
+        "top10": 136,
+        "top50": 1455,
+        "visibility": 1747.4979999999991,
+        "domain_rank": 89561,
+        "ads_equivalent": 15910.15185
+      },
+      {
+        "ref_domain": "oles.system.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 1,
+        "links_external_count": 0,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "liberanieruchomosci.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 1,
+        "links_external_count": 0,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "tyzonieruchomosci.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 1,
+        "links_external_count": 0,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "piowczyknieruchomosci.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 1,
+        "links_external_count": 0,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "korpoknieruchomosci.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 1,
+        "links_external_count": 0,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "kosikowski.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 1,
+        "links_external_count": 0,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "ek-nieruchomosci.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.09090909090909091,
+        "backlinks_count": 1,
+        "links_external_count": 11,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "orle-gniazdo.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.2727272727272727,
+        "backlinks_count": 1,
+        "links_external_count": 11,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "alejanieruchomosci.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.09090909090909091,
+        "backlinks_count": 1,
+        "links_external_count": 11,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "activenieruchomosci.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.09090909090909091,
+        "backlinks_count": 1,
+        "links_external_count": 11,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "starowicznieruchomosci.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.09090909090909091,
+        "backlinks_count": 1,
+        "links_external_count": 11,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "toka-nieruchomosci.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 1,
+        "links_external_count": 0,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "prosperhome.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 1,
+        "links_external_count": 0,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "ekspert-bankowy.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.3937550689375507,
+        "backlinks_count": 1,
+        "links_external_count": 4932,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 3,
+        "top10": 37,
+        "top50": 1283,
+        "visibility": 119.47600000000004,
+        "domain_rank": 428522,
+        "ads_equivalent": 212.97733999999997
+      },
+      {
+        "ref_domain": "alternatywa-bis.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 1,
+        "links_external_count": 0,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "jacekkropielnickiinvestments.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 1,
+        "links_external_count": 0,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "krakestates.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.09090909090909091,
+        "backlinks_count": 1,
+        "links_external_count": 11,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "agencjanieruchomoscikomercyjnych.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 1,
+        "links_external_count": 0,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "oazanieruchomosci.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 1,
+        "links_external_count": 0,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "nieruchomosci-slask.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 1,
+        "links_external_count": 0,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "tomaszewska.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 1,
+        "links_external_count": 0,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "gawraszczecin.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 1,
+        "links_external_count": 0,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "lokum-lublin.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.09090909090909091,
+        "backlinks_count": 1,
+        "links_external_count": 11,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "lnkd.in",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 5.231205278319859,
+        "backlinks_count": 1,
+        "links_external_count": 161415,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 1,
+        "top50": 6,
+        "visibility": 0.223,
+        "domain_rank": 2098059,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "dgj.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.09090909090909091,
+        "backlinks_count": 1,
+        "links_external_count": 11,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "ronin24.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 429,
+        "backlinks_count": 1,
+        "links_external_count": 11,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 1,
+        "top10": 10,
+        "top50": 22,
+        "visibility": 74.378,
+        "domain_rank": 532103,
+        "ads_equivalent": 244.64853000000002
+      },
+      {
+        "ref_domain": "allbeside.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 1,
+        "links_external_count": 0,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "4tepietro.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 1,
+        "links_external_count": 0,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "verde.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 1,
+        "links_external_count": 0,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "rolmex.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.18181818181818182,
+        "backlinks_count": 1,
+        "links_external_count": 11,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "24gliwice.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": 338.1,
+          "article_price_nofollow": null,
+          "link_price_dofollow": null,
+          "link_price_nofollow": null,
+          "price_do_follow": 338.1,
+          "price_no_follow": null
+        },
+        "ratio_bl_ext": 0.033664170874688024,
+        "backlinks_count": 1,
+        "links_external_count": 51687,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 268,
+        "top10": 1117,
+        "top50": 7538,
+        "visibility": 34616.83000000015,
+        "domain_rank": 8459,
+        "ads_equivalent": 147793.7374400001
+      },
+      {
+        "ref_domain": "inmedio.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 1,
+        "links_external_count": 0,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "domesa.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 1,
+        "links_external_count": 0,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "gwarant.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 1,
+        "links_external_count": 0,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "solido.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.09090909090909091,
+        "backlinks_count": 1,
+        "links_external_count": 11,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "bithub.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": null,
+          "article_price_nofollow": 2932.5,
+          "link_price_dofollow": null,
+          "link_price_nofollow": null,
+          "price_do_follow": null,
+          "price_no_follow": 2932.5
+        },
+        "ratio_bl_ext": 0.4071977494167696,
+        "backlinks_count": 1,
+        "links_external_count": 29148,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 232,
+        "top10": 1027,
+        "top50": 6521,
+        "visibility": 11949.044000000009,
+        "domain_rank": 21010,
+        "ads_equivalent": 38496.63307
+      },
+      {
+        "ref_domain": "mdd.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 1,
+        "links_external_count": 0,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "konopka.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.18181818181818182,
+        "backlinks_count": 1,
+        "links_external_count": 11,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "krakula.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": 112.7,
+          "article_price_nofollow": null,
+          "link_price_dofollow": null,
+          "link_price_nofollow": null,
+          "price_do_follow": 112.7,
+          "price_no_follow": null
+        },
+        "ratio_bl_ext": 0.19913419913419914,
+        "backlinks_count": 1,
+        "links_external_count": 231,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 31,
+        "top10": 199,
+        "top50": 995,
+        "visibility": 749.4189999999996,
+        "domain_rank": 157096,
+        "ads_equivalent": 931.4481000000002
+      },
+      {
+        "ref_domain": "forbes.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": null,
+          "article_price_nofollow": 10170.6,
+          "link_price_dofollow": null,
+          "link_price_nofollow": null,
+          "price_do_follow": null,
+          "price_no_follow": 10170.6
+        },
+        "ratio_bl_ext": 1.187632558170459,
+        "backlinks_count": 1,
+        "links_external_count": 451217,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 3492,
+        "top10": 15165,
+        "top50": 87111,
+        "visibility": 284737.9519999945,
+        "domain_rank": 1222,
+        "ads_equivalent": 681970.2089800003
+      },
+      {
+        "ref_domain": "globe-house.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 1,
+        "links_external_count": 0,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "marszalek.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 1,
+        "links_external_count": 0,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "brandt.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 1,
+        "links_external_count": 0,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "apex.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.09090909090909091,
+        "backlinks_count": 1,
+        "links_external_count": 11,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "alokum.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.09090909090909091,
+        "backlinks_count": 1,
+        "links_external_count": 11,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "marson.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 1,
+        "links_external_count": 0,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "szeliga.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 1,
+        "links_external_count": 0,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "dona-dom.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 1,
+        "links_external_count": 0,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "favore.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.5237682550369219,
+        "backlinks_count": 1,
+        "links_external_count": 1396190,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 567,
+        "top10": 6223,
+        "top50": 54943,
+        "visibility": 12042.057000000175,
+        "domain_rank": 20891,
+        "ads_equivalent": 11330.021650000012
+      },
+      {
+        "ref_domain": "alkazar.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.09090909090909091,
+        "backlinks_count": 1,
+        "links_external_count": 11,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "allbeside.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 1,
+        "links_external_count": 0,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "ronin24.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 429,
+        "backlinks_count": 1,
+        "links_external_count": 11,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 1,
+        "top10": 10,
+        "top50": 22,
+        "visibility": 74.378,
+        "domain_rank": 532103,
+        "ads_equivalent": 244.64853000000002
+      },
+      {
+        "ref_domain": "soleygliwice.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 1,
+        "links_external_count": 0,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "lidernieruchomosci.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.09090909090909091,
+        "backlinks_count": 1,
+        "links_external_count": 11,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "prohousenieruchomosci.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 1,
+        "links_external_count": 0,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "nieruchomosciikredyty.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 1,
+        "links_external_count": 0,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "liberanieruchomosci.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 1,
+        "links_external_count": 0,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "piowczyknieruchomosci.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 1,
+        "links_external_count": 0,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "dgj.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.09090909090909091,
+        "backlinks_count": 1,
+        "links_external_count": 11,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "korpoknieruchomosci.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 1,
+        "links_external_count": 0,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "alejanieruchomosci.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.09090909090909091,
+        "backlinks_count": 1,
+        "links_external_count": 11,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "activenieruchomosci.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.09090909090909091,
+        "backlinks_count": 1,
+        "links_external_count": 11,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "starowicznieruchomosci.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.09090909090909091,
+        "backlinks_count": 1,
+        "links_external_count": 11,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "toka-nieruchomosci.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 1,
+        "links_external_count": 0,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "lnkd.in",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 5.231205278319859,
+        "backlinks_count": 1,
+        "links_external_count": 161415,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 1,
+        "top50": 6,
+        "visibility": 0.223,
+        "domain_rank": 2098059,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "jacekkropielnickiinvestments.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 1,
+        "links_external_count": 0,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "agencjanieruchomoscikomercyjnych.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 1,
+        "links_external_count": 0,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "idealhome.krn.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.09090909090909091,
+        "backlinks_count": 1,
+        "links_external_count": 11,
+        "percent_of_total": 2.761058037439947e-05,
+        "count": {
+          "count": 1,
+          "percent_of_total": 2.761058037439947e-05
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      }
+    ],
+    "total": 118,
+    "domain": "yanokhipoteczny.pl",
+    "endpoint": "get_backlinks_referring_domains"
+  }
+}

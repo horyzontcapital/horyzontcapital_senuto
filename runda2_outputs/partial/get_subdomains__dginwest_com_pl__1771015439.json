@@ -1,0 +1,54 @@
+{
+  "domain": "dginwest.com.pl",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "dginwest.com.pl",
+        "keywords_count": 212,
+        "visibility_percent": 100,
+        "statistics": {
+          "visibility": {
+            "current": 473,
+            "previous": 472.27,
+            "diff": 0.74,
+            "percent": 0.0015,
+            "history": null
+          },
+          "top3": {
+            "current": 30,
+            "previous": 31,
+            "diff": -1,
+            "percent": -0.0323,
+            "history": null
+          },
+          "top10": {
+            "current": 212,
+            "previous": 214,
+            "diff": -2,
+            "percent": -0.0093,
+            "history": null
+          },
+          "top50": {
+            "current": 1405,
+            "previous": 1417,
+            "diff": -12,
+            "percent": -0.0085,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 100,
+            "previous": 100,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "dginwest.com.pl",
+    "endpoint": "get_subdomains"
+  }
+}

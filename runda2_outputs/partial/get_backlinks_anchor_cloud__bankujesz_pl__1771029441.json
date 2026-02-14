@@ -1,0 +1,67 @@
+{
+  "domain": "bankujesz.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "bankujesz.pl": [
+          {
+            "text": "Godziny przelewów wychodzących i przelewów przychodzących w Santander Bank Polska",
+            "size": 120,
+            "percent": 0.020171457387796268
+          },
+          {
+            "text": "Historia Santander Bank Polska",
+            "size": 120,
+            "percent": 0.020171457387796268
+          },
+          {
+            "text": "Konto bankowe w Santander Bank Polska",
+            "size": 120,
+            "percent": 0.020171457387796268
+          },
+          {
+            "text": "kontakt Santander Bank Polska",
+            "size": 120,
+            "percent": 0.020171457387796268
+          },
+          {
+            "text": "Główna siedziba banku Santrander",
+            "size": 120,
+            "percent": 0.020171457387796268
+          },
+          {
+            "text": "kont oszczędnościowych",
+            "size": 110,
+            "percent": 0.01849050260547991
+          },
+          {
+            "text": "Konto walutowe",
+            "size": 100,
+            "percent": 0.016809547823163556
+          },
+          {
+            "text": "Ciekawostki dotyczące Banku Pekao S.A.",
+            "size": 98,
+            "percent": 0.016473356866700286
+          },
+          {
+            "text": "przelewach wychodzących i przychodzących oraz sesjach elixir w Banku Pekao S.A",
+            "size": 98,
+            "percent": 0.016473356866700286
+          },
+          {
+            "text": "Siedziba Banku Pekao S.A.",
+            "size": 98,
+            "percent": 0.016473356866700286
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "bankujesz.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

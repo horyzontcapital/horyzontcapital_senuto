@@ -1,0 +1,33 @@
+{
+  "domain": "newpoint-finance.pl",
+  "endpoint": "get_backlinks_tlds",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "tld": "pl",
+          "count": 5,
+          "percent": 0.8333333333333334
+        },
+        {
+          "tld": "ua",
+          "count": 1,
+          "percent": 0.16666666666666666
+        }
+      ],
+      "pagination": {
+        "page_count": 1,
+        "current_page": 1,
+        "has_next_page": false,
+        "has_prev_page": false,
+        "count": 2,
+        "limit": 10
+      }
+    },
+    "status": 200,
+    "domain": "newpoint-finance.pl",
+    "endpoint": "get_backlinks_tlds"
+  }
+}

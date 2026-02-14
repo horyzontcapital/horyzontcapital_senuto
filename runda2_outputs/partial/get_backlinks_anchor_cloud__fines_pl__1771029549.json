@@ -1,0 +1,67 @@
+{
+  "domain": "fines.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "fines.pl": [
+          {
+            "text": "Strona",
+            "size": 39,
+            "percent": 0.15234375
+          },
+          {
+            "text": "Przejdz do strony",
+            "size": 36,
+            "percent": 0.140625
+          },
+          {
+            "text": "",
+            "size": 32,
+            "percent": 0.125
+          },
+          {
+            "text": "www",
+            "size": 31,
+            "percent": 0.12109375
+          },
+          {
+            "text": "fines.pl",
+            "size": 23,
+            "percent": 0.08984375
+          },
+          {
+            "text": "www.fines.pl",
+            "size": 22,
+            "percent": 0.0859375
+          },
+          {
+            "text": "https://www.fines.pl/",
+            "size": 13,
+            "percent": 0.05078125
+          },
+          {
+            "text": "https://www.fines.pl/kontakt/placowka/",
+            "size": 8,
+            "percent": 0.03125
+          },
+          {
+            "text": "http://www.fines.pl/",
+            "size": 4,
+            "percent": 0.015625
+          },
+          {
+            "text": "Fines S.A.",
+            "size": 3,
+            "percent": 0.01171875
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "fines.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

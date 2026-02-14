@@ -1,0 +1,73 @@
+{
+  "domain": "businessinsider.com.pl",
+  "endpoint": "get_backlinks_tlds",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "tld": "pl",
+          "count": 1161587,
+          "percent": 0.7981243592809105
+        },
+        {
+          "tld": "com",
+          "count": 255127,
+          "percent": 0.17529730739949814
+        },
+        {
+          "tld": "es",
+          "count": 19233,
+          "percent": 0.01321496005210953
+        },
+        {
+          "tld": "jp",
+          "count": 7312,
+          "percent": 0.0050240621796404554
+        },
+        {
+          "tld": "nl",
+          "count": 3686,
+          "percent": 0.0025326440363997154
+        },
+        {
+          "tld": "org",
+          "count": 1882,
+          "percent": 0.0012931188487531916
+        },
+        {
+          "tld": "in",
+          "count": 1502,
+          "percent": 0.0010320215254130147
+        },
+        {
+          "tld": "mx",
+          "count": 1298,
+          "percent": 0.0008918534886724988
+        },
+        {
+          "tld": "eu",
+          "count": 1022,
+          "percent": 0.0007022143801412124
+        },
+        {
+          "tld": "info",
+          "count": 572,
+          "percent": 0.00039302018144889774
+        }
+      ],
+      "pagination": {
+        "page_count": 10,
+        "current_page": 1,
+        "has_next_page": true,
+        "has_prev_page": false,
+        "count": 91,
+        "limit": 10
+      }
+    },
+    "status": 200,
+    "domain": "businessinsider.com.pl",
+    "endpoint": "get_backlinks_tlds"
+  }
+}

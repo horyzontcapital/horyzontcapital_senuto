@@ -1,0 +1,67 @@
+{
+  "domain": "wealthon.com",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "wealthon.com": [
+          {
+            "text": "",
+            "size": 139,
+            "percent": 0.48771929824561405
+          },
+          {
+            "text": "wealthon.com",
+            "size": 35,
+            "percent": 0.12280701754385964
+          },
+          {
+            "text": "https://wealthon.com",
+            "size": 22,
+            "percent": 0.07719298245614035
+          },
+          {
+            "text": "https://wealthon.com/",
+            "size": 20,
+            "percent": 0.07017543859649122
+          },
+          {
+            "text": "Wealthon",
+            "size": 19,
+            "percent": 0.06666666666666667
+          },
+          {
+            "text": "Finansowanie pozabankowe dla firm",
+            "size": 5,
+            "percent": 0.017543859649122806
+          },
+          {
+            "text": "Pożyczka na działalność gospodarczą",
+            "size": 3,
+            "percent": 0.010526315789473684
+          },
+          {
+            "text": "Pożyczki dla mikrofirm",
+            "size": 3,
+            "percent": 0.010526315789473684
+          },
+          {
+            "text": "Kredyty pomostowe",
+            "size": 3,
+            "percent": 0.010526315789473684
+          },
+          {
+            "text": "Finansowanie pomostowe",
+            "size": 3,
+            "percent": 0.010526315789473684
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "wealthon.com",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

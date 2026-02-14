@@ -1,0 +1,73 @@
+{
+  "domain": "totalmoney.pl",
+  "endpoint": "get_backlinks_tlds",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "tld": "pl",
+          "count": 3458114,
+          "percent": 0.9999245310297467
+        },
+        {
+          "tld": "com",
+          "count": 74,
+          "percent": 2.1397332562258285e-05
+        },
+        {
+          "tld": "org",
+          "count": 44,
+          "percent": 1.2722738280261684e-05
+        },
+        {
+          "tld": "net",
+          "count": 31,
+          "percent": 8.963747424729822e-06
+        },
+        {
+          "tld": "info",
+          "count": 26,
+          "percent": 7.517981711063722e-06
+        },
+        {
+          "tld": "eu",
+          "count": 19,
+          "percent": 5.493909711931182e-06
+        },
+        {
+          "tld": "tv",
+          "count": 13,
+          "percent": 3.758990855531861e-06
+        },
+        {
+          "tld": "wiki",
+          "count": 10,
+          "percent": 2.8915314273322008e-06
+        },
+        {
+          "tld": "nl",
+          "count": 10,
+          "percent": 2.8915314273322008e-06
+        },
+        {
+          "tld": "in",
+          "count": 5,
+          "percent": 1.4457657136661004e-06
+        }
+      ],
+      "pagination": {
+        "page_count": 3,
+        "current_page": 1,
+        "has_next_page": true,
+        "has_prev_page": false,
+        "count": 27,
+        "limit": 10
+      }
+    },
+    "status": 200,
+    "domain": "totalmoney.pl",
+    "endpoint": "get_backlinks_tlds"
+  }
+}

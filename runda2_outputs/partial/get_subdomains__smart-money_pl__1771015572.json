@@ -1,0 +1,54 @@
+{
+  "domain": "smart-money.pl",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "smart-money.pl",
+        "keywords_count": 1806,
+        "visibility_percent": 100,
+        "statistics": {
+          "visibility": {
+            "current": 14766.14,
+            "previous": 14333.63,
+            "diff": 432.5,
+            "percent": 0.0302,
+            "history": null
+          },
+          "top3": {
+            "current": 170,
+            "previous": 173,
+            "diff": -3,
+            "percent": -0.0173,
+            "history": null
+          },
+          "top10": {
+            "current": 1806,
+            "previous": 1835,
+            "diff": -29,
+            "percent": -0.0158,
+            "history": null
+          },
+          "top50": {
+            "current": 8269,
+            "previous": 8360,
+            "diff": -91,
+            "percent": -0.0109,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 100,
+            "previous": 100,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "smart-money.pl",
+    "endpoint": "get_subdomains"
+  }
+}

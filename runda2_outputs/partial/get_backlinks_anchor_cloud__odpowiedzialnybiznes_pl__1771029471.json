@@ -1,0 +1,67 @@
+{
+  "domain": "odpowiedzialnybiznes.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "odpowiedzialnybiznes.pl": [
+          {
+            "text": "",
+            "size": 598,
+            "percent": 0.16227951153324288
+          },
+          {
+            "text": "pracuję i publikuje tu",
+            "size": 230,
+            "percent": 0.06241519674355495
+          },
+          {
+            "text": "odpowiedzialnybiznes.pl",
+            "size": 206,
+            "percent": 0.0559023066485753
+          },
+          {
+            "text": "Forum Odpowiedzialnego Biznesu",
+            "size": 161,
+            "percent": 0.043690637720488465
+          },
+          {
+            "text": "www.odpowiedzialnybiznes.pl",
+            "size": 77,
+            "percent": 0.020895522388059702
+          },
+          {
+            "text": "tutaj",
+            "size": 60,
+            "percent": 0.016282225237449117
+          },
+          {
+            "text": "http://odpowiedzialnybiznes.pl",
+            "size": 30,
+            "percent": 0.008141112618724558
+          },
+          {
+            "text": "TUTAJ",
+            "size": 28,
+            "percent": 0.007598371777476255
+          },
+          {
+            "text": "http://odpowiedzialnybiznes.pl/targicsr/wystawcy/",
+            "size": 26,
+            "percent": 0.007055630936227951
+          },
+          {
+            "text": "http://odpowiedzialnybiznes.pl/dobre-praktyki/",
+            "size": 25,
+            "percent": 0.0067842605156037995
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "odpowiedzialnybiznes.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

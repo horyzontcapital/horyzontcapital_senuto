@@ -1,0 +1,47 @@
+{
+  "domain": "gotowka-podzastaw.letnet.pl",
+  "endpoint": "get_url_sections",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "url_section": "gotowka-podzastaw.letnet.pl/",
+        "keywords_count": 54,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 186.5,
+            "previous": 158.65,
+            "diff": 27.85,
+            "percent": 0.1755,
+            "history": null
+          },
+          "top3": {
+            "current": 10,
+            "previous": 9,
+            "diff": 1,
+            "percent": 0.1111,
+            "history": null
+          },
+          "top10": {
+            "current": 54,
+            "previous": 51,
+            "diff": 3,
+            "percent": 0.0588,
+            "history": null
+          },
+          "top50": {
+            "current": 178,
+            "previous": 177,
+            "diff": 1,
+            "percent": 0.0056,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "gotowka-podzastaw.letnet.pl",
+    "endpoint": "get_url_sections"
+  }
+}

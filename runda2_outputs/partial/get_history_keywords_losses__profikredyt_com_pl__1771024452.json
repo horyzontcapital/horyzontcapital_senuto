@@ -1,0 +1,507 @@
+{
+  "domain": "profikredyt.com.pl",
+  "endpoint": "get_history_keywords_losses",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "keyword_id": 2671390,
+        "kid": "396ca9f11b181f74d062a4bdf408f656",
+        "domain": "profikredyt.com.pl",
+        "keyword": "profi credit gliwice",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 37,
+            "previous": 33,
+            "diff": 4,
+            "changes": {
+              "wins": 1,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-22": {
+                "position": 32,
+                "has_serp": true
+              },
+              "2026-01-05": {
+                "position": 42,
+                "has_serp": true
+              },
+              "2026-01-21": {
+                "position": 33,
+                "has_serp": true
+              },
+              "2026-02-10": {
+                "position": 37,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "profikredyt.com.pl/",
+            "previous": "profikredyt.com.pl/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 4.54
+          },
+          "searches": {
+            "current": 50
+          },
+          "trends": {
+            "history": [
+              50,
+              50,
+              50,
+              40,
+              50,
+              70,
+              70,
+              50,
+              50,
+              50,
+              50,
+              40
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 42
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "local",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 7766138,
+        "kid": "aa128f670c270114f2b4ff7b446b069d",
+        "domain": "profikredyt.com.pl",
+        "keyword": "profi credit tychy",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 46,
+            "previous": 38,
+            "diff": 8,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-24": {
+                "position": 38,
+                "has_serp": true
+              },
+              "2026-02-05": {
+                "position": 46,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "profikredyt.com.pl/",
+            "previous": "profikredyt.com.pl/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 27
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "website",
+            "main_intent": "navigational",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 9331988,
+        "kid": "cd564f4e47902e0c26e3829150ec725a",
+        "domain": "profikredyt.com.pl",
+        "keyword": "profi credit oferta",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 35,
+            "previous": 31,
+            "diff": 4,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-26": {
+                "position": 31,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 35,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "profikredyt.com.pl/",
+            "previous": "profikredyt.com.pl/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 3.37
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 47
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 8556376,
+        "kid": "bbdfc3a5957c8dcd00acd35a355ed5e4",
+        "domain": "profikredyt.com.pl",
+        "keyword": "profi credit jelenia góra",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 29,
+            "previous": 9,
+            "diff": 20,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-25": {
+                "position": 9,
+                "has_serp": true
+              },
+              "2026-02-05": {
+                "position": 29,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0.18,
+            "diff": -0.18,
+            "percent": -1,
+            "history": null
+          },
+          "url": {
+            "current": "profikredyt.com.pl/",
+            "previous": "profikredyt.com.pl/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 14.67
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              30,
+              10,
+              10,
+              10,
+              10,
+              10,
+              20,
+              10,
+              10,
+              10,
+              10,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 40
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 8492179,
+        "kid": "ba6d44d380e61fe7876a15214481fa64",
+        "domain": "profikredyt.com.pl",
+        "keyword": "profi pożyczki",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 9,
+            "previous": 7,
+            "diff": 2,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-16": {
+                "position": 7,
+                "has_serp": true
+              },
+              "2026-02-03": {
+                "position": 9,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0.72,
+            "previous": 1.13,
+            "diff": -0.41,
+            "percent": -0.3628,
+            "history": null
+          },
+          "url": {
+            "current": "profikredyt.com.pl/",
+            "previous": "profikredyt.com.pl/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 15.95
+          },
+          "searches": {
+            "current": 40
+          },
+          "trends": {
+            "history": [
+              30,
+              40,
+              10,
+              40,
+              30,
+              40,
+              40,
+              40,
+              50,
+              40,
+              30,
+              30
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 63
+          },
+          "snippets": {
+            "current": [
+              "map",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "buy",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 14413842,
+        "kid": "e073d314cc9ce3d1311aff33efb8f8f7",
+        "domain": "profikredyt.com.pl",
+        "keyword": "pożyczka słupsk",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 32,
+            "previous": 9,
+            "diff": 23,
+            "changes": {
+              "wins": 1,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-21": {
+                "position": 9,
+                "has_serp": true
+              },
+              "2026-01-04": {
+                "position": 10,
+                "has_serp": true
+              },
+              "2026-01-21": {
+                "position": 9,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 32,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0.72,
+            "diff": -0.72,
+            "percent": -1,
+            "history": null
+          },
+          "url": {
+            "current": "profikredyt.com.pl/",
+            "previous": "profikredyt.com.pl/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 7.32
+          },
+          "searches": {
+            "current": 40
+          },
+          "trends": {
+            "history": [
+              50,
+              70,
+              50,
+              20,
+              10,
+              10,
+              90,
+              50,
+              30,
+              30,
+              30,
+              50
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 43
+          },
+          "snippets": {
+            "current": [
+              "map",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      }
+    ],
+    "total": 6,
+    "domain": "profikredyt.com.pl",
+    "endpoint": "get_history_keywords_losses"
+  }
+}

@@ -1,0 +1,4054 @@
+{
+  "endpoint": "get_backlinks_tlds",
+  "path": "/api/backlinks/reports/references/getTlds",
+  "desc": "Rozkład TLD linków (backlinks)",
+  "ok": 94,
+  "total": 106,
+  "fetched_at": "2026-02-14T00:35:38Z",
+  "country_id": "200",
+  "fetch_mode": "topLevelDomain",
+  "results": [
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 700,
+            "percent": 0.9915014164305949
+          },
+          {
+            "tld": "org",
+            "count": 3,
+            "percent": 0.00424929178470255
+          },
+          {
+            "tld": "biz",
+            "count": 1,
+            "percent": 0.00141643059490085
+          },
+          {
+            "tld": "com",
+            "count": 1,
+            "percent": 0.00141643059490085
+          },
+          {
+            "tld": "net",
+            "count": 1,
+            "percent": 0.00141643059490085
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 5,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "baltcredit.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 180,
+            "percent": 0.989010989010989
+          },
+          {
+            "tld": "com",
+            "count": 2,
+            "percent": 0.01098901098901099
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 2,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "novalend.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 6,
+            "percent": 1
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 1,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "pozyczkihipoteczne.eu",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 36217,
+            "percent": 0.9999723894196256
+          },
+          {
+            "tld": "in",
+            "count": 1,
+            "percent": 2.761058037439947e-05
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 2,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "yanokhipoteczny.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "biz",
+            "count": 17,
+            "percent": 0.4473684210526316
+          },
+          {
+            "tld": "br",
+            "count": 10,
+            "percent": 0.2631578947368421
+          },
+          {
+            "tld": "pl",
+            "count": 9,
+            "percent": 0.23684210526315788
+          },
+          {
+            "tld": "net",
+            "count": 1,
+            "percent": 0.02631578947368421
+          },
+          {
+            "tld": "eu",
+            "count": 1,
+            "percent": 0.02631578947368421
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 5,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "capitalaccess.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 1,
+            "percent": 1
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 1,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "businessfunds.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 181,
+            "percent": 0.8960396039603961
+          },
+          {
+            "tld": "com",
+            "count": 16,
+            "percent": 0.07920792079207921
+          },
+          {
+            "tld": "org",
+            "count": 3,
+            "percent": 0.01485148514851485
+          },
+          {
+            "tld": "166",
+            "count": 1,
+            "percent": 0.0049504950495049506
+          },
+          {
+            "tld": "63",
+            "count": 1,
+            "percent": 0.0049504950495049506
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 5,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "forsel.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [],
+        "pagination": {
+          "page_count": 0,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 0,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "profikredyt.com.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 6,
+            "percent": 0.5454545454545454
+          },
+          {
+            "tld": "org",
+            "count": 3,
+            "percent": 0.2727272727272727
+          },
+          {
+            "tld": "com",
+            "count": 2,
+            "percent": 0.18181818181818182
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 3,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "topf.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": false,
+      "error": "HTTP 418: {\"success\":false,\"data\":{\"error\":{\"type\":\"backlinks_api_error\",\"message\":\"External error while fetching data from backlinks API\"}}}",
+      "status": 418,
+      "domain": "krk-partners.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 6,
+            "percent": 0.6
+          },
+          {
+            "tld": "com",
+            "count": 3,
+            "percent": 0.3
+          },
+          {
+            "tld": "in",
+            "count": 1,
+            "percent": 0.1
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 3,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "trendcapital.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 42,
+            "percent": 0.7777777777777778
+          },
+          {
+            "tld": "com",
+            "count": 6,
+            "percent": 0.1111111111111111
+          },
+          {
+            "tld": "net",
+            "count": 4,
+            "percent": 0.07407407407407407
+          },
+          {
+            "tld": "io",
+            "count": 1,
+            "percent": 0.018518518518518517
+          },
+          {
+            "tld": "es",
+            "count": 1,
+            "percent": 0.018518518518518517
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 5,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "janvest.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [],
+        "pagination": {
+          "page_count": 0,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 0,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "e-bilans.info",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 7,
+            "percent": 0.875
+          },
+          {
+            "tld": "eu",
+            "count": 1,
+            "percent": 0.125
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 2,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "funduszkorona.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 1,
+            "percent": 1
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 1,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "ibipolska.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 65,
+            "percent": 0.9848484848484849
+          },
+          {
+            "tld": "com",
+            "count": 1,
+            "percent": 0.015151515151515152
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 2,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "tadam-finanse.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 2528,
+            "percent": 0.7357392316647264
+          },
+          {
+            "tld": "org",
+            "count": 894,
+            "percent": 0.26018626309662396
+          },
+          {
+            "tld": "com",
+            "count": 14,
+            "percent": 0.004074505238649592
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 3,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "actius.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "com",
+            "count": 2,
+            "percent": 0.6666666666666666
+          },
+          {
+            "tld": "pl",
+            "count": 1,
+            "percent": 0.3333333333333333
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 2,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "alphacredit.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 63,
+            "percent": 0.9545454545454546
+          },
+          {
+            "tld": "net",
+            "count": 2,
+            "percent": 0.030303030303030304
+          },
+          {
+            "tld": "com",
+            "count": 1,
+            "percent": 0.015151515151515152
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 3,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "credithub.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 246,
+            "percent": 1
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 1,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "pod-zastaw.org",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [],
+        "pagination": {
+          "page_count": 0,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 0,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "pozyczka-pod-zastaw.com",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [],
+        "pagination": {
+          "page_count": 0,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 0,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "cpf-pozyczki.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [],
+        "pagination": {
+          "page_count": 0,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 0,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "bankowybroker.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 13,
+            "percent": 0.7222222222222222
+          },
+          {
+            "tld": "org",
+            "count": 2,
+            "percent": 0.1111111111111111
+          },
+          {
+            "tld": "eu",
+            "count": 2,
+            "percent": 0.1111111111111111
+          },
+          {
+            "tld": "ua",
+            "count": 1,
+            "percent": 0.05555555555555555
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 4,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "mldomfinansowy.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 1,
+            "percent": 1
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 1,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "moneyrun.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [],
+        "pagination": {
+          "page_count": 0,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 0,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "khfinanse.com",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 14,
+            "percent": 0.6666666666666666
+          },
+          {
+            "tld": "net",
+            "count": 6,
+            "percent": 0.2857142857142857
+          },
+          {
+            "tld": "se",
+            "count": 1,
+            "percent": 0.047619047619047616
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 3,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "bankierkredyty.eu",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 204,
+            "percent": 0.7611940298507462
+          },
+          {
+            "tld": "com",
+            "count": 49,
+            "percent": 0.1828358208955224
+          },
+          {
+            "tld": "club",
+            "count": 3,
+            "percent": 0.011194029850746268
+          },
+          {
+            "tld": "work",
+            "count": 3,
+            "percent": 0.011194029850746268
+          },
+          {
+            "tld": "co",
+            "count": 3,
+            "percent": 0.011194029850746268
+          },
+          {
+            "tld": "net",
+            "count": 2,
+            "percent": 0.007462686567164179
+          },
+          {
+            "tld": "org",
+            "count": 1,
+            "percent": 0.0037313432835820895
+          },
+          {
+            "tld": "io",
+            "count": 1,
+            "percent": 0.0037313432835820895
+          },
+          {
+            "tld": "vc",
+            "count": 1,
+            "percent": 0.0037313432835820895
+          },
+          {
+            "tld": "eu",
+            "count": 1,
+            "percent": 0.0037313432835820895
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 10,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "smeo.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 281,
+            "percent": 0.7594594594594595
+          },
+          {
+            "tld": "com",
+            "count": 79,
+            "percent": 0.21351351351351353
+          },
+          {
+            "tld": "ai",
+            "count": 3,
+            "percent": 0.008108108108108109
+          },
+          {
+            "tld": "eu",
+            "count": 3,
+            "percent": 0.008108108108108109
+          },
+          {
+            "tld": "io",
+            "count": 2,
+            "percent": 0.005405405405405406
+          },
+          {
+            "tld": "org",
+            "count": 1,
+            "percent": 0.002702702702702703
+          },
+          {
+            "tld": "net",
+            "count": 1,
+            "percent": 0.002702702702702703
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 7,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "finea.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 2299,
+            "percent": 0.7592470277410832
+          },
+          {
+            "tld": "com",
+            "count": 698,
+            "percent": 0.23051519154557465
+          },
+          {
+            "tld": "org",
+            "count": 8,
+            "percent": 0.002642007926023778
+          },
+          {
+            "tld": "in",
+            "count": 7,
+            "percent": 0.002311756935270806
+          },
+          {
+            "tld": "info",
+            "count": 6,
+            "percent": 0.0019815059445178335
+          },
+          {
+            "tld": "eu",
+            "count": 5,
+            "percent": 0.0016512549537648614
+          },
+          {
+            "tld": "biz",
+            "count": 2,
+            "percent": 0.0006605019815059445
+          },
+          {
+            "tld": "ua",
+            "count": 1,
+            "percent": 0.00033025099075297226
+          },
+          {
+            "tld": "club",
+            "count": 1,
+            "percent": 0.00033025099075297226
+          },
+          {
+            "tld": "ly",
+            "count": 1,
+            "percent": 0.00033025099075297226
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 10,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "pragmago.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "com",
+            "count": 145,
+            "percent": 0.5087719298245614
+          },
+          {
+            "tld": "pl",
+            "count": 122,
+            "percent": 0.4280701754385965
+          },
+          {
+            "tld": "co",
+            "count": 15,
+            "percent": 0.05263157894736842
+          },
+          {
+            "tld": "io",
+            "count": 1,
+            "percent": 0.0035087719298245615
+          },
+          {
+            "tld": "eu",
+            "count": 1,
+            "percent": 0.0035087719298245615
+          },
+          {
+            "tld": "in",
+            "count": 1,
+            "percent": 0.0035087719298245615
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 6,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "wealthon.com",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 3,
+            "percent": 1
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 1,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "bizlend.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": false,
+      "error": "HTTP 418: {\"success\":false,\"data\":{\"error\":{\"type\":\"backlinks_api_error\",\"message\":\"External error while fetching data from backlinks API\"}}}",
+      "status": 418,
+      "domain": "smartney.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [],
+        "pagination": {
+          "page_count": 0,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 0,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "pl.finbee.com",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 5943,
+            "percent": 0.9989914271306102
+          },
+          {
+            "tld": "com",
+            "count": 6,
+            "percent": 0.0010085728693898135
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 2,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "bankujesz.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 3635,
+            "percent": 0.9708867521367521
+          },
+          {
+            "tld": "com",
+            "count": 56,
+            "percent": 0.014957264957264958
+          },
+          {
+            "tld": "net",
+            "count": 9,
+            "percent": 0.002403846153846154
+          },
+          {
+            "tld": "info",
+            "count": 8,
+            "percent": 0.002136752136752137
+          },
+          {
+            "tld": "wiki",
+            "count": 7,
+            "percent": 0.0018696581196581197
+          },
+          {
+            "tld": "fm",
+            "count": 6,
+            "percent": 0.0016025641025641025
+          },
+          {
+            "tld": "org",
+            "count": 5,
+            "percent": 0.0013354700854700855
+          },
+          {
+            "tld": "in",
+            "count": 4,
+            "percent": 0.0010683760683760685
+          },
+          {
+            "tld": "tv",
+            "count": 2,
+            "percent": 0.0005341880341880342
+          },
+          {
+            "tld": "ua",
+            "count": 2,
+            "percent": 0.0005341880341880342
+          }
+        ],
+        "pagination": {
+          "page_count": 2,
+          "current_page": 1,
+          "has_next_page": true,
+          "has_prev_page": false,
+          "count": 18,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "czerwona-skarbonka.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 355566,
+            "percent": 0.9993198579008904
+          },
+          {
+            "tld": "com",
+            "count": 84,
+            "percent": 0.00023608238150912852
+          },
+          {
+            "tld": "net",
+            "count": 44,
+            "percent": 0.00012366219983811494
+          },
+          {
+            "tld": "one",
+            "count": 35,
+            "percent": 9.836765896213688e-05
+          },
+          {
+            "tld": "wiki",
+            "count": 27,
+            "percent": 7.588362262793416e-05
+          },
+          {
+            "tld": "org",
+            "count": 20,
+            "percent": 5.621009083550679e-05
+          },
+          {
+            "tld": "eu",
+            "count": 9,
+            "percent": 2.5294540875978055e-05
+          },
+          {
+            "tld": "biz",
+            "count": 7,
+            "percent": 1.9673531792427378e-05
+          },
+          {
+            "tld": "us",
+            "count": 3,
+            "percent": 8.431513625326018e-06
+          },
+          {
+            "tld": "ly",
+            "count": 3,
+            "percent": 8.431513625326018e-06
+          }
+        ],
+        "pagination": {
+          "page_count": 2,
+          "current_page": 1,
+          "has_next_page": true,
+          "has_prev_page": false,
+          "count": 16,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "comperia.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 723,
+            "percent": 0.8992537313432836
+          },
+          {
+            "tld": "com",
+            "count": 49,
+            "percent": 0.060945273631840796
+          },
+          {
+            "tld": "org",
+            "count": 18,
+            "percent": 0.022388059701492536
+          },
+          {
+            "tld": "info",
+            "count": 3,
+            "percent": 0.0037313432835820895
+          },
+          {
+            "tld": "tv",
+            "count": 3,
+            "percent": 0.0037313432835820895
+          },
+          {
+            "tld": "ua",
+            "count": 3,
+            "percent": 0.0037313432835820895
+          },
+          {
+            "tld": "wiki",
+            "count": 2,
+            "percent": 0.0024875621890547263
+          },
+          {
+            "tld": "eu",
+            "count": 2,
+            "percent": 0.0024875621890547263
+          },
+          {
+            "tld": "media",
+            "count": 1,
+            "percent": 0.0012437810945273632
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 9,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "loando.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 3814708,
+            "percent": 0.9894534089992424
+          },
+          {
+            "tld": "com",
+            "count": 22060,
+            "percent": 0.005721890693212504
+          },
+          {
+            "tld": "eu",
+            "count": 12399,
+            "percent": 0.003216034574122477
+          },
+          {
+            "tld": "org",
+            "count": 2249,
+            "percent": 0.0005833423467377571
+          },
+          {
+            "tld": "net",
+            "count": 705,
+            "percent": 0.0001828618739217958
+          },
+          {
+            "tld": "lt",
+            "count": 498,
+            "percent": 0.00012917051519582173
+          },
+          {
+            "tld": "info",
+            "count": 390,
+            "percent": 0.00010115763238227002
+          },
+          {
+            "tld": "men",
+            "count": 244,
+            "percent": 6.328836487506124e-05
+          },
+          {
+            "tld": "in",
+            "count": 209,
+            "percent": 5.421011581511393e-05
+          },
+          {
+            "tld": "biz",
+            "count": 197,
+            "percent": 5.109757328027486e-05
+          }
+        ],
+        "pagination": {
+          "page_count": 11,
+          "current_page": 1,
+          "has_next_page": true,
+          "has_prev_page": false,
+          "count": 102,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "bankier.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 3458114,
+            "percent": 0.9999245310297467
+          },
+          {
+            "tld": "com",
+            "count": 74,
+            "percent": 2.1397332562258285e-05
+          },
+          {
+            "tld": "org",
+            "count": 44,
+            "percent": 1.2722738280261684e-05
+          },
+          {
+            "tld": "net",
+            "count": 31,
+            "percent": 8.963747424729822e-06
+          },
+          {
+            "tld": "info",
+            "count": 26,
+            "percent": 7.517981711063722e-06
+          },
+          {
+            "tld": "eu",
+            "count": 19,
+            "percent": 5.493909711931182e-06
+          },
+          {
+            "tld": "tv",
+            "count": 13,
+            "percent": 3.758990855531861e-06
+          },
+          {
+            "tld": "wiki",
+            "count": 10,
+            "percent": 2.8915314273322008e-06
+          },
+          {
+            "tld": "nl",
+            "count": 10,
+            "percent": 2.8915314273322008e-06
+          },
+          {
+            "tld": "in",
+            "count": 5,
+            "percent": 1.4457657136661004e-06
+          }
+        ],
+        "pagination": {
+          "page_count": 3,
+          "current_page": 1,
+          "has_next_page": true,
+          "has_prev_page": false,
+          "count": 27,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "totalmoney.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 137,
+            "percent": 0.8303030303030303
+          },
+          {
+            "tld": "com",
+            "count": 13,
+            "percent": 0.07878787878787878
+          },
+          {
+            "tld": "info",
+            "count": 12,
+            "percent": 0.07272727272727272
+          },
+          {
+            "tld": "ua",
+            "count": 1,
+            "percent": 0.006060606060606061
+          },
+          {
+            "tld": "net",
+            "count": 1,
+            "percent": 0.006060606060606061
+          },
+          {
+            "tld": "eu",
+            "count": 1,
+            "percent": 0.006060606060606061
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 6,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "wnioskomat.com",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 8331499,
+            "percent": 0.9919895480020484
+          },
+          {
+            "tld": "com",
+            "count": 41919,
+            "percent": 0.0049910838208944
+          },
+          {
+            "tld": "info",
+            "count": 9810,
+            "percent": 0.001168027202055728
+          },
+          {
+            "tld": "org",
+            "count": 4746,
+            "percent": 0.0005650822732881228
+          },
+          {
+            "tld": "eu",
+            "count": 3957,
+            "percent": 0.000471140024315445
+          },
+          {
+            "tld": "io",
+            "count": 2736,
+            "percent": 0.00032576171506875344
+          },
+          {
+            "tld": "net",
+            "count": 1476,
+            "percent": 0.00017573987260288015
+          },
+          {
+            "tld": "170",
+            "count": 711,
+            "percent": 8.465518253431422e-05
+          },
+          {
+            "tld": "press",
+            "count": 253,
+            "percent": 3.0123433447512657e-05
+          },
+          {
+            "tld": "in",
+            "count": 246,
+            "percent": 2.9289978767146694e-05
+          }
+        ],
+        "pagination": {
+          "page_count": 11,
+          "current_page": 1,
+          "has_next_page": true,
+          "has_prev_page": false,
+          "count": 103,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "money.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 2891,
+            "percent": 0.7845318860244234
+          },
+          {
+            "tld": "com",
+            "count": 271,
+            "percent": 0.07354138398914518
+          },
+          {
+            "tld": "blog",
+            "count": 256,
+            "percent": 0.06947082767978291
+          },
+          {
+            "tld": "org",
+            "count": 113,
+            "percent": 0.030664857530529173
+          },
+          {
+            "tld": "eu",
+            "count": 67,
+            "percent": 0.01818181818181818
+          },
+          {
+            "tld": "in",
+            "count": 20,
+            "percent": 0.005427408412483039
+          },
+          {
+            "tld": "ly",
+            "count": 11,
+            "percent": 0.0029850746268656717
+          },
+          {
+            "tld": "info",
+            "count": 10,
+            "percent": 0.0027137042062415195
+          },
+          {
+            "tld": "net",
+            "count": 7,
+            "percent": 0.0018995929443690637
+          },
+          {
+            "tld": "pt",
+            "count": 6,
+            "percent": 0.0016282225237449117
+          }
+        ],
+        "pagination": {
+          "page_count": 3,
+          "current_page": 1,
+          "has_next_page": true,
+          "has_prev_page": false,
+          "count": 28,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "odpowiedzialnybiznes.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 118,
+            "percent": 0.686046511627907
+          },
+          {
+            "tld": "one",
+            "count": 33,
+            "percent": 0.19186046511627908
+          },
+          {
+            "tld": "com",
+            "count": 7,
+            "percent": 0.040697674418604654
+          },
+          {
+            "tld": "org",
+            "count": 5,
+            "percent": 0.029069767441860465
+          },
+          {
+            "tld": "net",
+            "count": 4,
+            "percent": 0.023255813953488372
+          },
+          {
+            "tld": "info",
+            "count": 2,
+            "percent": 0.011627906976744186
+          },
+          {
+            "tld": "biz",
+            "count": 1,
+            "percent": 0.005813953488372093
+          },
+          {
+            "tld": "agency",
+            "count": 1,
+            "percent": 0.005813953488372093
+          },
+          {
+            "tld": "eu",
+            "count": 1,
+            "percent": 0.005813953488372093
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 9,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "kontomaniak.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 839841,
+            "percent": 0.9961841296802829
+          },
+          {
+            "tld": "com",
+            "count": 3153,
+            "percent": 0.003739956207046253
+          },
+          {
+            "tld": "ua",
+            "count": 43,
+            "percent": 5.100479445067836e-05
+          },
+          {
+            "tld": "info",
+            "count": 15,
+            "percent": 1.779237015721338e-05
+          },
+          {
+            "tld": "io",
+            "count": 2,
+            "percent": 2.3723160209617845e-06
+          },
+          {
+            "tld": "nl",
+            "count": 1,
+            "percent": 1.1861580104808923e-06
+          },
+          {
+            "tld": "de",
+            "count": 1,
+            "percent": 1.1861580104808923e-06
+          },
+          {
+            "tld": "ly",
+            "count": 1,
+            "percent": 1.1861580104808923e-06
+          },
+          {
+            "tld": "in",
+            "count": 1,
+            "percent": 1.1861580104808923e-06
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 9,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "lendi.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 990,
+            "percent": 0.7404637247569185
+          },
+          {
+            "tld": "com",
+            "count": 260,
+            "percent": 0.1944652206432311
+          },
+          {
+            "tld": "eu",
+            "count": 14,
+            "percent": 0.010471204188481676
+          },
+          {
+            "tld": "info",
+            "count": 12,
+            "percent": 0.008975317875841436
+          },
+          {
+            "tld": "ua",
+            "count": 10,
+            "percent": 0.0074794315632011965
+          },
+          {
+            "tld": "org",
+            "count": 9,
+            "percent": 0.006731488406881077
+          },
+          {
+            "tld": "net",
+            "count": 9,
+            "percent": 0.006731488406881077
+          },
+          {
+            "tld": "in",
+            "count": 9,
+            "percent": 0.006731488406881077
+          },
+          {
+            "tld": "press",
+            "count": 6,
+            "percent": 0.004487658937920718
+          },
+          {
+            "tld": "biz",
+            "count": 5,
+            "percent": 0.0037397157816005983
+          }
+        ],
+        "pagination": {
+          "page_count": 2,
+          "current_page": 1,
+          "has_next_page": true,
+          "has_prev_page": false,
+          "count": 20,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "expander.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 197928,
+            "percent": 0.9716069745523092
+          },
+          {
+            "tld": "info",
+            "count": 4592,
+            "percent": 0.0225416273955388
+          },
+          {
+            "tld": "com",
+            "count": 531,
+            "percent": 0.002606621112158341
+          },
+          {
+            "tld": "net",
+            "count": 270,
+            "percent": 0.0013254005655042413
+          },
+          {
+            "tld": "org",
+            "count": 226,
+            "percent": 0.0011094093622368835
+          },
+          {
+            "tld": "eu",
+            "count": 53,
+            "percent": 0.0002601712221174992
+          },
+          {
+            "tld": "fm",
+            "count": 21,
+            "percent": 0.00010308671065032988
+          },
+          {
+            "tld": "tv",
+            "count": 13,
+            "percent": 6.381558278353754e-05
+          },
+          {
+            "tld": "nl",
+            "count": 12,
+            "percent": 5.89066918001885e-05
+          },
+          {
+            "tld": "ly",
+            "count": 9,
+            "percent": 4.418001885014138e-05
+          }
+        ],
+        "pagination": {
+          "page_count": 4,
+          "current_page": 1,
+          "has_next_page": true,
+          "has_prev_page": false,
+          "count": 33,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "rankomat.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 182,
+            "percent": 0.9191919191919192
+          },
+          {
+            "tld": "org",
+            "count": 7,
+            "percent": 0.03535353535353535
+          },
+          {
+            "tld": "com",
+            "count": 7,
+            "percent": 0.03535353535353535
+          },
+          {
+            "tld": "eu",
+            "count": 2,
+            "percent": 0.010101010101010102
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 4,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "moneteo.com",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 1349,
+            "percent": 0.9493314567206192
+          },
+          {
+            "tld": "com",
+            "count": 30,
+            "percent": 0.0211118930330753
+          },
+          {
+            "tld": "ua",
+            "count": 28,
+            "percent": 0.019704433497536946
+          },
+          {
+            "tld": "in",
+            "count": 7,
+            "percent": 0.0049261083743842365
+          },
+          {
+            "tld": "info",
+            "count": 2,
+            "percent": 0.0014074595355383533
+          },
+          {
+            "tld": "nl",
+            "count": 2,
+            "percent": 0.0014074595355383533
+          },
+          {
+            "tld": "net",
+            "count": 2,
+            "percent": 0.0014074595355383533
+          },
+          {
+            "tld": "eu",
+            "count": 1,
+            "percent": 0.0007037297677691766
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 8,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "mfinanse.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "com",
+            "count": 1114,
+            "percent": 0.5252239509665252
+          },
+          {
+            "tld": "pl",
+            "count": 990,
+            "percent": 0.4667609618104668
+          },
+          {
+            "tld": "org",
+            "count": 7,
+            "percent": 0.0033003300330033004
+          },
+          {
+            "tld": "eu",
+            "count": 3,
+            "percent": 0.0014144271570014145
+          },
+          {
+            "tld": "men",
+            "count": 2,
+            "percent": 0.000942951438000943
+          },
+          {
+            "tld": "net",
+            "count": 2,
+            "percent": 0.000942951438000943
+          },
+          {
+            "tld": "us",
+            "count": 1,
+            "percent": 0.0004714757190004715
+          },
+          {
+            "tld": "tv",
+            "count": 1,
+            "percent": 0.0004714757190004715
+          },
+          {
+            "tld": "wiki",
+            "count": 1,
+            "percent": 0.0004714757190004715
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 9,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "rekinfinansow.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 26,
+            "percent": 0.7428571428571429
+          },
+          {
+            "tld": "com",
+            "count": 7,
+            "percent": 0.2
+          },
+          {
+            "tld": "in",
+            "count": 2,
+            "percent": 0.05714285714285714
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 3,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "helikon.net.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 8,
+            "percent": 0.8888888888888888
+          },
+          {
+            "tld": "com",
+            "count": 1,
+            "percent": 0.1111111111111111
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 2,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "feniksfinanse.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 123,
+            "percent": 0.917910447761194
+          },
+          {
+            "tld": "io",
+            "count": 3,
+            "percent": 0.022388059701492536
+          },
+          {
+            "tld": "info",
+            "count": 2,
+            "percent": 0.014925373134328358
+          },
+          {
+            "tld": "eu",
+            "count": 2,
+            "percent": 0.014925373134328358
+          },
+          {
+            "tld": "tv",
+            "count": 1,
+            "percent": 0.007462686567164179
+          },
+          {
+            "tld": "wiki",
+            "count": 1,
+            "percent": 0.007462686567164179
+          },
+          {
+            "tld": "com",
+            "count": 1,
+            "percent": 0.007462686567164179
+          },
+          {
+            "tld": "net",
+            "count": 1,
+            "percent": 0.007462686567164179
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 8,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "bancovo.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 644,
+            "percent": 0.6558044806517311
+          },
+          {
+            "tld": "com",
+            "count": 214,
+            "percent": 0.21792260692464357
+          },
+          {
+            "tld": "org",
+            "count": 42,
+            "percent": 0.04276985743380855
+          },
+          {
+            "tld": "in",
+            "count": 25,
+            "percent": 0.025458248472505093
+          },
+          {
+            "tld": "eu",
+            "count": 13,
+            "percent": 0.013238289205702648
+          },
+          {
+            "tld": "biz",
+            "count": 5,
+            "percent": 0.0050916496945010185
+          },
+          {
+            "tld": "wiki",
+            "count": 5,
+            "percent": 0.0050916496945010185
+          },
+          {
+            "tld": "co",
+            "count": 4,
+            "percent": 0.004073319755600814
+          },
+          {
+            "tld": "lu",
+            "count": 3,
+            "percent": 0.003054989816700611
+          },
+          {
+            "tld": "io",
+            "count": 3,
+            "percent": 0.003054989816700611
+          }
+        ],
+        "pagination": {
+          "page_count": 3,
+          "current_page": 1,
+          "has_next_page": true,
+          "has_prev_page": false,
+          "count": 26,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "fintek.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": false,
+      "error": "HTTP 418: {\"success\":false,\"data\":{\"error\":{\"type\":\"backlinks_api_error\",\"message\":\"External error while fetching data from backlinks API\"}}}",
+      "status": 418,
+      "domain": "notus.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 280,
+            "percent": 0.9210526315789473
+          },
+          {
+            "tld": "one",
+            "count": 14,
+            "percent": 0.046052631578947366
+          },
+          {
+            "tld": "com",
+            "count": 5,
+            "percent": 0.01644736842105263
+          },
+          {
+            "tld": "eu",
+            "count": 2,
+            "percent": 0.006578947368421052
+          },
+          {
+            "tld": "info",
+            "count": 1,
+            "percent": 0.003289473684210526
+          },
+          {
+            "tld": "ua",
+            "count": 1,
+            "percent": 0.003289473684210526
+          },
+          {
+            "tld": "uk",
+            "count": 1,
+            "percent": 0.003289473684210526
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 7,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "confronter.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 426919,
+            "percent": 0.9999765769015457
+          },
+          {
+            "tld": "com",
+            "count": 6,
+            "percent": 1.405385907258584e-05
+          },
+          {
+            "tld": "in",
+            "count": 2,
+            "percent": 4.684619690861947e-06
+          },
+          {
+            "tld": "info",
+            "count": 1,
+            "percent": 2.3423098454309734e-06
+          },
+          {
+            "tld": "ua",
+            "count": 1,
+            "percent": 2.3423098454309734e-06
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 5,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "credipass.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": false,
+      "error": "HTTP 418: {\"success\":false,\"data\":{\"error\":{\"type\":\"backlinks_api_error\",\"message\":\"External error while fetching data from backlinks API\"}}}",
+      "status": 418,
+      "domain": "finergia.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [],
+        "pagination": {
+          "page_count": 0,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 0,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "grupasg.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 34,
+            "percent": 0.8292682926829268
+          },
+          {
+            "tld": "nl",
+            "count": 5,
+            "percent": 0.12195121951219512
+          },
+          {
+            "tld": "expert",
+            "count": 1,
+            "percent": 0.024390243902439025
+          },
+          {
+            "tld": "com",
+            "count": 1,
+            "percent": 0.024390243902439025
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 4,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "kredytomat.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 12,
+            "percent": 0.5454545454545454
+          },
+          {
+            "tld": "info",
+            "count": 4,
+            "percent": 0.18181818181818182
+          },
+          {
+            "tld": "com",
+            "count": 4,
+            "percent": 0.18181818181818182
+          },
+          {
+            "tld": "in",
+            "count": 2,
+            "percent": 0.09090909090909091
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 4,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "platinum-financial.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 162,
+            "percent": 0.8709677419354839
+          },
+          {
+            "tld": "com",
+            "count": 10,
+            "percent": 0.053763440860215055
+          },
+          {
+            "tld": "net",
+            "count": 4,
+            "percent": 0.021505376344086023
+          },
+          {
+            "tld": "info",
+            "count": 3,
+            "percent": 0.016129032258064516
+          },
+          {
+            "tld": "club",
+            "count": 2,
+            "percent": 0.010752688172043012
+          },
+          {
+            "tld": "in",
+            "count": 2,
+            "percent": 0.010752688172043012
+          },
+          {
+            "tld": "org",
+            "count": 1,
+            "percent": 0.005376344086021506
+          },
+          {
+            "tld": "io",
+            "count": 1,
+            "percent": 0.005376344086021506
+          },
+          {
+            "tld": "eu",
+            "count": 1,
+            "percent": 0.005376344086021506
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 9,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "monevia.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 123,
+            "percent": 0.6988636363636364
+          },
+          {
+            "tld": "ua",
+            "count": 41,
+            "percent": 0.23295454545454544
+          },
+          {
+            "tld": "com",
+            "count": 6,
+            "percent": 0.03409090909090909
+          },
+          {
+            "tld": "info",
+            "count": 3,
+            "percent": 0.017045454545454544
+          },
+          {
+            "tld": "biz",
+            "count": 2,
+            "percent": 0.011363636363636364
+          },
+          {
+            "tld": "eu",
+            "count": 1,
+            "percent": 0.005681818181818182
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 6,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "dginwest.com.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 1,
+            "percent": 0.5
+          },
+          {
+            "tld": "com",
+            "count": 1,
+            "percent": 0.5
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 2,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "brsonline.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 112,
+            "percent": 0.9256198347107438
+          },
+          {
+            "tld": "com",
+            "count": 4,
+            "percent": 0.03305785123966942
+          },
+          {
+            "tld": "nl",
+            "count": 3,
+            "percent": 0.024793388429752067
+          },
+          {
+            "tld": "org",
+            "count": 2,
+            "percent": 0.01652892561983471
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 4,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "hiponet.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 345948,
+            "percent": 0.9986720860950093
+          },
+          {
+            "tld": "com",
+            "count": 215,
+            "percent": 0.0006206554121151937
+          },
+          {
+            "tld": "eu",
+            "count": 68,
+            "percent": 0.00019630031638992172
+          },
+          {
+            "tld": "bike",
+            "count": 52,
+            "percent": 0.0001501120066511166
+          },
+          {
+            "tld": "org",
+            "count": 29,
+            "percent": 8.371631140158426e-05
+          },
+          {
+            "tld": "me",
+            "count": 17,
+            "percent": 4.907507909748043e-05
+          },
+          {
+            "tld": "net",
+            "count": 16,
+            "percent": 4.6188309738805106e-05
+          },
+          {
+            "tld": "in",
+            "count": 15,
+            "percent": 4.330154038012979e-05
+          },
+          {
+            "tld": "no",
+            "count": 7,
+            "percent": 2.0207385510727235e-05
+          },
+          {
+            "tld": "wiki",
+            "count": 5,
+            "percent": 1.4433846793376596e-05
+          }
+        ],
+        "pagination": {
+          "page_count": 3,
+          "current_page": 1,
+          "has_next_page": true,
+          "has_prev_page": false,
+          "count": 28,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "strefabiznesu.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 121761,
+            "percent": 0.9818485307873431
+          },
+          {
+            "tld": "online",
+            "count": 846,
+            "percent": 0.00682192045931039
+          },
+          {
+            "tld": "info",
+            "count": 524,
+            "percent": 0.004225397542173338
+          },
+          {
+            "tld": "com",
+            "count": 520,
+            "percent": 0.0041931425991033125
+          },
+          {
+            "tld": "org",
+            "count": 78,
+            "percent": 0.0006289713898654969
+          },
+          {
+            "tld": "eu",
+            "count": 69,
+            "percent": 0.0005563977679579396
+          },
+          {
+            "tld": "wiki",
+            "count": 67,
+            "percent": 0.0005402702964229268
+          },
+          {
+            "tld": "net",
+            "count": 41,
+            "percent": 0.0003306131664677612
+          },
+          {
+            "tld": "by",
+            "count": 15,
+            "percent": 0.00012095603651259556
+          },
+          {
+            "tld": "biz",
+            "count": 14,
+            "percent": 0.00011289230074508918
+          }
+        ],
+        "pagination": {
+          "page_count": 4,
+          "current_page": 1,
+          "has_next_page": true,
+          "has_prev_page": false,
+          "count": 40,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "poradnikprzedsiebiorcy.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 211,
+            "percent": 0.82421875
+          },
+          {
+            "tld": "com",
+            "count": 28,
+            "percent": 0.109375
+          },
+          {
+            "tld": "ua",
+            "count": 15,
+            "percent": 0.05859375
+          },
+          {
+            "tld": "me",
+            "count": 1,
+            "percent": 0.00390625
+          },
+          {
+            "tld": "ly",
+            "count": 1,
+            "percent": 0.00390625
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 5,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "fines.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 1161587,
+            "percent": 0.7981243592809105
+          },
+          {
+            "tld": "com",
+            "count": 255127,
+            "percent": 0.17529730739949814
+          },
+          {
+            "tld": "es",
+            "count": 19233,
+            "percent": 0.01321496005210953
+          },
+          {
+            "tld": "jp",
+            "count": 7312,
+            "percent": 0.0050240621796404554
+          },
+          {
+            "tld": "nl",
+            "count": 3686,
+            "percent": 0.0025326440363997154
+          },
+          {
+            "tld": "org",
+            "count": 1882,
+            "percent": 0.0012931188487531916
+          },
+          {
+            "tld": "in",
+            "count": 1502,
+            "percent": 0.0010320215254130147
+          },
+          {
+            "tld": "mx",
+            "count": 1298,
+            "percent": 0.0008918534886724988
+          },
+          {
+            "tld": "eu",
+            "count": 1022,
+            "percent": 0.0007022143801412124
+          },
+          {
+            "tld": "info",
+            "count": 572,
+            "percent": 0.00039302018144889774
+          }
+        ],
+        "pagination": {
+          "page_count": 10,
+          "current_page": 1,
+          "has_next_page": true,
+          "has_prev_page": false,
+          "count": 91,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "businessinsider.com.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "com",
+            "count": 134,
+            "percent": 0.7243243243243244
+          },
+          {
+            "tld": "pl",
+            "count": 51,
+            "percent": 0.2756756756756757
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 2,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "janosikdlafirm.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": false,
+      "error": "HTTP 418: {\"success\":false,\"data\":{\"error\":{\"type\":\"backlinks_api_error\",\"message\":\"External error while fetching data from backlinks API\"}}}",
+      "status": 418,
+      "domain": "exfinder.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [],
+        "pagination": {
+          "page_count": 0,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 0,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "horyzontcapital.com",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [],
+        "pagination": {
+          "page_count": 0,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 0,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "# === RUNDA 1.5 - NOWE DOMENY ===",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": false,
+      "error": "HTTP 418: {\"success\":false,\"data\":{\"error\":{\"type\":\"invalid_data\",\"message\":\"Given data is invalid, please check the documentation or contact Administrator\",\"params\":{\"domain\":{\"invalid\":\"Incorrect input\"}}}}}",
+      "status": 418,
+      "domain": "# Grupa A - Bezpośrednia konkurencja (21)",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 222,
+            "percent": 0.9487179487179487
+          },
+          {
+            "tld": "info",
+            "count": 4,
+            "percent": 0.017094017094017096
+          },
+          {
+            "tld": "com",
+            "count": 3,
+            "percent": 0.01282051282051282
+          },
+          {
+            "tld": "ovh",
+            "count": 2,
+            "percent": 0.008547008547008548
+          },
+          {
+            "tld": "net",
+            "count": 2,
+            "percent": 0.008547008547008548
+          },
+          {
+            "tld": "blog",
+            "count": 1,
+            "percent": 0.004273504273504274
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 6,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "podzastaw.biz",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": false,
+      "error": "HTTP 418: {\"success\":false,\"data\":{\"error\":{\"type\":\"backlinks_api_error\",\"message\":\"External error while fetching data from backlinks API\"}}}",
+      "status": 418,
+      "domain": "gotowka-podzastaw.letnet.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 221,
+            "percent": 0.775438596491228
+          },
+          {
+            "tld": "com",
+            "count": 55,
+            "percent": 0.19298245614035087
+          },
+          {
+            "tld": "net",
+            "count": 4,
+            "percent": 0.014035087719298246
+          },
+          {
+            "tld": "eu",
+            "count": 3,
+            "percent": 0.010526315789473684
+          },
+          {
+            "tld": "166",
+            "count": 1,
+            "percent": 0.0035087719298245615
+          },
+          {
+            "tld": "63",
+            "count": 1,
+            "percent": 0.0035087719298245615
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 6,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "smartvest.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 69,
+            "percent": 0.6831683168316832
+          },
+          {
+            "tld": "com",
+            "count": 26,
+            "percent": 0.25742574257425743
+          },
+          {
+            "tld": "net",
+            "count": 5,
+            "percent": 0.04950495049504951
+          },
+          {
+            "tld": "info",
+            "count": 1,
+            "percent": 0.009900990099009901
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 4,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "inwestum.com.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 1059,
+            "percent": 0.9805555555555555
+          },
+          {
+            "tld": "net",
+            "count": 7,
+            "percent": 0.006481481481481481
+          },
+          {
+            "tld": "com",
+            "count": 4,
+            "percent": 0.003703703703703704
+          },
+          {
+            "tld": "eu",
+            "count": 4,
+            "percent": 0.003703703703703704
+          },
+          {
+            "tld": "ovh",
+            "count": 2,
+            "percent": 0.001851851851851852
+          },
+          {
+            "tld": "info",
+            "count": 1,
+            "percent": 0.000925925925925926
+          },
+          {
+            "tld": "org",
+            "count": 1,
+            "percent": 0.000925925925925926
+          },
+          {
+            "tld": "biz",
+            "count": 1,
+            "percent": 0.000925925925925926
+          },
+          {
+            "tld": "in",
+            "count": 1,
+            "percent": 0.000925925925925926
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 9,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "habzafinanse.com.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 5,
+            "percent": 0.8333333333333334
+          },
+          {
+            "tld": "ua",
+            "count": 1,
+            "percent": 0.16666666666666666
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 2,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "newpoint-finance.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 1,
+            "percent": 1
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 1,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "fluxo.com.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 93,
+            "percent": 0.5
+          },
+          {
+            "tld": "com",
+            "count": 77,
+            "percent": 0.41397849462365593
+          },
+          {
+            "tld": "eu",
+            "count": 12,
+            "percent": 0.06451612903225806
+          },
+          {
+            "tld": "info",
+            "count": 2,
+            "percent": 0.010752688172043012
+          },
+          {
+            "tld": "cz",
+            "count": 1,
+            "percent": 0.005376344086021506
+          },
+          {
+            "tld": "io",
+            "count": 1,
+            "percent": 0.005376344086021506
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 6,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "finiata.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [],
+        "pagination": {
+          "page_count": 0,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 0,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "serwaczakowie.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [],
+        "pagination": {
+          "page_count": 0,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 0,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "cbif.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 1538,
+            "percent": 1
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 1,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "ftfund.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 30,
+            "percent": 1
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 1,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "ckakrybia.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 6,
+            "percent": 0.6666666666666666
+          },
+          {
+            "tld": "com",
+            "count": 2,
+            "percent": 0.2222222222222222
+          },
+          {
+            "tld": "org",
+            "count": 1,
+            "percent": 0.1111111111111111
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 3,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "firmowefinanse.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "org",
+            "count": 1,
+            "percent": 1
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 1,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "hipotecznapozyczka.com",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 11,
+            "percent": 1
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 1,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "pozyczkipodzastaw.com.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 97,
+            "percent": 0.9897959183673469
+          },
+          {
+            "tld": "com",
+            "count": 1,
+            "percent": 0.01020408163265306
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 2,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "simplefinance.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [],
+        "pagination": {
+          "page_count": 0,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 0,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "mevior.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": false,
+      "error": "HTTP 418: {\"success\":false,\"data\":{\"error\":{\"type\":\"backlinks_api_error\",\"message\":\"External error while fetching data from backlinks API\"}}}",
+      "status": 418,
+      "domain": "goldenexpert.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": false,
+      "error": "HTTP 418: {\"success\":false,\"data\":{\"error\":{\"type\":\"backlinks_api_error\",\"message\":\"External error while fetching data from backlinks API\"}}}",
+      "status": 418,
+      "domain": "gawryszewskifinanse.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 260,
+            "percent": 0.9701492537313433
+          },
+          {
+            "tld": "info",
+            "count": 2,
+            "percent": 0.007462686567164179
+          },
+          {
+            "tld": "org",
+            "count": 2,
+            "percent": 0.007462686567164179
+          },
+          {
+            "tld": "biz",
+            "count": 1,
+            "percent": 0.0037313432835820895
+          },
+          {
+            "tld": "online",
+            "count": 1,
+            "percent": 0.0037313432835820895
+          },
+          {
+            "tld": "eu",
+            "count": 1,
+            "percent": 0.0037313432835820895
+          },
+          {
+            "tld": "uk",
+            "count": 1,
+            "percent": 0.0037313432835820895
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 7,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "splatapozyczek.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 2352,
+            "percent": 0.8779395296752519
+          },
+          {
+            "tld": "com",
+            "count": 172,
+            "percent": 0.06420306084359836
+          },
+          {
+            "tld": "info",
+            "count": 122,
+            "percent": 0.04553938036580814
+          },
+          {
+            "tld": "org",
+            "count": 12,
+            "percent": 0.004479283314669653
+          },
+          {
+            "tld": "net",
+            "count": 5,
+            "percent": 0.001866368047779022
+          },
+          {
+            "tld": "us",
+            "count": 4,
+            "percent": 0.0014930944382232176
+          },
+          {
+            "tld": "eu",
+            "count": 4,
+            "percent": 0.0014930944382232176
+          },
+          {
+            "tld": "152",
+            "count": 3,
+            "percent": 0.0011198208286674132
+          },
+          {
+            "tld": "biz",
+            "count": 2,
+            "percent": 0.0007465472191116088
+          },
+          {
+            "tld": "ua",
+            "count": 1,
+            "percent": 0.0003732736095558044
+          }
+        ],
+        "pagination": {
+          "page_count": 2,
+          "current_page": 1,
+          "has_next_page": true,
+          "has_prev_page": false,
+          "count": 12,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "open.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": false,
+      "error": "HTTP 418: {\"success\":false,\"data\":{\"error\":{\"type\":\"invalid_data\",\"message\":\"Given data is invalid, please check the documentation or contact Administrator\",\"params\":{\"domain\":{\"invalid\":\"Incorrect input\"}}}}}",
+      "status": 418,
+      "domain": "# Grupa C - Porównywarki (10)",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 11960,
+            "percent": 0.8065821418937146
+          },
+          {
+            "tld": "info",
+            "count": 2637,
+            "percent": 0.17783922309144862
+          },
+          {
+            "tld": "com",
+            "count": 158,
+            "percent": 0.010655516590234691
+          },
+          {
+            "tld": "ua",
+            "count": 17,
+            "percent": 0.0011464796331265173
+          },
+          {
+            "tld": "org",
+            "count": 14,
+            "percent": 0.0009441596978688966
+          },
+          {
+            "tld": "net",
+            "count": 8,
+            "percent": 0.0005395198273536552
+          },
+          {
+            "tld": "in",
+            "count": 8,
+            "percent": 0.0005395198273536552
+          },
+          {
+            "tld": "news",
+            "count": 5,
+            "percent": 0.0003371998920960345
+          },
+          {
+            "tld": "io",
+            "count": 4,
+            "percent": 0.0002697599136768276
+          },
+          {
+            "tld": "eu",
+            "count": 4,
+            "percent": 0.0002697599136768276
+          }
+        ],
+        "pagination": {
+          "page_count": 2,
+          "current_page": 1,
+          "has_next_page": true,
+          "has_prev_page": false,
+          "count": 18,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "kasastefczyka.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 9510,
+            "percent": 0.9679389312977099
+          },
+          {
+            "tld": "net",
+            "count": 88,
+            "percent": 0.008956743002544528
+          },
+          {
+            "tld": "com",
+            "count": 76,
+            "percent": 0.007735368956743003
+          },
+          {
+            "tld": "info",
+            "count": 63,
+            "percent": 0.006412213740458015
+          },
+          {
+            "tld": "us",
+            "count": 60,
+            "percent": 0.0061068702290076335
+          },
+          {
+            "tld": "org",
+            "count": 18,
+            "percent": 0.00183206106870229
+          },
+          {
+            "tld": "expert",
+            "count": 4,
+            "percent": 0.0004071246819338422
+          },
+          {
+            "tld": "uk",
+            "count": 4,
+            "percent": 0.0004071246819338422
+          },
+          {
+            "tld": "eu",
+            "count": 2,
+            "percent": 0.0002035623409669211
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 9,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "forum-kredytowe.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 178,
+            "percent": 0.536144578313253
+          },
+          {
+            "tld": "com",
+            "count": 141,
+            "percent": 0.4246987951807229
+          },
+          {
+            "tld": "info",
+            "count": 5,
+            "percent": 0.015060240963855422
+          },
+          {
+            "tld": "org",
+            "count": 3,
+            "percent": 0.009036144578313253
+          },
+          {
+            "tld": "nl",
+            "count": 2,
+            "percent": 0.006024096385542169
+          },
+          {
+            "tld": "biz",
+            "count": 1,
+            "percent": 0.0030120481927710845
+          },
+          {
+            "tld": "one",
+            "count": 1,
+            "percent": 0.0030120481927710845
+          },
+          {
+            "tld": "eu",
+            "count": 1,
+            "percent": 0.0030120481927710845
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 8,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "blogkredytowy.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 124,
+            "percent": 0.9841269841269841
+          },
+          {
+            "tld": "com",
+            "count": 2,
+            "percent": 0.015873015873015872
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 2,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "angfinanse.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": false,
+      "error": "HTTP 418: {\"success\":false,\"data\":{\"error\":{\"type\":\"backlinks_api_error\",\"message\":\"External error while fetching data from backlinks API\"}}}",
+      "status": 418,
+      "domain": "kokos.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 81,
+            "percent": 0.7168141592920354
+          },
+          {
+            "tld": "org",
+            "count": 13,
+            "percent": 0.11504424778761062
+          },
+          {
+            "tld": "com",
+            "count": 12,
+            "percent": 0.10619469026548672
+          },
+          {
+            "tld": "net",
+            "count": 3,
+            "percent": 0.02654867256637168
+          },
+          {
+            "tld": "in",
+            "count": 2,
+            "percent": 0.017699115044247787
+          },
+          {
+            "tld": "tv",
+            "count": 1,
+            "percent": 0.008849557522123894
+          },
+          {
+            "tld": "fm",
+            "count": 1,
+            "percent": 0.008849557522123894
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 7,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "akredo.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 70,
+            "percent": 0.813953488372093
+          },
+          {
+            "tld": "com",
+            "count": 13,
+            "percent": 0.1511627906976744
+          },
+          {
+            "tld": "tv",
+            "count": 1,
+            "percent": 0.011627906976744186
+          },
+          {
+            "tld": "biz",
+            "count": 1,
+            "percent": 0.011627906976744186
+          },
+          {
+            "tld": "wiki",
+            "count": 1,
+            "percent": 0.011627906976744186
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 5,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "finhack.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 1,
+            "percent": 1
+          }
+        ],
+        "pagination": {
+          "page_count": 1,
+          "current_page": 1,
+          "has_next_page": false,
+          "has_prev_page": false,
+          "count": 1,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "bankoweabc.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": false,
+      "error": "HTTP 418: {\"success\":false,\"data\":{\"error\":{\"type\":\"backlinks_api_error\",\"message\":\"External error while fetching data from backlinks API\"}}}",
+      "status": 418,
+      "domain": "smart-money.pl",
+      "endpoint": "get_backlinks_tlds"
+    },
+    {
+      "ok": true,
+      "data": {
+        "success": true,
+        "data": [
+          {
+            "tld": "pl",
+            "count": 2029,
+            "percent": 0.887964989059081
+          },
+          {
+            "tld": "com",
+            "count": 190,
+            "percent": 0.08315098468271334
+          },
+          {
+            "tld": "info",
+            "count": 36,
+            "percent": 0.01575492341356674
+          },
+          {
+            "tld": "net",
+            "count": 14,
+            "percent": 0.00612691466083151
+          },
+          {
+            "tld": "org",
+            "count": 6,
+            "percent": 0.00262582056892779
+          },
+          {
+            "tld": "eu",
+            "count": 4,
+            "percent": 0.00175054704595186
+          },
+          {
+            "tld": "io",
+            "count": 2,
+            "percent": 0.00087527352297593
+          },
+          {
+            "tld": "tv",
+            "count": 1,
+            "percent": 0.000437636761487965
+          },
+          {
+            "tld": "online",
+            "count": 1,
+            "percent": 0.000437636761487965
+          },
+          {
+            "tld": "me",
+            "count": 1,
+            "percent": 0.000437636761487965
+          }
+        ],
+        "pagination": {
+          "page_count": 2,
+          "current_page": 1,
+          "has_next_page": true,
+          "has_prev_page": false,
+          "count": 11,
+          "limit": 10
+        }
+      },
+      "status": 200,
+      "domain": "helpfind.pl",
+      "endpoint": "get_backlinks_tlds"
+    }
+  ]
+}

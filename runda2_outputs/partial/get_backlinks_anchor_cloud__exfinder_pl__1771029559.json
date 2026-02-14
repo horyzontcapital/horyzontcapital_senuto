@@ -1,0 +1,37 @@
+{
+  "domain": "exfinder.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "exfinder.pl": [
+          {
+            "text": "",
+            "size": 1,
+            "percent": 0.25
+          },
+          {
+            "text": "www.exfinder.pl",
+            "size": 1,
+            "percent": 0.25
+          },
+          {
+            "text": "https://exfinder.pl/dla-agentow",
+            "size": 1,
+            "percent": 0.25
+          },
+          {
+            "text": "https://exfinder.pl/dla-klientow",
+            "size": 1,
+            "percent": 0.25
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "exfinder.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

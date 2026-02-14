@@ -1,0 +1,83 @@
+{
+  "domain": "ftfund.pl",
+  "endpoint": "get_backlinks_anchor_data",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "link_domain": "ftfund.pl",
+        "is_main_domain": true,
+        "anchor": "https://ftfund.pl/pozyczka-pod-zastaw-mieszkania",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 691,
+          "percent_of_total": 0.44841012329656066
+        },
+        "domains_with_anchor_count": 6,
+        "anchors_uniq_count": 689,
+        "percent_of_total": 0.44841012329656066
+      },
+      {
+        "link_domain": "ftfund.pl",
+        "is_main_domain": true,
+        "anchor": "https://ftfund.pl/pozyczki-dla-rolnikow",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 599,
+          "percent_of_total": 0.3887086307592472
+        },
+        "domains_with_anchor_count": 3,
+        "anchors_uniq_count": 599,
+        "percent_of_total": 0.3887086307592472
+      },
+      {
+        "link_domain": "ftfund.pl",
+        "is_main_domain": true,
+        "anchor": "https://ftfund.pl/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 223,
+          "percent_of_total": 0.14471122647631407
+        },
+        "domains_with_anchor_count": 8,
+        "anchors_uniq_count": 223,
+        "percent_of_total": 0.14471122647631407
+      },
+      {
+        "link_domain": "ftfund.pl",
+        "is_main_domain": true,
+        "anchor": "Strona",
+        "anchor_type": [],
+        "count": {
+          "count": 27,
+          "percent_of_total": 0.01752109020116807
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 26,
+        "percent_of_total": 0.01752109020116807
+      },
+      {
+        "link_domain": "ftfund.pl",
+        "is_main_domain": true,
+        "anchor": "",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0006489292667099286
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0006489292667099286
+      }
+    ],
+    "total": 5,
+    "domain": "ftfund.pl",
+    "endpoint": "get_backlinks_anchor_data"
+  }
+}

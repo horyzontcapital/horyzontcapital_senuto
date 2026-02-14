@@ -1,0 +1,17 @@
+{
+  "domain": "# Grupa C - Porównywarki (10)",
+  "endpoint": "suggest_domains",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "favourite": [],
+        "suggested": []
+      }
+    },
+    "status": 200,
+    "domain": "# Grupa C - Porównywarki (10)",
+    "endpoint": "suggest_domains"
+  }
+}

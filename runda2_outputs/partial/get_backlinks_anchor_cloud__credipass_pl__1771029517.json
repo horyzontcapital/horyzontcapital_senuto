@@ -1,0 +1,67 @@
+{
+  "domain": "credipass.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "credipass.pl": [
+          {
+            "text": "Zapytaj o kredyt",
+            "size": 196402,
+            "percent": 0.46003433826233403
+          },
+          {
+            "text": "Credipass",
+            "size": 196379,
+            "percent": 0.4599804651358891
+          },
+          {
+            "text": "",
+            "size": 31315,
+            "percent": 0.07334943280967093
+          },
+          {
+            "text": "Financing",
+            "size": 2686,
+            "percent": 0.006291444244827594
+          },
+          {
+            "text": "www",
+            "size": 75,
+            "percent": 0.000175673238407323
+          },
+          {
+            "text": "www.credipass.pl/partnerzy",
+            "size": 17,
+            "percent": 3.981926737232655e-05
+          },
+          {
+            "text": "Credipass.",
+            "size": 14,
+            "percent": 3.2792337836033624e-05
+          },
+          {
+            "text": "credipass.pl",
+            "size": 9,
+            "percent": 2.108078860887876e-05
+          },
+          {
+            "text": "Szukasz ubezpieczenia?",
+            "size": 9,
+            "percent": 2.108078860887876e-05
+          },
+          {
+            "text": "Andrzej Łukaszewski",
+            "size": 6,
+            "percent": 1.405385907258584e-05
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "credipass.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "domain": "credipass.pl",
+  "endpoint": "get_backlinks_tlds",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "tld": "pl",
+          "count": 426919,
+          "percent": 0.9999765769015457
+        },
+        {
+          "tld": "com",
+          "count": 6,
+          "percent": 1.405385907258584e-05
+        },
+        {
+          "tld": "in",
+          "count": 2,
+          "percent": 4.684619690861947e-06
+        },
+        {
+          "tld": "info",
+          "count": 1,
+          "percent": 2.3423098454309734e-06
+        },
+        {
+          "tld": "ua",
+          "count": 1,
+          "percent": 2.3423098454309734e-06
+        }
+      ],
+      "pagination": {
+        "page_count": 1,
+        "current_page": 1,
+        "has_next_page": false,
+        "has_prev_page": false,
+        "count": 5,
+        "limit": 10
+      }
+    },
+    "status": 200,
+    "domain": "credipass.pl",
+    "endpoint": "get_backlinks_tlds"
+  }
+}

@@ -1,0 +1,429 @@
+{
+  "domain": "finergia.pl",
+  "endpoint": "get_positions_wins",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "keyword_id": 1061099,
+        "kid": "16c52fb286c523ba4f5703345095af40",
+        "domain": "finergia.pl",
+        "keyword": "kredyt na oświadczenie",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 17,
+            "previous": 51,
+            "diff": -34,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 2
+            },
+            "history": {
+              "2025-12-28": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-22": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-01": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 17,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "finergia.pl/kredyt-na-oswiadczenie-jak-sie-przygotowac/",
+            "previous": "",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 11.45
+          },
+          "searches": {
+            "current": 880
+          },
+          "trends": {
+            "history": [
+              1000,
+              1000,
+              1000,
+              880,
+              1000,
+              880,
+              880,
+              720,
+              720,
+              720,
+              720,
+              590
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 67
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 6506500,
+        "kid": "8dc92c4136529e74c428e955b9db33cc",
+        "domain": "finergia.pl",
+        "keyword": "pożyczki dla firm z sektora pozabankowego",
+        "words_count": 6,
+        "statistics": {
+          "position": {
+            "current": 13,
+            "previous": 51,
+            "diff": -38,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 2
+            },
+            "history": {
+              "2025-12-18": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-01": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-20": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 13,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "finergia.pl/finansowanie-pozabankowe-dla-firm-jakie-sa-mozliwosci/",
+            "previous": "",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 7.29
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              20,
+              10,
+              20,
+              10,
+              10,
+              10,
+              40,
+              30,
+              20,
+              10,
+              20,
+              30
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 35
+          },
+          "snippets": {
+            "current": []
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 7019323,
+        "kid": "99489236cc894381adec10dedf761267",
+        "domain": "finergia.pl",
+        "keyword": "leasing z wysoką wartością wykupu",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 17,
+            "previous": 20,
+            "diff": -3,
+            "changes": {
+              "wins": 3,
+              "losses": 0,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-20": {
+                "position": 23,
+                "has_serp": true
+              },
+              "2026-01-03": {
+                "position": 22,
+                "has_serp": true
+              },
+              "2026-01-20": {
+                "position": 20,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 17,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "finergia.pl/leasing-z-wysoka-wartoscia-wykupu/",
+            "previous": "finergia.pl/leasing-z-wysoka-wartoscia-wykupu/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 2.34
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 28
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 10146759,
+        "kid": "dfcde3dad81d520093d692f0fa250866",
+        "domain": "finergia.pl",
+        "keyword": "zdolność kredytowa przedsiębiorstwa",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 41,
+            "previous": 51,
+            "diff": -10,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-18": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-07": {
+                "position": 41,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "finergia.pl/zdolnosc-kredytowa-firmy-jak-ja-zbudowac-i-utrzymac/",
+            "previous": "",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              30,
+              20,
+              20,
+              20,
+              30,
+              40,
+              10,
+              10,
+              10,
+              10,
+              30,
+              30
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 26
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 12059371,
+        "kid": "0e27a7c0d9bbe1e2f2fada43ee878b3a",
+        "domain": "finergia.pl",
+        "keyword": "pośrednictwo finansowe for you",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 32,
+            "previous": 51,
+            "diff": -19,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-18": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-06": {
+                "position": 32,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "finergia.pl/",
+            "previous": "",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 40
+          },
+          "trends": {
+            "history": [
+              30,
+              30,
+              30,
+              70,
+              50,
+              40,
+              50,
+              40,
+              30,
+              70,
+              40,
+              30
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 21
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "website",
+            "main_intent": "navigational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      }
+    ],
+    "total": 5,
+    "domain": "finergia.pl",
+    "endpoint": "get_positions_wins"
+  }
+}

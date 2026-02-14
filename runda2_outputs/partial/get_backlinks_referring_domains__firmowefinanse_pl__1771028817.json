@@ -1,0 +1,159 @@
+{
+  "domain": "firmowefinanse.pl",
+  "endpoint": "get_backlinks_referring_domains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "ref_domain": "emis.com",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.09254916220975604,
+        "backlinks_count": 2,
+        "links_external_count": 489502,
+        "percent_of_total": 0.2222222222222222,
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.2222222222222222
+        },
+        "top3": 297,
+        "top10": 4824,
+        "top50": 50202,
+        "visibility": 10473.57000000014,
+        "domain_rank": 23416,
+        "ads_equivalent": 9410.197350000006
+      },
+      {
+        "ref_domain": "cozadzien.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": 330.05,
+          "article_price_nofollow": 165.6,
+          "link_price_dofollow": 644,
+          "link_price_nofollow": null,
+          "price_do_follow": 330.05,
+          "price_no_follow": 165.6
+        },
+        "ratio_bl_ext": 0.007215323356557339,
+        "backlinks_count": 2,
+        "links_external_count": 757693,
+        "percent_of_total": 0.2222222222222222,
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.2222222222222222
+        },
+        "top3": 208,
+        "top10": 1087,
+        "top50": 8263,
+        "visibility": 44826.328000000016,
+        "domain_rank": 6682,
+        "ads_equivalent": 34049.60809
+      },
+      {
+        "ref_domain": "jaw.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": 63.25,
+          "article_price_nofollow": null,
+          "link_price_dofollow": null,
+          "link_price_nofollow": null,
+          "price_do_follow": 63.25,
+          "price_no_follow": null
+        },
+        "ratio_bl_ext": 0.01812759005717797,
+        "backlinks_count": 1,
+        "links_external_count": 133443,
+        "percent_of_total": 0.1111111111111111,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.1111111111111111
+        },
+        "top3": 493,
+        "top10": 2282,
+        "top50": 19349,
+        "visibility": 61673.63400000009,
+        "domain_rank": 5027,
+        "ads_equivalent": 189676.06703000003
+      },
+      {
+        "ref_domain": "bazafirm.org",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.0006562986071155895,
+        "backlinks_count": 1,
+        "links_external_count": 457109,
+        "percent_of_total": 0.1111111111111111,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.1111111111111111
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "lublin24.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": 305.9,
+          "article_price_nofollow": null,
+          "link_price_dofollow": null,
+          "link_price_nofollow": null,
+          "price_do_follow": 305.9,
+          "price_no_follow": null
+        },
+        "ratio_bl_ext": 0.5268517107722723,
+        "backlinks_count": 1,
+        "links_external_count": 269089,
+        "percent_of_total": 0.1111111111111111,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.1111111111111111
+        },
+        "top3": 117,
+        "top10": 928,
+        "top50": 8133,
+        "visibility": 11638.860000000002,
+        "domain_rank": 21559,
+        "ads_equivalent": 14641.37032
+      },
+      {
+        "ref_domain": "wawa.waw.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.0001149029070435482,
+        "backlinks_count": 1,
+        "links_external_count": 87030,
+        "percent_of_total": 0.1111111111111111,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.1111111111111111
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "firmy77.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.0011651764229083817,
+        "backlinks_count": 1,
+        "links_external_count": 118437,
+        "percent_of_total": 0.1111111111111111,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.1111111111111111
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      }
+    ],
+    "total": 7,
+    "domain": "firmowefinanse.pl",
+    "endpoint": "get_backlinks_referring_domains"
+  }
+}

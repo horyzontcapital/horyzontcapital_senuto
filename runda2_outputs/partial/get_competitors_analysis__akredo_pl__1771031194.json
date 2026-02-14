@@ -1,0 +1,155 @@
+{
+  "domain": "akredo.pl",
+  "endpoint": "get_competitors_analysis",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "keyword": "pożyczki pod zastaw online",
+          "cpc": 8.53,
+          "searches": 140,
+          "trends": [
+            170,
+            170,
+            140,
+            170,
+            140,
+            110,
+            140,
+            140,
+            170,
+            140,
+            110,
+            110
+          ],
+          "difficulty": 44,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 43,
+            "url": "horyzontcapital.com/blog/pozyczka-pod-zastaw-nieruchomosci-dla-firmy-krok-po-kroku"
+          },
+          "horyzontcapital.com_pos": 43,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/pozyczka-pod-zastaw-nieruchomosci-dla-firmy-krok-po-kroku",
+          "akredo.pl": {
+            "pos": 25,
+            "url": "akredo.pl/pozyczki-pozabankowe/pozyczka-pod-zastaw/"
+          },
+          "akredo.pl_pos": 25,
+          "akredo.pl_url": "akredo.pl/pozyczki-pozabankowe/pozyczka-pod-zastaw/"
+        },
+        {
+          "keyword": "pożyczę pod zastaw",
+          "cpc": 0,
+          "searches": 10,
+          "trends": [
+            10,
+            10,
+            20,
+            40,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+          ],
+          "difficulty": 31,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 24,
+            "url": "horyzontcapital.com/oferta/pozyczka-pod-zastaw-nieruchomosci"
+          },
+          "horyzontcapital.com_pos": 24,
+          "horyzontcapital.com_url": "horyzontcapital.com/oferta/pozyczka-pod-zastaw-nieruchomosci",
+          "akredo.pl": {
+            "pos": 25,
+            "url": "akredo.pl/pozyczki-pozabankowe/pozyczka-pod-zastaw/"
+          },
+          "akredo.pl_pos": 25,
+          "akredo.pl_url": "akredo.pl/pozyczki-pozabankowe/pozyczka-pod-zastaw/"
+        },
+        {
+          "keyword": "spis dłużników bankowych",
+          "cpc": 0,
+          "searches": 10,
+          "trends": [
+            10,
+            10,
+            10,
+            20,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+          ],
+          "difficulty": 40,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 37,
+            "url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia"
+          },
+          "horyzontcapital.com_pos": 37,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/bik-i-krd-czym-sie-roznia",
+          "akredo.pl": {
+            "pos": 45,
+            "url": "akredo.pl/zadluzenia/bazy-dluznikow/rdn/"
+          },
+          "akredo.pl_pos": 45,
+          "akredo.pl_url": "akredo.pl/zadluzenia/bazy-dluznikow/rdn/"
+        },
+        {
+          "keyword": "pożyczka pod zastaw laptopa",
+          "cpc": 7.82,
+          "searches": 10,
+          "trends": [
+            10,
+            10,
+            10,
+            10,
+            20,
+            10,
+            10,
+            20,
+            20,
+            20,
+            20,
+            30
+          ],
+          "difficulty": 31,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 23,
+            "url": "horyzontcapital.com/dla-kogo/pozyczki-i-kredyty-dla-handlu"
+          },
+          "horyzontcapital.com_pos": 23,
+          "horyzontcapital.com_url": "horyzontcapital.com/dla-kogo/pozyczki-i-kredyty-dla-handlu",
+          "akredo.pl": {
+            "pos": 38,
+            "url": "akredo.pl/pozyczki-pozabankowe/pozyczki-lombardzie/"
+          },
+          "akredo.pl_pos": 38,
+          "akredo.pl_url": "akredo.pl/pozyczki-pozabankowe/pozyczki-lombardzie/"
+        }
+      ],
+      "pagination": {
+        "page_count": 1,
+        "current_page": 1,
+        "has_next_page": false,
+        "has_prev_page": false,
+        "count": 4,
+        "limit": 100
+      }
+    },
+    "status": 200,
+    "domain": "akredo.pl",
+    "endpoint": "get_competitors_analysis"
+  }
+}

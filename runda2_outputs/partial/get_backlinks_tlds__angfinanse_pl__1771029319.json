@@ -1,0 +1,33 @@
+{
+  "domain": "angfinanse.pl",
+  "endpoint": "get_backlinks_tlds",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "tld": "pl",
+          "count": 124,
+          "percent": 0.9841269841269841
+        },
+        {
+          "tld": "com",
+          "count": 2,
+          "percent": 0.015873015873015872
+        }
+      ],
+      "pagination": {
+        "page_count": 1,
+        "current_page": 1,
+        "has_next_page": false,
+        "has_prev_page": false,
+        "count": 2,
+        "limit": 10
+      }
+    },
+    "status": 200,
+    "domain": "angfinanse.pl",
+    "endpoint": "get_backlinks_tlds"
+  }
+}

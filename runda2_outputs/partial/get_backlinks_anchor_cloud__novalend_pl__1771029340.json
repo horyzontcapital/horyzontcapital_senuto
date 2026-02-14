@@ -1,0 +1,52 @@
+{
+  "domain": "novalend.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "novalend.pl": [
+          {
+            "text": "NovaLend",
+            "size": 81,
+            "percent": 0.44505494505494503
+          },
+          {
+            "text": "logo (2).png logo (2).png",
+            "size": 71,
+            "percent": 0.3901098901098901
+          },
+          {
+            "text": "Sprawdź",
+            "size": 24,
+            "percent": 0.13186813186813187
+          },
+          {
+            "text": "Złóż wniosek",
+            "size": 3,
+            "percent": 0.016483516483516484
+          },
+          {
+            "text": "",
+            "size": 1,
+            "percent": 0.005494505494505495
+          },
+          {
+            "text": "www.novalend.pl",
+            "size": 1,
+            "percent": 0.005494505494505495
+          },
+          {
+            "text": "https://novalend.pl/",
+            "size": 1,
+            "percent": 0.005494505494505495
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "novalend.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

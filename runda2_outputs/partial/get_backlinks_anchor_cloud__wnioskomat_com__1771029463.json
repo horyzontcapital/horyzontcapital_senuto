@@ -1,0 +1,67 @@
+{
+  "domain": "wnioskomat.com",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "wnioskomat.com": [
+          {
+            "text": "Składasz tylko jeden wniosek a ofertę dobierzemy za Ciebie. przejdż dalej",
+            "size": 36,
+            "percent": 0.21818181818181817
+          },
+          {
+            "text": "Wnioskomat.com",
+            "size": 24,
+            "percent": 0.14545454545454545
+          },
+          {
+            "text": "",
+            "size": 15,
+            "percent": 0.09090909090909091
+          },
+          {
+            "text": "Wnioskomat",
+            "size": 15,
+            "percent": 0.09090909090909091
+          },
+          {
+            "text": "wnioskomat.com",
+            "size": 12,
+            "percent": 0.07272727272727272
+          },
+          {
+            "text": "Złóż wniosek",
+            "size": 12,
+            "percent": 0.07272727272727272
+          },
+          {
+            "text": "Wypełnij Wniosek Online",
+            "size": 5,
+            "percent": 0.030303030303030304
+          },
+          {
+            "text": "ZŁÓŻ WNIOSEK",
+            "size": 5,
+            "percent": 0.030303030303030304
+          },
+          {
+            "text": "WNIOSEK ONLINE&nbsp;",
+            "size": 2,
+            "percent": 0.012121212121212121
+          },
+          {
+            "text": "https://wnioskomat.com/ranking-kredytow-hipotecznych/",
+            "size": 2,
+            "percent": 0.012121212121212121
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "wnioskomat.com",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "domain": "kredytomat.pl",
+  "endpoint": "get_url_sections",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "url_section": "kredytomat.pl/",
+        "keywords_count": 240,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 2137.15,
+            "previous": 1474.44,
+            "diff": 662.71,
+            "percent": 0.4495,
+            "history": null
+          },
+          "top3": {
+            "current": 12,
+            "previous": 10,
+            "diff": 2,
+            "percent": 0.2,
+            "history": null
+          },
+          "top10": {
+            "current": 240,
+            "previous": 224,
+            "diff": 16,
+            "percent": 0.0714,
+            "history": null
+          },
+          "top50": {
+            "current": 1318,
+            "previous": 1298,
+            "diff": 20,
+            "percent": 0.0154,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "kredytomat.pl/kredyty-konsolidacyjne/",
+        "keywords_count": 6,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 66.67,
+            "previous": 66.37,
+            "diff": 0.31,
+            "percent": 0.0045,
+            "history": null
+          },
+          "top3": {
+            "current": 2,
+            "previous": 2,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 6,
+            "previous": 6,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 15,
+            "previous": 14,
+            "diff": 1,
+            "percent": 0.0714,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 2,
+    "domain": "kredytomat.pl",
+    "endpoint": "get_url_sections"
+  }
+}

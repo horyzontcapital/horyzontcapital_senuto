@@ -1,0 +1,43 @@
+{
+  "domain": "inwestum.com.pl",
+  "endpoint": "get_backlinks_tlds",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "tld": "pl",
+          "count": 69,
+          "percent": 0.6831683168316832
+        },
+        {
+          "tld": "com",
+          "count": 26,
+          "percent": 0.25742574257425743
+        },
+        {
+          "tld": "net",
+          "count": 5,
+          "percent": 0.04950495049504951
+        },
+        {
+          "tld": "info",
+          "count": 1,
+          "percent": 0.009900990099009901
+        }
+      ],
+      "pagination": {
+        "page_count": 1,
+        "current_page": 1,
+        "has_next_page": false,
+        "has_prev_page": false,
+        "count": 4,
+        "limit": 10
+      }
+    },
+    "status": 200,
+    "domain": "inwestum.com.pl",
+    "endpoint": "get_backlinks_tlds"
+  }
+}

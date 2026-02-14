@@ -1,0 +1,67 @@
+{
+  "domain": "helpfind.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "helpfind.pl": [
+          {
+            "text": "Helpfind",
+            "size": 551,
+            "percent": 0.24113785557986872
+          },
+          {
+            "text": "helpfind.pl",
+            "size": 274,
+            "percent": 0.11991247264770241
+          },
+          {
+            "text": "",
+            "size": 139,
+            "percent": 0.060831509846827135
+          },
+          {
+            "text": "szkoda całkowita",
+            "size": 80,
+            "percent": 0.0350109409190372
+          },
+          {
+            "text": "kredyty frankowe",
+            "size": 69,
+            "percent": 0.030196936542669583
+          },
+          {
+            "text": "najczęściej przyznawane renty",
+            "size": 66,
+            "percent": 0.02888402625820569
+          },
+          {
+            "text": "komisja lekarska zus co mówić",
+            "size": 45,
+            "percent": 0.019693654266958426
+          },
+          {
+            "text": "Dopłata do odszkodowania",
+            "size": 39,
+            "percent": 0.017067833698030634
+          },
+          {
+            "text": "szkoda parkingowa",
+            "size": 38,
+            "percent": 0.01663019693654267
+          },
+          {
+            "text": "kiedy możesz ubiegać się o zwrot kosztów leczenia",
+            "size": 36,
+            "percent": 0.01575492341356674
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "helpfind.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

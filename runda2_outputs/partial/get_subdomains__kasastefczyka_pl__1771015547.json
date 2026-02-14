@@ -1,0 +1,138 @@
+{
+  "domain": "kasastefczyka.pl",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "kasastefczyka.pl",
+        "keywords_count": 6320,
+        "visibility_percent": 88.75,
+        "statistics": {
+          "visibility": {
+            "current": 160190.98,
+            "previous": 149924.29,
+            "diff": 10266.69,
+            "percent": 0.0685,
+            "history": null
+          },
+          "top3": {
+            "current": 2302,
+            "previous": 2275,
+            "diff": 27,
+            "percent": 0.0119,
+            "history": null
+          },
+          "top10": {
+            "current": 6320,
+            "previous": 6311,
+            "diff": 9,
+            "percent": 0.0014,
+            "history": null
+          },
+          "top50": {
+            "current": 16890,
+            "previous": 16778,
+            "diff": 112,
+            "percent": 0.0067,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 88.75,
+            "previous": 89.1,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "zaloguj.kasastefczyka.pl",
+        "keywords_count": 282,
+        "visibility_percent": 11.25,
+        "statistics": {
+          "visibility": {
+            "current": 20308.36,
+            "previous": 18339.46,
+            "diff": 1968.89,
+            "percent": 0.1074,
+            "history": null
+          },
+          "top3": {
+            "current": 90,
+            "previous": 89,
+            "diff": 1,
+            "percent": 0.0112,
+            "history": null
+          },
+          "top10": {
+            "current": 282,
+            "previous": 264,
+            "diff": 18,
+            "percent": 0.0682,
+            "history": null
+          },
+          "top50": {
+            "current": 1207,
+            "previous": 1213,
+            "diff": -6,
+            "percent": -0.0049,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 11.25,
+            "previous": 10.9,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "panel.kasastefczyka.pl",
+        "keywords_count": 2,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 3.66,
+            "previous": 3.66,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 1,
+            "previous": 1,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 2,
+            "previous": 2,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 10,
+            "previous": 11,
+            "diff": -1,
+            "percent": -0.0909,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 3,
+    "domain": "kasastefczyka.pl",
+    "endpoint": "get_subdomains"
+  }
+}

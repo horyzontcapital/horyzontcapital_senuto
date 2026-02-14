@@ -1,0 +1,950 @@
+{
+  "domain": "notus.pl",
+  "endpoint": "get_backlinks_anchor_data",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "notus.pl",
+        "anchor_type": [],
+        "count": {
+          "count": 105,
+          "percent_of_total": 0.26582278481012656
+        },
+        "domains_with_anchor_count": 9,
+        "anchors_uniq_count": 82,
+        "percent_of_total": 0.26582278481012656
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "<redirect>",
+        "anchor_type": [],
+        "count": {
+          "count": 63,
+          "percent_of_total": 0.15949367088607594
+        },
+        "domains_with_anchor_count": 17,
+        "anchors_uniq_count": 63,
+        "percent_of_total": 0.15949367088607594
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "",
+        "anchor_type": [],
+        "count": {
+          "count": 25,
+          "percent_of_total": 0.06329113924050633
+        },
+        "domains_with_anchor_count": 3,
+        "anchors_uniq_count": 22,
+        "percent_of_total": 0.06329113924050633
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 17,
+          "percent_of_total": 0.043037974683544304
+        },
+        "domains_with_anchor_count": 10,
+        "anchors_uniq_count": 13,
+        "percent_of_total": 0.043037974683544304
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "Partnerzy biznesowi",
+        "anchor_type": [],
+        "count": {
+          "count": 14,
+          "percent_of_total": 0.035443037974683546
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 14,
+        "percent_of_total": 0.035443037974683546
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "Notus Finanse S.A",
+        "anchor_type": [],
+        "count": {
+          "count": 11,
+          "percent_of_total": 0.027848101265822784
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 5,
+        "percent_of_total": 0.027848101265822784
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "Przejdz do strony",
+        "anchor_type": [],
+        "count": {
+          "count": 11,
+          "percent_of_total": 0.027848101265822784
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 11,
+        "percent_of_total": 0.027848101265822784
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "Notus",
+        "anchor_type": [],
+        "count": {
+          "count": 8,
+          "percent_of_total": 0.020253164556962026
+        },
+        "domains_with_anchor_count": 4,
+        "anchors_uniq_count": 7,
+        "percent_of_total": 0.020253164556962026
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "<canonical>",
+        "anchor_type": [],
+        "count": {
+          "count": 8,
+          "percent_of_total": 0.020253164556962026
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 0.020253164556962026
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "Notus Finanse",
+        "anchor_type": [],
+        "count": {
+          "count": 7,
+          "percent_of_total": 0.017721518987341773
+        },
+        "domains_with_anchor_count": 5,
+        "anchors_uniq_count": 5,
+        "percent_of_total": 0.017721518987341773
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "notus.pl/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 7,
+          "percent_of_total": 0.017721518987341773
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 5,
+        "percent_of_total": 0.017721518987341773
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "Notus Finanse",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 7,
+          "percent_of_total": 0.017721518987341773
+        },
+        "domains_with_anchor_count": 3,
+        "anchors_uniq_count": 5,
+        "percent_of_total": 0.017721518987341773
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "www.notus.pl",
+        "anchor_type": [],
+        "count": {
+          "count": 6,
+          "percent_of_total": 0.015189873417721518
+        },
+        "domains_with_anchor_count": 3,
+        "anchors_uniq_count": 6,
+        "percent_of_total": 0.015189873417721518
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "https://notus.pl/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 6,
+          "percent_of_total": 0.015189873417721518
+        },
+        "domains_with_anchor_count": 4,
+        "anchors_uniq_count": 4,
+        "percent_of_total": 0.015189873417721518
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "Notus kredyty",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 5,
+          "percent_of_total": 0.012658227848101266
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 3,
+        "percent_of_total": 0.012658227848101266
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "https://notus.pl/kalkulatory-kredytowe/kalkulator-raty-kredytowej/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 5,
+          "percent_of_total": 0.012658227848101266
+        },
+        "domains_with_anchor_count": 4,
+        "anchors_uniq_count": 4,
+        "percent_of_total": 0.012658227848101266
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "NOTUS",
+        "anchor_type": [],
+        "count": {
+          "count": 4,
+          "percent_of_total": 0.010126582278481013
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 0.010126582278481013
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.notus.pl",
+        "anchor_type": [],
+        "count": {
+          "count": 4,
+          "percent_of_total": 0.010126582278481013
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 3,
+        "percent_of_total": 0.010126582278481013
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "Strona",
+        "anchor_type": [],
+        "count": {
+          "count": 4,
+          "percent_of_total": 0.010126582278481013
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 3,
+        "percent_of_total": 0.010126582278481013
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "SPRAWDŹ SZCZEGÓŁY",
+        "anchor_type": [],
+        "count": {
+          "count": 4,
+          "percent_of_total": 0.010126582278481013
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.010126582278481013
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "ile wynosi rata kredytu konsolidacyjnego",
+        "anchor_type": [],
+        "count": {
+          "count": 3,
+          "percent_of_total": 0.007594936708860759
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.007594936708860759
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "jaką masz zdolność kredytową",
+        "anchor_type": [],
+        "count": {
+          "count": 3,
+          "percent_of_total": 0.007594936708860759
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 0.007594936708860759
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "Oblicz kredyt",
+        "anchor_type": [],
+        "count": {
+          "count": 3,
+          "percent_of_total": 0.007594936708860759
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 0.007594936708860759
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "pomocy doradcy kredytowego.",
+        "anchor_type": [],
+        "count": {
+          "count": 3,
+          "percent_of_total": 0.007594936708860759
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.007594936708860759
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "Kredyt gotówkowy nie powinien stanowić obciążenia dla budżetu domowego, jeśli jego zaciągnięcie będzie odpowiednio przemyślane.",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.005063291139240506
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.005063291139240506
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "https://notus.pl/kredyty/kredyt-gotowkowy/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.005063291139240506
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.005063291139240506
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "Największą zaletą kredytu got&oacute;wkowego jest to, że w dowolny spos&oacute;b można spożytkować otrzymane środki.",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.005063291139240506
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.005063291139240506
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "kiedy refinansować kredyt",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.005063291139240506
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 0.005063291139240506
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "https://notus.pl/blog-finansowy/flipping-mieszkaniowy-co-to-jest-i-ile-da-sie-na-tym-zarobic/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.005063291139240506
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.005063291139240506
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "Przeniesienie hipoteki na inn&#x105; nieruchomo&#x15B;&#x107;",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.005063291139240506
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.005063291139240506
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "firmy Notus",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.005063291139240506
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.005063291139240506
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "https://notus.pl/kredyty/kredyt-gotowkowy /",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.005063291139240506
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.005063291139240506
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "NOTUS Finanse",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.005063291139240506
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 0.005063291139240506
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "Więcej »",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.005063291139240506
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 0.005063291139240506
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "pożyczki",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.005063291139240506
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.005063291139240506
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "Eksperci finansowi to profesjonaliści, kt&oacute;rzy pomogą ci uzyskać kredyt na najkorzystniejszych możliwych warunkach",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.005063291139240506
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.005063291139240506
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "Jeśli różnica między wysokością kredytu, którą wskazał kalkulator zdolności kredytowej, a ceną nieruchomości nie jest drastyczna, możesz jeszcze spróbować podreperować swoją zdolność. Przede wszystkim spłać wszelkie zobowiązania i zlikwiduj karty kredytowe.",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.005063291139240506
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.005063291139240506
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "Wykonanie obliczeń za pomocą kalkulatora kredytowego jest banalnie proste i zajmuje zaledwie kilka chwil.",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.005063291139240506
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.005063291139240506
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "ubezpieczenie na życie",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.005063291139240506
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 0.005063291139240506
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "Notus Finanse S.A.",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.005063291139240506
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.005063291139240506
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "poradnik jak uzyskać kredyt na dom",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.002531645569620253
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.002531645569620253
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "Stosując kalkulator zdolności kredytowej łatwo obliczyć, na jaką ratę nas stać. Narzędzie tego typu precyzyjnie określa tzw. bezpieczną kwotę kredytu.",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.002531645569620253
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.002531645569620253
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "obliczanie raty kredytu hipotecznego",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.002531645569620253
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.002531645569620253
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "Kalkulacja zdolności kredytowej",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.002531645569620253
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.002531645569620253
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "Ekspert Finansowy",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.002531645569620253
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.002531645569620253
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "Domu Kredytowego Notus",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.002531645569620253
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.002531645569620253
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "sprawdzisz swoją zdolność w kalkulatorze zdolności kredytowej",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.002531645569620253
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.002531645569620253
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "Doskona�ym sposobem na wst�pne okre�lenie swoich po�yczkowych mo�liwo�ci jest skorzystanie z kalkulatora zdolno�ci kredytowej NOTUS Finanse. To specjalne narz�dzie, dost�pne on-line, kt&oacute;re w zaledwie kilka sekund oszacuje maksymaln� kwot� potencjalnego zobowi�zania",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.002531645569620253
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.002531645569620253
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "Kalkulator raty kredytu NOTUS",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.002531645569620253
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.002531645569620253
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "Рассчитать кредит",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.002531645569620253
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.002531645569620253
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "zdolność kredytowa",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.002531645569620253
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.002531645569620253
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "kredyt hipoteczny się opłaca",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.002531645569620253
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.002531645569620253
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "Więcej informacji: notus.pl",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.002531645569620253
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.002531645569620253
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "http://www.notus.pl/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.002531645569620253
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.002531645569620253
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "Kliknij tutaj",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.002531645569620253
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.002531645569620253
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "kredyty na start",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.002531645569620253
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.002531645569620253
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "Kredyt 100 tyś to korzystne rozwiązanie w wielu przypadkach",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.002531645569620253
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.002531645569620253
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "kalkulator kredytu hipotecznego",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.002531645569620253
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.002531645569620253
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "Mniejsza miesięczna rata i więcej czasu na spłatę to główne wyznaczniki konsolidacji kredytu",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.002531645569620253
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.002531645569620253
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "https://notus.pl/blog-finansowy/bierzesz-kredyt-nie-trac-glowy-praktyczny-przewodnik-po-kredytach-hipotecznych",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.002531645569620253
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.002531645569620253
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "Pieniądze są po to, aby je wydawać, dlatego, jeśli masz potrzebę, nie bój się sięgnąć po kredyt konsolidacyjny. To często efektywna pomoc w wyjściu z długów, która pozwala uniknąć większych kłopotów finansowych.",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.002531645569620253
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.002531645569620253
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "Notus Finance",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.002531645569620253
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.002531645569620253
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "Notus finanse",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.002531645569620253
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.002531645569620253
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "Kalkulator zdolności kredytowej jest to narzędzie dostępne online",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.002531645569620253
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.002531645569620253
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "https://notus.pl/kalkulatory-kredytowe/kalkulator-konsolidacji-zobowiazan/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.002531645569620253
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.002531645569620253
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "https://notus.pl/kredyty/informacje-dla-klienta",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.002531645569620253
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.002531645569620253
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "Kalkulator kredytu hipotecznego - oblicz ratę kredytu - NOTUS Finanse",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.002531645569620253
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.002531645569620253
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "NOTUS FINANSE S.A.",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.002531645569620253
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.002531645569620253
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "Kredyt bankowy to popularne rozwiązanie trudnej sytuacji finansowej firmy",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.002531645569620253
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.002531645569620253
+      },
+      {
+        "link_domain": "notus.pl",
+        "is_main_domain": true,
+        "anchor": "https://notus.pl/kontakt/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.002531645569620253
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.002531645569620253
+      }
+    ],
+    "total": 70,
+    "domain": "notus.pl",
+    "endpoint": "get_backlinks_anchor_data"
+  }
+}

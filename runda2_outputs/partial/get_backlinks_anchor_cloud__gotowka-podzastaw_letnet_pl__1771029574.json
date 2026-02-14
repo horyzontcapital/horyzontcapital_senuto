@@ -1,0 +1,67 @@
+{
+  "domain": "gotowka-podzastaw.letnet.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "gotowka-podzastaw.letnet.pl": [
+          {
+            "text": "Strona",
+            "size": 5080,
+            "percent": 0.7587752053771472
+          },
+          {
+            "text": "http://www.gotowka-podzastaw.letnet.pl",
+            "size": 955,
+            "percent": 0.1426437640029873
+          },
+          {
+            "text": "WWW",
+            "size": 461,
+            "percent": 0.06885735623599701
+          },
+          {
+            "text": "https://www.gotowka-podzastaw.letnet.pl",
+            "size": 57,
+            "percent": 0.008513816280806573
+          },
+          {
+            "text": "Gotówka pod zastaw",
+            "size": 37,
+            "percent": 0.005526512322628827
+          },
+          {
+            "text": "www.gotowka-podzastaw.letnet.pl",
+            "size": 34,
+            "percent": 0.005078416728902166
+          },
+          {
+            "text": "Strona WWW",
+            "size": 26,
+            "percent": 0.003883495145631068
+          },
+          {
+            "text": "gotowka-podzastaw.letnet.pl",
+            "size": 10,
+            "percent": 0.0014936519790888724
+          },
+          {
+            "text": "http://www.gotowka-podzastaw.letnet.pl 731-531-144 pozyczkapodzastaw@wp.pl",
+            "size": 10,
+            "percent": 0.0014936519790888724
+          },
+          {
+            "text": "http://www.gotowka-podzastaw.letnet.pl 731-531-144 podzastaw@int.pl",
+            "size": 5,
+            "percent": 0.0007468259895444362
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "gotowka-podzastaw.letnet.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

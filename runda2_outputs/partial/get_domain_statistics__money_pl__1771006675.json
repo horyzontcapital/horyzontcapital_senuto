@@ -1,0 +1,74 @@
+{
+  "domain": "money.pl",
+  "endpoint": "get_domain_statistics",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "statistics": {
+          "top3": {
+            "recent_value": 21441,
+            "older_value": 21438,
+            "diff": 3,
+            "percent": 0.0001
+          },
+          "top10": {
+            "recent_value": 87928,
+            "older_value": 87927,
+            "diff": 1,
+            "percent": 0
+          },
+          "top50": {
+            "recent_value": 387360,
+            "older_value": 387344,
+            "diff": 16,
+            "percent": 0
+          },
+          "visibility": {
+            "recent_value": 3547607,
+            "older_value": 3518170,
+            "diff": 29437,
+            "percent": 0.0084
+          },
+          "domain_rank": {
+            "recent_value": 108,
+            "older_value": 108,
+            "diff": 0,
+            "percent": 0
+          },
+          "ads_equivalent": {
+            "recent_value": 7081859.63,
+            "older_value": 7065200.24,
+            "diff": 16659.39,
+            "percent": 0.0024
+          },
+          "category": {
+            "name": "",
+            "statistics": {
+              "recent_value": 108,
+              "older_value": 108,
+              "diff": 0,
+              "percent": 0
+            }
+          },
+          "aio_keywords": {
+            "recent_value": 164745,
+            "older_value": 164745,
+            "diff": 0,
+            "percent": 0
+          },
+          "aio_visible_keywords": {
+            "recent_value": 37218,
+            "older_value": 37218,
+            "diff": 0,
+            "percent": 0
+          }
+        }
+      }
+    },
+    "status": 200,
+    "domain": "money.pl",
+    "endpoint": "get_domain_statistics"
+  }
+}

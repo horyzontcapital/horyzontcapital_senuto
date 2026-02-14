@@ -1,0 +1,54 @@
+{
+  "domain": "ftfund.pl",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "ftfund.pl",
+        "keywords_count": 21,
+        "visibility_percent": 99.99,
+        "statistics": {
+          "visibility": {
+            "current": 67.7,
+            "previous": 39.1,
+            "diff": 28.59,
+            "percent": 0.7315,
+            "history": null
+          },
+          "top3": {
+            "current": 5,
+            "previous": 5,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 21,
+            "previous": 18,
+            "diff": 3,
+            "percent": 0.1667,
+            "history": null
+          },
+          "top50": {
+            "current": 90,
+            "previous": 93,
+            "diff": -3,
+            "percent": -0.0323,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 99.99,
+            "previous": 100.01,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "ftfund.pl",
+    "endpoint": "get_subdomains"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "domain": "baltcredit.pl",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "baltcredit.pl",
+        "keywords_count": 191,
+        "visibility_percent": 100,
+        "statistics": {
+          "visibility": {
+            "current": 1123.38,
+            "previous": 1090.15,
+            "diff": 33.23,
+            "percent": 0.0305,
+            "history": null
+          },
+          "top3": {
+            "current": 53,
+            "previous": 51,
+            "diff": 2,
+            "percent": 0.0392,
+            "history": null
+          },
+          "top10": {
+            "current": 191,
+            "previous": 198,
+            "diff": -7,
+            "percent": -0.0354,
+            "history": null
+          },
+          "top50": {
+            "current": 732,
+            "previous": 733,
+            "diff": -1,
+            "percent": -0.0014,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 100,
+            "previous": 100,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "baltcredit.pl",
+    "endpoint": "get_subdomains"
+  }
+}

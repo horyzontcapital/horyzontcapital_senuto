@@ -1,0 +1,74 @@
+{
+  "domain": "ibipolska.pl",
+  "endpoint": "get_domain_statistics",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "statistics": {
+          "top3": {
+            "recent_value": 3,
+            "older_value": 3,
+            "diff": 0,
+            "percent": 0
+          },
+          "top10": {
+            "recent_value": 3,
+            "older_value": 3,
+            "diff": 0,
+            "percent": 0
+          },
+          "top50": {
+            "recent_value": 12,
+            "older_value": 12,
+            "diff": 0,
+            "percent": 0
+          },
+          "visibility": {
+            "recent_value": 399,
+            "older_value": 399,
+            "diff": 0,
+            "percent": 0
+          },
+          "domain_rank": {
+            "recent_value": 229074,
+            "older_value": 229082,
+            "diff": -8,
+            "percent": 0
+          },
+          "ads_equivalent": {
+            "recent_value": 0,
+            "older_value": 0,
+            "diff": 0,
+            "percent": 0
+          },
+          "category": {
+            "name": "",
+            "statistics": {
+              "recent_value": 229074,
+              "older_value": 229074,
+              "diff": 0,
+              "percent": 0
+            }
+          },
+          "aio_keywords": {
+            "recent_value": 1,
+            "older_value": 1,
+            "diff": 0,
+            "percent": 0
+          },
+          "aio_visible_keywords": {
+            "recent_value": 0,
+            "older_value": 0,
+            "diff": 0,
+            "percent": 0
+          }
+        }
+      }
+    },
+    "status": 200,
+    "domain": "ibipolska.pl",
+    "endpoint": "get_domain_statistics"
+  }
+}

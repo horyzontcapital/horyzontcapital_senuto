@@ -1,0 +1,25 @@
+{
+  "domain": "ibipolska.pl",
+  "endpoint": "get_backlinks_anchor_data",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "link_domain": "ibipolska.pl",
+        "is_main_domain": true,
+        "anchor": "Poznaj nas bliżej!",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 1
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 1
+      }
+    ],
+    "total": 1,
+    "domain": "ibipolska.pl",
+    "endpoint": "get_backlinks_anchor_data"
+  }
+}

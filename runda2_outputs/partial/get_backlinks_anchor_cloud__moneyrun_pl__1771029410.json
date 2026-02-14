@@ -1,0 +1,22 @@
+{
+  "domain": "moneyrun.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "moneyrun.pl": [
+          {
+            "text": "weź pożyczkę",
+            "size": 1,
+            "percent": 1
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "moneyrun.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

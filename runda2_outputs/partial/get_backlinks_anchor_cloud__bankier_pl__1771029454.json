@@ -1,0 +1,67 @@
+{
+  "domain": "bankier.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "bankier.pl": [
+          {
+            "text": "Bankier.pl",
+            "size": 382860,
+            "percent": 0.09930566957404077
+          },
+          {
+            "text": "Kurs Euro",
+            "size": 350198,
+            "percent": 0.09083384755129795
+          },
+          {
+            "text": "Kurs Dolara",
+            "size": 344210,
+            "percent": 0.08928068882641324
+          },
+          {
+            "text": "Kredyt konsolidacyjny",
+            "size": 339741,
+            "percent": 0.08812152611073026
+          },
+          {
+            "text": "Sesje elixir",
+            "size": 338487,
+            "percent": 0.08779626541583957
+          },
+          {
+            "text": "Kursy walut",
+            "size": 332957,
+            "percent": 0.0863619020643679
+          },
+          {
+            "text": "Forex",
+            "size": 332507,
+            "percent": 0.08624518171931143
+          },
+          {
+            "text": "Wibor",
+            "size": 332497,
+            "percent": 0.08624258793386573
+          },
+          {
+            "text": "Rejestracja pojazdu",
+            "size": 332496,
+            "percent": 0.08624232855532116
+          },
+          {
+            "text": "&nbsp;",
+            "size": 96884,
+            "percent": 0.025129630912112434
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "bankier.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

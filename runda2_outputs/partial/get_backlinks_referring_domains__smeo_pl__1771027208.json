@@ -1,0 +1,1965 @@
+{
+  "domain": "smeo.pl",
+  "endpoint": "get_backlinks_referring_domains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "ref_domain": "finchcapital.com",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.18433179723502305,
+        "backlinks_count": 32,
+        "links_external_count": 868,
+        "percent_of_total": 0.11940298507462686,
+        "count": {
+          "count": 32,
+          "percent_of_total": 0.11940298507462686
+        },
+        "top3": 1,
+        "top10": 1,
+        "top50": 2,
+        "visibility": 17.8,
+        "domain_rank": 926114,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "profeina.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.07600950118764846,
+        "backlinks_count": 17,
+        "links_external_count": 842,
+        "percent_of_total": 0.06343283582089553,
+        "count": {
+          "count": 17,
+          "percent_of_total": 0.06343283582089553
+        },
+        "top3": 12,
+        "top10": 74,
+        "top50": 278,
+        "visibility": 505.206,
+        "domain_rank": 199796,
+        "ads_equivalent": 3635.1188799999995
+      },
+      {
+        "ref_domain": "poradnikprzedsiebiorcy.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": 3864,
+          "article_price_nofollow": null,
+          "link_price_dofollow": 8050,
+          "link_price_nofollow": null,
+          "price_do_follow": 3864,
+          "price_no_follow": null
+        },
+        "ratio_bl_ext": 0.6486882155307698,
+        "backlinks_count": 14,
+        "links_external_count": 189894,
+        "percent_of_total": 0.05223880597014925,
+        "count": {
+          "count": 14,
+          "percent_of_total": 0.05223880597014925
+        },
+        "top3": 96736,
+        "top10": 185414,
+        "top50": 354293,
+        "visibility": 2809930.9950018968,
+        "domain_rank": 134,
+        "ads_equivalent": 5159974.8452299675
+      },
+      {
+        "ref_domain": "forum.obud.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.014681410840326299,
+        "backlinks_count": 12,
+        "links_external_count": 196507,
+        "percent_of_total": 0.04477611940298507,
+        "count": {
+          "count": 12,
+          "percent_of_total": 0.04477611940298507
+        },
+        "top3": 119,
+        "top10": 836,
+        "top50": 3821,
+        "visibility": 2309.094999999997,
+        "domain_rank": 73603,
+        "ads_equivalent": 1614.9248200000006
+      },
+      {
+        "ref_domain": "dginwest.com.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.25892857142857145,
+        "backlinks_count": 11,
+        "links_external_count": 672,
+        "percent_of_total": 0.041044776119402986,
+        "count": {
+          "count": 11,
+          "percent_of_total": 0.041044776119402986
+        },
+        "top3": 29,
+        "top10": 207,
+        "top50": 1386,
+        "visibility": 468.41900000000004,
+        "domain_rank": 208917,
+        "ads_equivalent": 2902.6718699999997
+      },
+      {
+        "ref_domain": "smeo24.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 24.1,
+        "backlinks_count": 10,
+        "links_external_count": 10,
+        "percent_of_total": 0.03731343283582089,
+        "count": {
+          "count": 10,
+          "percent_of_total": 0.03731343283582089
+        },
+        "top3": 2,
+        "top10": 2,
+        "top50": 5,
+        "visibility": 35.6,
+        "domain_rank": 717906,
+        "ads_equivalent": 46.1376
+      },
+      {
+        "ref_domain": "dyskusje24.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 2.293409787876583e-05,
+        "backlinks_count": 8,
+        "links_external_count": 28254872,
+        "percent_of_total": 0.029850746268656716,
+        "count": {
+          "count": 8,
+          "percent_of_total": 0.029850746268656716
+        },
+        "top3": 187,
+        "top10": 2924,
+        "top50": 58137,
+        "visibility": 8867.190000000088,
+        "domain_rank": 26772,
+        "ads_equivalent": 2742.689010000002
+      },
+      {
+        "ref_domain": "serwisfaktoringowy.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.03450655624568668,
+        "backlinks_count": 8,
+        "links_external_count": 1449,
+        "percent_of_total": 0.029850746268656716,
+        "count": {
+          "count": 8,
+          "percent_of_total": 0.029850746268656716
+        },
+        "top3": 22,
+        "top10": 110,
+        "top50": 270,
+        "visibility": 879.5899999999995,
+        "domain_rank": 141926,
+        "ads_equivalent": 4933.13409
+      },
+      {
+        "ref_domain": "magmador.com.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.019267822736030827,
+        "backlinks_count": 5,
+        "links_external_count": 519,
+        "percent_of_total": 0.018656716417910446,
+        "count": {
+          "count": 5,
+          "percent_of_total": 0.018656716417910446
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "chillibar.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.009312638580931265,
+        "backlinks_count": 4,
+        "links_external_count": 2255,
+        "percent_of_total": 0.014925373134328358,
+        "count": {
+          "count": 4,
+          "percent_of_total": 0.014925373134328358
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 7,
+        "visibility": 0,
+        "domain_rank": 5070518,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "biznes.newseria.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": 805,
+          "article_price_nofollow": null,
+          "link_price_dofollow": null,
+          "link_price_nofollow": null,
+          "price_do_follow": 805,
+          "price_no_follow": null
+        },
+        "ratio_bl_ext": 0.025265807086973173,
+        "backlinks_count": 4,
+        "links_external_count": 274165,
+        "percent_of_total": 0.014925373134328358,
+        "count": {
+          "count": 4,
+          "percent_of_total": 0.014925373134328358
+        },
+        "top3": 194,
+        "top10": 2533,
+        "top50": 28924,
+        "visibility": 11707.147000000035,
+        "domain_rank": 21446,
+        "ads_equivalent": 21615.347500000018
+      },
+      {
+        "ref_domain": "businessinsider.com.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": null,
+          "article_price_nofollow": 5635,
+          "link_price_dofollow": null,
+          "link_price_nofollow": null,
+          "price_do_follow": null,
+          "price_no_follow": 5635
+        },
+        "ratio_bl_ext": 0.7053901230401596,
+        "backlinks_count": 4,
+        "links_external_count": 1902387,
+        "percent_of_total": 0.014925373134328358,
+        "count": {
+          "count": 4,
+          "percent_of_total": 0.014925373134328358
+        },
+        "top3": 25583,
+        "top10": 83858,
+        "top50": 388048,
+        "visibility": 5162650.777000366,
+        "domain_rank": 72,
+        "ads_equivalent": 32848135.066369906
+      },
+      {
+        "ref_domain": "taxomatic.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.46130346232179226,
+        "backlinks_count": 4,
+        "links_external_count": 982,
+        "percent_of_total": 0.014925373134328358,
+        "count": {
+          "count": 4,
+          "percent_of_total": 0.014925373134328358
+        },
+        "top3": 18,
+        "top10": 98,
+        "top50": 741,
+        "visibility": 529.5779999999997,
+        "domain_rank": 194131,
+        "ads_equivalent": 1026.58154
+      },
+      {
+        "ref_domain": "angielski.edu.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.0001853117824068802,
+        "backlinks_count": 4,
+        "links_external_count": 8035107,
+        "percent_of_total": 0.014925373134328358,
+        "count": {
+          "count": 4,
+          "percent_of_total": 0.014925373134328358
+        },
+        "top3": 80,
+        "top10": 697,
+        "top50": 3261,
+        "visibility": 34960.876000000084,
+        "domain_rank": 8385,
+        "ads_equivalent": 28249.307170000004
+      },
+      {
+        "ref_domain": "dentoforum.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.00023253847454760695,
+        "backlinks_count": 4,
+        "links_external_count": 47304,
+        "percent_of_total": 0.014925373134328358,
+        "count": {
+          "count": 4,
+          "percent_of_total": 0.014925373134328358
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 2,
+        "visibility": 0,
+        "domain_rank": 5759421,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "biznesnaostro.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.05105296745373325,
+        "backlinks_count": 4,
+        "links_external_count": 3134,
+        "percent_of_total": 0.014925373134328358,
+        "count": {
+          "count": 4,
+          "percent_of_total": 0.014925373134328358
+        },
+        "top3": 45,
+        "top10": 149,
+        "top50": 822,
+        "visibility": 2239.2029999999995,
+        "domain_rank": 75178,
+        "ads_equivalent": 143.38186000000002
+      },
+      {
+        "ref_domain": "bsostrowmaz.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 1.414535666218035,
+        "backlinks_count": 4,
+        "links_external_count": 1486,
+        "percent_of_total": 0.014925373134328358,
+        "count": {
+          "count": 4,
+          "percent_of_total": 0.014925373134328358
+        },
+        "top3": 68,
+        "top10": 205,
+        "top50": 718,
+        "visibility": 7277.802000000005,
+        "domain_rank": 31167,
+        "ads_equivalent": 3408.26576
+      },
+      {
+        "ref_domain": "firmowakasa.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": 1416.8,
+          "article_price_nofollow": null,
+          "link_price_dofollow": null,
+          "link_price_nofollow": null,
+          "price_do_follow": 1416.8,
+          "price_no_follow": null
+        },
+        "ratio_bl_ext": 0.33979135618479883,
+        "backlinks_count": 3,
+        "links_external_count": 2013,
+        "percent_of_total": 0.011194029850746268,
+        "count": {
+          "count": 3,
+          "percent_of_total": 0.011194029850746268
+        },
+        "top3": 76,
+        "top10": 633,
+        "top50": 3068,
+        "visibility": 2581.733999999999,
+        "domain_rank": 67899,
+        "ads_equivalent": 18631.003580000004
+      },
+      {
+        "ref_domain": "pl.near-place.com",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 3.7528732936154243e-05,
+        "backlinks_count": 3,
+        "links_external_count": 3623890,
+        "percent_of_total": 0.011194029850746268,
+        "count": {
+          "count": 3,
+          "percent_of_total": 0.011194029850746268
+        },
+        "top3": 134,
+        "top10": 3472,
+        "top50": 93185,
+        "visibility": 5682.368000000046,
+        "domain_rank": 37712,
+        "ads_equivalent": 2617.2610900000013
+      },
+      {
+        "ref_domain": "cashless.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": 8538.75,
+          "article_price_nofollow": null,
+          "link_price_dofollow": 1164.95,
+          "link_price_nofollow": null,
+          "price_do_follow": 8538.75,
+          "price_no_follow": null
+        },
+        "ratio_bl_ext": 0.013173652694610778,
+        "backlinks_count": 3,
+        "links_external_count": 288075,
+        "percent_of_total": 0.011194029850746268,
+        "count": {
+          "count": 3,
+          "percent_of_total": 0.011194029850746268
+        },
+        "top3": 874,
+        "top10": 5761,
+        "top50": 27582,
+        "visibility": 1072857.505000007,
+        "domain_rank": 371,
+        "ads_equivalent": 4059827.789460001
+      },
+      {
+        "ref_domain": "altera.co",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.06957132817990162,
+        "backlinks_count": 3,
+        "links_external_count": 1423,
+        "percent_of_total": 0.011194029850746268,
+        "count": {
+          "count": 3,
+          "percent_of_total": 0.011194029850746268
+        },
+        "top3": 6,
+        "top10": 37,
+        "top50": 101,
+        "visibility": 425.79599999999994,
+        "domain_rank": 220593,
+        "ads_equivalent": 238.85924999999997
+      },
+      {
+        "ref_domain": "apfino.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.8638799571275455,
+        "backlinks_count": 3,
+        "links_external_count": 933,
+        "percent_of_total": 0.011194029850746268,
+        "count": {
+          "count": 3,
+          "percent_of_total": 0.011194029850746268
+        },
+        "top3": 9,
+        "top10": 73,
+        "top50": 246,
+        "visibility": 2638.33,
+        "domain_rank": 66770,
+        "ads_equivalent": 39870.195219999994
+      },
+      {
+        "ref_domain": "e-konferencje.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": 54.05,
+          "article_price_nofollow": null,
+          "link_price_dofollow": null,
+          "link_price_nofollow": null,
+          "price_do_follow": 54.05,
+          "price_no_follow": null
+        },
+        "ratio_bl_ext": 0.049928943628612034,
+        "backlinks_count": 3,
+        "links_external_count": 10555,
+        "percent_of_total": 0.011194029850746268,
+        "count": {
+          "count": 3,
+          "percent_of_total": 0.011194029850746268
+        },
+        "top3": 22,
+        "top10": 102,
+        "top50": 1081,
+        "visibility": 477.67300000000006,
+        "domain_rank": 206374,
+        "ads_equivalent": 472.19922999999994
+      },
+      {
+        "ref_domain": "sharespace.work",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.11579767720352031,
+        "backlinks_count": 3,
+        "links_external_count": 52609,
+        "percent_of_total": 0.011194029850746268,
+        "count": {
+          "count": 3,
+          "percent_of_total": 0.011194029850746268
+        },
+        "top3": 22,
+        "top10": 343,
+        "top50": 2932,
+        "visibility": 1019.5349999999992,
+        "domain_rank": 129059,
+        "ads_equivalent": 3879.5904900000014
+      },
+      {
+        "ref_domain": "smebanking.club",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.004743371442471419,
+        "backlinks_count": 3,
+        "links_external_count": 8222,
+        "percent_of_total": 0.011194029850746268,
+        "count": {
+          "count": 3,
+          "percent_of_total": 0.011194029850746268
+        },
+        "top3": 0,
+        "top10": 1,
+        "top50": 45,
+        "visibility": 0.8490000000000001,
+        "domain_rank": 1889415,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "interviewme.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.15456253574054407,
+        "backlinks_count": 3,
+        "links_external_count": 24482,
+        "percent_of_total": 0.011194029850746268,
+        "count": {
+          "count": 3,
+          "percent_of_total": 0.011194029850746268
+        },
+        "top3": 19200,
+        "top10": 42970,
+        "top50": 85507,
+        "visibility": 1169432.2620001517,
+        "domain_rank": 344,
+        "ads_equivalent": 1760903.2119900023
+      },
+      {
+        "ref_domain": "growjo.com",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.001959983346033292,
+        "backlinks_count": 2,
+        "links_external_count": 254594,
+        "percent_of_total": 0.007462686567164179,
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.007462686567164179
+        },
+        "top3": 1,
+        "top10": 6,
+        "top50": 257,
+        "visibility": 5.102,
+        "domain_rank": 1323466,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "bbs-bank.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.8102253032928943,
+        "backlinks_count": 2,
+        "links_external_count": 1154,
+        "percent_of_total": 0.007462686567164179,
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.007462686567164179
+        },
+        "top3": 32,
+        "top10": 87,
+        "top50": 621,
+        "visibility": 2031.8059999999998,
+        "domain_rank": 80568,
+        "ads_equivalent": 631.6055500000001
+      },
+      {
+        "ref_domain": "bsszczytno.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 1.5236396074933096,
+        "backlinks_count": 2,
+        "links_external_count": 1121,
+        "percent_of_total": 0.007462686567164179,
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.007462686567164179
+        },
+        "top3": 31,
+        "top10": 119,
+        "top50": 778,
+        "visibility": 3029.781999999999,
+        "domain_rank": 60413,
+        "ads_equivalent": 318.99258000000003
+      },
+      {
+        "ref_domain": "multifarb.net.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.0008294625082946251,
+        "backlinks_count": 2,
+        "links_external_count": 6028,
+        "percent_of_total": 0.007462686567164179,
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.007462686567164179
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 2,
+        "visibility": 0,
+        "domain_rank": 2879239,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "40ton.net",
+        "available_whitepress_features": {
+          "article_price_dofollow": 1207.5,
+          "article_price_nofollow": null,
+          "link_price_dofollow": 1046.5,
+          "link_price_nofollow": null,
+          "price_do_follow": 1207.5,
+          "price_no_follow": null
+        },
+        "ratio_bl_ext": 0.0036531794724945317,
+        "backlinks_count": 2,
+        "links_external_count": 820655,
+        "percent_of_total": 0.007462686567164179,
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.007462686567164179
+        },
+        "top3": 1304,
+        "top10": 4148,
+        "top50": 16651,
+        "visibility": 46356.3460000001,
+        "domain_rank": 6490,
+        "ads_equivalent": 17907.59182000002
+      },
+      {
+        "ref_domain": "biznes.noriet.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 2,
+        "links_external_count": 0,
+        "percent_of_total": 0.007462686567164179,
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.007462686567164179
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 1,
+        "visibility": 0,
+        "domain_rank": 2388735,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "bspaslek.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 2.5451462484103433,
+        "backlinks_count": 2,
+        "links_external_count": 2359,
+        "percent_of_total": 0.007462686567164179,
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.007462686567164179
+        },
+        "top3": 40,
+        "top10": 168,
+        "top50": 800,
+        "visibility": 2604.7549999999983,
+        "domain_rank": 67431,
+        "ads_equivalent": 688.9422999999999
+      },
+      {
+        "ref_domain": "gbsbank.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.4724402802397231,
+        "backlinks_count": 2,
+        "links_external_count": 11847,
+        "percent_of_total": 0.007462686567164179,
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.007462686567164179
+        },
+        "top3": 112,
+        "top10": 393,
+        "top50": 3870,
+        "visibility": 16269.468000000006,
+        "domain_rank": 16334,
+        "ads_equivalent": 46855.11777
+      },
+      {
+        "ref_domain": "okrabatowy.com",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 2,
+        "links_external_count": 0,
+        "percent_of_total": 0.007462686567164179,
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.007462686567164179
+        },
+        "top3": 1,
+        "top10": 3,
+        "top50": 124,
+        "visibility": 4.63,
+        "domain_rank": 1357395,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "mamstartup.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": 2898,
+          "article_price_nofollow": null,
+          "link_price_dofollow": null,
+          "link_price_nofollow": null,
+          "price_do_follow": 2898,
+          "price_no_follow": null
+        },
+        "ratio_bl_ext": 1.3416153312961896,
+        "backlinks_count": 2,
+        "links_external_count": 102431,
+        "percent_of_total": 0.007462686567164179,
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.007462686567164179
+        },
+        "top3": 324,
+        "top10": 2212,
+        "top50": 12654,
+        "visibility": 500297.6140000003,
+        "domain_rank": 742,
+        "ads_equivalent": 6268329.706000005
+      },
+      {
+        "ref_domain": "milekcorp.com",
+        "available_whitepress_features": {
+          "article_price_dofollow": 70.15,
+          "article_price_nofollow": 32.2,
+          "link_price_dofollow": 71.3,
+          "link_price_nofollow": null,
+          "price_do_follow": 70.15,
+          "price_no_follow": 32.2
+        },
+        "ratio_bl_ext": 0.0070008054023914254,
+        "backlinks_count": 2,
+        "links_external_count": 16141,
+        "percent_of_total": 0.007462686567164179,
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.007462686567164179
+        },
+        "top3": 0,
+        "top10": 4,
+        "top50": 213,
+        "visibility": 2.8320000000000003,
+        "domain_rank": 1529297,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "bankpbs.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.18632075471698112,
+        "backlinks_count": 2,
+        "links_external_count": 1272,
+        "percent_of_total": 0.007462686567164179,
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.007462686567164179
+        },
+        "top3": 59,
+        "top10": 254,
+        "top50": 951,
+        "visibility": 5067.296000000009,
+        "domain_rank": 41220,
+        "ads_equivalent": 4836.908389999999
+      },
+      {
+        "ref_domain": "plusfactor.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 2.25,
+        "backlinks_count": 2,
+        "links_external_count": 80,
+        "percent_of_total": 0.007462686567164179,
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.007462686567164179
+        },
+        "top3": 0,
+        "top10": 8,
+        "top50": 23,
+        "visibility": 9.783999999999999,
+        "domain_rank": 1107121,
+        "ads_equivalent": 127.46506
+      },
+      {
+        "ref_domain": "bsskorcz.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.11741160773849232,
+        "backlinks_count": 2,
+        "links_external_count": 2998,
+        "percent_of_total": 0.007462686567164179,
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.007462686567164179
+        },
+        "top3": 36,
+        "top10": 99,
+        "top50": 694,
+        "visibility": 2144.805999999999,
+        "domain_rank": 77468,
+        "ads_equivalent": 1359.1683199999998
+      },
+      {
+        "ref_domain": "fakt.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": null,
+          "article_price_nofollow": 3381,
+          "link_price_dofollow": null,
+          "link_price_nofollow": null,
+          "price_do_follow": null,
+          "price_no_follow": 3381
+        },
+        "ratio_bl_ext": 0.027171906069500994,
+        "backlinks_count": 2,
+        "links_external_count": 2534640,
+        "percent_of_total": 0.007462686567164179,
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.007462686567164179
+        },
+        "top3": 12681,
+        "top10": 59061,
+        "top50": 373613,
+        "visibility": 2923497.710000463,
+        "domain_rank": 130,
+        "ads_equivalent": 2831088.617679995
+      },
+      {
+        "ref_domain": "konferencje.bank.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.01413094677343382,
+        "backlinks_count": 2,
+        "links_external_count": 4246,
+        "percent_of_total": 0.007462686567164179,
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.007462686567164179
+        },
+        "top3": 27,
+        "top10": 116,
+        "top50": 897,
+        "visibility": 1204.47,
+        "domain_rank": 115482,
+        "ads_equivalent": 1590.5633299999997
+      },
+      {
+        "ref_domain": "publicrelations.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": 1610,
+          "article_price_nofollow": null,
+          "link_price_dofollow": null,
+          "link_price_nofollow": null,
+          "price_do_follow": 1610,
+          "price_no_follow": null
+        },
+        "ratio_bl_ext": 0.004083445320475479,
+        "backlinks_count": 2,
+        "links_external_count": 173383,
+        "percent_of_total": 0.007462686567164179,
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.007462686567164179
+        },
+        "top3": 23,
+        "top10": 136,
+        "top50": 2016,
+        "visibility": 679.2589999999992,
+        "domain_rank": 166939,
+        "ads_equivalent": 687.7714600000002
+      },
+      {
+        "ref_domain": "rankingfirmfaktoringowych.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.25,
+        "backlinks_count": 2,
+        "links_external_count": 68,
+        "percent_of_total": 0.007462686567164179,
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.007462686567164179
+        },
+        "top3": 1,
+        "top10": 15,
+        "top50": 78,
+        "visibility": 9.391999999999998,
+        "domain_rank": 1120649,
+        "ads_equivalent": 73.66345
+      },
+      {
+        "ref_domain": "emis.com",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.09254916220975604,
+        "backlinks_count": 2,
+        "links_external_count": 489502,
+        "percent_of_total": 0.007462686567164179,
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.007462686567164179
+        },
+        "top3": 297,
+        "top10": 4824,
+        "top50": 50202,
+        "visibility": 10473.57000000014,
+        "domain_rank": 23416,
+        "ads_equivalent": 9410.197350000006
+      },
+      {
+        "ref_domain": "alterweb.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": 966,
+          "article_price_nofollow": null,
+          "link_price_dofollow": 2656.5,
+          "link_price_nofollow": null,
+          "price_do_follow": 966,
+          "price_no_follow": null
+        },
+        "ratio_bl_ext": 0.0030663193313795723,
+        "backlinks_count": 2,
+        "links_external_count": 442224,
+        "percent_of_total": 0.007462686567164179,
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.007462686567164179
+        },
+        "top3": 27,
+        "top10": 92,
+        "top50": 1200,
+        "visibility": 351.16400000000004,
+        "domain_rank": 246111,
+        "ads_equivalent": 557.8285099999999
+      },
+      {
+        "ref_domain": "lovos.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 1,
+        "links_external_count": 0,
+        "percent_of_total": 0.0037313432835820895,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0037313432835820895
+        },
+        "top3": 0,
+        "top10": 1,
+        "top50": 1,
+        "visibility": 0.223,
+        "domain_rank": 2100349,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "e-zarabiajonline.blogspot.com",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.00046425255338904364,
+        "backlinks_count": 1,
+        "links_external_count": 4308,
+        "percent_of_total": 0.0037313432835820895,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0037313432835820895
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "placpigal.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": 88.55,
+          "article_price_nofollow": 51.75,
+          "link_price_dofollow": 88.55,
+          "link_price_nofollow": null,
+          "price_do_follow": 88.55,
+          "price_no_follow": 51.75
+        },
+        "ratio_bl_ext": 0.08487345497351383,
+        "backlinks_count": 1,
+        "links_external_count": 203880,
+        "percent_of_total": 0.0037313432835820895,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0037313432835820895
+        },
+        "top3": 87,
+        "top10": 349,
+        "top50": 3573,
+        "visibility": 4153.9739999999965,
+        "domain_rank": 47824,
+        "ads_equivalent": 2115.452480000001
+      },
+      {
+        "ref_domain": "jakfinansowac.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.004006410256410256,
+        "backlinks_count": 1,
+        "links_external_count": 2496,
+        "percent_of_total": 0.0037313432835820895,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0037313432835820895
+        },
+        "top3": 6,
+        "top10": 28,
+        "top50": 492,
+        "visibility": 176.7580000000001,
+        "domain_rank": 353762,
+        "ads_equivalent": 1236.96625
+      },
+      {
+        "ref_domain": "kreatywna.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": 241.5,
+          "article_price_nofollow": null,
+          "link_price_dofollow": null,
+          "link_price_nofollow": null,
+          "price_do_follow": 241.5,
+          "price_no_follow": null
+        },
+        "ratio_bl_ext": 0.04139351938565274,
+        "backlinks_count": 1,
+        "links_external_count": 21356,
+        "percent_of_total": 0.0037313432835820895,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0037313432835820895
+        },
+        "top3": 4,
+        "top10": 37,
+        "top50": 2319,
+        "visibility": 73.314,
+        "domain_rank": 534952,
+        "ads_equivalent": 4.580710000000001
+      },
+      {
+        "ref_domain": "bsraciaz.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.2524271844660194,
+        "backlinks_count": 1,
+        "links_external_count": 3193,
+        "percent_of_total": 0.0037313432835820895,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0037313432835820895
+        },
+        "top3": 32,
+        "top10": 164,
+        "top50": 954,
+        "visibility": 1674.012,
+        "domain_rank": 92238,
+        "ads_equivalent": 1210.7007700000001
+      },
+      {
+        "ref_domain": "bezprawnik.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": 2875,
+          "article_price_nofollow": null,
+          "link_price_dofollow": 3542,
+          "link_price_nofollow": null,
+          "price_do_follow": 2875,
+          "price_no_follow": null
+        },
+        "ratio_bl_ext": 1.110165408704031,
+        "backlinks_count": 1,
+        "links_external_count": 49816,
+        "percent_of_total": 0.0037313432835820895,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0037313432835820895
+        },
+        "top3": 1591,
+        "top10": 6345,
+        "top50": 47826,
+        "visibility": 84543.8549999972,
+        "domain_rank": 3805,
+        "ads_equivalent": 562988.5222200009
+      },
+      {
+        "ref_domain": "6krokow.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": 483,
+          "article_price_nofollow": null,
+          "link_price_dofollow": null,
+          "link_price_nofollow": null,
+          "price_do_follow": 483,
+          "price_no_follow": null
+        },
+        "ratio_bl_ext": 0.8868837584433915,
+        "backlinks_count": 1,
+        "links_external_count": 9919,
+        "percent_of_total": 0.0037313432835820895,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0037313432835820895
+        },
+        "top3": 87,
+        "top10": 887,
+        "top50": 9193,
+        "visibility": 1872.3769999999965,
+        "domain_rank": 85481,
+        "ads_equivalent": 925.75421
+      },
+      {
+        "ref_domain": "centrum-tuf.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 1,
+        "links_external_count": 0,
+        "percent_of_total": 0.0037313432835820895,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0037313432835820895
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "ewindykator.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.07227813357731015,
+        "backlinks_count": 1,
+        "links_external_count": 1093,
+        "percent_of_total": 0.0037313432835820895,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0037313432835820895
+        },
+        "top3": 11,
+        "top10": 77,
+        "top50": 275,
+        "visibility": 145.32200000000006,
+        "domain_rank": 390220,
+        "ads_equivalent": 694.2648199999999
+      },
+      {
+        "ref_domain": "parsers.vc",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.004199502281211116,
+        "backlinks_count": 1,
+        "links_external_count": 19288,
+        "percent_of_total": 0.0037313432835820895,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0037313432835820895
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 20,
+        "visibility": 0,
+        "domain_rank": 4964237,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "spidersweb.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": 2875,
+          "article_price_nofollow": null,
+          "link_price_dofollow": null,
+          "link_price_nofollow": 1495,
+          "price_do_follow": 2875,
+          "price_no_follow": null
+        },
+        "ratio_bl_ext": 0.113194914703058,
+        "backlinks_count": 1,
+        "links_external_count": 522762,
+        "percent_of_total": 0.0037313432835820895,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0037313432835820895
+        },
+        "top3": 9085,
+        "top10": 41541,
+        "top50": 200131,
+        "visibility": 696799.6920000557,
+        "domain_rank": 543,
+        "ads_equivalent": 723369.025440002
+      },
+      {
+        "ref_domain": "aipress.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": 64.4,
+          "article_price_nofollow": null,
+          "link_price_dofollow": null,
+          "link_price_nofollow": null,
+          "price_do_follow": 64.4,
+          "price_no_follow": null
+        },
+        "ratio_bl_ext": 0.025477707006369428,
+        "backlinks_count": 1,
+        "links_external_count": 314,
+        "percent_of_total": 0.0037313432835820895,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0037313432835820895
+        },
+        "top3": 0,
+        "top10": 2,
+        "top50": 36,
+        "visibility": 0.33399999999999996,
+        "domain_rank": 2056833,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "lot.sklep.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.010498687664041995,
+        "backlinks_count": 1,
+        "links_external_count": 381,
+        "percent_of_total": 0.0037313432835820895,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0037313432835820895
+        },
+        "top3": 1,
+        "top10": 2,
+        "top50": 5,
+        "visibility": 4.119999999999999,
+        "domain_rank": 1384731,
+        "ads_equivalent": 0.62832
+      },
+      {
+        "ref_domain": "slupca.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": 483,
+          "article_price_nofollow": null,
+          "link_price_dofollow": 161,
+          "link_price_nofollow": null,
+          "price_do_follow": 483,
+          "price_no_follow": null
+        },
+        "ratio_bl_ext": 0.006524312632956234,
+        "backlinks_count": 1,
+        "links_external_count": 112349,
+        "percent_of_total": 0.0037313432835820895,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0037313432835820895
+        },
+        "top3": 112,
+        "top10": 353,
+        "top50": 2661,
+        "visibility": 42113.25400000002,
+        "domain_rank": 7071,
+        "ads_equivalent": 12213.01924
+      },
+      {
+        "ref_domain": "hotchili.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 55.6875,
+        "backlinks_count": 1,
+        "links_external_count": 16,
+        "percent_of_total": 0.0037313432835820895,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0037313432835820895
+        },
+        "top3": 2,
+        "top10": 5,
+        "top50": 20,
+        "visibility": 86.723,
+        "domain_rank": 496667,
+        "ads_equivalent": 62.54494
+      },
+      {
+        "ref_domain": "sbrbank.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.9662077596996246,
+        "backlinks_count": 1,
+        "links_external_count": 799,
+        "percent_of_total": 0.0037313432835820895,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0037313432835820895
+        },
+        "top3": 50,
+        "top10": 189,
+        "top50": 1087,
+        "visibility": 3645.551000000002,
+        "domain_rank": 52705,
+        "ads_equivalent": 1353.2059199999997
+      },
+      {
+        "ref_domain": "web.varico.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.5399449035812672,
+        "backlinks_count": 1,
+        "links_external_count": 363,
+        "percent_of_total": 0.0037313432835820895,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0037313432835820895
+        },
+        "top3": 27,
+        "top10": 130,
+        "top50": 2244,
+        "visibility": 673.3419999999993,
+        "domain_rank": 167978,
+        "ads_equivalent": 1785.8171899999998
+      },
+      {
+        "ref_domain": "biznesinfo.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": 6440,
+          "article_price_nofollow": 2415,
+          "link_price_dofollow": null,
+          "link_price_nofollow": null,
+          "price_do_follow": 6440,
+          "price_no_follow": 2415
+        },
+        "ratio_bl_ext": 0.7055895603409217,
+        "backlinks_count": 1,
+        "links_external_count": 467908,
+        "percent_of_total": 0.0037313432835820895,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0037313432835820895
+        },
+        "top3": 91,
+        "top10": 663,
+        "top50": 18010,
+        "visibility": 5345.4519999999975,
+        "domain_rank": 39549,
+        "ads_equivalent": 4296.384260000001
+      },
+      {
+        "ref_domain": "faktoring.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.06313980957835207,
+        "backlinks_count": 1,
+        "links_external_count": 13969,
+        "percent_of_total": 0.0037313432835820895,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0037313432835820895
+        },
+        "top3": 43,
+        "top10": 107,
+        "top50": 695,
+        "visibility": 552.553,
+        "domain_rank": 189398,
+        "ads_equivalent": 4949.057749999999
+      },
+      {
+        "ref_domain": "bizspot.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.003972194637537239,
+        "backlinks_count": 1,
+        "links_external_count": 4028,
+        "percent_of_total": 0.0037313432835820895,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0037313432835820895
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "studio.tvip.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 1.5294117647058822,
+        "backlinks_count": 1,
+        "links_external_count": 17,
+        "percent_of_total": 0.0037313432835820895,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0037313432835820895
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 6,
+        "visibility": 0,
+        "domain_rank": 3393037,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "oohmagazine.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.013763890164386079,
+        "backlinks_count": 1,
+        "links_external_count": 87112,
+        "percent_of_total": 0.0037313432835820895,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0037313432835820895
+        },
+        "top3": 115,
+        "top10": 832,
+        "top50": 4585,
+        "visibility": 5893.31300000002,
+        "domain_rank": 36643,
+        "ads_equivalent": 11705.70944
+      },
+      {
+        "ref_domain": "hoteltrends.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 4.5,
+        "backlinks_count": 1,
+        "links_external_count": 6,
+        "percent_of_total": 0.0037313432835820895,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0037313432835820895
+        },
+        "top3": 1,
+        "top10": 2,
+        "top50": 21,
+        "visibility": 3.3129999999999997,
+        "domain_rank": 1484690,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "affi.io",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.00011051438568109781,
+        "backlinks_count": 1,
+        "links_external_count": 425284,
+        "percent_of_total": 0.0037313432835820895,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0037313432835820895
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 57,
+        "visibility": 0,
+        "domain_rank": 4050765,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "powislanski.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.38973799126637554,
+        "backlinks_count": 1,
+        "links_external_count": 916,
+        "percent_of_total": 0.0037313432835820895,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0037313432835820895
+        },
+        "top3": 55,
+        "top10": 121,
+        "top50": 640,
+        "visibility": 5181.052000000003,
+        "domain_rank": 40554,
+        "ads_equivalent": 4738.100470000001
+      },
+      {
+        "ref_domain": "bnf.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 132.43401759530792,
+        "backlinks_count": 1,
+        "links_external_count": 1364,
+        "percent_of_total": 0.0037313432835820895,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0037313432835820895
+        },
+        "top3": 225,
+        "top10": 742,
+        "top50": 2724,
+        "visibility": 4832.682,
+        "domain_rank": 42724,
+        "ads_equivalent": 4430.53745
+      },
+      {
+        "ref_domain": "poradnikspedytora.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.009036144578313253,
+        "backlinks_count": 1,
+        "links_external_count": 1660,
+        "percent_of_total": 0.0037313432835820895,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0037313432835820895
+        },
+        "top3": 59,
+        "top10": 245,
+        "top50": 1233,
+        "visibility": 739.4399999999996,
+        "domain_rank": 158394,
+        "ads_equivalent": 753.3475799999999
+      },
+      {
+        "ref_domain": "wojciechmatula.com",
+        "available_whitepress_features": {
+          "article_price_dofollow": 1610,
+          "article_price_nofollow": null,
+          "link_price_dofollow": null,
+          "link_price_nofollow": null,
+          "price_do_follow": 1610,
+          "price_no_follow": null
+        },
+        "ratio_bl_ext": 8.461471861471862,
+        "backlinks_count": 1,
+        "links_external_count": 1155,
+        "percent_of_total": 0.0037313432835820895,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0037313432835820895
+        },
+        "top3": 123,
+        "top10": 662,
+        "top50": 3046,
+        "visibility": 4630.916000000004,
+        "domain_rank": 44100,
+        "ads_equivalent": 15240.168779999996
+      },
+      {
+        "ref_domain": "bank.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": 5635,
+          "article_price_nofollow": null,
+          "link_price_dofollow": null,
+          "link_price_nofollow": null,
+          "price_do_follow": 5635,
+          "price_no_follow": null
+        },
+        "ratio_bl_ext": 0.01844198009910851,
+        "backlinks_count": 1,
+        "links_external_count": 1313308,
+        "percent_of_total": 0.0037313432835820895,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0037313432835820895
+        },
+        "top3": 1777,
+        "top10": 11418,
+        "top50": 71046,
+        "visibility": 177966.2609999916,
+        "domain_rank": 1899,
+        "ads_equivalent": 597174.1827299999
+      },
+      {
+        "ref_domain": "ecosystems.com.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 1,
+        "links_external_count": 0,
+        "percent_of_total": 0.0037313432835820895,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0037313432835820895
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "budujemydomnadziei.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.0010193679918450561,
+        "backlinks_count": 1,
+        "links_external_count": 981,
+        "percent_of_total": 0.0037313432835820895,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0037313432835820895
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "wielkiebudowanie.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": 402.5,
+          "article_price_nofollow": null,
+          "link_price_dofollow": 901.6,
+          "link_price_nofollow": null,
+          "price_do_follow": 402.5,
+          "price_no_follow": null
+        },
+        "ratio_bl_ext": 0.03184774292272379,
+        "backlinks_count": 1,
+        "links_external_count": 10456,
+        "percent_of_total": 0.0037313432835820895,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0037313432835820895
+        },
+        "top3": 261,
+        "top10": 965,
+        "top50": 3187,
+        "visibility": 4070.2559999999926,
+        "domain_rank": 48541,
+        "ads_equivalent": 2677.0477300000016
+      },
+      {
+        "ref_domain": "tpay.com",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 564.9757539917209,
+        "backlinks_count": 1,
+        "links_external_count": 1691,
+        "percent_of_total": 0.0037313432835820895,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0037313432835820895
+        },
+        "top3": 136,
+        "top10": 430,
+        "top50": 4110,
+        "visibility": 20227.765000000036,
+        "domain_rank": 13666,
+        "ads_equivalent": 31220.417080000007
+      },
+      {
+        "ref_domain": "tech.eu",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.07625426408187037,
+        "backlinks_count": 1,
+        "links_external_count": 48076,
+        "percent_of_total": 0.0037313432835820895,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0037313432835820895
+        },
+        "top3": 0,
+        "top10": 2,
+        "top50": 79,
+        "visibility": 2.881,
+        "domain_rank": 1523247,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "smebankingconference.com",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 1.3759791122715406,
+        "backlinks_count": 1,
+        "links_external_count": 383,
+        "percent_of_total": 0.0037313432835820895,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0037313432835820895
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 3,
+        "visibility": 0,
+        "domain_rank": 3499450,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "magazynprzedsiebiorcy.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": 442.75,
+          "article_price_nofollow": null,
+          "link_price_dofollow": null,
+          "link_price_nofollow": null,
+          "price_do_follow": 442.75,
+          "price_no_follow": null
+        },
+        "ratio_bl_ext": 0.23863636363636365,
+        "backlinks_count": 1,
+        "links_external_count": 2376,
+        "percent_of_total": 0.0037313432835820895,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0037313432835820895
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 2165,
+        "visibility": 0,
+        "domain_rank": 3261034,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "obserwatorgospodarczy.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": 1138.5,
+          "article_price_nofollow": null,
+          "link_price_dofollow": null,
+          "link_price_nofollow": null,
+          "price_do_follow": 1138.5,
+          "price_no_follow": null
+        },
+        "ratio_bl_ext": 0.06715477877499607,
+        "backlinks_count": 1,
+        "links_external_count": 139722,
+        "percent_of_total": 0.0037313432835820895,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0037313432835820895
+        },
+        "top3": 879,
+        "top10": 3263,
+        "top50": 13225,
+        "visibility": 34284.122000000105,
+        "domain_rank": 8526,
+        "ads_equivalent": 1794.1244199999992
+      },
+      {
+        "ref_domain": "mkbrarch.targikielce.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 1,
+        "links_external_count": 0,
+        "percent_of_total": 0.0037313432835820895,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0037313432835820895
+        },
+        "top3": 1,
+        "top10": 3,
+        "top50": 15,
+        "visibility": 20.584999999999997,
+        "domain_rank": 872758,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "polski-biznes.com",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.0016450374702979345,
+        "backlinks_count": 1,
+        "links_external_count": 5471,
+        "percent_of_total": 0.0037313432835820895,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0037313432835820895
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "finanse.gazetaprawna.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.025392392625345848,
+        "backlinks_count": 1,
+        "links_external_count": 309384,
+        "percent_of_total": 0.0037313432835820895,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0037313432835820895
+        },
+        "top3": 17,
+        "top10": 122,
+        "top50": 2069,
+        "visibility": 511.98099999999977,
+        "domain_rank": 198083,
+        "ads_equivalent": 204.1082
+      },
+      {
+        "ref_domain": "forum.najezykach.com.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 1,
+        "links_external_count": 0,
+        "percent_of_total": 0.0037313432835820895,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0037313432835820895
+        },
+        "top3": 2,
+        "top10": 21,
+        "top50": 127,
+        "visibility": 38.643,
+        "domain_rank": 695504,
+        "ads_equivalent": 24.90876
+      },
+      {
+        "ref_domain": "pogotowieplynnosciowe.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.04081632653061224,
+        "backlinks_count": 1,
+        "links_external_count": 49,
+        "percent_of_total": 0.0037313432835820895,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0037313432835820895
+        },
+        "top3": 0,
+        "top10": 1,
+        "top50": 15,
+        "visibility": 0.54,
+        "domain_rank": 1978243,
+        "ads_equivalent": 4.109400000000001
+      },
+      {
+        "ref_domain": "wwoof.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.10550458715596331,
+        "backlinks_count": 1,
+        "links_external_count": 436,
+        "percent_of_total": 0.0037313432835820895,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0037313432835820895
+        },
+        "top3": 0,
+        "top10": 1,
+        "top50": 5,
+        "visibility": 0.742,
+        "domain_rank": 1914561,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "gsm.min-pan.krakow.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.0062964088757653395,
+        "backlinks_count": 1,
+        "links_external_count": 46058,
+        "percent_of_total": 0.0037313432835820895,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0037313432835820895
+        },
+        "top3": 11,
+        "top10": 90,
+        "top50": 541,
+        "visibility": 302.1459999999999,
+        "domain_rank": 267805,
+        "ads_equivalent": 293.94329999999997
+      },
+      {
+        "ref_domain": "startuppoland.org",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.2491833877741484,
+        "backlinks_count": 1,
+        "links_external_count": 2143,
+        "percent_of_total": 0.0037313432835820895,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0037313432835820895
+        },
+        "top3": 159,
+        "top10": 309,
+        "top50": 606,
+        "visibility": 14571.324999999992,
+        "domain_rank": 17910,
+        "ads_equivalent": 37372.657520000015
+      },
+      {
+        "ref_domain": "bif24.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": 796.95,
+          "article_price_nofollow": 179.4,
+          "link_price_dofollow": 193.2,
+          "link_price_nofollow": 88.55,
+          "price_do_follow": 796.95,
+          "price_no_follow": 179.4
+        },
+        "ratio_bl_ext": 1.2641010818399538,
+        "backlinks_count": 1,
+        "links_external_count": 24218,
+        "percent_of_total": 0.0037313432835820895,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0037313432835820895
+        },
+        "top3": 3,
+        "top10": 12,
+        "top50": 244,
+        "visibility": 27.865,
+        "domain_rank": 787292,
+        "ads_equivalent": 9.86821
+      },
+      {
+        "ref_domain": "strm.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.0004423604352826683,
+        "backlinks_count": 1,
+        "links_external_count": 11303,
+        "percent_of_total": 0.0037313432835820895,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0037313432835820895
+        },
+        "top3": 2,
+        "top10": 19,
+        "top50": 109,
+        "visibility": 17.789999999999996,
+        "domain_rank": 928361,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "subiektywnieofinansach.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.027508352738685835,
+        "backlinks_count": 1,
+        "links_external_count": 98770,
+        "percent_of_total": 0.0037313432835820895,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0037313432835820895
+        },
+        "top3": 1090,
+        "top10": 6274,
+        "top50": 48401,
+        "visibility": 76840.73299999758,
+        "domain_rank": 4161,
+        "ads_equivalent": 48740.54324000002
+      },
+      {
+        "ref_domain": "melpe.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 5.1417004048583,
+        "backlinks_count": 1,
+        "links_external_count": 247,
+        "percent_of_total": 0.0037313432835820895,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0037313432835820895
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "bing.com",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.8888827562306177,
+        "backlinks_count": 1,
+        "links_external_count": 7663887,
+        "percent_of_total": 0.0037313432835820895,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0037313432835820895
+        },
+        "top3": 131,
+        "top10": 721,
+        "top50": 3839,
+        "visibility": 116534.9869999999,
+        "domain_rank": 2820,
+        "ads_equivalent": 291238.6700300003
+      },
+      {
+        "ref_domain": "teoriabiznesu.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": 79.35,
+          "article_price_nofollow": 48.3,
+          "link_price_dofollow": 159.85,
+          "link_price_nofollow": 34.5,
+          "price_do_follow": 79.35,
+          "price_no_follow": 48.3
+        },
+        "ratio_bl_ext": 0.13646348160351454,
+        "backlinks_count": 1,
+        "links_external_count": 3642,
+        "percent_of_total": 0.0037313432835820895,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0037313432835820895
+        },
+        "top3": 86,
+        "top10": 562,
+        "top50": 5783,
+        "visibility": 4907.721000000007,
+        "domain_rank": 42260,
+        "ads_equivalent": 225.33512000000005
+      }
+    ],
+    "total": 98,
+    "domain": "smeo.pl",
+    "endpoint": "get_backlinks_referring_domains"
+  }
+}

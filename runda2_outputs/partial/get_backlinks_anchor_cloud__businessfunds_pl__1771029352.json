@@ -1,0 +1,22 @@
+{
+  "domain": "businessfunds.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "businessfunds.pl": [
+          {
+            "text": "www.businessfunds.pl",
+            "size": 1,
+            "percent": 1
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "businessfunds.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

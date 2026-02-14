@@ -1,0 +1,54 @@
+{
+  "domain": "finea.pl",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "finea.pl",
+        "keywords_count": 181,
+        "visibility_percent": 100,
+        "statistics": {
+          "visibility": {
+            "current": 935.95,
+            "previous": 932.78,
+            "diff": 3.18,
+            "percent": 0.0034,
+            "history": null
+          },
+          "top3": {
+            "current": 31,
+            "previous": 30,
+            "diff": 1,
+            "percent": 0.0333,
+            "history": null
+          },
+          "top10": {
+            "current": 181,
+            "previous": 184,
+            "diff": -3,
+            "percent": -0.0163,
+            "history": null
+          },
+          "top50": {
+            "current": 1201,
+            "previous": 1177,
+            "diff": 24,
+            "percent": 0.0204,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 100,
+            "previous": 100,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "finea.pl",
+    "endpoint": "get_subdomains"
+  }
+}

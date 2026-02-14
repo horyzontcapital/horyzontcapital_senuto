@@ -1,0 +1,38 @@
+{
+  "domain": "credithub.pl",
+  "endpoint": "get_backlinks_tlds",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "tld": "pl",
+          "count": 63,
+          "percent": 0.9545454545454546
+        },
+        {
+          "tld": "net",
+          "count": 2,
+          "percent": 0.030303030303030304
+        },
+        {
+          "tld": "com",
+          "count": 1,
+          "percent": 0.015151515151515152
+        }
+      ],
+      "pagination": {
+        "page_count": 1,
+        "current_page": 1,
+        "has_next_page": false,
+        "has_prev_page": false,
+        "count": 3,
+        "limit": 10
+      }
+    },
+    "status": 200,
+    "domain": "credithub.pl",
+    "endpoint": "get_backlinks_tlds"
+  }
+}

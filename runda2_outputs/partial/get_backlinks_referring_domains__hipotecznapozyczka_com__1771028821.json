@@ -1,0 +1,30 @@
+{
+  "domain": "hipotecznapozyczka.com",
+  "endpoint": "get_backlinks_referring_domains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "ref_domain": "bazafirm.org",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.0006562986071155895,
+        "backlinks_count": 1,
+        "links_external_count": 457109,
+        "percent_of_total": 1,
+        "count": {
+          "count": 1,
+          "percent_of_total": 1
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      }
+    ],
+    "total": 1,
+    "domain": "hipotecznapozyczka.com",
+    "endpoint": "get_backlinks_referring_domains"
+  }
+}

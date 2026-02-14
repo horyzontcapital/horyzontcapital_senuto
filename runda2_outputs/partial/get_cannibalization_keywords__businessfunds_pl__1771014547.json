@@ -1,0 +1,78 @@
+{
+  "domain": "businessfunds.pl",
+  "endpoint": "get_cannibalization_keywords",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "keyword": "pożyczki prywatne dla firm",
+        "keyword_id": 442345,
+        "kid": "0977fef3fa6be08abda8ebbb6692071a",
+        "domain": "businessfunds.pl",
+        "words_count": 4,
+        "brand": "",
+        "statistics": {
+          "position": {
+            "current": 26,
+            "previous": 18,
+            "diff": 8,
+            "changes": {
+              "wins": 0,
+              "losses": 2,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-23": 15,
+              "2026-01-06": 15,
+              "2026-01-22": 18,
+              "2026-02-11": 26
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "cpc": {
+            "current": 13.36
+          },
+          "searches": {
+            "current": 10
+          },
+          "difficulty": {
+            "current": 47
+          },
+          "trends": {
+            "history": [
+              30,
+              20,
+              10,
+              20,
+              10,
+              10,
+              10,
+              10,
+              30,
+              10,
+              10,
+              10
+            ],
+            "peak": []
+          },
+          "url": {
+            "current": "businessfunds.pl/pozyczki-pozabankowe-dlugoterminowe/",
+            "previous": "businessfunds.pl/pozyczki-prywatne-dla-firm/"
+          },
+          "snippets": {
+            "current": []
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "businessfunds.pl",
+    "endpoint": "get_cannibalization_keywords"
+  }
+}

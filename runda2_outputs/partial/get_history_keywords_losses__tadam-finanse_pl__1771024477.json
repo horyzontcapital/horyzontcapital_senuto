@@ -1,0 +1,1050 @@
+{
+  "domain": "tadam-finanse.pl",
+  "endpoint": "get_history_keywords_losses",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "keyword_id": 1086763,
+        "kid": "1752802dc211c1583318ff61f675cfc8",
+        "domain": "tadam-finanse.pl",
+        "keyword": "pożyczki pod zastaw mieszkania warszawa",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 17,
+            "previous": 11,
+            "diff": 6,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-26": {
+                "position": 11,
+                "has_serp": true
+              },
+              "2026-02-06": {
+                "position": 17,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "tadam-finanse.pl/oferta/pozyczka-hipoteczna-pod-zastaw-nieruchomosci-dla-osob-zadluzonych/",
+            "previous": "tadam-finanse.pl/oferta/pozyczka-hipoteczna-pod-zastaw-nieruchomosci-dla-osob-zadluzonych/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              10,
+              10,
+              10,
+              0,
+              0,
+              0,
+              0,
+              0,
+              10,
+              0
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 17
+          },
+          "snippets": {
+            "current": []
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 9916772,
+        "kid": "da9718e39309949731f6b1c3827bca6d",
+        "domain": "tadam-finanse.pl",
+        "keyword": "pożyczka pod zastaw hipoteczny",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 29,
+            "previous": 20,
+            "diff": 9,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-18": {
+                "position": 20,
+                "has_serp": true
+              },
+              "2026-02-07": {
+                "position": 29,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "tadam-finanse.pl/oferta/pozyczka-hipoteczna-pod-zastaw-nieruchomosci-dla-osob-zadluzonych/",
+            "previous": "tadam-finanse.pl/oferta/pozyczka-hipoteczna-pod-zastaw-nieruchomosci-dla-osob-zadluzonych/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 10.27
+          },
+          "searches": {
+            "current": 30
+          },
+          "trends": {
+            "history": [
+              40,
+              20,
+              30,
+              30,
+              20,
+              20,
+              30,
+              20,
+              10,
+              40,
+              20,
+              30
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 47
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 1539867,
+        "kid": "210efd7a62a4a359757f82e66b0a25a8",
+        "domain": "tadam-finanse.pl",
+        "keyword": "kredyt pod zastaw mieszkania",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 43,
+            "previous": 35,
+            "diff": 8,
+            "changes": {
+              "wins": 5,
+              "losses": 5,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-14": {
+                "position": 33,
+                "has_serp": false
+              },
+              "2025-12-20": {
+                "position": 39,
+                "has_serp": true
+              },
+              "2025-12-24": {
+                "position": 33,
+                "has_serp": true
+              },
+              "2025-12-27": {
+                "position": 35,
+                "has_serp": true
+              },
+              "2026-01-13": {
+                "position": 31,
+                "has_serp": true
+              },
+              "2026-01-17": {
+                "position": 26,
+                "has_serp": true
+              },
+              "2026-01-21": {
+                "position": 43,
+                "has_serp": true
+              },
+              "2026-01-29": {
+                "position": 35,
+                "has_serp": true
+              },
+              "2026-02-02": {
+                "position": 44,
+                "has_serp": true
+              },
+              "2026-02-06": {
+                "position": 39,
+                "has_serp": true
+              },
+              "2026-02-10": {
+                "position": 43,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "tadam-finanse.pl/oferta/pozyczka-hipoteczna-pod-zastaw-nieruchomosci-dla-osob-zadluzonych/",
+            "previous": "tadam-finanse.pl/oferta/pozyczka-hipoteczna-pod-zastaw-nieruchomosci-dla-osob-zadluzonych/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 6
+          },
+          "searches": {
+            "current": 1600
+          },
+          "trends": {
+            "history": [
+              2400,
+              1900,
+              1900,
+              1900,
+              1900,
+              1600,
+              1600,
+              1600,
+              1300,
+              1600,
+              1300,
+              1300
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 55
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 12624605,
+        "kid": "407f50fe529ab7df1db8a4c099c147b0",
+        "domain": "tadam-finanse.pl",
+        "keyword": "kredyt pod zastaw domu bez zdolności kredytowej",
+        "words_count": 7,
+        "statistics": {
+          "position": {
+            "current": 26,
+            "previous": 18,
+            "diff": 8,
+            "changes": {
+              "wins": 1,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-17": {
+                "position": 22,
+                "has_serp": true
+              },
+              "2026-01-27": {
+                "position": 18,
+                "has_serp": true
+              },
+              "2026-02-06": {
+                "position": 26,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "tadam-finanse.pl/oferta/pozyczka-hipoteczna-pod-zastaw-nieruchomosci-dla-osob-zadluzonych/",
+            "previous": "tadam-finanse.pl/oferta/pozyczka-hipoteczna-pod-zastaw-nieruchomosci-dla-osob-zadluzonych/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 1.4
+          },
+          "searches": {
+            "current": 90
+          },
+          "trends": {
+            "history": [
+              110,
+              90,
+              170,
+              90,
+              30,
+              30,
+              20,
+              50,
+              140,
+              70,
+              110,
+              70
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 36
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 1568334,
+        "kid": "21aacdd68f3ffb5c0492e7979dde8cbf",
+        "domain": "tadam-finanse.pl",
+        "keyword": "pożyczka pod nieruchomość",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 19,
+            "previous": 15,
+            "diff": 4,
+            "changes": {
+              "wins": 0,
+              "losses": 4,
+              "no_changes": 2
+            },
+            "history": {
+              "2025-12-14": {
+                "position": 12,
+                "has_serp": false
+              },
+              "2025-12-22": {
+                "position": 14,
+                "has_serp": true
+              },
+              "2026-01-06": {
+                "position": 15,
+                "has_serp": true
+              },
+              "2026-01-13": {
+                "position": 15,
+                "has_serp": true
+              },
+              "2026-01-24": {
+                "position": 15,
+                "has_serp": true
+              },
+              "2026-02-02": {
+                "position": 16,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 19,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "tadam-finanse.pl/oferta/pozyczka-hipoteczna-pod-zastaw-nieruchomosci-dla-osob-zadluzonych/",
+            "previous": "tadam-finanse.pl/oferta/pozyczka-hipoteczna-pod-zastaw-nieruchomosci-dla-osob-zadluzonych/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 9.21
+          },
+          "searches": {
+            "current": 90
+          },
+          "trends": {
+            "history": [
+              90,
+              90,
+              70,
+              70,
+              50,
+              90,
+              140,
+              110,
+              110,
+              140,
+              50,
+              90
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 63
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 1028162,
+        "kid": "160edb18d8ad9f11c1ed2a91e7c0ec4a",
+        "domain": "tadam-finanse.pl",
+        "keyword": "kredyt pod zastaw nieruchomości",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 38,
+            "previous": 23,
+            "diff": 15,
+            "changes": {
+              "wins": 3,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-21": {
+                "position": 21,
+                "has_serp": true
+              },
+              "2025-12-28": {
+                "position": 12,
+                "has_serp": true
+              },
+              "2026-01-05": {
+                "position": 24,
+                "has_serp": true
+              },
+              "2026-01-12": {
+                "position": 23,
+                "has_serp": true
+              },
+              "2026-02-01": {
+                "position": 13,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 38,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "tadam-finanse.pl/oferta/pozyczka-hipoteczna-pod-zastaw-nieruchomosci-dla-osob-zadluzonych/",
+            "previous": "tadam-finanse.pl/oferta/pozyczka-hipoteczna-pod-zastaw-nieruchomosci-dla-osob-zadluzonych/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 12.01
+          },
+          "searches": {
+            "current": 320
+          },
+          "trends": {
+            "history": [
+              390,
+              320,
+              320,
+              390,
+              320,
+              320,
+              320,
+              390,
+              320,
+              320,
+              260,
+              260
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 53
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 10138954,
+        "kid": "dfa05b9c45c668dbbf217d7d9d3ca5ed",
+        "domain": "tadam-finanse.pl",
+        "keyword": "kredyt pod zastaw nieruchomości bez zdolności kredytowej",
+        "words_count": 7,
+        "statistics": {
+          "position": {
+            "current": 23,
+            "previous": 21,
+            "diff": 2,
+            "changes": {
+              "wins": 2,
+              "losses": 2,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-19": {
+                "position": 41,
+                "has_serp": true
+              },
+              "2025-12-27": {
+                "position": 22,
+                "has_serp": true
+              },
+              "2026-01-05": {
+                "position": 19,
+                "has_serp": true
+              },
+              "2026-01-12": {
+                "position": 19,
+                "has_serp": true
+              },
+              "2026-01-24": {
+                "position": 21,
+                "has_serp": true
+              },
+              "2026-02-03": {
+                "position": 23,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "tadam-finanse.pl/oferta/pozyczka-hipoteczna-pod-zastaw-nieruchomosci-dla-osob-zadluzonych/",
+            "previous": "tadam-finanse.pl/oferta/pozyczka-hipoteczna-pod-zastaw-nieruchomosci-dla-osob-zadluzonych/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 6.05
+          },
+          "searches": {
+            "current": 140
+          },
+          "trends": {
+            "history": [
+              210,
+              140,
+              170,
+              110,
+              90,
+              90,
+              50,
+              210,
+              170,
+              170,
+              210,
+              170
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 41
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 9979337,
+        "kid": "dbffdc29140473e054ad2512d7f51484",
+        "domain": "tadam-finanse.pl",
+        "keyword": "kredyt pod zastaw działki budowlanej",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 18,
+            "previous": 17,
+            "diff": 1,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-18": {
+                "position": 17,
+                "has_serp": true
+              },
+              "2026-02-06": {
+                "position": 18,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "tadam-finanse.pl/oferta/kredyt-pod-zastaw-dzialki-budowlanej/",
+            "previous": "tadam-finanse.pl/oferta/kredyt-pod-zastaw-dzialki-budowlanej/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 8.13
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              30,
+              30,
+              30,
+              10,
+              10,
+              20,
+              10,
+              10,
+              20,
+              30,
+              20,
+              30
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 33
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 9675259,
+        "kid": "d51c06ddc47d3d20d57845140bafaf19",
+        "domain": "tadam-finanse.pl",
+        "keyword": "pożyczka pod zastaw mieszkania bez dochodu",
+        "words_count": 6,
+        "statistics": {
+          "position": {
+            "current": 16,
+            "previous": 14,
+            "diff": 2,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-17": {
+                "position": 14,
+                "has_serp": true
+              },
+              "2026-02-04": {
+                "position": 16,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "tadam-finanse.pl/czym-jest-kredyt-pod-zastaw-mieszkania-bez-zdolnosci-kredytowej/",
+            "previous": "tadam-finanse.pl/oferta/pozyczka-hipoteczna-pod-zastaw-nieruchomosci-dla-osob-zadluzonych/",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 2.03
+          },
+          "searches": {
+            "current": 30
+          },
+          "trends": {
+            "history": [
+              40,
+              30,
+              40,
+              40,
+              10,
+              10,
+              30,
+              20,
+              10,
+              30,
+              20,
+              30
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 34
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 9391993,
+        "kid": "ceb3af8a4e32d7c3b25e31a8393998a9",
+        "domain": "tadam-finanse.pl",
+        "keyword": "kredyt pod zastaw hipoteki",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 32,
+            "previous": 26,
+            "diff": 6,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-17": {
+                "position": 26,
+                "has_serp": true
+              },
+              "2026-02-04": {
+                "position": 32,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "tadam-finanse.pl/oferta/pozyczka-hipoteczna-pod-zastaw-nieruchomosci-dla-osob-zadluzonych/",
+            "previous": "tadam-finanse.pl/oferta/pozyczka-hipoteczna-pod-zastaw-nieruchomosci-dla-osob-zadluzonych/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 3.68
+          },
+          "searches": {
+            "current": 70
+          },
+          "trends": {
+            "history": [
+              50,
+              70,
+              70,
+              90,
+              70,
+              70,
+              70,
+              50,
+              50,
+              70,
+              50,
+              40
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 50
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "buy",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 17762272,
+        "kid": "bde801071edf9e782dfab19cc4d7335e",
+        "domain": "tadam-finanse.pl",
+        "keyword": "pożyczki pod zastaw działki budowlanej",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 20,
+            "previous": 19,
+            "diff": 1,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-16": {
+                "position": 19,
+                "has_serp": true
+              },
+              "2026-02-03": {
+                "position": 20,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "tadam-finanse.pl/oferta/kredyt-pod-zastaw-dzialki-budowlanej/",
+            "previous": "tadam-finanse.pl/oferta/kredyt-pod-zastaw-dzialki-budowlanej/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 7.37
+          },
+          "searches": {
+            "current": 40
+          },
+          "trends": {
+            "history": [
+              40,
+              30,
+              40,
+              30,
+              30,
+              40,
+              40,
+              40,
+              40,
+              50,
+              50,
+              50
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 41
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 8332204,
+        "kid": "b6cdbe197bc8a63f69797d55d936dca5",
+        "domain": "tadam-finanse.pl",
+        "keyword": "pożyczka pod hipotekę bez bik",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 9,
+            "previous": 8,
+            "diff": 1,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-16": {
+                "position": 8,
+                "has_serp": true
+              },
+              "2026-02-02": {
+                "position": 9,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0.72,
+            "previous": 0.89,
+            "diff": -0.17,
+            "percent": -0.191,
+            "history": null
+          },
+          "url": {
+            "current": "tadam-finanse.pl/oferta/pozyczka-hipoteczna-pod-zastaw-nieruchomosci-dla-osob-zadluzonych/",
+            "previous": "tadam-finanse.pl/oferta/pozyczka-hipoteczna-pod-zastaw-nieruchomosci-dla-osob-zadluzonych/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 54.92
+          },
+          "searches": {
+            "current": 40
+          },
+          "trends": {
+            "history": [
+              50,
+              20,
+              10,
+              30,
+              10,
+              40,
+              50,
+              40,
+              70,
+              70,
+              50,
+              70
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 42
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      }
+    ],
+    "total": 12,
+    "domain": "tadam-finanse.pl",
+    "endpoint": "get_history_keywords_losses"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "domain": "bankujesz.pl",
+  "endpoint": "get_backlinks_tlds",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "tld": "pl",
+          "count": 5943,
+          "percent": 0.9989914271306102
+        },
+        {
+          "tld": "com",
+          "count": 6,
+          "percent": 0.0010085728693898135
+        }
+      ],
+      "pagination": {
+        "page_count": 1,
+        "current_page": 1,
+        "has_next_page": false,
+        "has_prev_page": false,
+        "count": 2,
+        "limit": 10
+      }
+    },
+    "status": 200,
+    "domain": "bankujesz.pl",
+    "endpoint": "get_backlinks_tlds"
+  }
+}

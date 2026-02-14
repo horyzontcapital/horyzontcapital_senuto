@@ -1,0 +1,20 @@
+{
+  "domain": "podzastaw.biz",
+  "endpoint": "suggest_domains",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "favourite": [],
+        "suggested": [
+          "podzastaw.biz",
+          "podzastaw.capitalaccess.pl"
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "podzastaw.biz",
+    "endpoint": "suggest_domains"
+  }
+}

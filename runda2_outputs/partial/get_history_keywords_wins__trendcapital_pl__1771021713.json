@@ -1,0 +1,92 @@
+{
+  "domain": "trendcapital.pl",
+  "endpoint": "get_history_keywords_wins",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "keyword_id": 5879011,
+        "kid": "7fd9642a37a8f530be00ea8813ff99fb",
+        "domain": "trendcapital.pl",
+        "keyword": "pożyczki hipoteczne warszawa",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 7,
+            "previous": 19,
+            "diff": -12,
+            "changes": {
+              "wins": 1,
+              "losses": 0,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-22": {
+                "position": 19,
+                "has_serp": true
+              },
+              "2026-02-03": {
+                "position": 7,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0.28,
+            "previous": 0,
+            "diff": 0.28,
+            "percent": 1,
+            "history": null
+          },
+          "url": {
+            "current": "trendcapital.pl/",
+            "previous": "trendcapital.pl/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              0,
+              0,
+              0,
+              10,
+              0
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 41
+          },
+          "snippets": {
+            "current": [
+              "map",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "buy",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "trendcapital.pl",
+    "endpoint": "get_history_keywords_wins"
+  }
+}

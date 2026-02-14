@@ -1,0 +1,73 @@
+{
+  "domain": "czerwona-skarbonka.pl",
+  "endpoint": "get_backlinks_tlds",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "tld": "pl",
+          "count": 3635,
+          "percent": 0.9708867521367521
+        },
+        {
+          "tld": "com",
+          "count": 56,
+          "percent": 0.014957264957264958
+        },
+        {
+          "tld": "net",
+          "count": 9,
+          "percent": 0.002403846153846154
+        },
+        {
+          "tld": "info",
+          "count": 8,
+          "percent": 0.002136752136752137
+        },
+        {
+          "tld": "wiki",
+          "count": 7,
+          "percent": 0.0018696581196581197
+        },
+        {
+          "tld": "fm",
+          "count": 6,
+          "percent": 0.0016025641025641025
+        },
+        {
+          "tld": "org",
+          "count": 5,
+          "percent": 0.0013354700854700855
+        },
+        {
+          "tld": "in",
+          "count": 4,
+          "percent": 0.0010683760683760685
+        },
+        {
+          "tld": "tv",
+          "count": 2,
+          "percent": 0.0005341880341880342
+        },
+        {
+          "tld": "ua",
+          "count": 2,
+          "percent": 0.0005341880341880342
+        }
+      ],
+      "pagination": {
+        "page_count": 2,
+        "current_page": 1,
+        "has_next_page": true,
+        "has_prev_page": false,
+        "count": 18,
+        "limit": 10
+      }
+    },
+    "status": 200,
+    "domain": "czerwona-skarbonka.pl",
+    "endpoint": "get_backlinks_tlds"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "domain": "akredo.pl",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "akredo.pl",
+        "keywords_count": 1918,
+        "visibility_percent": 100,
+        "statistics": {
+          "visibility": {
+            "current": 20777.92,
+            "previous": 20109.27,
+            "diff": 668.64,
+            "percent": 0.0333,
+            "history": null
+          },
+          "top3": {
+            "current": 238,
+            "previous": 218,
+            "diff": 20,
+            "percent": 0.0917,
+            "history": null
+          },
+          "top10": {
+            "current": 1918,
+            "previous": 1844,
+            "diff": 74,
+            "percent": 0.0401,
+            "history": null
+          },
+          "top50": {
+            "current": 14928,
+            "previous": 14571,
+            "diff": 357,
+            "percent": 0.0245,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 100,
+            "previous": 100,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "akredo.pl",
+    "endpoint": "get_subdomains"
+  }
+}

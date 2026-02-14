@@ -1,0 +1,84 @@
+{
+  "domain": "pod-zastaw.org",
+  "endpoint": "get_backlinks_referring_domains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "ref_domain": "ogloszono.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.001987893549195888,
+        "backlinks_count": 189,
+        "links_external_count": 167514,
+        "percent_of_total": 0.7682926829268293,
+        "count": {
+          "count": 189,
+          "percent_of_total": 0.7682926829268293
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 52,
+        "visibility": 0,
+        "domain_rank": 4878264,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "oglosto.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.0006152813513815863,
+        "backlinks_count": 54,
+        "links_external_count": 17878,
+        "percent_of_total": 0.21951219512195122,
+        "count": {
+          "count": 54,
+          "percent_of_total": 0.21951219512195122
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "panoramafirm.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.008904176540050861,
+        "backlinks_count": 2,
+        "links_external_count": 10148496,
+        "percent_of_total": 0.008130081300813009,
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.008130081300813009
+        },
+        "top3": 57262,
+        "top10": 368820,
+        "top50": 1250269,
+        "visibility": 1329064.9030009708,
+        "domain_rank": 292,
+        "ads_equivalent": 1467222.458890008
+      },
+      {
+        "ref_domain": "leeds-manchester.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.003575607853335067,
+        "backlinks_count": 1,
+        "links_external_count": 15382,
+        "percent_of_total": 0.0040650406504065045,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0040650406504065045
+        },
+        "top3": 1,
+        "top10": 2,
+        "top50": 8,
+        "visibility": 1.298,
+        "domain_rank": 1776081,
+        "ads_equivalent": 0
+      }
+    ],
+    "total": 4,
+    "domain": "pod-zastaw.org",
+    "endpoint": "get_backlinks_referring_domains"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "domain": "open.pl",
+  "endpoint": "suggest_domains",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "favourite": [],
+        "suggested": [
+          "open.spotify.com",
+          "openstax.org",
+          "open.fm",
+          "opengift.pl",
+          "opendi.pl"
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "open.pl",
+    "endpoint": "suggest_domains"
+  }
+}

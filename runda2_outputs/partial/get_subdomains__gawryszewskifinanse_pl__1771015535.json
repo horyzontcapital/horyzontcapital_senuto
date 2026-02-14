@@ -1,0 +1,54 @@
+{
+  "domain": "gawryszewskifinanse.pl",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "gawryszewskifinanse.pl",
+        "keywords_count": 188,
+        "visibility_percent": 100,
+        "statistics": {
+          "visibility": {
+            "current": 1018.92,
+            "previous": 969.87,
+            "diff": 49.05,
+            "percent": 0.0506,
+            "history": null
+          },
+          "top3": {
+            "current": 34,
+            "previous": 34,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 188,
+            "previous": 189,
+            "diff": -1,
+            "percent": -0.0053,
+            "history": null
+          },
+          "top50": {
+            "current": 568,
+            "previous": 575,
+            "diff": -7,
+            "percent": -0.0122,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 100,
+            "previous": 100,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "gawryszewskifinanse.pl",
+    "endpoint": "get_subdomains"
+  }
+}

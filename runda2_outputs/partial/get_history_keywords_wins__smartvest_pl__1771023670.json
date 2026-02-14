@@ -1,0 +1,3219 @@
+{
+  "domain": "smartvest.pl",
+  "endpoint": "get_history_keywords_wins",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "keyword_id": 3782222,
+        "kid": "517fcc4c9c74306a62e24fe82ca447f7",
+        "domain": "smartvest.pl",
+        "keyword": "prywatna pożyczka pod zastaw nieruchomości",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 9,
+            "previous": 26,
+            "diff": -17,
+            "changes": {
+              "wins": 3,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-22": {
+                "position": 39,
+                "has_serp": true
+              },
+              "2026-01-07": {
+                "position": 10,
+                "has_serp": true
+              },
+              "2026-01-14": {
+                "position": 8,
+                "has_serp": true
+              },
+              "2026-01-24": {
+                "position": 26,
+                "has_serp": true
+              },
+              "2026-02-02": {
+                "position": 9,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 4.68,
+            "previous": 0,
+            "diff": 4.68,
+            "percent": 1,
+            "history": null
+          },
+          "url": {
+            "current": "smartvest.pl/pozyczki-pod-zastaw/",
+            "previous": "smartvest.pl/",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 13.19
+          },
+          "searches": {
+            "current": 260
+          },
+          "trends": {
+            "history": [
+              320,
+              210,
+              260,
+              260,
+              320,
+              260,
+              210,
+              210,
+              260,
+              210,
+              210,
+              210
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 45
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 1105194,
+        "kid": "17b79bd7a48ed63a1327e5ef1b4e0c34",
+        "domain": "smartvest.pl",
+        "keyword": "pożyczki pod zastaw nieruchomości bez bik",
+        "words_count": 6,
+        "statistics": {
+          "position": {
+            "current": 10,
+            "previous": 13,
+            "diff": -3,
+            "changes": {
+              "wins": 3,
+              "losses": 3,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-14": {
+                "position": 13,
+                "has_serp": false
+              },
+              "2025-12-22": {
+                "position": 17,
+                "has_serp": true
+              },
+              "2025-12-29": {
+                "position": 13,
+                "has_serp": true
+              },
+              "2026-01-06": {
+                "position": 13,
+                "has_serp": true
+              },
+              "2026-01-13": {
+                "position": 2,
+                "has_serp": true
+              },
+              "2026-01-24": {
+                "position": 13,
+                "has_serp": true
+              },
+              "2026-02-02": {
+                "position": 4,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 10,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 2.62,
+            "previous": 0,
+            "diff": 2.62,
+            "percent": 1,
+            "history": null
+          },
+          "url": {
+            "current": "smartvest.pl/pozyczki-pod-zastaw/",
+            "previous": "smartvest.pl/pozyczki-pod-zastaw/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 14.86
+          },
+          "searches": {
+            "current": 170
+          },
+          "trends": {
+            "history": [
+              210,
+              210,
+              140,
+              110,
+              140,
+              170,
+              260,
+              140,
+              110,
+              210,
+              210,
+              260
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 46
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 2629478,
+        "kid": "38837e94fca8956c242088ed0cf10e0b",
+        "domain": "smartvest.pl",
+        "keyword": "pożyczki pod zastaw tychy",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 2,
+            "previous": 3,
+            "diff": -1,
+            "changes": {
+              "wins": 0,
+              "losses": 0,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-02-05": {
+                "position": 2,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 3.5,
+            "previous": 1.08,
+            "diff": 2.43,
+            "percent": 2.2407,
+            "history": null
+          },
+          "url": {
+            "current": "smartvest.pl/blog/pozyczki-pod-zastaw-nieruchomosci-tychy/",
+            "previous": "smartvest.pl/blog/pozyczki-pod-zastaw-nieruchomosci-tychy/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 11
+          },
+          "snippets": {
+            "current": [
+              "map",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "buy",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 10133839,
+        "kid": "df82a7d9cfb87db9c2024f834eb7817e",
+        "domain": "smartvest.pl",
+        "keyword": "pożyczki pod zastaw poznań",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 9,
+            "previous": 51,
+            "diff": -42,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-18": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-07": {
+                "position": 9,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0.72,
+            "previous": 0,
+            "diff": 0.72,
+            "percent": 1,
+            "history": null
+          },
+          "url": {
+            "current": "smartvest.pl/blog/pozyczki-pod-zastaw-nieruchomosci-poznan/",
+            "previous": "",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              20,
+              20,
+              20,
+              30,
+              30,
+              20,
+              20,
+              20,
+              20,
+              10,
+              20,
+              20
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 20
+          },
+          "snippets": {
+            "current": [
+              "map",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "local",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 9953496,
+        "kid": "db6ade254483504787434be1345cc12d",
+        "domain": "smartvest.pl",
+        "keyword": "pożyczki pod zastaw łódź",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 7,
+            "previous": 13,
+            "diff": -6,
+            "changes": {
+              "wins": 1,
+              "losses": 0,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-17": {
+                "position": 13,
+                "has_serp": true
+              },
+              "2026-02-04": {
+                "position": 7,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0.57,
+            "previous": 0,
+            "diff": 0.57,
+            "percent": 1,
+            "history": null
+          },
+          "url": {
+            "current": "smartvest.pl/blog/pozyczki-pod-zastaw-nieruchomosci-lodz/",
+            "previous": "smartvest.pl/blog/pozyczki-pod-zastaw-nieruchomosci-lodz/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              20,
+              10,
+              30,
+              20,
+              20,
+              20,
+              30,
+              20,
+              10,
+              20,
+              20,
+              20
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 19
+          },
+          "snippets": {
+            "current": [
+              "map",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 10308598,
+        "kid": "e379dba4aa6dc4cd62ab1ca707773521",
+        "domain": "smartvest.pl",
+        "keyword": "pozyczki pod zastaw lodz",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 7,
+            "previous": 16,
+            "diff": -9,
+            "changes": {
+              "wins": 0,
+              "losses": 0,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-02-10": {
+                "position": 7,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0.28,
+            "previous": 0,
+            "diff": 0.28,
+            "percent": 1,
+            "history": null
+          },
+          "url": {
+            "current": "smartvest.pl/blog/pozyczki-pod-zastaw-nieruchomosci-lodz/",
+            "previous": "smartvest.pl/blog/pozyczki-pod-zastaw-nieruchomosci-lodz/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 7.68
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              20,
+              10,
+              30,
+              10,
+              20,
+              20
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 29
+          },
+          "snippets": {
+            "current": [
+              "map",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "buy",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 4873952,
+        "kid": "6987d974dee72da5058ece623eb5ad57",
+        "domain": "smartvest.pl",
+        "keyword": "pożyczki pod zastaw bytom",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 9,
+            "previous": 11,
+            "diff": -2,
+            "changes": {
+              "wins": 1,
+              "losses": 0,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-20": {
+                "position": 11,
+                "has_serp": true
+              },
+              "2026-02-01": {
+                "position": 9,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0.18,
+            "previous": 0,
+            "diff": 0.18,
+            "percent": 1,
+            "history": null
+          },
+          "url": {
+            "current": "smartvest.pl/blog/pozyczki-pod-zastaw-nieruchomosci-bytom/",
+            "previous": "smartvest.pl/blog/pozyczki-pod-zastaw-nieruchomosci-bytom/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 10
+          },
+          "snippets": {
+            "current": [
+              "map",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "local",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 18005277,
+        "kid": "e4a91400d361a5b538797af297cf2e4e",
+        "domain": "smartvest.pl",
+        "keyword": "pozabankowe instytucje pożyczkowe w polsce",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 14,
+            "previous": 35,
+            "diff": -21,
+            "changes": {
+              "wins": 1,
+              "losses": 0,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-16": {
+                "position": 35,
+                "has_serp": true
+              },
+              "2026-02-03": {
+                "position": 14,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "smartvest.pl/blog/firmy-pozyczkowe-pozabankowe/",
+            "previous": "smartvest.pl/blog/firmy-pozyczkowe-pozabankowe/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 3.41
+          },
+          "searches": {
+            "current": 40
+          },
+          "trends": {
+            "history": [
+              20,
+              20,
+              40,
+              50,
+              70,
+              50,
+              50,
+              90,
+              10,
+              30,
+              10,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 31
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 8587544,
+        "kid": "bc905e692d12908b5f45c9d056f175b8",
+        "domain": "smartvest.pl",
+        "keyword": "pożyczki z dostawą do domu wrocław",
+        "words_count": 6,
+        "statistics": {
+          "position": {
+            "current": 20,
+            "previous": 36,
+            "diff": -16,
+            "changes": {
+              "wins": 1,
+              "losses": 0,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-16": {
+                "position": 36,
+                "has_serp": true
+              },
+              "2026-02-03": {
+                "position": 20,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "smartvest.pl/",
+            "previous": "smartvest.pl/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 1.21
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              10,
+              10,
+              40,
+              30,
+              10,
+              20,
+              20,
+              10,
+              20,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 24
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "buy",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 9707,
+        "kid": "0034c5c87edada55f2ed0fc18d8b040b",
+        "domain": "smartvest.pl",
+        "keyword": "bezpieczne pożyczki pod zastaw nieruchomości",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 18,
+            "previous": 21,
+            "diff": -3,
+            "changes": {
+              "wins": 1,
+              "losses": 1,
+              "no_changes": 2
+            },
+            "history": {
+              "2026-01-05": {
+                "position": 15,
+                "has_serp": true
+              },
+              "2026-01-12": {
+                "position": 15,
+                "has_serp": true
+              },
+              "2026-01-22": {
+                "position": 21,
+                "has_serp": true
+              },
+              "2026-02-01": {
+                "position": 21,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 18,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "smartvest.pl/blog/ranking-pozyczek-pod-zastaw-nieruchomosci/",
+            "previous": "smartvest.pl/pozyczki-pod-zastaw/",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 25.26
+          },
+          "searches": {
+            "current": 140
+          },
+          "trends": {
+            "history": [
+              170,
+              170,
+              90,
+              110,
+              110,
+              170,
+              170,
+              140,
+              70,
+              110,
+              110,
+              110
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 51
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 3019876,
+        "kid": "40f6b5929b2646484d013f6aaaf9bf49",
+        "domain": "smartvest.pl",
+        "keyword": "kredyt pod zastaw nieruchomości bez bik",
+        "words_count": 6,
+        "statistics": {
+          "position": {
+            "current": 15,
+            "previous": 19,
+            "diff": -4,
+            "changes": {
+              "wins": 0,
+              "losses": 0,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-02-05": {
+                "position": 15,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "smartvest.pl/pozyczki-pod-zastaw/",
+            "previous": "smartvest.pl/pozyczki-pod-zastaw/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 14.48
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              10,
+              10,
+              20,
+              10,
+              10,
+              10,
+              20,
+              10,
+              30,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 40
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "buy",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 4320271,
+        "kid": "5d49ec6e5f5d781e0c8a0ee785c7bc41",
+        "domain": "smartvest.pl",
+        "keyword": "pożyczki pod zastaw nieruchomości",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 14,
+            "previous": 17,
+            "diff": -3,
+            "changes": {
+              "wins": 5,
+              "losses": 6,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-19": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-22": {
+                "position": 18,
+                "has_serp": true
+              },
+              "2025-12-26": {
+                "position": 16,
+                "has_serp": true
+              },
+              "2025-12-30": {
+                "position": 16,
+                "has_serp": true
+              },
+              "2026-01-03": {
+                "position": 15,
+                "has_serp": true
+              },
+              "2026-01-06": {
+                "position": 19,
+                "has_serp": true
+              },
+              "2026-01-09": {
+                "position": 29,
+                "has_serp": true
+              },
+              "2026-01-12": {
+                "position": 14,
+                "has_serp": true
+              },
+              "2026-01-16": {
+                "position": 16,
+                "has_serp": true
+              },
+              "2026-01-20": {
+                "position": 14,
+                "has_serp": true
+              },
+              "2026-01-24": {
+                "position": 16,
+                "has_serp": true
+              },
+              "2026-01-28": {
+                "position": 17,
+                "has_serp": true
+              },
+              "2026-02-05": {
+                "position": 14,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "smartvest.pl/pozyczki-pod-zastaw/",
+            "previous": "smartvest.pl/pozyczki-pod-zastaw/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 25.88
+          },
+          "searches": {
+            "current": 1600
+          },
+          "trends": {
+            "history": [
+              1300,
+              1300,
+              1300,
+              1300,
+              1300,
+              1600,
+              1900,
+              1000,
+              1300,
+              1600,
+              2400,
+              1600
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 63
+          },
+          "snippets": {
+            "current": [
+              "map",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 9410327,
+        "kid": "cf1e82b4260339c4e4944dd7a6db9720",
+        "domain": "smartvest.pl",
+        "keyword": "uczciwe pożyczki pod zastaw mieszkania",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 16,
+            "previous": 27,
+            "diff": -11,
+            "changes": {
+              "wins": 3,
+              "losses": 3,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-19": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-26": {
+                "position": 20,
+                "has_serp": true
+              },
+              "2026-01-04": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-11": {
+                "position": 16,
+                "has_serp": true
+              },
+              "2026-01-22": {
+                "position": 27,
+                "has_serp": true
+              },
+              "2026-02-01": {
+                "position": 17,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 16,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "smartvest.pl/pozyczki-pod-zastaw/",
+            "previous": "smartvest.pl/pozyczki-pod-zastaw/pozyczki-pod-zastaw-mieszkania/",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 1.71
+          },
+          "searches": {
+            "current": 90
+          },
+          "trends": {
+            "history": [
+              90,
+              30,
+              50,
+              50,
+              140,
+              90,
+              70,
+              70,
+              110,
+              110,
+              140,
+              70
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 27
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 11501064,
+        "kid": "fe9a20ee37582c95187af61a2f259aec",
+        "domain": "smartvest.pl",
+        "keyword": "pożyczki pod zastaw szczecin",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 11,
+            "previous": 17,
+            "diff": -6,
+            "changes": {
+              "wins": 1,
+              "losses": 0,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-18": {
+                "position": 17,
+                "has_serp": true
+              },
+              "2026-02-06": {
+                "position": 11,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "smartvest.pl/blog/pozyczki-pod-zastaw-nieruchomosci-szczecin/",
+            "previous": "smartvest.pl/blog/pozyczki-pod-zastaw-nieruchomosci-szczecin/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 6.93
+          },
+          "searches": {
+            "current": 30
+          },
+          "trends": {
+            "history": [
+              50,
+              50,
+              70,
+              20,
+              20,
+              10,
+              10,
+              10,
+              20,
+              20,
+              30,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 33
+          },
+          "snippets": {
+            "current": [
+              "map",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "local",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 10612125,
+        "kid": "ea58ebf3708fdcf24512d0605e6c0b59",
+        "domain": "smartvest.pl",
+        "keyword": "pożyczki pod zastaw",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 27,
+            "previous": 28,
+            "diff": -1,
+            "changes": {
+              "wins": 7,
+              "losses": 4,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-19": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-23": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-26": {
+                "position": 30,
+                "has_serp": true
+              },
+              "2025-12-31": {
+                "position": 27,
+                "has_serp": true
+              },
+              "2026-01-06": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-09": {
+                "position": 28,
+                "has_serp": true
+              },
+              "2026-01-12": {
+                "position": 26,
+                "has_serp": true
+              },
+              "2026-01-16": {
+                "position": 25,
+                "has_serp": true
+              },
+              "2026-01-21": {
+                "position": 29,
+                "has_serp": true
+              },
+              "2026-01-29": {
+                "position": 28,
+                "has_serp": true
+              },
+              "2026-02-03": {
+                "position": 32,
+                "has_serp": true
+              },
+              "2026-02-07": {
+                "position": 31,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 27,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "smartvest.pl/pozyczki-pod-zastaw/",
+            "previous": "smartvest.pl/",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 12.48
+          },
+          "searches": {
+            "current": 1600
+          },
+          "trends": {
+            "history": [
+              1600,
+              1600,
+              1600,
+              1600,
+              1600,
+              1300,
+              1300,
+              1300,
+              2400,
+              2400,
+              1600,
+              1300
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 68
+          },
+          "snippets": {
+            "current": [
+              "map",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 1698462,
+        "kid": "24733dd33b637315b7d93203ac1624cd",
+        "domain": "smartvest.pl",
+        "keyword": "pożyczki pod zastaw online",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 11,
+            "previous": 18,
+            "diff": -7,
+            "changes": {
+              "wins": 4,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-28": {
+                "position": 23,
+                "has_serp": true
+              },
+              "2026-01-05": {
+                "position": 20,
+                "has_serp": true
+              },
+              "2026-01-12": {
+                "position": 17,
+                "has_serp": true
+              },
+              "2026-01-22": {
+                "position": 18,
+                "has_serp": true
+              },
+              "2026-02-01": {
+                "position": 14,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 11,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "smartvest.pl/blog/ranking-pozyczek-pod-zastaw-nieruchomosci/",
+            "previous": "smartvest.pl/pozyczki-pod-zastaw/pozyczki-pod-zastaw-domu/",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 8.73
+          },
+          "searches": {
+            "current": 140
+          },
+          "trends": {
+            "history": [
+              170,
+              170,
+              140,
+              170,
+              140,
+              110,
+              140,
+              140,
+              170,
+              140,
+              110,
+              110
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 44
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 8332204,
+        "kid": "b6cdbe197bc8a63f69797d55d936dca5",
+        "domain": "smartvest.pl",
+        "keyword": "pożyczka pod hipotekę bez bik",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 12,
+            "previous": 21,
+            "diff": -9,
+            "changes": {
+              "wins": 1,
+              "losses": 0,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-16": {
+                "position": 21,
+                "has_serp": true
+              },
+              "2026-02-02": {
+                "position": 12,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "smartvest.pl/pozyczki-pod-zastaw/",
+            "previous": "smartvest.pl/pozyczki-pod-zastaw/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 54.92
+          },
+          "searches": {
+            "current": 40
+          },
+          "trends": {
+            "history": [
+              50,
+              20,
+              10,
+              30,
+              10,
+              40,
+              50,
+              40,
+              70,
+              70,
+              50,
+              70
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 42
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 5298516,
+        "kid": "72f4a1e3107b940ae856db00127786f9",
+        "domain": "smartvest.pl",
+        "keyword": "pozabankowe instytucje pożyczkowe",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 11,
+            "previous": 15,
+            "diff": -4,
+            "changes": {
+              "wins": 4,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-16": {
+                "position": 33,
+                "has_serp": true
+              },
+              "2025-12-23": {
+                "position": 14,
+                "has_serp": true
+              },
+              "2026-01-14": {
+                "position": 32,
+                "has_serp": true
+              },
+              "2026-01-25": {
+                "position": 22,
+                "has_serp": true
+              },
+              "2026-01-27": {
+                "position": 15,
+                "has_serp": true
+              },
+              "2026-02-04": {
+                "position": 11,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "smartvest.pl/blog/firmy-pozyczkowe-pozabankowe/",
+            "previous": "smartvest.pl/blog/firmy-pozyczkowe-pozabankowe/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 8.17
+          },
+          "searches": {
+            "current": 70
+          },
+          "trends": {
+            "history": [
+              40,
+              50,
+              40,
+              30,
+              30,
+              50,
+              50,
+              40,
+              90,
+              170,
+              90,
+              110
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 43
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 1086763,
+        "kid": "1752802dc211c1583318ff61f675cfc8",
+        "domain": "smartvest.pl",
+        "keyword": "pożyczki pod zastaw mieszkania warszawa",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 12,
+            "previous": 14,
+            "diff": -2,
+            "changes": {
+              "wins": 1,
+              "losses": 0,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-26": {
+                "position": 14,
+                "has_serp": true
+              },
+              "2026-02-06": {
+                "position": 12,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "smartvest.pl/pozyczki-pod-zastaw/pozyczki-pod-zastaw-domu/",
+            "previous": "smartvest.pl/blog/pozyczki-pod-zastaw-nieruchomosci-warszawa/",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              10,
+              10,
+              10,
+              0,
+              0,
+              0,
+              0,
+              0,
+              10,
+              0
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 17
+          },
+          "snippets": {
+            "current": []
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 3341361,
+        "kid": "47e9de9a63bd7b5d61355b15fdb5dc23",
+        "domain": "smartvest.pl",
+        "keyword": "pożyczka wrocław",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 36,
+            "previous": 37,
+            "diff": -1,
+            "changes": {
+              "wins": 2,
+              "losses": 2,
+              "no_changes": 2
+            },
+            "history": {
+              "2025-12-20": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-27": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-04": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-11": {
+                "position": 41,
+                "has_serp": true
+              },
+              "2026-01-21": {
+                "position": 43,
+                "has_serp": true
+              },
+              "2026-01-31": {
+                "position": 37,
+                "has_serp": true
+              },
+              "2026-02-10": {
+                "position": 36,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "smartvest.pl/",
+            "previous": "smartvest.pl/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 1.8
+          },
+          "searches": {
+            "current": 140
+          },
+          "trends": {
+            "history": [
+              140,
+              140,
+              140,
+              110,
+              210,
+              170,
+              140,
+              140,
+              140,
+              140,
+              90,
+              170
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 46
+          },
+          "snippets": {
+            "current": [
+              "map",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 9677391,
+        "kid": "d5280b8821a4d9c9283b87d8819e8a43",
+        "domain": "smartvest.pl",
+        "keyword": "pożyczki pod hipotekę dla zadłużonych",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 24,
+            "previous": 25,
+            "diff": -1,
+            "changes": {
+              "wins": 1,
+              "losses": 0,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-17": {
+                "position": 25,
+                "has_serp": true
+              },
+              "2026-02-04": {
+                "position": 24,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "smartvest.pl/pozyczki-pod-zastaw/",
+            "previous": "smartvest.pl/pozyczki-pod-zastaw/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 2.88
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              30,
+              30,
+              20,
+              30,
+              20,
+              10,
+              20,
+              20,
+              10,
+              20,
+              20,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 37
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 6456930,
+        "kid": "8cad1d441859885ee08d701ae3ce1851",
+        "domain": "smartvest.pl",
+        "keyword": "pożyczki w domu klienta inowrocław",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 18,
+            "previous": 41,
+            "diff": -23,
+            "changes": {
+              "wins": 1,
+              "losses": 1,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-18": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-01": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-20": {
+                "position": 41,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 18,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "smartvest.pl/blog/pozyczki-pod-zastaw-nieruchomosci-inowroclaw/",
+            "previous": "smartvest.pl/",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 0.51
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              30,
+              10,
+              30,
+              10,
+              20,
+              20,
+              10,
+              20,
+              30,
+              30,
+              30,
+              20
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 12
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 4944209,
+        "kid": "6b16adf8246a353c80e14b671d8c91e1",
+        "domain": "smartvest.pl",
+        "keyword": "pożyczki pozabankowe radom",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 29,
+            "previous": 30,
+            "diff": -1,
+            "changes": {
+              "wins": 1,
+              "losses": 0,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-20": {
+                "position": 30,
+                "has_serp": true
+              },
+              "2026-02-01": {
+                "position": 29,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "smartvest.pl/blog/pozyczki-pod-zastaw-nieruchomosci-radom/",
+            "previous": "smartvest.pl/blog/pozyczki-pod-zastaw-nieruchomosci-radom/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 4.71
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 31
+          },
+          "snippets": {
+            "current": [
+              "map",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 112102,
+        "kid": "02673eae524adce18d42a5eeb5e306a0",
+        "domain": "smartvest.pl",
+        "keyword": "pożyczki w domu klienta rybnik",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 31,
+            "previous": 51,
+            "diff": -20,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 2
+            },
+            "history": {
+              "2025-12-23": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-06": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-22": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 31,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "smartvest.pl/blog/pozyczki-pod-zastaw-nieruchomosci-rybnik/",
+            "previous": "",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 6.64
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              10,
+              70,
+              10,
+              20,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              0
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 18
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "local",
+            "action_type": "buy",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 6480490,
+        "kid": "8d3544662bcb2f6cf97241aceeff8f5b",
+        "domain": "smartvest.pl",
+        "keyword": "pożyczka dla firm bez bik",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 38,
+            "previous": 51,
+            "diff": -13,
+            "changes": {
+              "wins": 1,
+              "losses": 2,
+              "no_changes": 2
+            },
+            "history": {
+              "2025-12-20": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-27": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-05": {
+                "position": 46,
+                "has_serp": true
+              },
+              "2026-01-12": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-22": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 38,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "smartvest.pl/blog/szybkie-pozyczki-pozabankowe-dla-firm-bez-bik/",
+            "previous": "",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 19.43
+          },
+          "searches": {
+            "current": 390
+          },
+          "trends": {
+            "history": [
+              590,
+              390,
+              320,
+              480,
+              390,
+              590,
+              390,
+              390,
+              390,
+              390,
+              390,
+              390
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 50
+          },
+          "snippets": {
+            "current": []
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "buy",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 5446478,
+        "kid": "763e5cfc006257b70c0d93e4827117c1",
+        "domain": "smartvest.pl",
+        "keyword": "chwilówki mysłowice",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 48,
+            "previous": 51,
+            "diff": -3,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-21": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-02": {
+                "position": 48,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "smartvest.pl/blog/pozyczki-pod-zastaw-nieruchomosci-myslowice/",
+            "previous": "",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 5.3
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              10,
+              10,
+              0,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 16
+          },
+          "snippets": {
+            "current": [
+              "map",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 1568334,
+        "kid": "21aacdd68f3ffb5c0492e7979dde8cbf",
+        "domain": "smartvest.pl",
+        "keyword": "pożyczka pod nieruchomość",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 46,
+            "previous": 51,
+            "diff": -5,
+            "changes": {
+              "wins": 1,
+              "losses": 2,
+              "no_changes": 3
+            },
+            "history": {
+              "2025-12-14": {
+                "position": 20,
+                "has_serp": false
+              },
+              "2025-12-22": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-06": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-13": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-24": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-02": {
+                "position": 36,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 46,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "smartvest.pl/blog/pozyczka-pod-zastaw-nieruchomosci-hipoteka-czy-przewlaszczenie/",
+            "previous": "",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 9.21
+          },
+          "searches": {
+            "current": 90
+          },
+          "trends": {
+            "history": [
+              90,
+              90,
+              70,
+              70,
+              50,
+              90,
+              140,
+              110,
+              110,
+              140,
+              50,
+              90
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 63
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 12809145,
+        "kid": "51031c2398fbaa7411b0e9150e6d2ab5",
+        "domain": "smartvest.pl",
+        "keyword": "pożyczki prywatne w domu",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 47,
+            "previous": 51,
+            "diff": -4,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 2
+            },
+            "history": {
+              "2025-12-20": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-03": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-21": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-10": {
+                "position": 47,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "smartvest.pl/pozyczki-pod-zastaw/",
+            "previous": "",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 0.35
+          },
+          "searches": {
+            "current": 70
+          },
+          "trends": {
+            "history": [
+              70,
+              90,
+              90,
+              70,
+              90,
+              50,
+              70,
+              90,
+              90,
+              90,
+              70,
+              50
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 36
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 4696263,
+        "kid": "659259e694817c73fac0ce375df38e10",
+        "domain": "smartvest.pl",
+        "keyword": "pożyczki pozabankowe inowrocław",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 14,
+            "previous": 51,
+            "diff": -37,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-19": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-01": {
+                "position": 14,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "smartvest.pl/blog/pozyczki-pod-zastaw-nieruchomosci-inowroclaw/",
+            "previous": "",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              10,
+              0,
+              0,
+              10,
+              10,
+              10,
+              0,
+              10,
+              0,
+              20
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 24
+          },
+          "snippets": {
+            "current": [
+              "map",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "local",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 10508736,
+        "kid": "e80401123af55356ed535969a12fdb99",
+        "domain": "smartvest.pl",
+        "keyword": "nowość pożyczki do domu wrocław",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 38,
+            "previous": 51,
+            "diff": -13,
+            "changes": {
+              "wins": 0,
+              "losses": 0,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-02-05": {
+                "position": 38,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "smartvest.pl/",
+            "previous": "",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 0.75
+          },
+          "searches": {
+            "current": 40
+          },
+          "trends": {
+            "history": [
+              50,
+              30,
+              30,
+              50,
+              50,
+              30,
+              50,
+              40,
+              50,
+              20,
+              50,
+              20
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 23
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "buy",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 9391993,
+        "kid": "ceb3af8a4e32d7c3b25e31a8393998a9",
+        "domain": "smartvest.pl",
+        "keyword": "kredyt pod zastaw hipoteki",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 40,
+            "previous": 51,
+            "diff": -11,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-17": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-04": {
+                "position": 40,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "smartvest.pl/blog/pozyczka-pod-zastaw-nieruchomosci-hipoteka-czy-przewlaszczenie/",
+            "previous": "",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 3.68
+          },
+          "searches": {
+            "current": 70
+          },
+          "trends": {
+            "history": [
+              50,
+              70,
+              70,
+              90,
+              70,
+              70,
+              70,
+              50,
+              50,
+              70,
+              50,
+              40
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 50
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "buy",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 17815737,
+        "kid": "c65f57c91e58d44ab56171bade7084cc",
+        "domain": "smartvest.pl",
+        "keyword": "pozabankowa instytucja pożyczkowa",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 14,
+            "previous": 51,
+            "diff": -37,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-16": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-03": {
+                "position": 14,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "smartvest.pl/blog/pozyczka-na-firme-bez-bik-pozabankowa/",
+            "previous": "",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 3.06
+          },
+          "searches": {
+            "current": 30
+          },
+          "trends": {
+            "history": [
+              20,
+              30,
+              90,
+              70,
+              50,
+              50,
+              20,
+              10,
+              10,
+              10,
+              10,
+              0
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 37
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 10993241,
+        "kid": "f30d8983a84e6ed50e7ef01ec5e9358a",
+        "domain": "smartvest.pl",
+        "keyword": "pożyczki nowy sącz",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 38,
+            "previous": 51,
+            "diff": -13,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-18": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-06": {
+                "position": 38,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "smartvest.pl/blog/pozyczki-pod-zastaw-nieruchomosci-nowy-sacz/",
+            "previous": "",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 1.91
+          },
+          "searches": {
+            "current": 30
+          },
+          "trends": {
+            "history": [
+              30,
+              10,
+              30,
+              30,
+              50,
+              40,
+              20,
+              30,
+              40,
+              20,
+              40,
+              20
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 29
+          },
+          "snippets": {
+            "current": [
+              "map",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "buy",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 7604543,
+        "kid": "a670f5195262e26ca4fd3f55613335be",
+        "domain": "smartvest.pl",
+        "keyword": "pożyczka prywatna gdynia",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 45,
+            "previous": 51,
+            "diff": -6,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 2
+            },
+            "history": {
+              "2025-12-20": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-04": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-21": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-10": {
+                "position": 45,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "smartvest.pl/pozyczki-pod-zastaw/",
+            "previous": "",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 3.68
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              30,
+              10,
+              20,
+              20,
+              10,
+              10,
+              20,
+              10,
+              40,
+              20,
+              30,
+              20
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 26
+          },
+          "snippets": {
+            "current": [
+              "map",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 4828889,
+        "kid": "6887ab9d2e228a54be981bb713e66c2e",
+        "domain": "smartvest.pl",
+        "keyword": "szybki kredyt dla firm bez bik",
+        "words_count": 6,
+        "statistics": {
+          "position": {
+            "current": 45,
+            "previous": 51,
+            "diff": -6,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-26": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-06": {
+                "position": 45,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "smartvest.pl/blog/szybkie-pozyczki-pozabankowe-dla-firm-bez-bik/",
+            "previous": "",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              20,
+              10,
+              20,
+              10,
+              10,
+              20,
+              20,
+              20,
+              20,
+              10,
+              20,
+              30
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 25
+          },
+          "snippets": {
+            "current": []
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 7040745,
+        "kid": "99c370e0275418b3dfa5dd9fb2634e10",
+        "domain": "smartvest.pl",
+        "keyword": "pożyczki hipoteczne pod zastaw nieruchomości",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 44,
+            "previous": 51,
+            "diff": -7,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 2
+            },
+            "history": {
+              "2025-12-20": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-03": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-20": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 44,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "smartvest.pl/blog/pozyczka-pod-zastaw-nieruchomosci-hipoteka-czy-przewlaszczenie/",
+            "previous": "",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 9.64
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              20,
+              10,
+              20,
+              20,
+              30,
+              40,
+              10,
+              20,
+              10,
+              20
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 51
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 8402145,
+        "kid": "b8608b72d4c88d1c15d14e6382827f6a",
+        "domain": "smartvest.pl",
+        "keyword": "pod zastaw co to znaczy",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 11,
+            "previous": 51,
+            "diff": -40,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-16": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-03": {
+                "position": 11,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "smartvest.pl/blog/jak-dziala-pozyczka-pod-zastaw/",
+            "previous": "",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 70
+          },
+          "trends": {
+            "history": [
+              90,
+              70,
+              90,
+              70,
+              50,
+              110,
+              70,
+              90,
+              50,
+              40,
+              50,
+              50
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 29
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      }
+    ],
+    "total": 37,
+    "domain": "smartvest.pl",
+    "endpoint": "get_history_keywords_wins"
+  }
+}

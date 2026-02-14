@@ -1,0 +1,494 @@
+{
+  "domain": "bankujesz.pl",
+  "endpoint": "get_backlinks_referring_domains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "ref_domain": "fxmag.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": 7082.85,
+          "article_price_nofollow": 3218.85,
+          "link_price_dofollow": 7808.5,
+          "link_price_nofollow": 6277.85,
+          "price_do_follow": 7082.85,
+          "price_no_follow": 3218.85
+        },
+        "ratio_bl_ext": 0.0743818204022529,
+        "backlinks_count": 5870,
+        "links_external_count": 2751304,
+        "percent_of_total": 0.9867204572197008,
+        "count": {
+          "count": 5870,
+          "percent_of_total": 0.9867204572197008
+        },
+        "top3": 274,
+        "top10": 1931,
+        "top50": 26839,
+        "visibility": 55569.03600000017,
+        "domain_rank": 5533,
+        "ads_equivalent": 102856.31735000004
+      },
+      {
+        "ref_domain": "notowania-gpw.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.04,
+        "backlinks_count": 25,
+        "links_external_count": 75,
+        "percent_of_total": 0.004202386955790889,
+        "count": {
+          "count": 25,
+          "percent_of_total": 0.004202386955790889
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "mobiletrendsawards.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 1.7879464285714286,
+        "backlinks_count": 13,
+        "links_external_count": 448,
+        "percent_of_total": 0.0021852412170112624,
+        "count": {
+          "count": 13,
+          "percent_of_total": 0.0021852412170112624
+        },
+        "top3": 3,
+        "top10": 6,
+        "top50": 62,
+        "visibility": 417.974,
+        "domain_rank": 223007,
+        "ads_equivalent": 307.88735999999994
+      },
+      {
+        "ref_domain": "sii.org.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.2763539579532881,
+        "backlinks_count": 4,
+        "links_external_count": 33439,
+        "percent_of_total": 0.0006723819129265423,
+        "count": {
+          "count": 4,
+          "percent_of_total": 0.0006723819129265423
+        },
+        "top3": 666,
+        "top10": 3131,
+        "top50": 18762,
+        "visibility": 28598.674000000156,
+        "domain_rank": 10067,
+        "ads_equivalent": 76439.12724999999
+      },
+      {
+        "ref_domain": "mmcpolska.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.25944989544796526,
+        "backlinks_count": 4,
+        "links_external_count": 6217,
+        "percent_of_total": 0.0006723819129265423,
+        "count": {
+          "count": 4,
+          "percent_of_total": 0.0006723819129265423
+        },
+        "top3": 16,
+        "top10": 73,
+        "top50": 397,
+        "visibility": 847.7049999999997,
+        "domain_rank": 145494,
+        "ads_equivalent": 982.49684
+      },
+      {
+        "ref_domain": "sprawnymarketing.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.6008568368439843,
+        "backlinks_count": 3,
+        "links_external_count": 8403,
+        "percent_of_total": 0.0005042864346949068,
+        "count": {
+          "count": 3,
+          "percent_of_total": 0.0005042864346949068
+        },
+        "top3": 358,
+        "top10": 1171,
+        "top50": 5861,
+        "visibility": 52197.771000000066,
+        "domain_rank": 5850,
+        "ads_equivalent": 311504.39793
+      },
+      {
+        "ref_domain": "zpf.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 45.02439024390244,
+        "backlinks_count": 3,
+        "links_external_count": 123,
+        "percent_of_total": 0.0005042864346949068,
+        "count": {
+          "count": 3,
+          "percent_of_total": 0.0005042864346949068
+        },
+        "top3": 179,
+        "top10": 732,
+        "top50": 2293,
+        "visibility": 12206.880000000021,
+        "domain_rank": 20664,
+        "ads_equivalent": 58962.571159999985
+      },
+      {
+        "ref_domain": "forsm.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 1.5,
+        "backlinks_count": 2,
+        "links_external_count": 40,
+        "percent_of_total": 0.00033619095646327115,
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.00033619095646327115
+        },
+        "top3": 1,
+        "top10": 4,
+        "top50": 24,
+        "visibility": 8.559000000000001,
+        "domain_rank": 1153129,
+        "ads_equivalent": 33.813019999999995
+      },
+      {
+        "ref_domain": "forum.glosplonska.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.0007519310957686786,
+        "backlinks_count": 2,
+        "links_external_count": 29258,
+        "percent_of_total": 0.00033619095646327115,
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.00033619095646327115
+        },
+        "top3": 13,
+        "top10": 75,
+        "top50": 306,
+        "visibility": 122.95699999999997,
+        "domain_rank": 422730,
+        "ads_equivalent": 38.47724
+      },
+      {
+        "ref_domain": "dataeconomycongress.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.28428927680798005,
+        "backlinks_count": 2,
+        "links_external_count": 802,
+        "percent_of_total": 0.00033619095646327115,
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.00033619095646327115
+        },
+        "top3": 0,
+        "top10": 8,
+        "top50": 181,
+        "visibility": 16.169999999999998,
+        "domain_rank": 948997,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "bulgaricus.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.07512787723785166,
+        "backlinks_count": 2,
+        "links_external_count": 9384,
+        "percent_of_total": 0.00033619095646327115,
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.00033619095646327115
+        },
+        "top3": 46,
+        "top10": 233,
+        "top50": 1090,
+        "visibility": 960.4949999999992,
+        "domain_rank": 133943,
+        "ads_equivalent": 135.05960000000002
+      },
+      {
+        "ref_domain": "investcuffs.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 1,
+        "backlinks_count": 2,
+        "links_external_count": 772,
+        "percent_of_total": 0.00033619095646327115,
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.00033619095646327115
+        },
+        "top3": 8,
+        "top10": 20,
+        "top50": 483,
+        "visibility": 649.025,
+        "domain_rank": 171717,
+        "ads_equivalent": 7.51328
+      },
+      {
+        "ref_domain": "ethereum-kurs.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 4.5,
+        "backlinks_count": 2,
+        "links_external_count": 6,
+        "percent_of_total": 0.00033619095646327115,
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.00033619095646327115
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "pl.linkedin.com",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 24.981880314710324,
+        "backlinks_count": 2,
+        "links_external_count": 239077,
+        "percent_of_total": 0.00033619095646327115,
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.00033619095646327115
+        },
+        "top3": 54799,
+        "top10": 232159,
+        "top50": 708663,
+        "visibility": 4057480.918002241,
+        "domain_rank": 99,
+        "ads_equivalent": 12791202.674399933
+      },
+      {
+        "ref_domain": "vestbee.com",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.15753846153846154,
+        "backlinks_count": 2,
+        "links_external_count": 3250,
+        "percent_of_total": 0.00033619095646327115,
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.00033619095646327115
+        },
+        "top3": 1,
+        "top10": 9,
+        "top50": 103,
+        "visibility": 26.209,
+        "domain_rank": 802888,
+        "ads_equivalent": 8.36054
+      },
+      {
+        "ref_domain": "salon24.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": 3220,
+          "article_price_nofollow": null,
+          "link_price_dofollow": null,
+          "link_price_nofollow": null,
+          "price_do_follow": 3220,
+          "price_no_follow": null
+        },
+        "ratio_bl_ext": 0.0820283920787453,
+        "backlinks_count": 1,
+        "links_external_count": 487953,
+        "percent_of_total": 0.00016809547823163558,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.00016809547823163558
+        },
+        "top3": 949,
+        "top10": 5335,
+        "top50": 52498,
+        "visibility": 33517.25700000023,
+        "domain_rank": 8720,
+        "ads_equivalent": 1842.2275300000017
+      },
+      {
+        "ref_domain": "tyrfing.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.16666666666666666,
+        "backlinks_count": 1,
+        "links_external_count": 90,
+        "percent_of_total": 0.00016809547823163558,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.00016809547823163558
+        },
+        "top3": 0,
+        "top10": 4,
+        "top50": 8,
+        "visibility": 9.964,
+        "domain_rank": 1100630,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "ilovebusiness.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.35135135135135137,
+        "backlinks_count": 1,
+        "links_external_count": 74,
+        "percent_of_total": 0.00016809547823163558,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.00016809547823163558
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 1,
+        "visibility": 0,
+        "domain_rank": 5612325,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "forexwaluty.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 9.666666666666666,
+        "backlinks_count": 1,
+        "links_external_count": 3,
+        "percent_of_total": 0.00016809547823163558,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.00016809547823163558
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "uxnordic.com",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.21379310344827587,
+        "backlinks_count": 1,
+        "links_external_count": 145,
+        "percent_of_total": 0.00016809547823163558,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.00016809547823163558
+        },
+        "top3": 0,
+        "top10": 1,
+        "top50": 3,
+        "visibility": 0.5660000000000001,
+        "domain_rank": 1970168,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "groups.google.com",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 3.0226998953064492,
+        "backlinks_count": 1,
+        "links_external_count": 634232,
+        "percent_of_total": 0.00016809547823163558,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.00016809547823163558
+        },
+        "top3": 1506,
+        "top10": 7355,
+        "top50": 35834,
+        "visibility": 48792.57400000031,
+        "domain_rank": 6185,
+        "ads_equivalent": 36307.972149999994
+      },
+      {
+        "ref_domain": "forumnauka.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.016071755445725793,
+        "backlinks_count": 1,
+        "links_external_count": 27315,
+        "percent_of_total": 0.00016809547823163558,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.00016809547823163558
+        },
+        "top3": 116,
+        "top10": 398,
+        "top50": 1300,
+        "visibility": 4547.191000000002,
+        "domain_rank": 44729,
+        "ads_equivalent": 20072.161280000004
+      },
+      {
+        "ref_domain": "supervisionhack.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 1.2777777777777777,
+        "backlinks_count": 1,
+        "links_external_count": 36,
+        "percent_of_total": 0.00016809547823163558,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.00016809547823163558
+        },
+        "top3": 1,
+        "top10": 2,
+        "top50": 5,
+        "visibility": 27.517000000000003,
+        "domain_rank": 790916,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "semwaw.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 4.635135135135135,
+        "backlinks_count": 1,
+        "links_external_count": 222,
+        "percent_of_total": 0.00016809547823163558,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.00016809547823163558
+        },
+        "top3": 1,
+        "top10": 5,
+        "top50": 17,
+        "visibility": 7.893999999999999,
+        "domain_rank": 1171215,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "en.bankowosciubezpieczenia.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.024489795918367346,
+        "backlinks_count": 1,
+        "links_external_count": 245,
+        "percent_of_total": 0.00016809547823163558,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.00016809547823163558
+        },
+        "top3": 1,
+        "top10": 5,
+        "top50": 54,
+        "visibility": 24.827,
+        "domain_rank": 824577,
+        "ads_equivalent": 25.398360000000004
+      },
+      {
+        "ref_domain": "bankowosciubezpieczenia.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.29461756373937675,
+        "backlinks_count": 1,
+        "links_external_count": 1059,
+        "percent_of_total": 0.00016809547823163558,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.00016809547823163558
+        },
+        "top3": 5,
+        "top10": 21,
+        "top50": 298,
+        "visibility": 66.589,
+        "domain_rank": 557005,
+        "ads_equivalent": 153.75644
+      }
+    ],
+    "total": 26,
+    "domain": "bankujesz.pl",
+    "endpoint": "get_backlinks_referring_domains"
+  }
+}

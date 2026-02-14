@@ -1,0 +1,67 @@
+{
+  "domain": "yanokhipoteczny.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "yanokhipoteczny.pl": [
+          {
+            "text": "",
+            "size": 33734,
+            "percent": 0.9314153183499917
+          },
+          {
+            "text": "fundusz inwestycyjny",
+            "size": 2425,
+            "percent": 0.06695565740791871
+          },
+          {
+            "text": "yanokhipoteczny.pl",
+            "size": 10,
+            "percent": 0.0002761058037439947
+          },
+          {
+            "text": "Fundusz Hipoteczny Yanok",
+            "size": 6,
+            "percent": 0.00016566348224639682
+          },
+          {
+            "text": "http://www.yanokhipoteczny.pl http://www.yanokhipoteczny.pl",
+            "size": 4,
+            "percent": 0.00011044232149759788
+          },
+          {
+            "text": "Weksle Inwestycyjne Nieruchomościowe",
+            "size": 3,
+            "percent": 8.283174112319841e-05
+          },
+          {
+            "text": "Fundusz Hipoteczny Yanok Sp. z&nbsp;o.o.",
+            "size": 3,
+            "percent": 8.283174112319841e-05
+          },
+          {
+            "text": "Yanok Hipoteczny",
+            "size": 3,
+            "percent": 8.283174112319841e-05
+          },
+          {
+            "text": "www.yanokhipoteczny.pl",
+            "size": 3,
+            "percent": 8.283174112319841e-05
+          },
+          {
+            "text": "Odwiedź stronę autora",
+            "size": 2,
+            "percent": 5.522116074879894e-05
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "yanokhipoteczny.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

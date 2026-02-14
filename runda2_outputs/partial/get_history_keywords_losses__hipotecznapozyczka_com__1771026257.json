@@ -1,0 +1,797 @@
+{
+  "domain": "hipotecznapozyczka.com",
+  "endpoint": "get_history_keywords_losses",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "keyword_id": 4644938,
+        "kid": "646ed47fd61cf498364405b631f1aeb9",
+        "domain": "hipotecznapozyczka.com",
+        "keyword": "kredyty prywatne",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 48,
+            "previous": 44,
+            "diff": 4,
+            "changes": {
+              "wins": 1,
+              "losses": 5,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-15": {
+                "position": 0,
+                "has_serp": false
+              },
+              "2025-12-23": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-30": {
+                "position": 48,
+                "has_serp": true
+              },
+              "2026-01-07": {
+                "position": 49,
+                "has_serp": true
+              },
+              "2026-01-14": {
+                "position": 50,
+                "has_serp": true
+              },
+              "2026-01-25": {
+                "position": 44,
+                "has_serp": true
+              },
+              "2026-02-04": {
+                "position": 48,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "hipotecznapozyczka.com/",
+            "previous": "hipotecznapozyczka.com/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 6.87
+          },
+          "searches": {
+            "current": 320
+          },
+          "trends": {
+            "history": [
+              390,
+              320,
+              390,
+              320,
+              390,
+              390,
+              390,
+              260,
+              320,
+              320,
+              320,
+              320
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 63
+          },
+          "snippets": {
+            "current": [
+              "map",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 10219735,
+        "kid": "e175afee88ef266236e76d23ece51e89",
+        "domain": "hipotecznapozyczka.com",
+        "keyword": "pożyczka prywatna z zalozeniem konta",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 49,
+            "previous": 48,
+            "diff": 1,
+            "changes": {
+              "wins": 1,
+              "losses": 3,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-19": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-05": {
+                "position": 49,
+                "has_serp": true
+              },
+              "2026-01-12": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-24": {
+                "position": 48,
+                "has_serp": true
+              },
+              "2026-02-03": {
+                "position": 49,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "hipotecznapozyczka.com/",
+            "previous": "hipotecznapozyczka.com/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0.58
+          },
+          "searches": {
+            "current": 90
+          },
+          "trends": {
+            "history": [
+              90,
+              30,
+              70,
+              40,
+              50,
+              90,
+              110,
+              140,
+              140,
+              140,
+              90,
+              90
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 23
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 9677391,
+        "kid": "d5280b8821a4d9c9283b87d8819e8a43",
+        "domain": "hipotecznapozyczka.com",
+        "keyword": "pożyczki pod hipotekę dla zadłużonych",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 21,
+            "previous": 20,
+            "diff": 1,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-17": {
+                "position": 20,
+                "has_serp": true
+              },
+              "2026-02-04": {
+                "position": 21,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "hipotecznapozyczka.com/",
+            "previous": "hipotecznapozyczka.com/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 2.88
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              30,
+              30,
+              20,
+              30,
+              20,
+              10,
+              20,
+              20,
+              10,
+              20,
+              20,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 37
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 1105194,
+        "kid": "17b79bd7a48ed63a1327e5ef1b4e0c34",
+        "domain": "hipotecznapozyczka.com",
+        "keyword": "pożyczki pod zastaw nieruchomości bez bik",
+        "words_count": 6,
+        "statistics": {
+          "position": {
+            "current": 32,
+            "previous": 30,
+            "diff": 2,
+            "changes": {
+              "wins": 4,
+              "losses": 2,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-14": {
+                "position": 0,
+                "has_serp": false
+              },
+              "2025-12-22": {
+                "position": 39,
+                "has_serp": true
+              },
+              "2025-12-29": {
+                "position": 37,
+                "has_serp": true
+              },
+              "2026-01-06": {
+                "position": 37,
+                "has_serp": true
+              },
+              "2026-01-13": {
+                "position": 35,
+                "has_serp": true
+              },
+              "2026-01-24": {
+                "position": 30,
+                "has_serp": true
+              },
+              "2026-02-02": {
+                "position": 27,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 32,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "hipotecznapozyczka.com/",
+            "previous": "hipotecznapozyczka.com/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 14.86
+          },
+          "searches": {
+            "current": 170
+          },
+          "trends": {
+            "history": [
+              210,
+              210,
+              140,
+              110,
+              140,
+              170,
+              260,
+              140,
+              110,
+              210,
+              210,
+              260
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 46
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 723165,
+        "kid": "0f7e1d5d2b313f77c05468590f081af6",
+        "domain": "hipotecznapozyczka.com",
+        "keyword": "pożyczka pod zastaw nieruchomości warszawa",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 31,
+            "previous": 28,
+            "diff": 3,
+            "changes": {
+              "wins": 0,
+              "losses": 2,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-24": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-26": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-09": {
+                "position": 28,
+                "has_serp": true
+              },
+              "2026-02-04": {
+                "position": 31,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "hipotecznapozyczka.com/",
+            "previous": "hipotecznapozyczka.com/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 16.37
+          },
+          "searches": {
+            "current": 30
+          },
+          "trends": {
+            "history": [
+              20,
+              20,
+              30,
+              50,
+              40,
+              50,
+              40,
+              90,
+              10,
+              30,
+              20,
+              20
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 35
+          },
+          "snippets": {
+            "current": [
+              "map"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 8332204,
+        "kid": "b6cdbe197bc8a63f69797d55d936dca5",
+        "domain": "hipotecznapozyczka.com",
+        "keyword": "pożyczka pod hipotekę bez bik",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 46,
+            "previous": 40,
+            "diff": 6,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-16": {
+                "position": 40,
+                "has_serp": true
+              },
+              "2026-02-02": {
+                "position": 46,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "hipotecznapozyczka.com/",
+            "previous": "hipotecznapozyczka.com/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 54.92
+          },
+          "searches": {
+            "current": 40
+          },
+          "trends": {
+            "history": [
+              50,
+              20,
+              10,
+              30,
+              10,
+              40,
+              50,
+              40,
+              70,
+              70,
+              50,
+              70
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 42
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 1086763,
+        "kid": "1752802dc211c1583318ff61f675cfc8",
+        "domain": "hipotecznapozyczka.com",
+        "keyword": "pożyczki pod zastaw mieszkania warszawa",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 29,
+            "previous": 24,
+            "diff": 5,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-26": {
+                "position": 24,
+                "has_serp": true
+              },
+              "2026-02-06": {
+                "position": 29,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "hipotecznapozyczka.com/",
+            "previous": "hipotecznapozyczka.com/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              10,
+              10,
+              10,
+              0,
+              0,
+              0,
+              0,
+              0,
+              10,
+              0
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 17
+          },
+          "snippets": {
+            "current": []
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 188087,
+        "kid": "040756670c0a1430d585eb2c7edc9450",
+        "domain": "hipotecznapozyczka.com",
+        "keyword": "pozabankowo i prywatnie pl",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 28,
+            "previous": 24,
+            "diff": 4,
+            "changes": {
+              "wins": 1,
+              "losses": 1,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-23": {
+                "position": 42,
+                "has_serp": true
+              },
+              "2026-01-06": {
+                "position": 24,
+                "has_serp": true
+              },
+              "2026-01-22": {
+                "position": 24,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 28,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "hipotecznapozyczka.com/",
+            "previous": "hipotecznapozyczka.com/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              10,
+              20,
+              20,
+              20,
+              10,
+              0,
+              10,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 35
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 4783745,
+        "kid": "6786f48364dc01a37139c6b61a606464",
+        "domain": "hipotecznapozyczka.com",
+        "keyword": "pożyczka hipoteczna pozabankowa",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 8,
+            "previous": 4,
+            "diff": 4,
+            "changes": {
+              "wins": 0,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-29": {
+                "position": 3,
+                "has_serp": true
+              },
+              "2026-01-14": {
+                "position": 4,
+                "has_serp": true
+              },
+              "2026-02-01": {
+                "position": 8,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 1.12,
+            "previous": 3.55,
+            "diff": -2.44,
+            "percent": -0.6845,
+            "history": null
+          },
+          "url": {
+            "current": "hipotecznapozyczka.com/",
+            "previous": "hipotecznapozyczka.com/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 13.96
+          },
+          "searches": {
+            "current": 50
+          },
+          "trends": {
+            "history": [
+              50,
+              50,
+              30,
+              40,
+              50,
+              70,
+              50,
+              50,
+              50,
+              70,
+              40,
+              40
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 27
+          },
+          "snippets": {
+            "current": []
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      }
+    ],
+    "total": 9,
+    "domain": "hipotecznapozyczka.com",
+    "endpoint": "get_history_keywords_losses"
+  }
+}

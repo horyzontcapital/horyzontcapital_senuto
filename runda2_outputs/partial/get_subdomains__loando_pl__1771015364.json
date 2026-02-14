@@ -1,0 +1,96 @@
+{
+  "domain": "loando.pl",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "loando.pl",
+        "keywords_count": 1853,
+        "visibility_percent": 99.98,
+        "statistics": {
+          "visibility": {
+            "current": 105606.74,
+            "previous": 86846.64,
+            "diff": 18760.1,
+            "percent": 0.216,
+            "history": null
+          },
+          "top3": {
+            "current": 690,
+            "previous": 688,
+            "diff": 2,
+            "percent": 0.0029,
+            "history": null
+          },
+          "top10": {
+            "current": 1853,
+            "previous": 1884,
+            "diff": -31,
+            "percent": -0.0165,
+            "history": null
+          },
+          "top50": {
+            "current": 5142,
+            "previous": 5167,
+            "diff": -25,
+            "percent": -0.0048,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 99.98,
+            "previous": 99.97,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "direct.loando.pl",
+        "keywords_count": 3,
+        "visibility_percent": 0.03,
+        "statistics": {
+          "visibility": {
+            "current": 27.48,
+            "previous": 19.95,
+            "diff": 7.53,
+            "percent": 0.3774,
+            "history": null
+          },
+          "top3": {
+            "current": 3,
+            "previous": 2,
+            "diff": 1,
+            "percent": 0.5,
+            "history": null
+          },
+          "top10": {
+            "current": 3,
+            "previous": 2,
+            "diff": 1,
+            "percent": 0.5,
+            "history": null
+          },
+          "top50": {
+            "current": 4,
+            "previous": 4,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 0.03,
+            "previous": 0.02,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 2,
+    "domain": "loando.pl",
+    "endpoint": "get_subdomains"
+  }
+}

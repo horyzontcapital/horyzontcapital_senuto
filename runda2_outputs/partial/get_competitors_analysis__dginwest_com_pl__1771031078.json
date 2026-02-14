@@ -1,0 +1,89 @@
+{
+  "domain": "dginwest.com.pl",
+  "endpoint": "get_competitors_analysis",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "keyword": "poprawa bik",
+          "cpc": 3.76,
+          "searches": 50,
+          "trends": [
+            40,
+            30,
+            30,
+            20,
+            20,
+            10,
+            20,
+            30,
+            20,
+            30,
+            10,
+            40
+          ],
+          "difficulty": 34,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 37,
+            "url": "horyzontcapital.com/blog/jak-wyczyscic-bik-i-poprawic-scoring-kredytowy-poradnik-dla-przedsiebiorcow"
+          },
+          "horyzontcapital.com_pos": 37,
+          "horyzontcapital.com_url": "horyzontcapital.com/blog/jak-wyczyscic-bik-i-poprawic-scoring-kredytowy-poradnik-dla-przedsiebiorcow",
+          "dginwest.com.pl": {
+            "pos": 22,
+            "url": "dginwest.com.pl/restrukturyzacja/aktualizacja-big-bik/"
+          },
+          "dginwest.com.pl_pos": 22,
+          "dginwest.com.pl_url": "dginwest.com.pl/restrukturyzacja/aktualizacja-big-bik/"
+        },
+        {
+          "keyword": "kredyty dla poczatkujacych firm",
+          "cpc": 9.74,
+          "searches": 10,
+          "trends": [
+            30,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            20
+          ],
+          "difficulty": 49,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 46,
+            "url": "horyzontcapital.com/ile-mozna-dostac-kredytu-start-firmy/"
+          },
+          "horyzontcapital.com_pos": 46,
+          "horyzontcapital.com_url": "horyzontcapital.com/ile-mozna-dostac-kredytu-start-firmy/",
+          "dginwest.com.pl": {
+            "pos": 15,
+            "url": "dginwest.com.pl/kredyt-na-start/"
+          },
+          "dginwest.com.pl_pos": 15,
+          "dginwest.com.pl_url": "dginwest.com.pl/kredyt-na-start/"
+        }
+      ],
+      "pagination": {
+        "page_count": 1,
+        "current_page": 1,
+        "has_next_page": false,
+        "has_prev_page": false,
+        "count": 2,
+        "limit": 100
+      }
+    },
+    "status": 200,
+    "domain": "dginwest.com.pl",
+    "endpoint": "get_competitors_analysis"
+  }
+}

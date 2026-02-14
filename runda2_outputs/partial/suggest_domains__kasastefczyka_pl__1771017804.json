@@ -1,0 +1,20 @@
+{
+  "domain": "kasastefczyka.pl",
+  "endpoint": "suggest_domains",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "favourite": [],
+        "suggested": [
+          "kasastefczyka.pl",
+          "kasastefczyka.olx.pl"
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "kasastefczyka.pl",
+    "endpoint": "suggest_domains"
+  }
+}

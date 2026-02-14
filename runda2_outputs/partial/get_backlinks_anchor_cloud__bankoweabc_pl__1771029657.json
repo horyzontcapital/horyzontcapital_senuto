@@ -1,0 +1,22 @@
+{
+  "domain": "bankoweabc.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "bankoweabc.pl": [
+          {
+            "text": "https://www.bankoweabc.pl/2020/11/15/wymog-silnego-uwierzytelnienia-psd2/",
+            "size": 1,
+            "percent": 1
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "bankoweabc.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

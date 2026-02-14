@@ -1,0 +1,400 @@
+{
+  "domain": "finhack.pl",
+  "endpoint": "get_backlinks_anchor_data",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "link_domain": "finhack.pl",
+        "is_main_domain": true,
+        "anchor": "https://finhack.pl/ranking-kont-firmowych/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 29,
+          "percent_of_total": 0.26126126126126126
+        },
+        "domains_with_anchor_count": 18,
+        "anchors_uniq_count": 21,
+        "percent_of_total": 0.26126126126126126
+      },
+      {
+        "link_domain": "finhack.pl",
+        "is_main_domain": true,
+        "anchor": "finhack.pl",
+        "anchor_type": [],
+        "count": {
+          "count": 23,
+          "percent_of_total": 0.2072072072072072
+        },
+        "domains_with_anchor_count": 5,
+        "anchors_uniq_count": 21,
+        "percent_of_total": 0.2072072072072072
+      },
+      {
+        "link_domain": "finhack.pl",
+        "is_main_domain": true,
+        "anchor": "Konto za granicą a urząd skarbowy - Finhack",
+        "anchor_type": [],
+        "count": {
+          "count": 8,
+          "percent_of_total": 0.07207207207207207
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 8,
+        "percent_of_total": 0.07207207207207207
+      },
+      {
+        "link_domain": "finhack.pl",
+        "is_main_domain": true,
+        "anchor": "ranking kont osobistych",
+        "anchor_type": [],
+        "count": {
+          "count": 5,
+          "percent_of_total": 0.04504504504504504
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 0.04504504504504504
+      },
+      {
+        "link_domain": "finhack.pl",
+        "is_main_domain": true,
+        "anchor": "https://finhack.pl/ranking-kont-osobistych/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 5,
+          "percent_of_total": 0.04504504504504504
+        },
+        "domains_with_anchor_count": 3,
+        "anchors_uniq_count": 3,
+        "percent_of_total": 0.04504504504504504
+      },
+      {
+        "link_domain": "finhack.pl",
+        "is_main_domain": true,
+        "anchor": "https://finhack.pl/ranking-kart-kredytowych-najlepsze-kredytowki",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 4,
+          "percent_of_total": 0.036036036036036036
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 0.036036036036036036
+      },
+      {
+        "link_domain": "finhack.pl",
+        "is_main_domain": true,
+        "anchor": "https://finhack.pl/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 4,
+          "percent_of_total": 0.036036036036036036
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 4,
+        "percent_of_total": 0.036036036036036036
+      },
+      {
+        "link_domain": "finhack.pl",
+        "is_main_domain": true,
+        "anchor": "https://finhack.pl/ranking-kont-firmowych-rachunki-dla-spolek/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 3,
+          "percent_of_total": 0.02702702702702703
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 3,
+        "percent_of_total": 0.02702702702702703
+      },
+      {
+        "link_domain": "finhack.pl",
+        "is_main_domain": true,
+        "anchor": "https://inhack.pl/ranking-kont-firmowych/",
+        "anchor_type": [],
+        "count": {
+          "count": 3,
+          "percent_of_total": 0.02702702702702703
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.02702702702702703
+      },
+      {
+        "link_domain": "finhack.pl",
+        "is_main_domain": true,
+        "anchor": "Firmowe konto walutowe ranking",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.018018018018018018
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.018018018018018018
+      },
+      {
+        "link_domain": "finhack.pl",
+        "is_main_domain": true,
+        "anchor": "promocje bankowe",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.018018018018018018
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.018018018018018018
+      },
+      {
+        "link_domain": "finhack.pl",
+        "is_main_domain": true,
+        "anchor": "https://finhack.pl/jak-wyplacic-pieniadze-eur-usd-gbp-z-paypala-na-konto/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.018018018018018018
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 0.018018018018018018
+      },
+      {
+        "link_domain": "finhack.pl",
+        "is_main_domain": true,
+        "anchor": "karta kredytowa poradnik",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.018018018018018018
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.018018018018018018
+      },
+      {
+        "link_domain": "finhack.pl",
+        "is_main_domain": true,
+        "anchor": "https://finhack.pl/ranking-kont-firmowych/?gclid=EAIaIQobChMIgP64sNzz-QIVy6OyCh3AOgsxEAAYASAAEgI-PvD_BwE",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.018018018018018018
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.018018018018018018
+      },
+      {
+        "link_domain": "finhack.pl",
+        "is_main_domain": true,
+        "anchor": "Wymiana Walut – Gdzie i&nbsp;jak najtaniej wymieniać pieniądze?",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.018018018018018018
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.018018018018018018
+      },
+      {
+        "link_domain": "finhack.pl",
+        "is_main_domain": true,
+        "anchor": "Łatwy sposób wypłaty euro(EUR) i Funtów(GBP) z Paypala na konto - Finhack",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.018018018018018018
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 0.018018018018018018
+      },
+      {
+        "link_domain": "finhack.pl",
+        "is_main_domain": true,
+        "anchor": "https://finhack.pl/wymiana-walut-gdzie-i-jak-najtaniej-wymieniac-pieniadze/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.018018018018018018
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.018018018018018018
+      },
+      {
+        "link_domain": "finhack.pl",
+        "is_main_domain": true,
+        "anchor": "https://finhack.pl/revolut/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.009009009009009009
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.009009009009009009
+      },
+      {
+        "link_domain": "finhack.pl",
+        "is_main_domain": true,
+        "anchor": "Czytaj więcej",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.009009009009009009
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.009009009009009009
+      },
+      {
+        "link_domain": "finhack.pl",
+        "is_main_domain": true,
+        "anchor": "Jak wypłacić EUR/USD/GBP bez przewalutowania z PayPala na konto bankowe? - Finhack",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.009009009009009009
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.009009009009009009
+      },
+      {
+        "link_domain": "finhack.pl",
+        "is_main_domain": true,
+        "anchor": "Ile można wpłacić na konto bez kontroli US?",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.009009009009009009
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.009009009009009009
+      },
+      {
+        "link_domain": "finhack.pl",
+        "is_main_domain": true,
+        "anchor": "konta firmowe dla spółek",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.009009009009009009
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.009009009009009009
+      },
+      {
+        "link_domain": "finhack.pl",
+        "is_main_domain": true,
+        "anchor": "tutaj",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.009009009009009009
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.009009009009009009
+      },
+      {
+        "link_domain": "finhack.pl",
+        "is_main_domain": true,
+        "anchor": "Karta Wielowalutowa Revolut",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.009009009009009009
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.009009009009009009
+      },
+      {
+        "link_domain": "finhack.pl",
+        "is_main_domain": true,
+        "anchor": "https://finhack.pl/latwy-sposob-wyplaty-euroeur-i-funtowgbp-z-paypala-na-konto/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.009009009009009009
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.009009009009009009
+      },
+      {
+        "link_domain": "finhack.pl",
+        "is_main_domain": true,
+        "anchor": "https://finhack.pl/ranking-kont-firmowych",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.009009009009009009
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.009009009009009009
+      },
+      {
+        "link_domain": "finhack.pl",
+        "is_main_domain": true,
+        "anchor": "Konto firmowe",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.009009009009009009
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.009009009009009009
+      },
+      {
+        "link_domain": "finhack.pl",
+        "is_main_domain": true,
+        "anchor": "https://finhack.pl/konto-za-granica-a-urzad-skarbowy/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.009009009009009009
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.009009009009009009
+      }
+    ],
+    "total": 28,
+    "domain": "finhack.pl",
+    "endpoint": "get_backlinks_anchor_data"
+  }
+}

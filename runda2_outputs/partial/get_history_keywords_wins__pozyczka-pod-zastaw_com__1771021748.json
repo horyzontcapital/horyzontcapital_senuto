@@ -1,0 +1,111 @@
+{
+  "domain": "pozyczka-pod-zastaw.com",
+  "endpoint": "get_history_keywords_wins",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "keyword_id": 9410327,
+        "kid": "cf1e82b4260339c4e4944dd7a6db9720",
+        "domain": "pozyczka-pod-zastaw.com",
+        "keyword": "uczciwe pożyczki pod zastaw mieszkania",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 38,
+            "previous": 51,
+            "diff": -13,
+            "changes": {
+              "wins": 2,
+              "losses": 4,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-19": {
+                "position": 27,
+                "has_serp": true
+              },
+              "2025-12-26": {
+                "position": 34,
+                "has_serp": true
+              },
+              "2026-01-04": {
+                "position": 37,
+                "has_serp": true
+              },
+              "2026-01-11": {
+                "position": 34,
+                "has_serp": true
+              },
+              "2026-01-22": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-01": {
+                "position": 36,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 38,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "pozyczka-pod-zastaw.com/pozyczka-pod-zastaw-domu/",
+            "previous": "",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 1.71
+          },
+          "searches": {
+            "current": 90
+          },
+          "trends": {
+            "history": [
+              90,
+              30,
+              50,
+              50,
+              140,
+              90,
+              70,
+              70,
+              110,
+              110,
+              140,
+              70
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 27
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "pozyczka-pod-zastaw.com",
+    "endpoint": "get_history_keywords_wins"
+  }
+}

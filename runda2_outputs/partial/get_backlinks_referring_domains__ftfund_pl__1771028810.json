@@ -1,0 +1,274 @@
+{
+  "domain": "ftfund.pl",
+  "endpoint": "get_backlinks_referring_domains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "ref_domain": "ogloszenia-wielkopolskie.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 9.528649472748063e-05,
+        "backlinks_count": 1220,
+        "links_external_count": 31484,
+        "percent_of_total": 0.7932379713914174,
+        "count": {
+          "count": 1220,
+          "percent_of_total": 0.7932379713914174
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 7,
+        "visibility": 0,
+        "domain_rank": 3703498,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "ogloszenia-slaskie.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.003779697624190065,
+        "backlinks_count": 101,
+        "links_external_count": 5556,
+        "percent_of_total": 0.06566970091027308,
+        "count": {
+          "count": 101,
+          "percent_of_total": 0.06566970091027308
+        },
+        "top3": 0,
+        "top10": 8,
+        "top50": 92,
+        "visibility": 4.797000000000001,
+        "domain_rank": 1346367,
+        "ads_equivalent": 1.43642
+      },
+      {
+        "ref_domain": "ogloszenia-warminsko-mazurskie.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.003965107057890563,
+        "backlinks_count": 84,
+        "links_external_count": 1261,
+        "percent_of_total": 0.054616384915474644,
+        "count": {
+          "count": 84,
+          "percent_of_total": 0.054616384915474644
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 3,
+        "visibility": 0,
+        "domain_rank": 3079479,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "ogloszenia-mazowieckie.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.10431338028169014,
+        "backlinks_count": 66,
+        "links_external_count": 4544,
+        "percent_of_total": 0.04291287386215865,
+        "count": {
+          "count": 66,
+          "percent_of_total": 0.04291287386215865
+        },
+        "top3": 0,
+        "top10": 2,
+        "top50": 30,
+        "visibility": 1.3610000000000002,
+        "domain_rank": 1773452,
+        "ads_equivalent": 0.43338000000000004
+      },
+      {
+        "ref_domain": "ogloszenia-pomorskie.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.017554125219426564,
+        "backlinks_count": 31,
+        "links_external_count": 1709,
+        "percent_of_total": 0.020156046814044214,
+        "count": {
+          "count": 31,
+          "percent_of_total": 0.020156046814044214
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 3,
+        "visibility": 0,
+        "domain_rank": 2377125,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "ogloszenia-zachodniopomorskie.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.00021050415745710977,
+        "backlinks_count": 18,
+        "links_external_count": 114012,
+        "percent_of_total": 0.011703511053315995,
+        "count": {
+          "count": 18,
+          "percent_of_total": 0.011703511053315995
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 6,
+        "visibility": 0,
+        "domain_rank": 5538114,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "dolnoslaskatablica.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.08516441105336284,
+        "backlinks_count": 8,
+        "links_external_count": 58299,
+        "percent_of_total": 0.005201560468140442,
+        "count": {
+          "count": 8,
+          "percent_of_total": 0.005201560468140442
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 13,
+        "visibility": 0,
+        "domain_rank": 5375963,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "oglos-podkarpackie.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.028639618138424822,
+        "backlinks_count": 5,
+        "links_external_count": 1257,
+        "percent_of_total": 0.003250975292587776,
+        "count": {
+          "count": 5,
+          "percent_of_total": 0.003250975292587776
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 17,
+        "visibility": 0,
+        "domain_rank": 2506808,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "biif.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.0003580721396003915,
+        "backlinks_count": 1,
+        "links_external_count": 167564,
+        "percent_of_total": 0.0006501950585175553,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0006501950585175553
+        },
+        "top3": 0,
+        "top10": 2,
+        "top50": 67,
+        "visibility": 1.13,
+        "domain_rank": 1800624,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "jaw.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": 63.25,
+          "article_price_nofollow": null,
+          "link_price_dofollow": null,
+          "link_price_nofollow": null,
+          "price_do_follow": 63.25,
+          "price_no_follow": null
+        },
+        "ratio_bl_ext": 0.01812759005717797,
+        "backlinks_count": 1,
+        "links_external_count": 133443,
+        "percent_of_total": 0.0006501950585175553,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0006501950585175553
+        },
+        "top3": 493,
+        "top10": 2282,
+        "top50": 19349,
+        "visibility": 61673.63400000009,
+        "domain_rank": 5027,
+        "ads_equivalent": 189676.06703000003
+      },
+      {
+        "ref_domain": "placpigal.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": 88.55,
+          "article_price_nofollow": 51.75,
+          "link_price_dofollow": 88.55,
+          "link_price_nofollow": null,
+          "price_do_follow": 88.55,
+          "price_no_follow": 51.75
+        },
+        "ratio_bl_ext": 0.08487345497351383,
+        "backlinks_count": 1,
+        "links_external_count": 203880,
+        "percent_of_total": 0.0006501950585175553,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0006501950585175553
+        },
+        "top3": 87,
+        "top10": 349,
+        "top50": 3573,
+        "visibility": 4153.9739999999965,
+        "domain_rank": 47824,
+        "ads_equivalent": 2115.452480000001
+      },
+      {
+        "ref_domain": "e-okna.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": null,
+          "article_price_nofollow": 676.2,
+          "link_price_dofollow": null,
+          "link_price_nofollow": null,
+          "price_do_follow": null,
+          "price_no_follow": 676.2
+        },
+        "ratio_bl_ext": 0.7386126263059044,
+        "backlinks_count": 1,
+        "links_external_count": 1423726,
+        "percent_of_total": 0.0006501950585175553,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0006501950585175553
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "di.com.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": 169.05,
+          "article_price_nofollow": null,
+          "link_price_dofollow": 208.15,
+          "link_price_nofollow": 120.75,
+          "price_do_follow": 169.05,
+          "price_no_follow": null
+        },
+        "ratio_bl_ext": 0.08315094587260428,
+        "backlinks_count": 1,
+        "links_external_count": 281909,
+        "percent_of_total": 0.0006501950585175553,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0006501950585175553
+        },
+        "top3": 187,
+        "top10": 1390,
+        "top50": 12337,
+        "visibility": 5960.967000000015,
+        "domain_rank": 36352,
+        "ads_equivalent": 5330.853759999999
+      }
+    ],
+    "total": 13,
+    "domain": "ftfund.pl",
+    "endpoint": "get_backlinks_referring_domains"
+  }
+}

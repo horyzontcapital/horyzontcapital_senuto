@@ -1,0 +1,43 @@
+{
+  "domain": "platinum-financial.pl",
+  "endpoint": "get_backlinks_tlds",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "tld": "pl",
+          "count": 12,
+          "percent": 0.5454545454545454
+        },
+        {
+          "tld": "info",
+          "count": 4,
+          "percent": 0.18181818181818182
+        },
+        {
+          "tld": "com",
+          "count": 4,
+          "percent": 0.18181818181818182
+        },
+        {
+          "tld": "in",
+          "count": 2,
+          "percent": 0.09090909090909091
+        }
+      ],
+      "pagination": {
+        "page_count": 1,
+        "current_page": 1,
+        "has_next_page": false,
+        "has_prev_page": false,
+        "count": 4,
+        "limit": 10
+      }
+    },
+    "status": 200,
+    "domain": "platinum-financial.pl",
+    "endpoint": "get_backlinks_tlds"
+  }
+}

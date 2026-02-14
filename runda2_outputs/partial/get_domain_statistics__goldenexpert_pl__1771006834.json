@@ -1,0 +1,74 @@
+{
+  "domain": "goldenexpert.pl",
+  "endpoint": "get_domain_statistics",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "statistics": {
+          "top3": {
+            "recent_value": 29,
+            "older_value": 29,
+            "diff": 0,
+            "percent": 0
+          },
+          "top10": {
+            "recent_value": 96,
+            "older_value": 96,
+            "diff": 0,
+            "percent": 0
+          },
+          "top50": {
+            "recent_value": 296,
+            "older_value": 296,
+            "diff": 0,
+            "percent": 0
+          },
+          "visibility": {
+            "recent_value": 535,
+            "older_value": 535,
+            "diff": 0,
+            "percent": 0
+          },
+          "domain_rank": {
+            "recent_value": 192902,
+            "older_value": 192916,
+            "diff": -14,
+            "percent": -0.0001
+          },
+          "ads_equivalent": {
+            "recent_value": 4302.49,
+            "older_value": 4302.49,
+            "diff": 0,
+            "percent": 0
+          },
+          "category": {
+            "name": "",
+            "statistics": {
+              "recent_value": 192902,
+              "older_value": 192902,
+              "diff": 0,
+              "percent": 0
+            }
+          },
+          "aio_keywords": {
+            "recent_value": 32,
+            "older_value": 32,
+            "diff": 0,
+            "percent": 0
+          },
+          "aio_visible_keywords": {
+            "recent_value": 91,
+            "older_value": 91,
+            "diff": 0,
+            "percent": 0
+          }
+        }
+      }
+    },
+    "status": 200,
+    "domain": "goldenexpert.pl",
+    "endpoint": "get_domain_statistics"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "domain": "actius.pl",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "actius.pl": [
+          {
+            "text": "Actius &#8211; pod zastaw nieruchomości",
+            "size": 885,
+            "percent": 0.25756693830034927
+          },
+          {
+            "text": "Pożyczki pod zastaw nieruchomości Pożyczki prywatne pod zastaw nieruchomości. Actius Finanse.",
+            "size": 871,
+            "percent": 0.25349243306169966
+          },
+          {
+            "text": "Pożyczki pod zastaw nieruchomości&gt;&gt;",
+            "size": 820,
+            "percent": 0.23864959254947612
+          },
+          {
+            "text": "Conectum na Actius.pl",
+            "size": 737,
+            "percent": 0.21449359720605354
+          },
+          {
+            "text": "Złóż wniosek",
+            "size": 33,
+            "percent": 0.00960419091967404
+          },
+          {
+            "text": "Pożyczki pod zastaw nieruchomości",
+            "size": 29,
+            "percent": 0.008440046565774156
+          },
+          {
+            "text": "Centrum pomocy: pożyczki pod zabezpieczenie",
+            "size": 7,
+            "percent": 0.002037252619324796
+          },
+          {
+            "text": "Jak wziąć dobrą pożyczkę pod zastaw nieruchomości: mieszkania, domu, itp?",
+            "size": 6,
+            "percent": 0.0017462165308498253
+          },
+          {
+            "text": "Pod zastaw nieruchomości",
+            "size": 5,
+            "percent": 0.0014551804423748546
+          },
+          {
+            "text": "actius.pl: pożyczki pod zastaw nieruchomości",
+            "size": 4,
+            "percent": 0.0011641443538998836
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "actius.pl",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

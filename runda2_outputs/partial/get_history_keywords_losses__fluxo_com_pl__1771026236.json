@@ -1,0 +1,1654 @@
+{
+  "domain": "fluxo.com.pl",
+  "endpoint": "get_history_keywords_losses",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "keyword_id": 2322199,
+        "kid": "31e8468b3c481d447a422e4cf1b25c60",
+        "domain": "fluxo.com.pl",
+        "keyword": "kredyty społecznościowe",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 33,
+            "previous": 32,
+            "diff": 1,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-26": {
+                "position": 32,
+                "has_serp": true
+              },
+              "2026-02-06": {
+                "position": 33,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "fluxo.com.pl/",
+            "previous": "fluxo.com.pl/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 41
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 12984365,
+        "kid": "60a63d9090d82cb3a86f27653141982b",
+        "domain": "fluxo.com.pl",
+        "keyword": "kredyt dla nowych spolek z oo",
+        "words_count": 6,
+        "statistics": {
+          "position": {
+            "current": 30,
+            "previous": 26,
+            "diff": 4,
+            "changes": {
+              "wins": 2,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-20": {
+                "position": 31,
+                "has_serp": true
+              },
+              "2026-01-03": {
+                "position": 27,
+                "has_serp": true
+              },
+              "2026-01-21": {
+                "position": 26,
+                "has_serp": true
+              },
+              "2026-02-10": {
+                "position": 30,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "fluxo.com.pl/kredyt-dla-spolki-z-o-o/",
+            "previous": "fluxo.com.pl/kredyt-dla-spolki-z-o-o/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 3.67
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              30,
+              20,
+              40,
+              30,
+              20,
+              10,
+              20,
+              20,
+              10,
+              20,
+              20,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 40
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 9367048,
+        "kid": "ce2229160ec74b8d5e8b9bddb10b06b5",
+        "domain": "fluxo.com.pl",
+        "keyword": "do którego płatny zus",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 48,
+            "previous": 46,
+            "diff": 2,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-17": {
+                "position": 46,
+                "has_serp": true
+              },
+              "2026-02-04": {
+                "position": 48,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "fluxo.com.pl/zus-do-kiedy-platny-terminy-i-obowiazki-firm/",
+            "previous": "fluxo.com.pl/zus-do-kiedy-platny-terminy-i-obowiazki-firm/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              30,
+              50,
+              20,
+              20,
+              20,
+              40,
+              20,
+              20,
+              10,
+              20,
+              20,
+              20
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 31
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know simple",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 3327944,
+        "kid": "47a0c14715d6429ee12cbecfe9a734f3",
+        "domain": "fluxo.com.pl",
+        "keyword": "do kiedy płacić zus działalność gospodarcza",
+        "words_count": 6,
+        "statistics": {
+          "position": {
+            "current": 28,
+            "previous": 22,
+            "diff": 6,
+            "changes": {
+              "wins": 0,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-14": {
+                "position": 0,
+                "has_serp": false
+              },
+              "2026-01-19": {
+                "position": 22,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 28,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "fluxo.com.pl/zus-do-kiedy-platny-terminy-i-obowiazki-firm/",
+            "previous": "fluxo.com.pl/zus-do-kiedy-platny-terminy-i-obowiazki-firm/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              40,
+              10,
+              10,
+              10,
+              10,
+              10,
+              20,
+              20,
+              10,
+              10,
+              10,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 26
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 5322632,
+        "kid": "737fc0589b164177b6ed1c8b45e03490",
+        "domain": "fluxo.com.pl",
+        "keyword": "terminy odprowadzania składek zus",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 49,
+            "previous": 41,
+            "diff": 8,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-21": {
+                "position": 41,
+                "has_serp": true
+              },
+              "2026-02-02": {
+                "position": 49,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "fluxo.com.pl/zus-do-kiedy-platny-terminy-i-obowiazki-firm/",
+            "previous": "fluxo.com.pl/zus-do-kiedy-platny-terminy-i-obowiazki-firm/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              0,
+              10,
+              10,
+              10,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 36
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 15740870,
+        "kid": "1fa7b5234cecd3f524a422dcadb625d9",
+        "domain": "fluxo.com.pl",
+        "keyword": "zus płacimy za miesiąc poprzedni",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 13,
+            "previous": 12,
+            "diff": 1,
+            "changes": {
+              "wins": 1,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-16": {
+                "position": 13,
+                "has_serp": true
+              },
+              "2026-01-27": {
+                "position": 12,
+                "has_serp": true
+              },
+              "2026-02-05": {
+                "position": 13,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "fluxo.com.pl/zus-do-kiedy-platny-terminy-i-obowiazki-firm/",
+            "previous": "fluxo.com.pl/zus-do-kiedy-platny-terminy-i-obowiazki-firm/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 110
+          },
+          "trends": {
+            "history": [
+              110,
+              140,
+              110,
+              140,
+              50,
+              110,
+              110,
+              70,
+              110,
+              90,
+              70,
+              90
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 36
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 633843,
+        "kid": "0d9379653d8ab1181de445ddab1557ac",
+        "domain": "fluxo.com.pl",
+        "keyword": "kredyt inwestycyjny dla firm kalkulator",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 50,
+            "previous": 43,
+            "diff": 7,
+            "changes": {
+              "wins": 1,
+              "losses": 3,
+              "no_changes": 3
+            },
+            "history": {
+              "2025-12-18": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-25": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-26": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-02": {
+                "position": 45,
+                "has_serp": true
+              },
+              "2026-01-09": {
+                "position": 45,
+                "has_serp": true
+              },
+              "2026-01-19": {
+                "position": 47,
+                "has_serp": true
+              },
+              "2026-01-29": {
+                "position": 43,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 50,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "fluxo.com.pl/kalkulator-kredytowy/",
+            "previous": "fluxo.com.pl/kalkulator-kredytowy/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 2.76
+          },
+          "searches": {
+            "current": 210
+          },
+          "trends": {
+            "history": [
+              170,
+              140,
+              260,
+              210,
+              140,
+              170,
+              140,
+              170,
+              170,
+              260,
+              260,
+              210
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 40
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "buy",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 14551650,
+        "kid": "ecfe9266baac26a1953e10fb2feec54d",
+        "domain": "fluxo.com.pl",
+        "keyword": "kredyty dla spółek",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 21,
+            "previous": 11,
+            "diff": 10,
+            "changes": {
+              "wins": 1,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-21": {
+                "position": 19,
+                "has_serp": true
+              },
+              "2026-01-04": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-21": {
+                "position": 11,
+                "has_serp": true
+              },
+              "2026-02-11": {
+                "position": 21,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "fluxo.com.pl/kredyt-dla-spolki-z-o-o/",
+            "previous": "fluxo.com.pl/kredyt-dla-spolki-z-o-o/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 9.41
+          },
+          "searches": {
+            "current": 50
+          },
+          "trends": {
+            "history": [
+              50,
+              40,
+              50,
+              50,
+              50,
+              50,
+              70,
+              30,
+              50,
+              40,
+              40,
+              40
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 60
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 8547695,
+        "kid": "bbad1faa19e305cca976167b07529380",
+        "domain": "fluxo.com.pl",
+        "keyword": "kredyt hipoteczny na spolke zoo",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 17,
+            "previous": 13,
+            "diff": 4,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-16": {
+                "position": 13,
+                "has_serp": true
+              },
+              "2026-02-03": {
+                "position": 17,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "fluxo.com.pl/kredyt-dla-spolki-z-o-o/",
+            "previous": "fluxo.com.pl/kredyt-dla-spolki-z-o-o/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 4.04
+          },
+          "searches": {
+            "current": 30
+          },
+          "trends": {
+            "history": [
+              50,
+              30,
+              30,
+              50,
+              50,
+              10,
+              30,
+              20,
+              10,
+              20,
+              30,
+              30
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 30
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 6526199,
+        "kid": "8e3a4da30412c62e15c070122bb7fbd2",
+        "domain": "fluxo.com.pl",
+        "keyword": "kredyt dla firmy na zakup nieruchomości",
+        "words_count": 6,
+        "statistics": {
+          "position": {
+            "current": 29,
+            "previous": 27,
+            "diff": 2,
+            "changes": {
+              "wins": 1,
+              "losses": 1,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-18": {
+                "position": 34,
+                "has_serp": true
+              },
+              "2026-01-01": {
+                "position": 27,
+                "has_serp": true
+              },
+              "2026-01-20": {
+                "position": 27,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 29,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "fluxo.com.pl/kredyt-dla-firm-na-zakup-nieruchomosci/",
+            "previous": "fluxo.com.pl/kredyt-dla-firm-na-zakup-nieruchomosci/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 7.68
+          },
+          "searches": {
+            "current": 50
+          },
+          "trends": {
+            "history": [
+              50,
+              50,
+              50,
+              50,
+              50,
+              40,
+              30,
+              40,
+              50,
+              40,
+              40,
+              50
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 52
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 8005234,
+        "kid": "af74ea29d140b4ba39aa9d506f178d69",
+        "domain": "fluxo.com.pl",
+        "keyword": "finansowanie spółki z oo",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 32,
+            "previous": 21,
+            "diff": 11,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-16": {
+                "position": 21,
+                "has_serp": true
+              },
+              "2026-02-03": {
+                "position": 32,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "fluxo.com.pl/kredyt-dla-spolki-z-o-o/",
+            "previous": "fluxo.com.pl/kredyt-dla-spolki-z-o-o/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 1.59
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              20,
+              20,
+              30,
+              20,
+              20,
+              20,
+              20,
+              20,
+              20,
+              30,
+              20,
+              30
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 36
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 2129184,
+        "kid": "2dbda4ab2bb4333a5abe4c3319f8c2d8",
+        "domain": "fluxo.com.pl",
+        "keyword": "pożyczka dla firm bez zaświadczeń",
+        "words_count": 5,
+        "statistics": {
+          "position": {
+            "current": 24,
+            "previous": 18,
+            "diff": 6,
+            "changes": {
+              "wins": 0,
+              "losses": 0,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-02-04": {
+                "position": 24,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "fluxo.com.pl/pozyczka-dla-firm-bez-zus-i-us-jak-zdobyc/",
+            "previous": "fluxo.com.pl/pozyczka-dla-firm-bez-zus-i-us-jak-zdobyc/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 11.04
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              20,
+              40,
+              30,
+              20,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 31
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 8352734,
+        "kid": "b74442d2d06f04e42b81ab348bdaac43",
+        "domain": "fluxo.com.pl",
+        "keyword": "kredyt obrotowy kalkulator",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 38,
+            "previous": 25,
+            "diff": 13,
+            "changes": {
+              "wins": 0,
+              "losses": 2,
+              "no_changes": 3
+            },
+            "history": {
+              "2025-12-19": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-26": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-03": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-10": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-21": {
+                "position": 25,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 38,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "fluxo.com.pl/kalkulator-kredytowy/",
+            "previous": "fluxo.com.pl/kalkulator-kredytowy/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 2.35
+          },
+          "searches": {
+            "current": 90
+          },
+          "trends": {
+            "history": [
+              110,
+              90,
+              110,
+              110,
+              90,
+              70,
+              70,
+              50,
+              90,
+              110,
+              90,
+              90
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 53
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 832333,
+        "kid": "11d9f1d72b16a57beda3227831c46e9d",
+        "domain": "fluxo.com.pl",
+        "keyword": "zus do kiedy płatny",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 22,
+            "previous": 18,
+            "diff": 4,
+            "changes": {
+              "wins": 6,
+              "losses": 6,
+              "no_changes": 3
+            },
+            "history": {
+              "2025-12-14": {
+                "position": 17,
+                "has_serp": false
+              },
+              "2025-12-20": {
+                "position": 18,
+                "has_serp": true
+              },
+              "2025-12-24": {
+                "position": 17,
+                "has_serp": true
+              },
+              "2025-12-28": {
+                "position": 17,
+                "has_serp": true
+              },
+              "2026-01-01": {
+                "position": 17,
+                "has_serp": true
+              },
+              "2026-01-04": {
+                "position": 22,
+                "has_serp": true
+              },
+              "2026-01-07": {
+                "position": 17,
+                "has_serp": true
+              },
+              "2026-01-10": {
+                "position": 16,
+                "has_serp": true
+              },
+              "2026-01-13": {
+                "position": 17,
+                "has_serp": true
+              },
+              "2026-01-16": {
+                "position": 16,
+                "has_serp": true
+              },
+              "2026-01-20": {
+                "position": 26,
+                "has_serp": true
+              },
+              "2026-01-24": {
+                "position": 18,
+                "has_serp": true
+              },
+              "2026-01-28": {
+                "position": 18,
+                "has_serp": true
+              },
+              "2026-02-01": {
+                "position": 17,
+                "has_serp": true
+              },
+              "2026-02-05": {
+                "position": 20,
+                "has_serp": true
+              },
+              "2026-02-09": {
+                "position": 22,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "fluxo.com.pl/zus-do-kiedy-platny-terminy-i-obowiazki-firm/",
+            "previous": "fluxo.com.pl/zus-do-kiedy-platny-terminy-i-obowiazki-firm/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 1300
+          },
+          "trends": {
+            "history": [
+              1300,
+              1300,
+              1000,
+              1000,
+              1600,
+              1000,
+              1000,
+              1300,
+              1300,
+              1300,
+              1600,
+              1300
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 39
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know simple",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 5841590,
+        "kid": "7f0417615ee236bbf995fb73197c69e0",
+        "domain": "fluxo.com.pl",
+        "keyword": "chwilówki współpraca",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 22,
+            "previous": 21,
+            "diff": 1,
+            "changes": {
+              "wins": 0,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-22": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-26": {
+                "position": 21,
+                "has_serp": true
+              },
+              "2026-02-06": {
+                "position": 22,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "fluxo.com.pl/",
+            "previous": "fluxo.com.pl/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 5.72
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              0,
+              0,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 34
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 6970862,
+        "kid": "982ecb974d8c2fa39dac01f7e3d73ef3",
+        "domain": "fluxo.com.pl",
+        "keyword": "kredyt dla nowej spółki",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 40,
+            "previous": 29,
+            "diff": 11,
+            "changes": {
+              "wins": 1,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-20": {
+                "position": 30,
+                "has_serp": true
+              },
+              "2026-01-03": {
+                "position": 29,
+                "has_serp": true
+              },
+              "2026-02-08": {
+                "position": 40,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "fluxo.com.pl/kredyt-dla-spolki-z-o-o/",
+            "previous": "fluxo.com.pl/kredyt-dla-spolki-z-o-o/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 6.36
+          },
+          "searches": {
+            "current": 30
+          },
+          "trends": {
+            "history": [
+              30,
+              30,
+              30,
+              50,
+              50,
+              40,
+              20,
+              20,
+              20,
+              10,
+              30,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 50
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 13259394,
+        "kid": "78f240e12265704602811a5c19d050c6",
+        "domain": "fluxo.com.pl",
+        "keyword": "terminy zapłaty zus",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 50,
+            "previous": 38,
+            "diff": 12,
+            "changes": {
+              "wins": 1,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-16": {
+                "position": 42,
+                "has_serp": true
+              },
+              "2026-01-27": {
+                "position": 38,
+                "has_serp": true
+              },
+              "2026-02-05": {
+                "position": 50,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "fluxo.com.pl/zus-do-kiedy-platny-terminy-i-obowiazki-firm/",
+            "previous": "fluxo.com.pl/zus-do-kiedy-platny-terminy-i-obowiazki-firm/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 210
+          },
+          "trends": {
+            "history": [
+              320,
+              260,
+              210,
+              210,
+              260,
+              170,
+              170,
+              210,
+              140,
+              170,
+              260,
+              210
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 48
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 10058779,
+        "kid": "ddcee4f11e8d768535d845c335233eca",
+        "domain": "fluxo.com.pl",
+        "keyword": "kredyt bez zaświadczeń z zus i us",
+        "words_count": 7,
+        "statistics": {
+          "position": {
+            "current": 6,
+            "previous": 5,
+            "diff": 1,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-18": {
+                "position": 5,
+                "has_serp": true
+              },
+              "2026-02-06": {
+                "position": 6,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0.74,
+            "previous": 1.01,
+            "diff": -0.26,
+            "percent": -0.2673,
+            "history": null
+          },
+          "url": {
+            "current": "fluxo.com.pl/pozyczka-dla-firm-bez-zus-i-us-jak-zdobyc/",
+            "previous": "fluxo.com.pl/pozyczka-dla-firm-bez-zus-i-us-jak-zdobyc/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 11.32
+          },
+          "searches": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              10,
+              20,
+              30,
+              30,
+              30,
+              20,
+              10,
+              10,
+              10,
+              20,
+              30,
+              20
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 40
+          },
+          "snippets": {
+            "current": []
+          },
+          "intentions": {
+            "primary_intent": "do",
+            "main_intent": "transactional",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 15614640,
+        "kid": "7dd1db03d2ac814f2c07a033951fa076",
+        "domain": "fluxo.com.pl",
+        "keyword": "gdzie dostanę kredyt ze złym bikiem",
+        "words_count": 6,
+        "statistics": {
+          "position": {
+            "current": 5,
+            "previous": 4,
+            "diff": 1,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-18": {
+                "position": 4,
+                "has_serp": true
+              },
+              "2026-02-07": {
+                "position": 5,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 4.53,
+            "previous": 6.39,
+            "diff": -1.86,
+            "percent": -0.2911,
+            "history": null
+          },
+          "url": {
+            "current": "fluxo.com.pl/gdzie-dostane-kredyt-z-bik-na-niskim-poziomie/",
+            "previous": "fluxo.com.pl/gdzie-dostane-kredyt-z-bik-na-niskim-poziomie/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 1.09
+          },
+          "searches": {
+            "current": 90
+          },
+          "trends": {
+            "history": [
+              110,
+              110,
+              140,
+              70,
+              10,
+              20,
+              50,
+              170,
+              140,
+              140,
+              110,
+              140
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 24
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "mofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      }
+    ],
+    "total": 19,
+    "domain": "fluxo.com.pl",
+    "endpoint": "get_history_keywords_losses"
+  }
+}

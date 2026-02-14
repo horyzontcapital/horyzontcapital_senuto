@@ -1,0 +1,56 @@
+{
+  "domain": "hiponet.pl",
+  "endpoint": "get_competitors_analysis",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "keyword": "kredyt hipoteczny pod zastaw ziemi rolnej",
+          "cpc": 4.28,
+          "searches": 50,
+          "trends": [
+            50,
+            50,
+            50,
+            70,
+            40,
+            70,
+            40,
+            50,
+            50,
+            50,
+            50,
+            70
+          ],
+          "difficulty": 30,
+          "params": [],
+          "horyzontcapital.com": {
+            "pos": 43,
+            "url": "horyzontcapital.com/oferta/pozyczka-pod-dzialke-lub-grunt"
+          },
+          "horyzontcapital.com_pos": 43,
+          "horyzontcapital.com_url": "horyzontcapital.com/oferta/pozyczka-pod-dzialke-lub-grunt",
+          "hiponet.pl": {
+            "pos": 48,
+            "url": "hiponet.pl/poradnik-kredytobiorcy/czy-mozna-uzyskac-kredyt-hipoteczny-na-zakup-dzialki-rolnej,273.html"
+          },
+          "hiponet.pl_pos": 48,
+          "hiponet.pl_url": "hiponet.pl/poradnik-kredytobiorcy/czy-mozna-uzyskac-kredyt-hipoteczny-na-zakup-dzialki-rolnej,273.html"
+        }
+      ],
+      "pagination": {
+        "page_count": 1,
+        "current_page": 1,
+        "has_next_page": false,
+        "has_prev_page": false,
+        "count": 1,
+        "limit": 100
+      }
+    },
+    "status": 200,
+    "domain": "hiponet.pl",
+    "endpoint": "get_competitors_analysis"
+  }
+}

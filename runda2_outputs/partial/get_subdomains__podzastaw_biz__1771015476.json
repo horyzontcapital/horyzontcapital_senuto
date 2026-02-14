@@ -1,0 +1,54 @@
+{
+  "domain": "podzastaw.biz",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "podzastaw.biz",
+        "keywords_count": 21,
+        "visibility_percent": 100,
+        "statistics": {
+          "visibility": {
+            "current": 98.37,
+            "previous": 32.93,
+            "diff": 65.44,
+            "percent": 1.9872,
+            "history": null
+          },
+          "top3": {
+            "current": 1,
+            "previous": 1,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 21,
+            "previous": 18,
+            "diff": 3,
+            "percent": 0.1667,
+            "history": null
+          },
+          "top50": {
+            "current": 44,
+            "previous": 36,
+            "diff": 8,
+            "percent": 0.2222,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 100,
+            "previous": 100,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "podzastaw.biz",
+    "endpoint": "get_subdomains"
+  }
+}

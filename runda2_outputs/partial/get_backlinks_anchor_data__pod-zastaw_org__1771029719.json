@@ -1,0 +1,64 @@
+{
+  "domain": "pod-zastaw.org",
+  "endpoint": "get_backlinks_anchor_data",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "link_domain": "pod-zastaw.org",
+        "is_main_domain": true,
+        "anchor": "Strona",
+        "anchor_type": [],
+        "count": {
+          "count": 231,
+          "percent_of_total": 0.9390243902439024
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 231,
+        "percent_of_total": 0.9390243902439024
+      },
+      {
+        "link_domain": "pod-zastaw.org",
+        "is_main_domain": true,
+        "anchor": "WWW",
+        "anchor_type": [],
+        "count": {
+          "count": 12,
+          "percent_of_total": 0.04878048780487805
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 12,
+        "percent_of_total": 0.04878048780487805
+      },
+      {
+        "link_domain": "pod-zastaw.org",
+        "is_main_domain": true,
+        "anchor": "www",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.008130081300813009
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 0.008130081300813009
+      },
+      {
+        "link_domain": "pod-zastaw.org",
+        "is_main_domain": true,
+        "anchor": "kredyt pod zastaw nieruchomości bez bik sprawdź ofertę",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.0040650406504065045
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.0040650406504065045
+      }
+    ],
+    "total": 4,
+    "domain": "pod-zastaw.org",
+    "endpoint": "get_backlinks_anchor_data"
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "domain": "feniksfinanse.pl",
+  "endpoint": "get_backlinks_referring_domains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "ref_domain": "neobiznes.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.0004805914972273567,
+        "backlinks_count": 2,
+        "links_external_count": 189350,
+        "percent_of_total": 0.2222222222222222,
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.2222222222222222
+        },
+        "top3": 7,
+        "top10": 132,
+        "top50": 1786,
+        "visibility": 175.70400000000006,
+        "domain_rank": 354814,
+        "ads_equivalent": 195.11915000000002
+      },
+      {
+        "ref_domain": "lista.e-sieci.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.0009968350487203131,
+        "backlinks_count": 2,
+        "links_external_count": 80254,
+        "percent_of_total": 0.2222222222222222,
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.2222222222222222
+        },
+        "top3": 146,
+        "top10": 3208,
+        "top50": 31643,
+        "visibility": 4787.011000000012,
+        "domain_rank": 42990,
+        "ads_equivalent": 3557.50994
+      },
+      {
+        "ref_domain": "wcgpoland.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.007988131918292823,
+        "backlinks_count": 1,
+        "links_external_count": 8763,
+        "percent_of_total": 0.1111111111111111,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.1111111111111111
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 39,
+        "visibility": 0,
+        "domain_rank": 3773558,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "ohmycraft.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 6.706192559174528e-05,
+        "backlinks_count": 1,
+        "links_external_count": 656110,
+        "percent_of_total": 0.1111111111111111,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.1111111111111111
+        },
+        "top3": 74,
+        "top10": 2354,
+        "top50": 93701,
+        "visibility": 3492.0279999999657,
+        "domain_rank": 54510,
+        "ads_equivalent": 1825.1227700000013
+      },
+      {
+        "ref_domain": "panoramafirm.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.008904176540050861,
+        "backlinks_count": 1,
+        "links_external_count": 10148496,
+        "percent_of_total": 0.1111111111111111,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.1111111111111111
+        },
+        "top3": 57262,
+        "top10": 368820,
+        "top50": 1250269,
+        "visibility": 1329064.9030009708,
+        "domain_rank": 292,
+        "ads_equivalent": 1467222.458890008
+      },
+      {
+        "ref_domain": "portal-konsumenta.com",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 1.0896423594983744,
+        "backlinks_count": 1,
+        "links_external_count": 6459,
+        "percent_of_total": 0.1111111111111111,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.1111111111111111
+        },
+        "top3": 33,
+        "top10": 477,
+        "top50": 3355,
+        "visibility": 1898.941999999998,
+        "domain_rank": 84649,
+        "ads_equivalent": 9785.418130000002
+      },
+      {
+        "ref_domain": "witkowskifinanse.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 1,
+        "links_external_count": 0,
+        "percent_of_total": 0.1111111111111111,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.1111111111111111
+        },
+        "top3": 1,
+        "top10": 1,
+        "top50": 24,
+        "visibility": 3.5039999999999996,
+        "domain_rank": 1471875,
+        "ads_equivalent": 0
+      }
+    ],
+    "total": 7,
+    "domain": "feniksfinanse.pl",
+    "endpoint": "get_backlinks_referring_domains"
+  }
+}

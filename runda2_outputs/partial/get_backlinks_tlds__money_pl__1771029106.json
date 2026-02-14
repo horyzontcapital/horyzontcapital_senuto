@@ -1,0 +1,73 @@
+{
+  "domain": "money.pl",
+  "endpoint": "get_backlinks_tlds",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": [
+        {
+          "tld": "pl",
+          "count": 8331499,
+          "percent": 0.9919895480020484
+        },
+        {
+          "tld": "com",
+          "count": 41919,
+          "percent": 0.0049910838208944
+        },
+        {
+          "tld": "info",
+          "count": 9810,
+          "percent": 0.001168027202055728
+        },
+        {
+          "tld": "org",
+          "count": 4746,
+          "percent": 0.0005650822732881228
+        },
+        {
+          "tld": "eu",
+          "count": 3957,
+          "percent": 0.000471140024315445
+        },
+        {
+          "tld": "io",
+          "count": 2736,
+          "percent": 0.00032576171506875344
+        },
+        {
+          "tld": "net",
+          "count": 1476,
+          "percent": 0.00017573987260288015
+        },
+        {
+          "tld": "170",
+          "count": 711,
+          "percent": 8.465518253431422e-05
+        },
+        {
+          "tld": "press",
+          "count": 253,
+          "percent": 3.0123433447512657e-05
+        },
+        {
+          "tld": "in",
+          "count": 246,
+          "percent": 2.9289978767146694e-05
+        }
+      ],
+      "pagination": {
+        "page_count": 11,
+        "current_page": 1,
+        "has_next_page": true,
+        "has_prev_page": false,
+        "count": 103,
+        "limit": 10
+      }
+    },
+    "status": 200,
+    "domain": "money.pl",
+    "endpoint": "get_backlinks_tlds"
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "domain": "platinum-financial.pl",
+  "endpoint": "get_history_keywords_wins",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "keyword_id": 15443238,
+        "kid": "cad340d8cf079f14cba47ec09767b2a3",
+        "domain": "platinum-financial.pl",
+        "keyword": "krk partners",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 9,
+            "previous": 51,
+            "diff": -42,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-18": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-07": {
+                "position": 9,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 1.62,
+            "previous": 0,
+            "diff": 1.62,
+            "percent": 1,
+            "history": null
+          },
+          "url": {
+            "current": "platinum-financial.pl/aktualnosci/wspolny-wysilek-z-krk-partners-monument-fund/",
+            "previous": "",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 13.63
+          },
+          "searches": {
+            "current": 90
+          },
+          "trends": {
+            "history": [
+              70,
+              70,
+              140,
+              70,
+              50,
+              110,
+              90,
+              110,
+              70,
+              110,
+              70,
+              70
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 53
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "website",
+            "main_intent": "navigational",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 15515848,
+        "kid": "077ba3f785a396d8ffaaa25f4425f971",
+        "domain": "platinum-financial.pl",
+        "keyword": "maciej piekarczyk",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 44,
+            "previous": 51,
+            "diff": -7,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 1
+            },
+            "history": {
+              "2026-01-16": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-27": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-05": {
+                "position": 44,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "platinum-financial.pl/nasi-ludzie/",
+            "previous": "",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 90
+          },
+          "trends": {
+            "history": [
+              50,
+              50,
+              70,
+              50,
+              40,
+              40,
+              140,
+              40,
+              210,
+              140,
+              210,
+              110
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 31
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 9296166,
+        "kid": "cc85b384447d9c8ffefbd5472acfc795",
+        "domain": "platinum-financial.pl",
+        "keyword": "platinum",
+        "words_count": 1,
+        "statistics": {
+          "position": {
+            "current": 14,
+            "previous": 51,
+            "diff": -37,
+            "changes": {
+              "wins": 2,
+              "losses": 4,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-19": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-22": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-26": {
+                "position": 42,
+                "has_serp": true
+              },
+              "2026-01-15": {
+                "position": 44,
+                "has_serp": true
+              },
+              "2026-01-19": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-01-23": {
+                "position": 41,
+                "has_serp": true
+              },
+              "2026-01-27": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-05": {
+                "position": 14,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "platinum-financial.pl/aktualnosci/",
+            "previous": "",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 2.57
+          },
+          "searches": {
+            "current": 4400
+          },
+          "trends": {
+            "history": [
+              5400,
+              4400,
+              5400,
+              4400,
+              4400,
+              4400,
+              4400,
+              4400,
+              3600,
+              4400,
+              4400,
+              4400
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 75
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "map"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      }
+    ],
+    "total": 3,
+    "domain": "platinum-financial.pl",
+    "endpoint": "get_history_keywords_wins"
+  }
+}

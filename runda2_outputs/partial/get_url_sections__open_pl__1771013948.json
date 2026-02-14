@@ -1,0 +1,887 @@
+{
+  "domain": "open.pl",
+  "endpoint": "get_url_sections",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "url_section": "open.pl/",
+        "keywords_count": 80,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 2032.82,
+            "previous": 1437.45,
+            "diff": 595.37,
+            "percent": 0.4142,
+            "history": null
+          },
+          "top3": {
+            "current": 59,
+            "previous": 59,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 80,
+            "previous": 83,
+            "diff": -3,
+            "percent": -0.0361,
+            "history": null
+          },
+          "top50": {
+            "current": 182,
+            "previous": 181,
+            "diff": 1,
+            "percent": 0.0055,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "open.pl/artykuly/",
+        "keywords_count": 249,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 952.89,
+            "previous": 934.41,
+            "diff": 18.48,
+            "percent": 0.0198,
+            "history": null
+          },
+          "top3": {
+            "current": 26,
+            "previous": 28,
+            "diff": -2,
+            "percent": -0.0714,
+            "history": null
+          },
+          "top10": {
+            "current": 249,
+            "previous": 245,
+            "diff": 4,
+            "percent": 0.0163,
+            "history": null
+          },
+          "top50": {
+            "current": 742,
+            "previous": 739,
+            "diff": 3,
+            "percent": 0.0041,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "open.pl/kontakt/",
+        "keywords_count": 8,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 74.36,
+            "previous": 74.36,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 7,
+            "previous": 7,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 8,
+            "previous": 8,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 8,
+            "previous": 8,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "open.pl/kredyty-i-pozyczki/",
+        "keywords_count": 1,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 19.27,
+            "previous": 0,
+            "diff": 19.27,
+            "percent": 1,
+            "history": null
+          },
+          "top3": {
+            "current": 1,
+            "previous": 0,
+            "diff": 1,
+            "percent": 1,
+            "history": null
+          },
+          "top10": {
+            "current": 1,
+            "previous": 0,
+            "diff": 1,
+            "percent": 1,
+            "history": null
+          },
+          "top50": {
+            "current": 5,
+            "previous": 5,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "open.pl/ile-kosztuje-faktoring/",
+        "keywords_count": 7,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 10.66,
+            "previous": 2.87,
+            "diff": 7.79,
+            "percent": 2.7143,
+            "history": null
+          },
+          "top3": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 7,
+            "previous": 6,
+            "diff": 1,
+            "percent": 0.1667,
+            "history": null
+          },
+          "top50": {
+            "current": 11,
+            "previous": 11,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "open.pl/oszczedzanie-i-inwestowanie/",
+        "keywords_count": 3,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 7.49,
+            "previous": 7.49,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 2,
+            "previous": 2,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 3,
+            "previous": 3,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 39,
+            "previous": 35,
+            "diff": 4,
+            "percent": 0.1143,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "open.pl/kredyt-hipoteczny/",
+        "keywords_count": 2,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 7.12,
+            "previous": 7.12,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 2,
+            "previous": 2,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 2,
+            "previous": 2,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 96,
+            "previous": 102,
+            "diff": -6,
+            "percent": -0.0588,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "open.pl/jak-sprawdzic-czy-firma-jest-w-restrukturyzacji/",
+        "keywords_count": 1,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 4.53,
+            "previous": 2.55,
+            "diff": 1.98,
+            "percent": 0.7765,
+            "history": null
+          },
+          "top3": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 1,
+            "previous": 1,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 3,
+            "previous": 3,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "open.pl/rozwiazania-dla-firm/",
+        "keywords_count": 2,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 3.96,
+            "previous": 3.96,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 2,
+            "previous": 2,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 40,
+            "previous": 34,
+            "diff": 6,
+            "percent": 0.1765,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "open.pl/pozyczka-hipoteczna/",
+        "keywords_count": 3,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 3.17,
+            "previous": 3.17,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 3,
+            "previous": 3,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 9,
+            "previous": 8,
+            "diff": 1,
+            "percent": 0.125,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "open.pl/sprzedaz-zorganizowanej-czesci-przedsiebiorstwa/",
+        "keywords_count": 6,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 2.61,
+            "previous": 2.61,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 6,
+            "previous": 6,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 26,
+            "previous": 27,
+            "diff": -1,
+            "percent": -0.037,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "open.pl/wniosek-o-restrukturyzacje/",
+        "keywords_count": 5,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 2.31,
+            "previous": 1.63,
+            "diff": 0.68,
+            "percent": 0.4172,
+            "history": null
+          },
+          "top3": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 5,
+            "previous": 4,
+            "diff": 1,
+            "percent": 0.25,
+            "history": null
+          },
+          "top50": {
+            "current": 21,
+            "previous": 22,
+            "diff": -1,
+            "percent": -0.0455,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "open.pl/przymusowa-restrukturyzacja-banku/",
+        "keywords_count": 1,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 1.69,
+            "previous": 1.69,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 1,
+            "previous": 1,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 6,
+            "previous": 6,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "open.pl/kredyt-konsolidacyjny/",
+        "keywords_count": 1,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 1.56,
+            "previous": 1.56,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 1,
+            "previous": 1,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 7,
+            "previous": 9,
+            "diff": -2,
+            "percent": -0.2222,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "open.pl/jakie-sa-skutki-ogloszenia-upadlosci-dla-wlasciciela-i-pracownikow/",
+        "keywords_count": 1,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 1.13,
+            "previous": 0,
+            "diff": 1.13,
+            "percent": 1,
+            "history": null
+          },
+          "top3": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 1,
+            "previous": 0,
+            "diff": 1,
+            "percent": 1,
+            "history": null
+          },
+          "top50": {
+            "current": 8,
+            "previous": 7,
+            "diff": 1,
+            "percent": 0.1429,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "open.pl/polityka-prywatnosci/",
+        "keywords_count": 1,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 1.08,
+            "previous": 1.08,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 1,
+            "previous": 1,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 1,
+            "previous": 1,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 5,
+            "previous": 4,
+            "diff": 1,
+            "percent": 0.25,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "open.pl/porownywarka-kredytow-i-lokat/",
+        "keywords_count": 1,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 0.89,
+            "previous": 0.89,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 1,
+            "previous": 1,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 34,
+            "previous": 38,
+            "diff": -4,
+            "percent": -0.1053,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "open.pl/co-to-jest-faktoring-wymagalnosciowy/",
+        "keywords_count": 1,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 0.67,
+            "previous": 0.67,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 1,
+            "previous": 1,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 1,
+            "previous": 1,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "open.pl/kredyt-refinansowany/",
+        "keywords_count": 1,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 0.45,
+            "previous": 0.45,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 1,
+            "previous": 1,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 7,
+            "previous": 8,
+            "diff": -1,
+            "percent": -0.125,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "open.pl/porady-finansowe/",
+        "keywords_count": 0,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 2,
+            "previous": 2,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "open.pl/upadlosc-konsumencka-jako-szansa-na-nowy-start/",
+        "keywords_count": 0,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 2,
+            "previous": 2,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "open.pl/kredyt-gotowkowy/",
+        "keywords_count": 0,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 17,
+            "previous": 15,
+            "diff": 2,
+            "percent": 0.1333,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "open.pl/kredyt-hipoteczny-krok-po-kroku/",
+        "keywords_count": 0,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 1,
+            "previous": 2,
+            "diff": -1,
+            "percent": -0.5,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "open.pl/wibor/",
+        "keywords_count": 0,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 1,
+            "previous": 1,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "open.pl/leasing-a-restrukturyzacja-jak-umowy-leasingowe-funkcjonuja-w-trakcie-postepowania-restrukturyzacyjnego/",
+        "keywords_count": 0,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 1,
+            "previous": 1,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 25,
+    "domain": "open.pl",
+    "endpoint": "get_url_sections"
+  }
+}

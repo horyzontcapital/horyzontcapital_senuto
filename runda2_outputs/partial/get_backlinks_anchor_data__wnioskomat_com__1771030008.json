@@ -1,0 +1,634 @@
+{
+  "domain": "wnioskomat.com",
+  "endpoint": "get_backlinks_anchor_data",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "link_domain": "wnioskomat.com",
+        "is_main_domain": true,
+        "anchor": "Składasz tylko jeden wniosek a ofertę dobierzemy za Ciebie. przejdż dalej",
+        "anchor_type": [],
+        "count": {
+          "count": 36,
+          "percent_of_total": 0.16901408450704225
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 36,
+        "percent_of_total": 0.16901408450704225
+      },
+      {
+        "link_domain": "wnioskomat.com",
+        "is_main_domain": true,
+        "anchor": "Wnioskomat.com",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 25,
+          "percent_of_total": 0.11737089201877934
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 22,
+        "percent_of_total": 0.11737089201877934
+      },
+      {
+        "link_domain": "wnioskomat.com",
+        "is_main_domain": true,
+        "anchor": "",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 24,
+          "percent_of_total": 0.11267605633802817
+        },
+        "domains_with_anchor_count": 4,
+        "anchors_uniq_count": 9,
+        "percent_of_total": 0.11267605633802817
+      },
+      {
+        "link_domain": "wnioskomat.com",
+        "is_main_domain": true,
+        "anchor": "Złóż wniosek",
+        "anchor_type": [],
+        "count": {
+          "count": 18,
+          "percent_of_total": 0.08450704225352113
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 12,
+        "percent_of_total": 0.08450704225352113
+      },
+      {
+        "link_domain": "wnioskomat.com",
+        "is_main_domain": true,
+        "anchor": "Wnioskomat",
+        "anchor_type": [],
+        "count": {
+          "count": 17,
+          "percent_of_total": 0.07981220657276995
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 15,
+        "percent_of_total": 0.07981220657276995
+      },
+      {
+        "link_domain": "wnioskomat.com",
+        "is_main_domain": true,
+        "anchor": "wnioskomat.com",
+        "anchor_type": [],
+        "count": {
+          "count": 13,
+          "percent_of_total": 0.06103286384976526
+        },
+        "domains_with_anchor_count": 8,
+        "anchors_uniq_count": 11,
+        "percent_of_total": 0.06103286384976526
+      },
+      {
+        "link_domain": "wnioskomat.com",
+        "is_main_domain": true,
+        "anchor": "ZŁÓŻ WNIOSEK",
+        "anchor_type": [],
+        "count": {
+          "count": 9,
+          "percent_of_total": 0.04225352112676056
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 5,
+        "percent_of_total": 0.04225352112676056
+      },
+      {
+        "link_domain": "wnioskomat.com",
+        "is_main_domain": true,
+        "anchor": "wnioskomat.com",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 6,
+          "percent_of_total": 0.028169014084507043
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.028169014084507043
+      },
+      {
+        "link_domain": "wnioskomat.com",
+        "is_main_domain": true,
+        "anchor": "Wypełnij Wniosek Online",
+        "anchor_type": [],
+        "count": {
+          "count": 5,
+          "percent_of_total": 0.023474178403755867
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 5,
+        "percent_of_total": 0.023474178403755867
+      },
+      {
+        "link_domain": "wnioskomat.com",
+        "is_main_domain": true,
+        "anchor": "https://wnioskomat.com/kredyt-gotowkowy",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 4,
+          "percent_of_total": 0.018779342723004695
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 0.018779342723004695
+      },
+      {
+        "link_domain": "wnioskomat.com",
+        "is_main_domain": true,
+        "anchor": "Pożyczka od ręki na wnioskomat.com",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 4,
+          "percent_of_total": 0.018779342723004695
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.018779342723004695
+      },
+      {
+        "link_domain": "wnioskomat.com",
+        "is_main_domain": true,
+        "anchor": "WNIOSEK ONLINE&nbsp;",
+        "anchor_type": [],
+        "count": {
+          "count": 3,
+          "percent_of_total": 0.014084507042253521
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 0.014084507042253521
+      },
+      {
+        "link_domain": "wnioskomat.com",
+        "is_main_domain": true,
+        "anchor": "Zapłać spojrzeniem. PayEye 2.0",
+        "anchor_type": [],
+        "count": {
+          "count": 3,
+          "percent_of_total": 0.014084507042253521
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 0.014084507042253521
+      },
+      {
+        "link_domain": "wnioskomat.com",
+        "is_main_domain": true,
+        "anchor": "https://wnioskomat.com/wniosek",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.009389671361502348
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.009389671361502348
+      },
+      {
+        "link_domain": "wnioskomat.com",
+        "is_main_domain": true,
+        "anchor": "Wnioskomat.com logo",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.009389671361502348
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 0.009389671361502348
+      },
+      {
+        "link_domain": "wnioskomat.com",
+        "is_main_domain": true,
+        "anchor": "Wnioskomat.com",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.009389671361502348
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 0.009389671361502348
+      },
+      {
+        "link_domain": "wnioskomat.com",
+        "is_main_domain": true,
+        "anchor": "kredyt got&#xF3;wkowy oferuj&#x105; tak&#x17C;e firmy po&#x17C;yczkowe (wnioskomat.com/kredyt-gotowkowy)",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.009389671361502348
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.009389671361502348
+      },
+      {
+        "link_domain": "wnioskomat.com",
+        "is_main_domain": true,
+        "anchor": "wnioskomat.com/ranking-kredytow-gotowkowych",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.009389671361502348
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.009389671361502348
+      },
+      {
+        "link_domain": "wnioskomat.com",
+        "is_main_domain": true,
+        "anchor": "postępowanie spadkowe",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.009389671361502348
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.009389671361502348
+      },
+      {
+        "link_domain": "wnioskomat.com",
+        "is_main_domain": true,
+        "anchor": "wnioskomat.com logo",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.009389671361502348
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 0.009389671361502348
+      },
+      {
+        "link_domain": "wnioskomat.com",
+        "is_main_domain": true,
+        "anchor": "komornikowi",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.009389671361502348
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.009389671361502348
+      },
+      {
+        "link_domain": "wnioskomat.com",
+        "is_main_domain": true,
+        "anchor": "pożyczka online na stronie Wnioskomat.com",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.009389671361502348
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.009389671361502348
+      },
+      {
+        "link_domain": "wnioskomat.com",
+        "is_main_domain": true,
+        "anchor": "więcej informacji o BIK w artykule na www.wnioskomat.com",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.009389671361502348
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.009389671361502348
+      },
+      {
+        "link_domain": "wnioskomat.com",
+        "is_main_domain": true,
+        "anchor": "https://wnioskomat.com/ranking-kredytow-hipotecznych/",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.009389671361502348
+        },
+        "domains_with_anchor_count": 2,
+        "anchors_uniq_count": 2,
+        "percent_of_total": 0.009389671361502348
+      },
+      {
+        "link_domain": "wnioskomat.com",
+        "is_main_domain": true,
+        "anchor": "kredyty mieszkaniowe dokładniej opisują specjalistyczne blogi",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.009389671361502348
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.009389671361502348
+      },
+      {
+        "link_domain": "wnioskomat.com",
+        "is_main_domain": true,
+        "anchor": "rzedwstępną umowę sprzedaży",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.009389671361502348
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.009389671361502348
+      },
+      {
+        "link_domain": "wnioskomat.com",
+        "is_main_domain": true,
+        "anchor": "Kredyt gotówkowy to dłuższy proces, ale jak widać lepsze warunki",
+        "anchor_type": [],
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.009389671361502348
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.009389671361502348
+      },
+      {
+        "link_domain": "wnioskomat.com",
+        "is_main_domain": true,
+        "anchor": "kalkulator kredytu hipotecznego",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.004694835680751174
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.004694835680751174
+      },
+      {
+        "link_domain": "wnioskomat.com",
+        "is_main_domain": true,
+        "anchor": "Kredyt gotówkowy na Wnioskomat.com",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.004694835680751174
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.004694835680751174
+      },
+      {
+        "link_domain": "wnioskomat.com",
+        "is_main_domain": true,
+        "anchor": "Wnioskomat &#8211; WNIOSEK ONLINE",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.004694835680751174
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.004694835680751174
+      },
+      {
+        "link_domain": "wnioskomat.com",
+        "is_main_domain": true,
+        "anchor": "kredyt konsolidacyjny",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.004694835680751174
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.004694835680751174
+      },
+      {
+        "link_domain": "wnioskomat.com",
+        "is_main_domain": true,
+        "anchor": "аналітичним аналізом",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.004694835680751174
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.004694835680751174
+      },
+      {
+        "link_domain": "wnioskomat.com",
+        "is_main_domain": true,
+        "anchor": "5 sposobów na sfinansowanie samochodu - Wnioskomat",
+        "anchor_type": [
+          "multimedia",
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.004694835680751174
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.004694835680751174
+      },
+      {
+        "link_domain": "wnioskomat.com",
+        "is_main_domain": true,
+        "anchor": "https://wnioskomat.com/wniosek?affiliationId =",
+        "anchor_type": [
+          "multimedia",
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.004694835680751174
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.004694835680751174
+      },
+      {
+        "link_domain": "wnioskomat.com",
+        "is_main_domain": true,
+        "anchor": "Pożyczka got&oacute;wkowa online to możliwość otrzymania got&oacute;wki na podstawie wniosku przez stronę",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.004694835680751174
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.004694835680751174
+      },
+      {
+        "link_domain": "wnioskomat.com",
+        "is_main_domain": true,
+        "anchor": "wniosek o pożyczkę przez internet",
+        "anchor_type": [
+          "multimedia"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.004694835680751174
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.004694835680751174
+      },
+      {
+        "link_domain": "wnioskomat.com",
+        "is_main_domain": true,
+        "anchor": "https://wnioskomat.com/wniosek?affiliationId=d4ef7166b6e2a50f05e3aac1d68174ee",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.004694835680751174
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.004694835680751174
+      },
+      {
+        "link_domain": "wnioskomat.com",
+        "is_main_domain": true,
+        "anchor": "https://wnioskomat.com/wniosek?affiliati>  Oferta zależy od pozytywnej oceny zdolności kredytowej.Oprocentowanie od 5,99 do 9,99",
+        "anchor_type": [
+          "multimedia",
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.004694835680751174
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.004694835680751174
+      },
+      {
+        "link_domain": "wnioskomat.com",
+        "is_main_domain": true,
+        "anchor": "blog kredytowy serwisu www.wnioskomat.com",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.004694835680751174
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.004694835680751174
+      },
+      {
+        "link_domain": "wnioskomat.com",
+        "is_main_domain": true,
+        "anchor": "https://wnioskomat.com/blog/czy-mozna-wziac-pozyczke-na-pesel",
+        "anchor_type": [
+          "naked"
+        ],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.004694835680751174
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.004694835680751174
+      },
+      {
+        "link_domain": "wnioskomat.com",
+        "is_main_domain": true,
+        "anchor": "analizy polskiej platformy finansowej",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.004694835680751174
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.004694835680751174
+      },
+      {
+        "link_domain": "wnioskomat.com",
+        "is_main_domain": true,
+        "anchor": "аналитическому анализу",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.004694835680751174
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.004694835680751174
+      },
+      {
+        "link_domain": "wnioskomat.com",
+        "is_main_domain": true,
+        "anchor": "pożyczka online na Wnioskomat.com",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.004694835680751174
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.004694835680751174
+      },
+      {
+        "link_domain": "wnioskomat.com",
+        "is_main_domain": true,
+        "anchor": "ZŁÓŻ WNIOSEK ONLINE",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.004694835680751174
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.004694835680751174
+      },
+      {
+        "link_domain": "wnioskomat.com",
+        "is_main_domain": true,
+        "anchor": "Pisanie artykułów blogowych",
+        "anchor_type": [],
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.004694835680751174
+        },
+        "domains_with_anchor_count": 1,
+        "anchors_uniq_count": 1,
+        "percent_of_total": 0.004694835680751174
+      }
+    ],
+    "total": 45,
+    "domain": "wnioskomat.com",
+    "endpoint": "get_backlinks_anchor_data"
+  }
+}

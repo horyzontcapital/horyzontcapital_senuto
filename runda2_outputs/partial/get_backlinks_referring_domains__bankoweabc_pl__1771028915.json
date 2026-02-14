@@ -1,0 +1,30 @@
+{
+  "domain": "bankoweabc.pl",
+  "endpoint": "get_backlinks_referring_domains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "ref_domain": "casfera.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 5.925779880827199,
+        "backlinks_count": 1,
+        "links_external_count": 11412,
+        "percent_of_total": 1,
+        "count": {
+          "count": 1,
+          "percent_of_total": 1
+        },
+        "top3": 132,
+        "top10": 1458,
+        "top50": 6601,
+        "visibility": 7401.144000000026,
+        "domain_rank": 30763,
+        "ads_equivalent": 21883.73616
+      }
+    ],
+    "total": 1,
+    "domain": "bankoweabc.pl",
+    "endpoint": "get_backlinks_referring_domains"
+  }
+}

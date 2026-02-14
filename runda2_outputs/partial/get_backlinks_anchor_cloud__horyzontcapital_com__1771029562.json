@@ -1,0 +1,16 @@
+{
+  "domain": "horyzontcapital.com",
+  "endpoint": "get_backlinks_anchor_cloud",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "horyzontcapital.com": []
+      }
+    },
+    "status": 200,
+    "domain": "horyzontcapital.com",
+    "endpoint": "get_backlinks_anchor_cloud"
+  }
+}

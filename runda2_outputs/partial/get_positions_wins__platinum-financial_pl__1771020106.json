@@ -1,0 +1,91 @@
+{
+  "domain": "platinum-financial.pl",
+  "endpoint": "get_positions_wins",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "keyword_id": 15443238,
+        "kid": "cad340d8cf079f14cba47ec09767b2a3",
+        "domain": "platinum-financial.pl",
+        "keyword": "krk partners",
+        "words_count": 2,
+        "statistics": {
+          "position": {
+            "current": 9,
+            "previous": 51,
+            "diff": -42,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-18": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2026-02-07": {
+                "position": 9,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 1.62,
+            "previous": 0,
+            "diff": 1.62,
+            "percent": 1,
+            "history": null
+          },
+          "url": {
+            "current": "platinum-financial.pl/aktualnosci/wspolny-wysilek-z-krk-partners-monument-fund/",
+            "previous": "",
+            "is_change": 1
+          },
+          "cpc": {
+            "current": 13.63
+          },
+          "searches": {
+            "current": 90
+          },
+          "trends": {
+            "history": [
+              70,
+              70,
+              140,
+              70,
+              50,
+              110,
+              90,
+              110,
+              70,
+              110,
+              70,
+              70
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 53
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "website",
+            "main_intent": "navigational",
+            "action_type": "research",
+            "journey_stage": "bofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "platinum-financial.pl",
+    "endpoint": "get_positions_wins"
+  }
+}

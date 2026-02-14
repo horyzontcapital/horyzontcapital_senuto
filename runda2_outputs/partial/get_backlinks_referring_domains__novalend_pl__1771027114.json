@@ -1,0 +1,148 @@
+{
+  "domain": "novalend.pl",
+  "endpoint": "get_backlinks_referring_domains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "ref_domain": "pzip.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.2571306026163414,
+        "backlinks_count": 150,
+        "links_external_count": 9326,
+        "percent_of_total": 0.8241758241758241,
+        "count": {
+          "count": 150,
+          "percent_of_total": 0.8241758241758241
+        },
+        "top3": 16,
+        "top10": 45,
+        "top50": 272,
+        "visibility": 183.109,
+        "domain_rank": 347366,
+        "ads_equivalent": 2066.8862799999997
+      },
+      {
+        "ref_domain": "firmowakasa.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": 1416.8,
+          "article_price_nofollow": null,
+          "link_price_dofollow": null,
+          "link_price_nofollow": null,
+          "price_do_follow": 1416.8,
+          "price_no_follow": null
+        },
+        "ratio_bl_ext": 0.33979135618479883,
+        "backlinks_count": 24,
+        "links_external_count": 2013,
+        "percent_of_total": 0.13186813186813187,
+        "count": {
+          "count": 24,
+          "percent_of_total": 0.13186813186813187
+        },
+        "top3": 76,
+        "top10": 633,
+        "top50": 3068,
+        "visibility": 2581.733999999999,
+        "domain_rank": 67899,
+        "ads_equivalent": 18631.003580000004
+      },
+      {
+        "ref_domain": "pozyczkowy-portal.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": 1927.4,
+          "article_price_nofollow": 1322.5,
+          "link_price_dofollow": 1927.4,
+          "link_price_nofollow": null,
+          "price_do_follow": 1927.4,
+          "price_no_follow": 1322.5
+        },
+        "ratio_bl_ext": 0.09211232337685567,
+        "backlinks_count": 3,
+        "links_external_count": 5591,
+        "percent_of_total": 0.016483516483516484,
+        "count": {
+          "count": 3,
+          "percent_of_total": 0.016483516483516484
+        },
+        "top3": 25,
+        "top10": 136,
+        "top50": 1455,
+        "visibility": 1747.4979999999991,
+        "domain_rank": 89561,
+        "ads_equivalent": 15910.15185
+      },
+      {
+        "ref_domain": "pl.linkedin.com",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 24.981880314710324,
+        "backlinks_count": 2,
+        "links_external_count": 239077,
+        "percent_of_total": 0.01098901098901099,
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.01098901098901099
+        },
+        "top3": 54799,
+        "top10": 232159,
+        "top50": 708663,
+        "visibility": 4057480.918002241,
+        "domain_rank": 99,
+        "ads_equivalent": 12791202.674399933
+      },
+      {
+        "ref_domain": "wspieramyfirmy.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": 1991.8,
+          "article_price_nofollow": 1581.25,
+          "link_price_dofollow": 1991.8,
+          "link_price_nofollow": null,
+          "price_do_follow": 1991.8,
+          "price_no_follow": 1581.25
+        },
+        "ratio_bl_ext": 0.09239130434782608,
+        "backlinks_count": 2,
+        "links_external_count": 736,
+        "percent_of_total": 0.01098901098901099,
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.01098901098901099
+        },
+        "top3": 2,
+        "top10": 16,
+        "top50": 720,
+        "visibility": 65.947,
+        "domain_rank": 559090,
+        "ads_equivalent": 106.15097000000002
+      },
+      {
+        "ref_domain": "niepoddawajsie.pl",
+        "available_whitepress_features": {
+          "article_price_dofollow": 5409.6,
+          "article_price_nofollow": null,
+          "link_price_dofollow": null,
+          "link_price_nofollow": null,
+          "price_do_follow": 5409.6,
+          "price_no_follow": null
+        },
+        "ratio_bl_ext": 1.7665173572228443,
+        "backlinks_count": 1,
+        "links_external_count": 1786,
+        "percent_of_total": 0.005494505494505495,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.005494505494505495
+        },
+        "top3": 271,
+        "top10": 1382,
+        "top50": 9570,
+        "visibility": 5783.601000000015,
+        "domain_rank": 37181,
+        "ads_equivalent": 41869.68737000002
+      }
+    ],
+    "total": 6,
+    "domain": "novalend.pl",
+    "endpoint": "get_backlinks_referring_domains"
+  }
+}

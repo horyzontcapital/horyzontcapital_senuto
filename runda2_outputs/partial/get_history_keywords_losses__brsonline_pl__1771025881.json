@@ -1,0 +1,271 @@
+{
+  "domain": "brsonline.pl",
+  "endpoint": "get_history_keywords_losses",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "keyword_id": 4510333,
+        "kid": "6171051708a66daf6f03c8443fa37d75",
+        "domain": "brsonline.pl",
+        "keyword": "wyłudzenie kredytu konsekwencje",
+        "words_count": 3,
+        "statistics": {
+          "position": {
+            "current": 15,
+            "previous": 12,
+            "diff": 3,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-26": {
+                "position": 12,
+                "has_serp": true
+              },
+              "2026-02-06": {
+                "position": 15,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "brsonline.pl/konsekwencje-prawne/",
+            "previous": "brsonline.pl/konsekwencje-prawne/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 10
+          },
+          "trends": {
+            "history": [
+              10,
+              10,
+              10,
+              10,
+              10,
+              10,
+              0,
+              10,
+              10,
+              0,
+              0,
+              10
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 29
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 16265995,
+        "kid": "487cf050e6dc400f2e520c3c3c5bcabc",
+        "domain": "brsonline.pl",
+        "keyword": "art 297 paragraf 1 kodeksu karnego",
+        "words_count": 6,
+        "statistics": {
+          "position": {
+            "current": 18,
+            "previous": 17,
+            "diff": 1,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-17": {
+                "position": 17,
+                "has_serp": true
+              },
+              "2026-02-06": {
+                "position": 18,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "brsonline.pl/konsekwencje-prawne/",
+            "previous": "brsonline.pl/konsekwencje-prawne/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 390
+          },
+          "trends": {
+            "history": [
+              390,
+              390,
+              390,
+              390,
+              480,
+              480,
+              390,
+              320,
+              320,
+              320,
+              390,
+              390
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 20
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      },
+      {
+        "keyword_id": 10194485,
+        "kid": "e0e2e3eaf5057df6ae17a98ae6f48f80",
+        "domain": "brsonline.pl",
+        "keyword": "knf rejestr pośredników kredytowych",
+        "words_count": 4,
+        "statistics": {
+          "position": {
+            "current": 20,
+            "previous": 17,
+            "diff": 3,
+            "changes": {
+              "wins": 1,
+              "losses": 3,
+              "no_changes": 2
+            },
+            "history": {
+              "2025-12-19": {
+                "position": 0,
+                "has_serp": true
+              },
+              "2025-12-26": {
+                "position": 17,
+                "has_serp": true
+              },
+              "2026-01-02": {
+                "position": 17,
+                "has_serp": true
+              },
+              "2026-01-09": {
+                "position": 19,
+                "has_serp": true
+              },
+              "2026-01-21": {
+                "position": 17,
+                "has_serp": true
+              },
+              "2026-01-31": {
+                "position": 17,
+                "has_serp": true
+              },
+              "2026-02-10": {
+                "position": 20,
+                "has_serp": true
+              }
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "url": {
+            "current": "brsonline.pl/knf/",
+            "previous": "brsonline.pl/knf/",
+            "is_change": 0
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 140
+          },
+          "trends": {
+            "history": [
+              170,
+              170,
+              210,
+              170,
+              110,
+              110,
+              70,
+              110,
+              110,
+              110,
+              110,
+              90
+            ],
+            "peak": null
+          },
+          "difficulty": {
+            "current": 29
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs"
+            ]
+          },
+          "intentions": {
+            "primary_intent": "know",
+            "main_intent": "informational",
+            "action_type": "research",
+            "journey_stage": "tofu",
+            "content_timeliness": "evergreen"
+          }
+        }
+      }
+    ],
+    "total": 3,
+    "domain": "brsonline.pl",
+    "endpoint": "get_history_keywords_losses"
+  }
+}

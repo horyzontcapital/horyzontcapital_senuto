@@ -1,0 +1,174 @@
+{
+  "domain": "krk-partners.pl",
+  "endpoint": "get_backlinks_referring_domains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "ref_domain": "ukredytowani.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 1.8288185222739935e-05,
+        "backlinks_count": 8,
+        "links_external_count": 984242,
+        "percent_of_total": 0.47058823529411764,
+        "count": {
+          "count": 8,
+          "percent_of_total": 0.47058823529411764
+        },
+        "top3": 23,
+        "top10": 159,
+        "top50": 848,
+        "visibility": 1752.5549999999994,
+        "domain_rank": 89402,
+        "ads_equivalent": 9637.012390000007
+      },
+      {
+        "ref_domain": "e-computer.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.014953271028037384,
+        "backlinks_count": 2,
+        "links_external_count": 535,
+        "percent_of_total": 0.11764705882352941,
+        "count": {
+          "count": 2,
+          "percent_of_total": 0.11764705882352941
+        },
+        "top3": 0,
+        "top10": 28,
+        "top50": 164,
+        "visibility": 28.150000000000006,
+        "domain_rank": 783396,
+        "ads_equivalent": 16.287309999999998
+      },
+      {
+        "ref_domain": "fines.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.10692375109553023,
+        "backlinks_count": 1,
+        "links_external_count": 2282,
+        "percent_of_total": 0.058823529411764705,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.058823529411764705
+        },
+        "top3": 306,
+        "top10": 1499,
+        "top50": 5201,
+        "visibility": 53748.822000000044,
+        "domain_rank": 5686,
+        "ads_equivalent": 582333.9852800004
+      },
+      {
+        "ref_domain": "bazafirm.org",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.0006562986071155895,
+        "backlinks_count": 1,
+        "links_external_count": 457109,
+        "percent_of_total": 0.058823529411764705,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.058823529411764705
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "forum.banzaj.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.04086021505376344,
+        "backlinks_count": 1,
+        "links_external_count": 1395,
+        "percent_of_total": 0.058823529411764705,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.058823529411764705
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "mikrowitryna.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0.9503282900371111,
+        "backlinks_count": 1,
+        "links_external_count": 10509,
+        "percent_of_total": 0.058823529411764705,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.058823529411764705
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 88,
+        "visibility": 0,
+        "domain_rank": 5730807,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "prawnik-online.eu",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 22.269721264487185,
+        "backlinks_count": 1,
+        "links_external_count": 24073,
+        "percent_of_total": 0.058823529411764705,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.058823529411764705
+        },
+        "top3": 1,
+        "top10": 1,
+        "top50": 26,
+        "visibility": 14.24,
+        "domain_rank": 989598,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "24-odszkodowania.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 1,
+        "links_external_count": 0,
+        "percent_of_total": 0.058823529411764705,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.058823529411764705
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 0,
+        "visibility": 0,
+        "domain_rank": 0,
+        "ads_equivalent": 0
+      },
+      {
+        "ref_domain": "krkpartners.mikrowitryna.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 0,
+        "backlinks_count": 1,
+        "links_external_count": 0,
+        "percent_of_total": 0.058823529411764705,
+        "count": {
+          "count": 1,
+          "percent_of_total": 0.058823529411764705
+        },
+        "top3": 0,
+        "top10": 0,
+        "top50": 1,
+        "visibility": 0,
+        "domain_rank": 2415091,
+        "ads_equivalent": 0
+      }
+    ],
+    "total": 9,
+    "domain": "krk-partners.pl",
+    "endpoint": "get_backlinks_referring_domains"
+  }
+}

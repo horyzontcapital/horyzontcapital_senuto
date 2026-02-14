@@ -1,0 +1,30 @@
+{
+  "domain": "ibipolska.pl",
+  "endpoint": "get_backlinks_referring_domains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "ref_domain": "ue.poznan.pl",
+        "available_whitepress_features": null,
+        "ratio_bl_ext": 1.5185568009302626,
+        "backlinks_count": 1,
+        "links_external_count": 30959,
+        "percent_of_total": 1,
+        "count": {
+          "count": 1,
+          "percent_of_total": 1
+        },
+        "top3": 887,
+        "top10": 2161,
+        "top50": 16299,
+        "visibility": 53096.26500000006,
+        "domain_rank": 5768,
+        "ads_equivalent": 175717.08195000005
+      }
+    ],
+    "total": 1,
+    "domain": "ibipolska.pl",
+    "endpoint": "get_backlinks_referring_domains"
+  }
+}

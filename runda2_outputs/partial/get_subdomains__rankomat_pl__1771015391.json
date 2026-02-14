@@ -1,0 +1,138 @@
+{
+  "domain": "rankomat.pl",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "rankomat.pl",
+        "keywords_count": 89528,
+        "visibility_percent": 100,
+        "statistics": {
+          "visibility": {
+            "current": 1622000.91,
+            "previous": 1569579.97,
+            "diff": 52420.94,
+            "percent": 0.0334,
+            "history": null
+          },
+          "top3": {
+            "current": 30560,
+            "previous": 30636,
+            "diff": -76,
+            "percent": -0.0025,
+            "history": null
+          },
+          "top10": {
+            "current": 89528,
+            "previous": 90060,
+            "diff": -532,
+            "percent": -0.0059,
+            "history": null
+          },
+          "top50": {
+            "current": 222571,
+            "previous": 222125,
+            "diff": 446,
+            "percent": 0.002,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 100,
+            "previous": 100,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "partner.rankomat.pl",
+        "keywords_count": 9,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 30.5,
+            "previous": 30.5,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 5,
+            "previous": 5,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 9,
+            "previous": 9,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 35,
+            "previous": 36,
+            "diff": -1,
+            "percent": -0.0278,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "finanse.rankomat.pl",
+        "keywords_count": 2,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 0.99,
+            "previous": 0.99,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 2,
+            "previous": 2,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 4,
+            "previous": 5,
+            "diff": -1,
+            "percent": -0.2,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 3,
+    "domain": "rankomat.pl",
+    "endpoint": "get_subdomains"
+  }
+}
