@@ -1,0 +1,639 @@
+{
+  "domain": "bancovo.pl",
+  "endpoint": "get_cannibalization_keywords",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "keyword": "co to znaczy saldo na koncie",
+        "keyword_id": 1395044,
+        "kid": "1df0a754831ac5c81a3a3669179759a0",
+        "domain": "bancovo.pl",
+        "words_count": 6,
+        "brand": "",
+        "statistics": {
+          "position": {
+            "current": 15,
+            "previous": 19,
+            "diff": -4,
+            "changes": {
+              "wins": 2,
+              "losses": 2,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-21": 17,
+              "2025-12-28": 17,
+              "2026-01-05": 20,
+              "2026-01-12": 18,
+              "2026-01-22": 19,
+              "2026-02-10": 15
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 50
+          },
+          "difficulty": {
+            "current": 34
+          },
+          "trends": {
+            "history": [
+              70,
+              50,
+              40,
+              50,
+              30,
+              50,
+              50,
+              70,
+              70,
+              70,
+              50,
+              50
+            ],
+            "peak": []
+          },
+          "url": {
+            "current": "bancovo.pl/baza-wiedzy/pozyczki/co-jest-saldo-konta-w-banku-dlaczego-warto-znac-jego-definicje/",
+            "previous": "bancovo.pl/baza-wiedzy/blog-finansowy/co-to-jest-saldo-ksiegowe-konta-osobistego/"
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          }
+        }
+      },
+      {
+        "keyword": "pozyczka super grosz",
+        "keyword_id": 5424506,
+        "kid": "75c0ba4e29a514e864cbf7decf808bb3",
+        "domain": "bancovo.pl",
+        "words_count": 3,
+        "brand": "pozyczka super grosz",
+        "statistics": {
+          "position": {
+            "current": 32,
+            "previous": 33,
+            "diff": -1,
+            "changes": {
+              "wins": 5,
+              "losses": 0,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-19": 0,
+              "2025-12-26": 0,
+              "2026-01-02": 49,
+              "2026-01-09": 40,
+              "2026-01-19": 34,
+              "2026-01-30": 33,
+              "2026-02-08": 32
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "cpc": {
+            "current": 5.68
+          },
+          "searches": {
+            "current": 90
+          },
+          "difficulty": {
+            "current": 50
+          },
+          "trends": {
+            "history": [
+              90,
+              70,
+              70,
+              40,
+              70,
+              50,
+              70,
+              90,
+              90,
+              90,
+              140,
+              90
+            ],
+            "peak": []
+          },
+          "url": {
+            "current": "bancovo.pl/klauzule-informacyjne/",
+            "previous": "bancovo.pl/partners/supergrosz/"
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask",
+              "spell"
+            ]
+          }
+        }
+      },
+      {
+        "keyword": "co to jest ryzyko kredytowe",
+        "keyword_id": 5502969,
+        "kid": "777d6596b14496e2ff3b9940dafab1fa",
+        "domain": "bancovo.pl",
+        "words_count": 5,
+        "brand": "",
+        "statistics": {
+          "position": {
+            "current": 38,
+            "previous": 33,
+            "diff": 5,
+            "changes": {
+              "wins": 1,
+              "losses": 2,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-23": 26,
+              "2026-01-06": 0,
+              "2026-01-22": 33,
+              "2026-02-11": 38
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 20
+          },
+          "difficulty": {
+            "current": 29
+          },
+          "trends": {
+            "history": [
+              20,
+              20,
+              20,
+              10,
+              20,
+              20,
+              10,
+              10,
+              10,
+              50,
+              30,
+              20
+            ],
+            "peak": []
+          },
+          "url": {
+            "current": "bancovo.pl/baza-wiedzy/kredyty/co-jest-ryzyko-kredytowe/",
+            "previous": "bancovo.pl/baza-wiedzy/porady-kredytowe/co-to-jest-ryzyko-kredytowe/"
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask",
+              "wiki_right"
+            ]
+          }
+        }
+      },
+      {
+        "keyword": "czy autoraport jest wiarygodny",
+        "keyword_id": 6936092,
+        "kid": "9767c639218955345dcbbfee8c6eca4f",
+        "domain": "bancovo.pl",
+        "words_count": 4,
+        "brand": "niewiarygodne",
+        "statistics": {
+          "position": {
+            "current": 24,
+            "previous": 26,
+            "diff": -2,
+            "changes": {
+              "wins": 2,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-20": 28,
+              "2026-01-03": 29,
+              "2026-01-20": 26,
+              "2026-02-08": 24
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "cpc": {
+            "current": 0.65
+          },
+          "searches": {
+            "current": 30
+          },
+          "difficulty": {
+            "current": 20
+          },
+          "trends": {
+            "history": [
+              50,
+              40,
+              50,
+              70,
+              20,
+              10,
+              20,
+              20,
+              20,
+              20,
+              40,
+              30
+            ],
+            "peak": []
+          },
+          "url": {
+            "current": "bancovo.pl/baza-wiedzy/blog-konsumencki/czy-na-prawo-jazdy-mozna-wziac-kredyt/",
+            "previous": "bancovo.pl/baza-wiedzy/kredyty/"
+          },
+          "snippets": {
+            "current": [
+              "ai_overview",
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          }
+        }
+      },
+      {
+        "keyword": "pożyczki pozabankowe ranking",
+        "keyword_id": 7063964,
+        "kid": "9a46f85a400e1f74d0ee874758935884",
+        "domain": "bancovo.pl",
+        "words_count": 3,
+        "brand": "",
+        "statistics": {
+          "position": {
+            "current": 44,
+            "previous": 32,
+            "diff": 12,
+            "changes": {
+              "wins": 1,
+              "losses": 1,
+              "no_changes": 1
+            },
+            "history": {
+              "2025-12-20": 0,
+              "2026-01-03": 0,
+              "2026-01-20": 32,
+              "2026-02-08": 44
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "cpc": {
+            "current": 12.32
+          },
+          "searches": {
+            "current": 40
+          },
+          "difficulty": {
+            "current": 59
+          },
+          "trends": {
+            "history": [
+              50,
+              30,
+              50,
+              50,
+              30,
+              30,
+              70,
+              40,
+              40,
+              40,
+              50,
+              50
+            ],
+            "peak": []
+          },
+          "url": {
+            "current": "bancovo.pl/baza-wiedzy/blog-finansowy/najlepsze-pozyczki-przez-internet-jak-wybrac/",
+            "previous": "bancovo.pl/"
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          }
+        }
+      },
+      {
+        "keyword": "co to jest saldo księgowe",
+        "keyword_id": 10401642,
+        "kid": "e5946b734f76d69d8c5366095330e0f6",
+        "domain": "bancovo.pl",
+        "words_count": 5,
+        "brand": "",
+        "statistics": {
+          "position": {
+            "current": 4,
+            "previous": 33,
+            "diff": -29,
+            "changes": {
+              "wins": 1,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-16": 5,
+              "2026-01-27": 33,
+              "2026-02-05": 4
+            }
+          },
+          "visibility": {
+            "current": 22.72,
+            "previous": 0,
+            "diff": 22.72,
+            "percent": 1,
+            "history": null
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 320
+          },
+          "difficulty": {
+            "current": 36
+          },
+          "trends": {
+            "history": [
+              390,
+              480,
+              480,
+              320,
+              210,
+              260,
+              320,
+              320,
+              320,
+              390,
+              390,
+              390
+            ],
+            "peak": []
+          },
+          "url": {
+            "current": "bancovo.pl/baza-wiedzy/blog-finansowy/co-to-jest-saldo-ksiegowe-konta-osobistego/",
+            "previous": "bancovo.pl/baza-wiedzy/blog-finansowy/co-to-jest-saldo-dostepne-konta-osobistego/"
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask",
+              "wiki_right"
+            ]
+          }
+        }
+      },
+      {
+        "keyword": "saldo",
+        "keyword_id": 10969045,
+        "kid": "f27fc78ffa140e97e0c535374a2a2213",
+        "domain": "bancovo.pl",
+        "words_count": 1,
+        "brand": "",
+        "statistics": {
+          "position": {
+            "current": 34,
+            "previous": 13,
+            "diff": 21,
+            "changes": {
+              "wins": 2,
+              "losses": 1,
+              "no_changes": 5
+            },
+            "history": {
+              "2025-12-19": 0,
+              "2025-12-23": 0,
+              "2025-12-27": 0,
+              "2026-01-15": 0,
+              "2026-01-19": 0,
+              "2026-01-25": 0,
+              "2026-01-31": 41,
+              "2026-02-04": 13,
+              "2026-02-08": 34
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "cpc": {
+            "current": 0.95
+          },
+          "searches": {
+            "current": 4400
+          },
+          "difficulty": {
+            "current": 65
+          },
+          "trends": {
+            "history": [
+              5400,
+              5400,
+              4400,
+              4400,
+              4400,
+              4400,
+              3600,
+              3600,
+              3600,
+              3600,
+              4400,
+              4400
+            ],
+            "peak": []
+          },
+          "url": {
+            "current": "bancovo.pl/baza-wiedzy/blog-finansowy/co-to-jest-saldo-poczatkowe-konta-osobistego/",
+            "previous": "bancovo.pl/baza-wiedzy/pozyczki/co-jest-saldo-konta-w-banku-dlaczego-warto-znac-jego-definicje/"
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask",
+              "wiki_right"
+            ]
+          }
+        }
+      },
+      {
+        "keyword": "saldo co oznacza",
+        "keyword_id": 12439094,
+        "kid": "2ff14cbb526f74587684d6fda3dee682",
+        "domain": "bancovo.pl",
+        "words_count": 3,
+        "brand": "",
+        "statistics": {
+          "position": {
+            "current": 28,
+            "previous": 17,
+            "diff": 11,
+            "changes": {
+              "wins": 2,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-20": 25,
+              "2026-01-03": 23,
+              "2026-01-21": 17,
+              "2026-02-10": 28
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "cpc": {
+            "current": 0
+          },
+          "searches": {
+            "current": 20
+          },
+          "difficulty": {
+            "current": 46
+          },
+          "trends": {
+            "history": [
+              40,
+              50,
+              10,
+              20,
+              10,
+              20,
+              10,
+              10,
+              10,
+              20,
+              20,
+              30
+            ],
+            "peak": []
+          },
+          "url": {
+            "current": "bancovo.pl/baza-wiedzy/blog-finansowy/co-to-jest-saldo-dostepne-konta-osobistego/",
+            "previous": "bancovo.pl/baza-wiedzy/blog-finansowy/co-to-jest-saldo-poczatkowe-konta-osobistego/"
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          }
+        }
+      },
+      {
+        "keyword": "smartney pożyczka konsolidacyjna",
+        "keyword_id": 17915646,
+        "kid": "d652d09f8acbb612fc7f902a5360e368",
+        "domain": "bancovo.pl",
+        "words_count": 3,
+        "brand": "smartney",
+        "statistics": {
+          "position": {
+            "current": 46,
+            "previous": 40,
+            "diff": 6,
+            "changes": {
+              "wins": 0,
+              "losses": 1,
+              "no_changes": 0
+            },
+            "history": {
+              "2026-01-17": 40,
+              "2026-02-05": 46
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "cpc": {
+            "current": 9.92
+          },
+          "searches": {
+            "current": 30
+          },
+          "difficulty": {
+            "current": 38
+          },
+          "trends": {
+            "history": [
+              20,
+              10,
+              30,
+              30,
+              40,
+              70,
+              40,
+              40,
+              20,
+              20,
+              30,
+              20
+            ],
+            "peak": []
+          },
+          "url": {
+            "current": "bancovo.pl/partners/smartney/",
+            "previous": "bancovo.pl/landing/kredyt-konsolidacyjny/"
+          },
+          "snippets": {
+            "current": [
+              "image_thumbs",
+              "people_also_ask"
+            ]
+          }
+        }
+      }
+    ],
+    "total": 9,
+    "domain": "bancovo.pl",
+    "endpoint": "get_cannibalization_keywords"
+  }
+}

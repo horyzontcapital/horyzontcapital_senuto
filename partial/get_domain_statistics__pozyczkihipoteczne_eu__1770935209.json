@@ -1,0 +1,74 @@
+{
+  "domain": "pozyczkihipoteczne.eu",
+  "endpoint": "get_domain_statistics",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "statistics": {
+          "top3": {
+            "recent_value": 27,
+            "older_value": 26,
+            "diff": 1,
+            "percent": 0.0385
+          },
+          "top10": {
+            "recent_value": 73,
+            "older_value": 74,
+            "diff": -1,
+            "percent": -0.0135
+          },
+          "top50": {
+            "recent_value": 239,
+            "older_value": 235,
+            "diff": 4,
+            "percent": 0.017
+          },
+          "visibility": {
+            "recent_value": 1250,
+            "older_value": 1217,
+            "diff": 33,
+            "percent": 0.0271
+          },
+          "domain_rank": {
+            "recent_value": 112736,
+            "older_value": 114867,
+            "diff": -2131,
+            "percent": -0.0186
+          },
+          "ads_equivalent": {
+            "recent_value": 11776.33,
+            "older_value": 11697.71,
+            "diff": 78.62,
+            "percent": 0.0067
+          },
+          "category": {
+            "name": "",
+            "statistics": {
+              "recent_value": 112736,
+              "older_value": 112736,
+              "diff": 0,
+              "percent": 0
+            }
+          },
+          "aio_keywords": {
+            "recent_value": 16,
+            "older_value": 16,
+            "diff": 0,
+            "percent": 0
+          },
+          "aio_visible_keywords": {
+            "recent_value": 80,
+            "older_value": 80,
+            "diff": 0,
+            "percent": 0
+          }
+        }
+      }
+    },
+    "status": 200,
+    "domain": "pozyczkihipoteczne.eu",
+    "endpoint": "get_domain_statistics"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "domain": "novalend.pl",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "novalend.pl",
+        "keywords_count": 88,
+        "visibility_percent": 100,
+        "statistics": {
+          "visibility": {
+            "current": 370.92,
+            "previous": 319.48,
+            "diff": 51.44,
+            "percent": 0.161,
+            "history": null
+          },
+          "top3": {
+            "current": 20,
+            "previous": 17,
+            "diff": 3,
+            "percent": 0.1765,
+            "history": null
+          },
+          "top10": {
+            "current": 88,
+            "previous": 80,
+            "diff": 8,
+            "percent": 0.1,
+            "history": null
+          },
+          "top50": {
+            "current": 267,
+            "previous": 253,
+            "diff": 14,
+            "percent": 0.0553,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 100,
+            "previous": 100,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "novalend.pl",
+    "endpoint": "get_subdomains"
+  }
+}

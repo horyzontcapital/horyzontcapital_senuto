@@ -1,0 +1,54 @@
+{
+  "domain": "kredytomat.pl",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "kredytomat.pl",
+        "keywords_count": 246,
+        "visibility_percent": 100,
+        "statistics": {
+          "visibility": {
+            "current": 2203.82,
+            "previous": 1703.49,
+            "diff": 500.33,
+            "percent": 0.2937,
+            "history": null
+          },
+          "top3": {
+            "current": 14,
+            "previous": 12,
+            "diff": 2,
+            "percent": 0.1667,
+            "history": null
+          },
+          "top10": {
+            "current": 246,
+            "previous": 231,
+            "diff": 15,
+            "percent": 0.0649,
+            "history": null
+          },
+          "top50": {
+            "current": 1333,
+            "previous": 1309,
+            "diff": 24,
+            "percent": 0.0183,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 100,
+            "previous": 100,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "kredytomat.pl",
+    "endpoint": "get_subdomains"
+  }
+}

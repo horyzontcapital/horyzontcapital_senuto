@@ -1,0 +1,74 @@
+{
+  "domain": "actius.pl",
+  "endpoint": "get_domain_statistics",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "statistics": {
+          "top3": {
+            "recent_value": 1,
+            "older_value": 1,
+            "diff": 0,
+            "percent": 0
+          },
+          "top10": {
+            "recent_value": 2,
+            "older_value": 2,
+            "diff": 0,
+            "percent": 0
+          },
+          "top50": {
+            "recent_value": 61,
+            "older_value": 63,
+            "diff": -2,
+            "percent": -0.0317
+          },
+          "visibility": {
+            "recent_value": 8,
+            "older_value": 8,
+            "diff": 0,
+            "percent": 0
+          },
+          "domain_rank": {
+            "recent_value": 1172666,
+            "older_value": 1173334,
+            "diff": -668,
+            "percent": -0.0006
+          },
+          "ads_equivalent": {
+            "recent_value": 2.92,
+            "older_value": 2.92,
+            "diff": 0,
+            "percent": 0
+          },
+          "category": {
+            "name": "",
+            "statistics": {
+              "recent_value": 1172681,
+              "older_value": 1172681,
+              "diff": 0,
+              "percent": 0
+            }
+          },
+          "aio_keywords": {
+            "recent_value": 13,
+            "older_value": 13,
+            "diff": 0,
+            "percent": 0
+          },
+          "aio_visible_keywords": {
+            "recent_value": 0,
+            "older_value": 0,
+            "diff": 0,
+            "percent": 0
+          }
+        }
+      }
+    },
+    "status": 200,
+    "domain": "actius.pl",
+    "endpoint": "get_domain_statistics"
+  }
+}

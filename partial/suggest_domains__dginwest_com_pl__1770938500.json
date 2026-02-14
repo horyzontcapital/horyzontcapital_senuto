@@ -1,0 +1,20 @@
+{
+  "domain": "dginwest.com.pl",
+  "endpoint": "suggest_domains",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "favourite": [],
+        "suggested": [
+          "dginwest.com.pl",
+          "dginwestolsztyn.pl"
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "dginwest.com.pl",
+    "endpoint": "suggest_domains"
+  }
+}

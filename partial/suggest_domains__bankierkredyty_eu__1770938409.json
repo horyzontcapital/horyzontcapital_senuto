@@ -1,0 +1,19 @@
+{
+  "domain": "bankierkredyty.eu",
+  "endpoint": "suggest_domains",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "favourite": [],
+        "suggested": [
+          "bankierkredyty.eu"
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "bankierkredyty.eu",
+    "endpoint": "suggest_domains"
+  }
+}

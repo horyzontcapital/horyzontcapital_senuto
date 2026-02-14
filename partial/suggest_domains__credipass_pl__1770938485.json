@@ -1,0 +1,19 @@
+{
+  "domain": "credipass.pl",
+  "endpoint": "suggest_domains",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "favourite": [],
+        "suggested": [
+          "credipass.pl"
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "credipass.pl",
+    "endpoint": "suggest_domains"
+  }
+}

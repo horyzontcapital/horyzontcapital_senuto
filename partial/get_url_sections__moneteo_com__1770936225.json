@@ -1,0 +1,397 @@
+{
+  "domain": "moneteo.com",
+  "endpoint": "get_url_sections",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "url_section": "moneteo.com/analizy/",
+        "keywords_count": 5033,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 67653.38,
+            "previous": 67310.62,
+            "diff": 342.76,
+            "percent": 0.0051,
+            "history": null
+          },
+          "top3": {
+            "current": 981,
+            "previous": 1073,
+            "diff": -92,
+            "percent": -0.0857,
+            "history": null
+          },
+          "top10": {
+            "current": 5033,
+            "previous": 5267,
+            "diff": -234,
+            "percent": -0.0444,
+            "history": null
+          },
+          "top50": {
+            "current": 11830,
+            "previous": 12102,
+            "diff": -272,
+            "percent": -0.0225,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "moneteo.com/rankingi/",
+        "keywords_count": 2448,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 40296.1,
+            "previous": 38129.79,
+            "diff": 2166.32,
+            "percent": 0.0568,
+            "history": null
+          },
+          "top3": {
+            "current": 879,
+            "previous": 842,
+            "diff": 37,
+            "percent": 0.0439,
+            "history": null
+          },
+          "top10": {
+            "current": 2448,
+            "previous": 2351,
+            "diff": 97,
+            "percent": 0.0413,
+            "history": null
+          },
+          "top50": {
+            "current": 7547,
+            "previous": 7492,
+            "diff": 55,
+            "percent": 0.0073,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "moneteo.com/instytucje/",
+        "keywords_count": 411,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 20069.4,
+            "previous": 13583.52,
+            "diff": 6485.89,
+            "percent": 0.4775,
+            "history": null
+          },
+          "top3": {
+            "current": 46,
+            "previous": 44,
+            "diff": 2,
+            "percent": 0.0455,
+            "history": null
+          },
+          "top10": {
+            "current": 411,
+            "previous": 376,
+            "diff": 35,
+            "percent": 0.0931,
+            "history": null
+          },
+          "top50": {
+            "current": 1924,
+            "previous": 1872,
+            "diff": 52,
+            "percent": 0.0278,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "moneteo.com/artykuly/",
+        "keywords_count": 3849,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 17890.37,
+            "previous": 14429.7,
+            "diff": 3460.66,
+            "percent": 0.2398,
+            "history": null
+          },
+          "top3": {
+            "current": 804,
+            "previous": 789,
+            "diff": 15,
+            "percent": 0.019,
+            "history": null
+          },
+          "top10": {
+            "current": 3849,
+            "previous": 3714,
+            "diff": 135,
+            "percent": 0.0363,
+            "history": null
+          },
+          "top50": {
+            "current": 17546,
+            "previous": 17558,
+            "diff": -12,
+            "percent": -0.0007,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "moneteo.com/narzedzia/",
+        "keywords_count": 837,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 14049.7,
+            "previous": 13070.03,
+            "diff": 979.67,
+            "percent": 0.075,
+            "history": null
+          },
+          "top3": {
+            "current": 164,
+            "previous": 168,
+            "diff": -4,
+            "percent": -0.0238,
+            "history": null
+          },
+          "top10": {
+            "current": 837,
+            "previous": 868,
+            "diff": -31,
+            "percent": -0.0357,
+            "history": null
+          },
+          "top50": {
+            "current": 2220,
+            "previous": 2160,
+            "diff": 60,
+            "percent": 0.0278,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "moneteo.com/bankonauci/",
+        "keywords_count": 410,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 6755.44,
+            "previous": 3291.56,
+            "diff": 3463.88,
+            "percent": 1.0524,
+            "history": null
+          },
+          "top3": {
+            "current": 39,
+            "previous": 42,
+            "diff": -3,
+            "percent": -0.0714,
+            "history": null
+          },
+          "top10": {
+            "current": 410,
+            "previous": 444,
+            "diff": -34,
+            "percent": -0.0766,
+            "history": null
+          },
+          "top50": {
+            "current": 3017,
+            "previous": 3155,
+            "diff": -138,
+            "percent": -0.0437,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "moneteo.com/tagi/",
+        "keywords_count": 309,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 4714.77,
+            "previous": 4385.78,
+            "diff": 329,
+            "percent": 0.075,
+            "history": null
+          },
+          "top3": {
+            "current": 6,
+            "previous": 8,
+            "diff": -2,
+            "percent": -0.25,
+            "history": null
+          },
+          "top10": {
+            "current": 309,
+            "previous": 315,
+            "diff": -6,
+            "percent": -0.019,
+            "history": null
+          },
+          "top50": {
+            "current": 512,
+            "previous": 496,
+            "diff": 16,
+            "percent": 0.0323,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "moneteo.com/",
+        "keywords_count": 8,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 1642.06,
+            "previous": 1636.93,
+            "diff": 5.14,
+            "percent": 0.0031,
+            "history": null
+          },
+          "top3": {
+            "current": 3,
+            "previous": 3,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 8,
+            "previous": 8,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 141,
+            "previous": 127,
+            "diff": 14,
+            "percent": 0.1102,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "moneteo.com/rodzaje-instytucji/",
+        "keywords_count": 109,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 544.95,
+            "previous": 544.59,
+            "diff": 0.36,
+            "percent": 0.0007,
+            "history": null
+          },
+          "top3": {
+            "current": 23,
+            "previous": 23,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 109,
+            "previous": 107,
+            "diff": 2,
+            "percent": 0.0187,
+            "history": null
+          },
+          "top50": {
+            "current": 183,
+            "previous": 183,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "moneteo.com/redakcja/",
+        "keywords_count": 0,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 17,
+            "previous": 6,
+            "diff": 11,
+            "percent": 1.8333,
+            "history": null
+          }
+        }
+      },
+      {
+        "url_section": "moneteo.com/konteksty/",
+        "keywords_count": 0,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 80,
+            "previous": 75,
+            "diff": 5,
+            "percent": 0.0667,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 11,
+    "domain": "moneteo.com",
+    "endpoint": "get_url_sections"
+  }
+}

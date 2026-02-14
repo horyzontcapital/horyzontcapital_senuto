@@ -1,0 +1,54 @@
+{
+  "domain": "moneteo.com",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "moneteo.com",
+        "keywords_count": 13719,
+        "visibility_percent": 100,
+        "statistics": {
+          "visibility": {
+            "current": 168500.86,
+            "previous": 161497.81,
+            "diff": 7003.05,
+            "percent": 0.0434,
+            "history": null
+          },
+          "top3": {
+            "current": 3046,
+            "previous": 2891,
+            "diff": 155,
+            "percent": 0.0536,
+            "history": null
+          },
+          "top10": {
+            "current": 13719,
+            "previous": 13145,
+            "diff": 574,
+            "percent": 0.0437,
+            "history": null
+          },
+          "top50": {
+            "current": 45340,
+            "previous": 44903,
+            "diff": 437,
+            "percent": 0.0097,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 100,
+            "previous": 100,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "moneteo.com",
+    "endpoint": "get_subdomains"
+  }
+}

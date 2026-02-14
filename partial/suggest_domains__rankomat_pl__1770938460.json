@@ -1,0 +1,21 @@
+{
+  "domain": "rankomat.pl",
+  "endpoint": "suggest_domains",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "favourite": [],
+        "suggested": [
+          "rankomat.pl",
+          "rankomat.elevato.net",
+          "rankomat-turystyka.pl"
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "rankomat.pl",
+    "endpoint": "suggest_domains"
+  }
+}

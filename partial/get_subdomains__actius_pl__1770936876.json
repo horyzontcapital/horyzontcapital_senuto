@@ -1,0 +1,54 @@
+{
+  "domain": "actius.pl",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "actius.pl",
+        "keywords_count": 3,
+        "visibility_percent": 99.95,
+        "statistics": {
+          "visibility": {
+            "current": 7.92,
+            "previous": 7.84,
+            "diff": 0.08,
+            "percent": 0.0102,
+            "history": null
+          },
+          "top3": {
+            "current": 1,
+            "previous": 1,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 3,
+            "previous": 2,
+            "diff": 1,
+            "percent": 0.5,
+            "history": null
+          },
+          "top50": {
+            "current": 69,
+            "previous": 64,
+            "diff": 5,
+            "percent": 0.0781,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 99.95,
+            "previous": 100,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "actius.pl",
+    "endpoint": "get_subdomains"
+  }
+}

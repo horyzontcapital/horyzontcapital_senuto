@@ -1,0 +1,79 @@
+{
+  "domain": "credithub.pl",
+  "endpoint": "get_cannibalization_keywords",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "keyword": "kredyt hipoteczny pod zastaw gospodarstwa rolnego",
+        "keyword_id": 4612757,
+        "kid": "63b7b021443c8b96fedd6cb415aad865",
+        "domain": "credithub.pl",
+        "words_count": 6,
+        "brand": "",
+        "statistics": {
+          "position": {
+            "current": 18,
+            "previous": 26,
+            "diff": -8,
+            "changes": {
+              "wins": 2,
+              "losses": 0,
+              "no_changes": 0
+            },
+            "history": {
+              "2025-12-30": 0,
+              "2026-01-19": 26,
+              "2026-02-08": 18
+            }
+          },
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "cpc": {
+            "current": 3.44
+          },
+          "searches": {
+            "current": 10
+          },
+          "difficulty": {
+            "current": 25
+          },
+          "trends": {
+            "history": [
+              10,
+              40,
+              20,
+              30,
+              10,
+              10,
+              10,
+              0,
+              10,
+              0,
+              10,
+              0
+            ],
+            "peak": []
+          },
+          "url": {
+            "current": "credithub.pl/dla-rolnikow/kredyt-obrotowy-dla-rolnika/",
+            "previous": "credithub.pl/dla-rolnikow/kredyt-plynnosciowy-dla-rolnika/"
+          },
+          "snippets": {
+            "current": [
+              "people_also_ask"
+            ]
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "credithub.pl",
+    "endpoint": "get_cannibalization_keywords"
+  }
+}

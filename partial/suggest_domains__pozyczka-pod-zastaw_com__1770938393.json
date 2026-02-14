@@ -1,0 +1,20 @@
+{
+  "domain": "pozyczka-pod-zastaw.com",
+  "endpoint": "suggest_domains",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "favourite": [],
+        "suggested": [
+          "pozyczka-pod-zastaw.pl",
+          "pozyczka-pod-zastaw-samochodu.pl"
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "pozyczka-pod-zastaw.com",
+    "endpoint": "suggest_domains"
+  }
+}

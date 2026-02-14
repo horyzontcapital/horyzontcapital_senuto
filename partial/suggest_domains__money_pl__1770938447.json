@@ -1,0 +1,23 @@
+{
+  "domain": "money.pl",
+  "endpoint": "suggest_domains",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "favourite": [],
+        "suggested": [
+          "money.pl",
+          "money2.wpcdn.pl",
+          "moneysavingexpert.com",
+          "money2money.com.pl",
+          "moneygram.com"
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "money.pl",
+    "endpoint": "suggest_domains"
+  }
+}
