@@ -1,0 +1,19 @@
+{
+  "domain": "bizlend.pl",
+  "endpoint": "suggest_domains",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "favourite": [],
+        "suggested": [
+          "bizlend.pl"
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "bizlend.pl",
+    "endpoint": "suggest_domains"
+  }
+}

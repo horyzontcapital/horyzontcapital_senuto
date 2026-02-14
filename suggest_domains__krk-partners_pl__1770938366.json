@@ -1,0 +1,19 @@
+{
+  "domain": "krk-partners.pl",
+  "endpoint": "suggest_domains",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "favourite": [],
+        "suggested": [
+          "krk-partners.pl"
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "krk-partners.pl",
+    "endpoint": "suggest_domains"
+  }
+}

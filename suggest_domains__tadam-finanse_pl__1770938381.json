@@ -1,0 +1,19 @@
+{
+  "domain": "tadam-finanse.pl",
+  "endpoint": "suggest_domains",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "favourite": [],
+        "suggested": [
+          "tadam-finanse.pl"
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "tadam-finanse.pl",
+    "endpoint": "suggest_domains"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "domain": "mldomfinansowy.pl",
+  "endpoint": "suggest_domains",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "favourite": [],
+        "suggested": [
+          "mldomfinansowy.pl"
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "mldomfinansowy.pl",
+    "endpoint": "suggest_domains"
+  }
+}

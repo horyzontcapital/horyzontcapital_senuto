@@ -1,0 +1,20 @@
+{
+  "domain": "smeo.pl",
+  "endpoint": "suggest_domains",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "favourite": [],
+        "suggested": [
+          "smeo.pl",
+          "smeo24.pl"
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "smeo.pl",
+    "endpoint": "suggest_domains"
+  }
+}

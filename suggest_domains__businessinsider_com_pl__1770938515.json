@@ -1,0 +1,22 @@
+{
+  "domain": "businessinsider.com.pl",
+  "endpoint": "suggest_domains",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "favourite": [],
+        "suggested": [
+          "businessinsider.com.pl",
+          "businessinsider.com",
+          "businessinsider.de",
+          "businessinsider.es"
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "businessinsider.com.pl",
+    "endpoint": "suggest_domains"
+  }
+}

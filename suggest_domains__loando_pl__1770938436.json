@@ -1,0 +1,20 @@
+{
+  "domain": "loando.pl",
+  "endpoint": "suggest_domains",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "favourite": [],
+        "suggested": [
+          "loando.pl",
+          "loandome.nl"
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "loando.pl",
+    "endpoint": "suggest_domains"
+  }
+}

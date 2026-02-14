@@ -1,0 +1,20 @@
+{
+  "domain": "mfinanse.pl",
+  "endpoint": "suggest_domains",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "favourite": [],
+        "suggested": [
+          "mfinanse.pl",
+          "mfinanse.kariera.pro"
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "mfinanse.pl",
+    "endpoint": "suggest_domains"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "domain": "pozyczkihipoteczne.eu",
+  "endpoint": "suggest_domains",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "favourite": [],
+        "suggested": [
+          "pozyczkihipoteczne.eu"
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "pozyczkihipoteczne.eu",
+    "endpoint": "suggest_domains"
+  }
+}

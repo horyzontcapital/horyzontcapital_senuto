@@ -1,0 +1,23 @@
+{
+  "domain": "bankier.pl",
+  "endpoint": "suggest_domains",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "favourite": [],
+        "suggested": [
+          "bankier.pl",
+          "bankier24.pl",
+          "bankierkredyty.eu",
+          "bankieren.rabobank.nl",
+          "bankiermogilno.pl"
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "bankier.pl",
+    "endpoint": "suggest_domains"
+  }
+}

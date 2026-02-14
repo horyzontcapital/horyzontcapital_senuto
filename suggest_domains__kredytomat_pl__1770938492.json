@@ -1,0 +1,19 @@
+{
+  "domain": "kredytomat.pl",
+  "endpoint": "suggest_domains",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "favourite": [],
+        "suggested": [
+          "kredytomat.pl"
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "kredytomat.pl",
+    "endpoint": "suggest_domains"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "domain": "strefabiznesu.pl",
+  "endpoint": "suggest_domains",
+  "data": {
+    "ok": true,
+    "data": {
+      "success": true,
+      "data": {
+        "favourite": [],
+        "suggested": [
+          "strefabiznesu.pl",
+          "strefabiznesu.gda.pl",
+          "strefabiznesu-zamosc.pl",
+          "strefabiznesu.wrzeszowie.info"
+        ]
+      }
+    },
+    "status": 200,
+    "domain": "strefabiznesu.pl",
+    "endpoint": "suggest_domains"
+  }
+}
