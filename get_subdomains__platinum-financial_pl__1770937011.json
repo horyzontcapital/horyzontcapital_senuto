@@ -1,0 +1,96 @@
+{
+  "domain": "platinum-financial.pl",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "pact.platinum-financial.pl",
+        "keywords_count": 6,
+        "visibility_percent": 54.93,
+        "statistics": {
+          "visibility": {
+            "current": 238.56,
+            "previous": 218.83,
+            "diff": 19.73,
+            "percent": 0.0902,
+            "history": null
+          },
+          "top3": {
+            "current": 2,
+            "previous": 2,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 6,
+            "previous": 4,
+            "diff": 2,
+            "percent": 0.5,
+            "history": null
+          },
+          "top50": {
+            "current": 14,
+            "previous": 12,
+            "diff": 2,
+            "percent": 0.1667,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 54.93,
+            "previous": 52.58,
+            "diff": 0.02,
+            "percent": 0.0447,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "platinum-financial.pl",
+        "keywords_count": 8,
+        "visibility_percent": 47.42,
+        "statistics": {
+          "visibility": {
+            "current": 197.36,
+            "previous": 195.74,
+            "diff": 1.62,
+            "percent": 0.0083,
+            "history": null
+          },
+          "top3": {
+            "current": 6,
+            "previous": 6,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 8,
+            "previous": 7,
+            "diff": 1,
+            "percent": 0.1429,
+            "history": null
+          },
+          "top50": {
+            "current": 22,
+            "previous": 18,
+            "diff": 4,
+            "percent": 0.2222,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 47.42,
+            "previous": 45.07,
+            "diff": 0.02,
+            "percent": 0.0521,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 2,
+    "domain": "platinum-financial.pl",
+    "endpoint": "get_subdomains"
+  }
+}

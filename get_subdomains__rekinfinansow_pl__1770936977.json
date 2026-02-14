@@ -1,0 +1,54 @@
+{
+  "domain": "rekinfinansow.pl",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "rekinfinansow.pl",
+        "keywords_count": 1346,
+        "visibility_percent": 100,
+        "statistics": {
+          "visibility": {
+            "current": 9801.58,
+            "previous": 8832.24,
+            "diff": 969.34,
+            "percent": 0.1098,
+            "history": null
+          },
+          "top3": {
+            "current": 286,
+            "previous": 290,
+            "diff": -4,
+            "percent": -0.0138,
+            "history": null
+          },
+          "top10": {
+            "current": 1346,
+            "previous": 1365,
+            "diff": -19,
+            "percent": -0.0139,
+            "history": null
+          },
+          "top50": {
+            "current": 6821,
+            "previous": 6945,
+            "diff": -124,
+            "percent": -0.0179,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 100,
+            "previous": 100,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "rekinfinansow.pl",
+    "endpoint": "get_subdomains"
+  }
+}

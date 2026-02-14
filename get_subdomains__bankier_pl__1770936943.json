@@ -1,0 +1,390 @@
+{
+  "domain": "bankier.pl",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "bankier.pl",
+        "keywords_count": 104746,
+        "visibility_percent": 99.66,
+        "statistics": {
+          "visibility": {
+            "current": 7629986.34,
+            "previous": 6717963.87,
+            "diff": 912022.47,
+            "percent": 0.1358,
+            "history": null
+          },
+          "top3": {
+            "current": 38933,
+            "previous": 38715,
+            "diff": 218,
+            "percent": 0.0056,
+            "history": null
+          },
+          "top10": {
+            "current": 104746,
+            "previous": 104165,
+            "diff": 581,
+            "percent": 0.0056,
+            "history": null
+          },
+          "top50": {
+            "current": 408716,
+            "previous": 410248,
+            "diff": -1532,
+            "percent": -0.0037,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 99.66,
+            "previous": 99.7,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "m.bankier.pl",
+        "keywords_count": 811,
+        "visibility_percent": 0.33,
+        "statistics": {
+          "visibility": {
+            "current": 25220.65,
+            "previous": 19516.28,
+            "diff": 5704.37,
+            "percent": 0.2923,
+            "history": null
+          },
+          "top3": {
+            "current": 272,
+            "previous": 205,
+            "diff": 67,
+            "percent": 0.3268,
+            "history": null
+          },
+          "top10": {
+            "current": 811,
+            "previous": 713,
+            "diff": 98,
+            "percent": 0.1374,
+            "history": null
+          },
+          "top50": {
+            "current": 2191,
+            "previous": 2153,
+            "diff": 38,
+            "percent": 0.0176,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 0.33,
+            "previous": 0.29,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "media.bankier.pl",
+        "keywords_count": 133,
+        "visibility_percent": 0.01,
+        "statistics": {
+          "visibility": {
+            "current": 541.55,
+            "previous": 501.52,
+            "diff": 40.03,
+            "percent": 0.0798,
+            "history": null
+          },
+          "top3": {
+            "current": 36,
+            "previous": 36,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 133,
+            "previous": 134,
+            "diff": -1,
+            "percent": -0.0075,
+            "history": null
+          },
+          "top50": {
+            "current": 373,
+            "previous": 373,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 0.01,
+            "previous": 0.01,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "story.bankier.pl",
+        "keywords_count": 50,
+        "visibility_percent": 0.01,
+        "statistics": {
+          "visibility": {
+            "current": 376.03,
+            "previous": 177.73,
+            "diff": 198.3,
+            "percent": 1.1157,
+            "history": null
+          },
+          "top3": {
+            "current": 9,
+            "previous": 7,
+            "diff": 2,
+            "percent": 0.2857,
+            "history": null
+          },
+          "top10": {
+            "current": 50,
+            "previous": 46,
+            "diff": 4,
+            "percent": 0.087,
+            "history": null
+          },
+          "top50": {
+            "current": 96,
+            "previous": 91,
+            "diff": 5,
+            "percent": 0.0549,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 0.01,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "oferta.bankier.pl",
+        "keywords_count": 13,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 38.75,
+            "previous": 28.46,
+            "diff": 10.29,
+            "percent": 0.3616,
+            "history": null
+          },
+          "top3": {
+            "current": 2,
+            "previous": 2,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 13,
+            "previous": 12,
+            "diff": 1,
+            "percent": 0.0833,
+            "history": null
+          },
+          "top50": {
+            "current": 18,
+            "previous": 19,
+            "diff": -1,
+            "percent": -0.0526,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "sklep.bankier.pl",
+        "keywords_count": 5,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 8.24,
+            "previous": 6.34,
+            "diff": 1.9,
+            "percent": 0.2997,
+            "history": null
+          },
+          "top3": {
+            "current": 1,
+            "previous": 1,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 5,
+            "previous": 4,
+            "diff": 1,
+            "percent": 0.25,
+            "history": null
+          },
+          "top50": {
+            "current": 18,
+            "previous": 19,
+            "diff": -1,
+            "percent": -0.0526,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "feskorzystamywszyscy.bankier.pl",
+        "keywords_count": 0,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 2,
+            "previous": 3,
+            "diff": -1,
+            "percent": -0.3333,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "spojnosc.bankier.pl",
+        "keywords_count": 0,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 3,
+            "previous": 3,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      },
+      {
+        "domain": "eco-files.bankier.pl",
+        "keywords_count": 0,
+        "visibility_percent": 0,
+        "statistics": {
+          "visibility": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 3,
+            "previous": 3,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 0,
+            "previous": 0,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 9,
+    "domain": "bankier.pl",
+    "endpoint": "get_subdomains"
+  }
+}

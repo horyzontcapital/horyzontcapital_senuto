@@ -1,0 +1,54 @@
+{
+  "domain": "bankujesz.pl",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "bankujesz.pl",
+        "keywords_count": 138,
+        "visibility_percent": 100,
+        "statistics": {
+          "visibility": {
+            "current": 867.91,
+            "previous": 777.63,
+            "diff": 90.29,
+            "percent": 0.1161,
+            "history": null
+          },
+          "top3": {
+            "current": 12,
+            "previous": 10,
+            "diff": 2,
+            "percent": 0.2,
+            "history": null
+          },
+          "top10": {
+            "current": 138,
+            "previous": 137,
+            "diff": 1,
+            "percent": 0.0073,
+            "history": null
+          },
+          "top50": {
+            "current": 4932,
+            "previous": 4827,
+            "diff": 105,
+            "percent": 0.0218,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 100,
+            "previous": 100,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "bankujesz.pl",
+    "endpoint": "get_subdomains"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "domain": "brsonline.pl",
+  "endpoint": "get_subdomains",
+  "data": {
+    "ok": true,
+    "data": [
+      {
+        "domain": "brsonline.pl",
+        "keywords_count": 14,
+        "visibility_percent": 100,
+        "statistics": {
+          "visibility": {
+            "current": 744.84,
+            "previous": 744.84,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top3": {
+            "current": 6,
+            "previous": 6,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top10": {
+            "current": 14,
+            "previous": 14,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          },
+          "top50": {
+            "current": 38,
+            "previous": 39,
+            "diff": -1,
+            "percent": -0.0256,
+            "history": null
+          },
+          "visibility_coverage": {
+            "current": 100,
+            "previous": 100,
+            "diff": 0,
+            "percent": 0,
+            "history": null
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "domain": "brsonline.pl",
+    "endpoint": "get_subdomains"
+  }
+}
